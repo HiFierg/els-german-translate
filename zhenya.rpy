@@ -3470,484 +3470,554 @@ translate german zhenya_route_91f4ad81:
 
     # "В конце концов, привыкнув к определённой модели поведения и взаимодействия с обитателями лагеря, перестраиваться мне было достаточно тяжело."
 # game/zhenya/zhenya.rpy:1058
-    "After all, I was used to a certain behaviour and communication pattern with the camp's inhabitants and it was hard to change my ways."
+    # "After all, I was used to a certain behaviour and communication pattern with the camp's inhabitants and it was hard to change my ways."
+    "Denn ich war ein bestimmtes Verhaltens- und Kommunikationsmuster der Lagerbewohner gewohnt und es viel mir schwer mich an was neues zu gewöhnen."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:903
 translate german zhenya_route_c9281090:
 
     # "А тут ещё эта вожатая не дала подготовиться!{w} Задушить бы её панамкой, как обычно!"
 # game/zhenya/zhenya.rpy:1059
-    "And this camp leader didn't let me get ready either!{w} I wish I'd strangled her with her panama as always!"
+    # "And this camp leader didn't let me get ready either!{w} I wish I'd strangled her with her panama as always!"
+    "Und diese Lagerleiterin ließ mich auch nicht fertig werden!{w} Ich wünschte, ich hätte sie, wie immer mit ihrem Panamahut erdrosselt!"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:904
 translate german zhenya_route_b83eb7ab:
 
     # "Женя не отвечала, но смотрела на меня с опаской."
 # game/zhenya/zhenya.rpy:1060
-    "Zhenya didn't answer, but kept looking at me cautiously."
+    # "Zhenya didn't answer, but kept looking at me cautiously."
+    "Zhenya antwortete nicht, schaute mich aber vorsichtig an."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:905
 translate german zhenya_route_8c8749a0:
 
     # pi "А я тут обходной пришёл подписать…"
 # game/zhenya/zhenya.rpy:1062
-    pi "I kind of came to get the checklist signed..."
+    # pi "I kind of came to get the checklist signed..."
+    pi "Irgendwie bin ich hier her gekommen, um den Laufzettel unterschreiben zu lassen…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:907
 translate german zhenya_route_195cbb9a:
 
     # mzp "Хорошо, давай."
 # game/zhenya/zhenya.rpy:1063
-    mzp "Okay, give it here."
+    # mzp "Okay, give it here."
+    mzp "Okay, gib her."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:908
 translate german zhenya_route_addf2dc6:
 
     # "Безэмоционально ответила она."
 # game/zhenya/zhenya.rpy:1064
-    "She answered unemotionally."
+    # "She answered unemotionally."
+    "Antwortete sie emotionslos."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:909
 translate german zhenya_route_3abc9bf6:
 
     # "Я начал рыться в карманах и тут понял…"
 # game/zhenya/zhenya.rpy:1065
-    "I started to fumble in my pockets and then realized..."
+    # "I started to fumble in my pockets and then realized..."
+    "Ich begann in meinen Hosentaschen herumzuwühlen und dann merkte ich…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:910
 translate german zhenya_route_d14407b5:
 
     # "Нет, точно со мной творится что-то не то!"
 # game/zhenya/zhenya.rpy:1066
-    "No, there's totally something wrong happening with me!"
+    # "No, there's totally something wrong happening with me!"
+    "Nein, mit mir stimmt irgendetwas ganz und gar nicht."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:911
 translate german zhenya_route_28462b26:
 
     # "За столько времени я бы уже должен был привыкнуть ко всему, а веду себя как первоклассник!{w} Точнее, как {i}первосменник{/i} – в терминах этого мира."
 # game/zhenya/zhenya.rpy:1067
-    "I should've gotten used to everything after all this time and I'm behaving like a first-grader!{w} More specifically - like a {i}first-sessioner{/i} in  the terms of this world."
+    # "I should've gotten used to everything after all this time and I'm behaving like a first-grader!{w} More specifically - like a {i}first-sessioner{/i} in  the terms of this world."
+    "In all der Zeit hätte ich mich an alles gewöhnen müssen und ich benehme mich wie ein Erstklässler!{w} Genauer wie ein {i}Erstklässler{/i} in der Zeit dieser Welt."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:912
 translate german zhenya_route_057d924f:
 
     # pi "Кажется, потерял…"
 # game/zhenya/zhenya.rpy:1068
-    pi "I think I lost it..."
+    # pi "I think I lost it..."
+    pi "Ich denke, den habe ich verloren…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:913
 translate german zhenya_route_86695cb0:
 
     # "Сказал я, для вида сделав расстроенное лицо."
 # game/zhenya/zhenya.rpy:1069
-    "I said, making an upset face."
+    # "I said, making an upset face."
+    "Sagte ich und machte ein dummes Gesicht."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:914
 translate german zhenya_route_a2dd85af:
 
     # mzp "Плохо."
 # game/zhenya/zhenya.rpy:1070
-    mzp "That's too bad."
+    # mzp "That's too bad."
+    mzp "Das ist schlecht."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:915
 translate german zhenya_route_acd3da05:
 
     # "Всё так же сухо и без интереса ответила она."
 # game/zhenya/zhenya.rpy:1071
-    "She replied in the same dry and uninterested voice."
+    # "She replied in the same dry and uninterested voice."
+    "Antwortete sie im selben trockenen und desinteressierten Tonfall."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:916
 translate german zhenya_route_369b2b04:
 
     # "Я застыл в некоей суперпозиции – если сейчас развернусь и уйду, то… то что?"
 # game/zhenya/zhenya.rpy:1072
-    "I froze in some kind of superposition - if I turn around and leave now, then... then what?"
+    # "I froze in some kind of superposition - if I turn around and leave now, then... then what?"
+    "Ich kam ins stocken – wenn ich mich jetzt umdrehe und gehe, dann… was dann?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:917
 translate german zhenya_route_404fa019:
 
     # "Но в тот момент непонятно откуда взялась решимость."
 # game/zhenya/zhenya.rpy:1073
-    "But at that moment determination came from who knows where."
+    # "But at that moment determination came from who knows where."
+    "Doch in diesem Moment kam die Entschlossenheit von wer weiß woher."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:918
 translate german zhenya_route_53cfe566:
 
     # pi "Можно тебе вопрос задать?"
 # game/zhenya/zhenya.rpy:1075
-    pi "Can I ask you a question?"
+    # pi "Can I ask you a question?"
+    pi "Darf ich dich was fragen?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:920
 translate german zhenya_route_e9ebecff:
 
     # mzp "Какой?"
 # game/zhenya/zhenya.rpy:1076
-    mzp "What question?"
+    # mzp "What question?"
+    mzp "Was denn?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:921
 translate german zhenya_route_c0ce709a:
 
     # "И ведь действительно – какой?"
 # game/zhenya/zhenya.rpy:1077
-    "And really, what?"
+    # "And really, what?"
+    "In der Tat, was eigentlich?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:922
 translate german zhenya_route_7fcb23e3:
 
     # "«Тебе не кажется, что в столовой последнее время недосаливают еду?», «Ночи нынче какие-то холодные, не находишь?», «А кстати, ты в курсе, что я пришелец из будущего?»…"
 # game/zhenya/zhenya.rpy:1078
-    "\"Don't you think they've been undersalting the food in the canteen lately?\", \"The nights have gotten pretty cold, right?\", \"Oh by the way, do you know that I'm an alien from the future?\"..."
+    # "\"Don't you think they've been undersalting the food in the canteen lately?\", \"The nights have gotten pretty cold, right?\", \"Oh by the way, do you know that I'm an alien from the future?\"..."
+    "\"Findest du auch, dass das Essen in der Kantine zu wenig gesalzen ist?\", \"Die Nächte sind recht kalt geworden oder?\", \"Ach übrigens wusstest du, dass ich ein Alien aus der Zukunft bin?\"…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:923
 translate german zhenya_route_283f6bd3:
 
     # pi "С тобой всё в порядке? В последнее время мне кажется, ты чем-то расстроена."
 # game/zhenya/zhenya.rpy:1080
-    pi "Are you alright? Lately it seems like you're upset with something."
+    # pi "Are you alright? Lately it seems like you're upset with something."
+    pi "Ist bei dir alles okay? In letzter Zeit hat es den Eindruck, als wärst du über irgendetwas traurig."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:925
 translate german zhenya_route_632a1baf:
 
     # "На лице Жени промелькнула заинтересованность."
 # game/zhenya/zhenya.rpy:1081
-    "Zhenya's face showed a glimpse of interest."
+    # "Zhenya's face showed a glimpse of interest."
+    "Ein Schatten von Interesse war auf ihrem Gesicht zu erkennen."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:926
 translate german zhenya_route_1a27f095:
 
     # mzp "Но мы с тобой н знакомы."
 # game/zhenya/zhenya.rpy:1082
-    mzp "But we don't know each other."
+    # mzp "But we don't know each other."
+    mzp "Aber wir kennen uns doch gar nicht."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:927
 translate german zhenya_route_eb7317c7:
 
     # pi "Да, конечно, просто… Я тебя вчера видел и подумал…"
 # game/zhenya/zhenya.rpy:1083
-    pi "Yeah, sure, it's just that... I saw you yesterday and thought..."
+    # pi "Yeah, sure, it's just that... I saw you yesterday and thought..."
+    pi "Ja, schon. Es ist nur… Ich hab dich gestern gesehen und dachte…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:928
 translate german zhenya_route_d9cd8027:
 
     # "Я завирался всё больше."
 # game/zhenya/zhenya.rpy:1084
-    "I was getting more and more entangled in lies."
+    # "I was getting more and more entangled in lies."
+    "Ich verstrickte mich immer mehr in Lügen."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:929
 translate german zhenya_route_e2013459:
 
     # "Неспособность сказать правду всё дальше вгоняла меня в аутизм и всё сильнее сокращала словарный запас."
 # game/zhenya/zhenya.rpy:1085
-    "The inability to tell the truth was driving me ever further into autism and reducing my vocabulary."
+    # "The inability to tell the truth was driving me ever further into autism and reducing my vocabulary."
+    "Die Unfähigkeit, die Wahrheit zu sagen, trieb mich immer weiter in den Autismus und verringerte meinen Wortschatz."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:930
 translate german zhenya_route_ccc2d340:
 
     # mzp "Я тоже видела, как ты вчера бегал по лагерю, но мы ведь не знакомы."
 # game/zhenya/zhenya.rpy:1086
-    mzp "I saw you running through the camp yesterday too, but we still don't know each other."
+    # mzp "I saw you running through the camp yesterday too, but we still don't know each other."
+    mzp "Ich habe dich auch gestern im Lager herumlaufen sehen, dennoch kennen wir uns nicht."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:931
 translate german zhenya_route_65f82f5f:
 
     # pi "Нет, не знакомы, но мне… Славя про тебя рассказывала, да! Вы же с ней соседки?"
 # game/zhenya/zhenya.rpy:1088
-    pi "No, we don't but I... was told about you by Slavya, yeah! You're roommates with her, right?"
+    # pi "No, we don't but I... was told about you by Slavya, yeah! You're roommates with her, right?"
+    pi "Nein, wir kennen uns nicht, aber… Slavya hat mir über dich erzählt, ja! Ihr wohnt in derselben Hütte richtig?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:933
 translate german zhenya_route_46665132:
 
     # mzp "И что она рассказывала?"
 # game/zhenya/zhenya.rpy:1089
-    mzp "And what did she tell you?"
+    # mzp "And what did she tell you?"
+    mzp "Und was hat sie dir erzählt?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:934
 translate german zhenya_route_07d63e82:
 
     # "Понемногу Женя начала выходить из своего созерцательного состояния."
 # game/zhenya/zhenya.rpy:1090
-    "Little by little Zhenya was starting to emerge from her contemplative condition."
+    # "Little by little Zhenya was starting to emerge from her contemplative condition."
+    "Mehr und mehr kam Zhenya aus ihrem kontemplativen heraus."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:935
 translate german zhenya_route_f3d36d37:
 
     # pi "Ничего."
 # game/zhenya/zhenya.rpy:1091
-    pi "Nothing."
+    # pi "Nothing."
+    pi "Nichts."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:936
 translate german zhenya_route_b3d08fc6:
 
     # "Я обреченно вздохнул и тяжело опустился на стул рядом с дверью."
 # game/zhenya/zhenya.rpy:1092
-    "I let out a helpless sigh and heavily sank into the chair near the door."
+    # "I let out a helpless sigh and heavily sank into the chair near the door."
+    "Ich seufzte resigniert und ließ mich schwerfällig auf den Stuhl neben der Tür sinken."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:937
 translate german zhenya_route_b26c8325:
 
     # "За окном мерно распевали свои песни разноголосые птицы, стрекотал сверчки, где-то лилась вода, а издалека доносился задорный детский смех."
 # game/zhenya/zhenya.rpy:1093
-    "Outside the window the many-voiced birds were singing their songs, the crickets were chattering, somewhere water was splashing, and from far away was the the perky sound of children laughing."
+    # "Outside the window the many-voiced birds were singing their songs, the crickets were chattering, somewhere water was splashing, and from far away was the the perky sound of children laughing."
+    "Draußen vor dem Fenster sagen viele Vögel ihre unterschiedlichen Lieder, die Grillen zirpten, irgendwo rauschte Wasser und von weiter entfernt, war munteres Kinderlachen zu hören."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:938
 translate german zhenya_route_7deb2005:
 
     # "Но это всё было там – за стенами библиотеки, внутри которой нас только двое, я и Женя – точнее, та девочка, которая выглядит как Женя."
 # game/zhenya/zhenya.rpy:1094
-    "But all of that was there – beyond the walls of the library. Inside of here are only the two of us, me and Zhenya - or to be more precise, a girl who looks like Zhenya."
+    # "But all of that was there – beyond the walls of the library. Inside of here are only the two of us, me and Zhenya - or to be more precise, a girl who looks like Zhenya."
+    "Doch all dies war dort – hinter den Mauern der Bücherei. Hier drinnen waren nur wir beide, ich und Zhenya – oder genauer gesagt, ein Mädchen, das wie Zhenya aussieht."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:939
 translate german zhenya_route_0fb35f2f:
 
     # "Стаха нет, скорее – удивление."
 # game/zhenya/zhenya.rpy:1095
-    "There was no fear, but rather wonder."
+    # "There was no fear, but rather wonder."
+    "Es gab keine Angst – eher Verwunderung."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:940
 translate german zhenya_route_79a8f2f4:
 
     # pi "Давай предположим, что я – это не я."
 # game/zhenya/zhenya.rpy:1096
-    pi "Let's assume that I'm not me."
+    # pi "Let's assume that I'm not me."
+    pi "Nehmen wir an, dass ich nicht ich bin."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:941
 translate german zhenya_route_eae3d435:
 
     # mzp "А кто же тогда ты?"
 # game/zhenya/zhenya.rpy:1097
-    mzp "Who are you then?"
+    # mzp "Who are you then?"
+    mzp "Wer bist du dann?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:942
 translate german zhenya_route_3797aeb4:
 
     # "Мне на секунду даже стало обидно, что она не знает, кто такой я."
 # game/zhenya/zhenya.rpy:1098
-    "For a second I even felt insulted that she doesn't know who I am."
+    # "For a second I even felt insulted that she doesn't know who I am."
+    "Für eine Sekunde fühle ich mich sogar beleidigt, dass sich nicht wusste, wer ich war."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:943
 translate german zhenya_route_7b7b5828:
 
     # "Ну как же, я! А, это от я, тот самый? Да-да, вот этот парень!"
 # game/zhenya/zhenya.rpy:1099
-    "Why, me! Oh, that me, that one? Yes, yes, that guy!"
+    # "Why, me! Oh, that me, that one? Yes, yes, that guy!"
+    "Wieso ich! Oh, das bin ich, jener? Ja ja, der da!"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:944
 translate german zhenya_route_6fa6e3c2:
 
     # "О моих подвигах слагали легенды пионеры многих миров!"
 # game/zhenya/zhenya.rpy:1100
-    "Pioneers of many worlds have told legends about me!"
+    # "Pioneers of many worlds have told legends about me!"
+    "Pioniere auf der ganzen Welt haben die Legenden über mich erzählt."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:945
 translate german zhenya_route_33615421:
 
     # "Но именно этой конкретной Жене в этом конкретном мире было, похоже, совершенно наплевать, кто я и что я здесь делаю, а наш разговор, который уже, кажется, начинал ее интересовать, вновь превратился в бесполезную болтовню."
 # game/zhenya/zhenya.rpy:1101
-    "But this specific Zhenya in this specific world seemed to not give a damn about who I am and what what am I doing here, and our conversation that seemed to have started to interest her has turned into useless chatter."
+    # "But this specific Zhenya in this specific world seemed to not give a damn about who I am and what what am I doing here, and our conversation that seemed to have started to interest her has turned into useless chatter."
+    "Doch dieser spezielle Zhenya in dieser speziellen Welt schien es egal zu sein, wer ich bin und was ich hier mache, und unser Gespräch, das sie anscheinend zu interessieren schien, verwandelte sich in nutzloses Geschwätz."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:946
 translate german zhenya_route_49aeaf7e:
 
     # pi "А на кого похож?"
 # game/zhenya/zhenya.rpy:1102
-    pi "Who do I look like?"
+    # pi "Who do I look like?"
+    pi "Wie sehe ich denn aus?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:947
 translate german zhenya_route_bebec5bf:
 
     # "Женя окинула меня беглым взглядом."
 # game/zhenya/zhenya.rpy:1104
-    "Zhenya swept her eyes over me."
+    # "Zhenya swept her eyes over me."
+    "Zhenya warf mir einen kurzen Blick zu."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:949
 translate german zhenya_route_1704c62e:
 
     # mzp "На пионера?"
 # game/zhenya/zhenya.rpy:1105
-    mzp "A pioneer?"
+    # mzp "A pioneer?"
+    mzp "Wie ein Pionier?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:950
 translate german zhenya_route_d6914ece:
 
     # pi "Ну да, на пионера, логично, отличная шутка!"
 # game/zhenya/zhenya.rpy:1106
-    pi "Yeah, sure, a pioneer, that's logical, nice joke!"
+    # pi "Yeah, sure, a pioneer, that's logical, nice joke!"
+    pi "Ja klar, ein Pionier, wie logisch, netter Witz!"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:951
 translate german zhenya_route_fea0eb84:
 
     # "Натужно ухмыльнулся я."
 # game/zhenya/zhenya.rpy:1107
-    "I grinned strenuously."
+    # "I grinned strenuously."
+    "Ich grinste bis über beide Ohren."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:952
 translate german zhenya_route_7f7b1369:
 
     # mzp "Я не шутила."
 # game/zhenya/zhenya.rpy:1108
-    mzp "I wasn't joking."
+    # mzp "I wasn't joking."
+    mzp "Das war kein Witz."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:953
 translate german zhenya_route_37114254:
 
     # pi "Просто я похож на себя, а вот ты – нет."
 # game/zhenya/zhenya.rpy:1109
-    pi "It's just that I look like myself and you don't."
+    # pi "It's just that I look like myself and you don't."
+    pi "Es ist nur, dass ich wie ich aussehe und du nicht."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:954
 translate german zhenya_route_261dc859:
 
     # mzp "Не похожа на тебя?"
 # game/zhenya/zhenya.rpy:1110
-    mzp "I don't look like myself?"
+    # mzp "I don't look like myself?"
+    mzp "Ich sehe nicht wie ich aus?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:955
 translate german zhenya_route_4a9dd7d0:
 
     # pi "На себя ты не похожа, господи!"
 # game/zhenya/zhenya.rpy:1111
-    pi "You don't look like yourself, god!"
+    # pi "You don't look like yourself, god!"
+    pi "Du siehst nicht, wie du selbst aus, Herrgott!"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:956
 translate german zhenya_route_9fc4efee:
 
     # "Началось финальное наступление."
 # game/zhenya/zhenya.rpy:1113
-    "The final assault has begun."
+    # "The final assault has begun."
+    "Die finale Attacke hat begonnen."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:958
 translate german zhenya_route_9ca493ef:
 
     # mzp "В каком смысле?"
 # game/zhenya/zhenya.rpy:1114
-    mzp "In what sense?"
+    # mzp "In what sense?"
+    mzp "Inwiefern?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:959
 translate german zhenya_route_62482817:
 
     # "Удивилась она."
 # game/zhenya/zhenya.rpy:1115
-    "She marveled."
+    # "She marveled."
+    "Sie war erstaunt."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:960
 translate german zhenya_route_dd75e4f3:
 
     # pi "В том смысле, что ты не Женя! Нет, то есть ты не местная библиотекарша!"
 # game/zhenya/zhenya.rpy:1116
-    pi "In the sense that you are not Zhenya! No, I mean you're not the local librarian!"
+    # pi "In the sense that you are not Zhenya! No, I mean you're not the local librarian!"
+    pi "Insofern, dass du nicht Zhenya bist! Nein, ich meine nicht die hiesige Bibliothekarin!"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:961
 translate german zhenya_route_332c7b34:
 
     # mzp "А кто я тогда?"
 # game/zhenya/zhenya.rpy:1117
-    mzp "Who am I then?"
+    # mzp "Who am I then?"
+    mzp "Wer bin ich dann?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:962
 translate german zhenya_route_b749f9b4:
 
     # "Она отвела взгляд, словно ища что-то на книжных полках."
 # game/zhenya/zhenya.rpy:1118
-    "She moved her eyes to the side, as if looking for something on the bookshelves."
+    # "She moved her eyes to the side, as if looking for something on the bookshelves."
+    "Sie drehte ihre Augen zur Seite, als wolle sie nach etwas in den Bücherregalen nachsehen."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:963
 translate german zhenya_route_6f01edd9:
 
     # pi "Не знаю, поэтому и спрашиваю."
 # game/zhenya/zhenya.rpy:1119
-    pi "I don't know, that's why I'm asking."
+    # pi "I don't know, that's why I'm asking."
+    pi "Ich weiß es nicht, deswegen frage ich."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:964
 translate german zhenya_route_d9435aaa:
 
     # mzp "Если это опять какая-то шутка…"
 # game/zhenya/zhenya.rpy:1120
-    mzp "If this is another joke..."
+    # mzp "If this is another joke..."
+    mzp "Wenn das noch so ein Witz ist…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:965
 translate german zhenya_route_916dd930:
 
     # pi "Шутка?"
 # game/zhenya/zhenya.rpy:1122
-    pi "Joke?"
+    # pi "Joke?"
+    pi "Witz?"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:967
 translate german zhenya_route_7dbdbf2d:
 
     # mzp "Ну ты же знаешь, все уже знают…"
 # game/zhenya/zhenya.rpy:1123
-    mzp "Well, you know, everyone knows already..."
+    # mzp "Well, you know, everyone knows already..."
+    mzp "Nun, du weißt schon das, worüber schon jeder Bescheid weiß…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:968
 translate german zhenya_route_340ec68e:
 
     # "Она смутилась и покраснела."
 # game/zhenya/zhenya.rpy:1124
-    "She got embarrassed and blushed."
+    # "She got embarrassed and blushed."
+    "Sie war verlegen und wurde rot."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:969
 translate german zhenya_route_27b31d2a:
 
     # pi "Нет, не знаю."
 # game/zhenya/zhenya.rpy:1125
-    pi "No I don't."
+    # pi "No I don't."
+    pi "Nein, keine Ahnung."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:970
 translate german zhenya_route_d191e01e:
 
     # mzp "С кнопкой на стуле… Я отошла за книгой, а пока искала, Аиса…"
 # game/zhenya/zhenya.rpy:1126
-    mzp "With the thumbtack on my chair... I left to get a book and while I was looking for it, Alisa..."
+    # mzp "With the thumbtack on my chair... I left to get a book and while I was looking for it, Alisa..."
+    mzp "Mit einer Reiszwecke auf dem Stuhl… Ich ging los, um ein Buch zu holen und während ich danach suchte, kam Alisa…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:971
 translate german zhenya_route_29245267:
 
     # "Женя уставилось в пол, а я заметил, что у неё на глаза навернулись слёзы."
 # game/zhenya/zhenya.rpy:1127
-    "Zhenya stared down to the floor, tears filling her eyes."
+    # "Zhenya stared down to the floor, tears filling her eyes."
+    "Zhenya starrte auf den Boden, ihre Augen füllten sich mit Tränen."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:972
 translate german zhenya_route_5dabba5b:
 
     # pi "Нет, я про такое не слышал."
 # game/zhenya/zhenya.rpy:1128
-    pi "No, I haven't heard about anything like that."
+    # pi "No, I haven't heard about anything like that."
+    pi "Nein, ich habe über nichts dergleichen gehört."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:973
 translate german zhenya_route_0eb20230:
 
     # "Хотя, если подумать, то что-то подобное было в прошлые разы – Алиса решила прикольнуться."
 # game/zhenya/zhenya.rpy:1129
-    "Though if you think about it, something like that was happening in the previous times – Alisa decided play a prank."
+    # "Though if you think about it, something like that was happening in the previous times – Alisa decided play a prank."
+    "Aber wenn man darüber nachdenkt, passierte so etwas schon früher – Alisa macht Streiche."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:974
 translate german zhenya_route_9375f9d2:
 
     # "Просто тогда я не обратил на это совершенно никакого внимания."
 # game/zhenya/zhenya.rpy:1130
-    "It's just that I payed absolutely no attention to it then."
+    # "It's just that I payed absolutely no attention to it then."
+    "Ich schenkte dem nur überhaupt keine Beachtung."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:975
 translate german zhenya_route_be40d38a:
 
     # "Да и Женя отреагировала, кажется, по-другому."
 # game/zhenya/zhenya.rpy:1131
-    "And Zhenya reacted differently too, I think."
+    # "And Zhenya reacted differently too, I think."
+    "Und ich glaube, Zhenya schien irgendwie anders zu reagieren."
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:976
 translate german zhenya_route_945283c8:
 
     # "Алиса…"
 # game/zhenya/zhenya.rpy:1135
-    "Alisa..."
+    # "Alisa..."
+    "Alisa…"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:978
 translate german zhenya_route_ce617998_9:
 
     # "…"
 # game/zhenya/zhenya.rpy:1150
-    "..."
+    # "..."
+    "…"
 
+### Arschloch Symion...
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:988
 translate german zhenya_route_3c8c8c92:
 
