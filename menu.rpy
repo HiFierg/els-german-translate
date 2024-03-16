@@ -320,7 +320,7 @@ translate german strings:
     #new "Go right"
     new "Nach rechts"
 
-### Awnser Olga
+### Answer Olga
     # game/scenario.rpy:17989
     old "Сказать, что ходил с Леной"
     #new "Tell her you went with Lena"
@@ -379,7 +379,7 @@ translate german strings:
     # game/scenario.rpy:19995
     old "Попытаться выхватить книгу у Алисы"
     #new "Try to snatch the book out of Alisa's hand"
-    new "Versuch Alisa das Buch aus der Hand zu reißen."
+    new "Versuch, Alisa das Buch aus der Hand zu reißen."
 
     # game/scenario.rpy:19995
     old "Проявить осторожность"
@@ -401,7 +401,7 @@ translate german strings:
     # game/scenario.rpy:20702
     old "Попытаться найти Славю"
     #new "Try to find Slavya"
-    new "Versuch Slavya zu finden."
+    new "Versuch, Slavya zu finden."
 
     # game/scenario.rpy:20702
     old "Пойти к Ульяне"
@@ -433,7 +433,7 @@ translate german strings:
     # game/scenario.rpy:25634
     old "Попытаться остановить словами"
     #new "Try to stop her verbally"
-    new "Versuch sie mit Worten aufzuhalten."
+    new "Versuch, sie mit Worten aufzuhalten."
 
 ### Ending Slavya (1)
     # game/scenario.rpy:26679

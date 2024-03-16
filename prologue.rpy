@@ -38,7 +38,7 @@ translate german prologue_8df02469:
 
     # "Останутся только туманные воспоминания о приоткрытых, словно приглашающих куда-то воротах, рядом с которыми в камне застыли два пионера."
     #"Only a glimpse of memory will remain, of gates – half-opened, as if inviting me somewhere – with two frozen stone pioneers standing close by."
-    "Es bleibt nur eine flüchtige Erinnerung an das Tor - halb geöffnet, als würde es mich irgendwohin einladen; daneben zwei zu Stein erstarrte Pinoiere."
+    "Es bleibt nur eine flüchtige Erinnerung an das Tor - halb geöffnet, als würde es mich irgendwohin einladen; daneben zwei zu Stein erstarrte Pioniere."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:22
 translate german prologue_deca17df:
@@ -80,7 +80,7 @@ translate german prologue_4d0aa097:
 
     # "Да и где я вообще нахожусь?"
     #"And where am I, anyway?"
-    "Ja und wo bin ich hier überhaupt?"
+    "Ja, und wo bin ich hier überhaupt?"
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:37
 translate german prologue_0683e19b:
@@ -136,7 +136,7 @@ translate german prologue_354cb9c5:
 
     # "Реально настолько, насколько реальны вещи в моей квартире; я бы мог открыть ворота, услышать скрип петель, смахнуть рукой осыпающуюся ржавчину, потянуть носом свежий прохладный воздух и поёжиться от холода."
     #"As real as things in my own flat: I could open the gates, hear the hinges creak, brush the crumbling rust away with my hand, inhale the fresh cool air and shiver from the cold."
-    "So echt wie die Dinge in meiner Wohnung; ich hätte das Tor öffnen können, das Quietschen der Scharniere hören, den abblätternden Rost wegwischen, die kühle Luft atmen und in der Kälte frösteln."
+    "So echt wie die Dinge in meiner Wohnung; ich hätte das Tor öffnen, das Quietschen der Scharniere hören, den abblätternden Rost wegwischen, die kühle Luft atmen können und in der Kälte frösteln."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:45
 translate german prologue_5fb243fe:
@@ -177,7 +177,7 @@ translate german prologue_14a2c666:
 
     # "Может быть, спросить у неё что-то?{w} У девочки."
     #"Maybe I should ask her something?{w} The girl."
-    "Vielleicht sollte ich es etwas fragen?{w} Das Mädchen."
+    "Vielleicht sollte ich sie etwas fragen?{w} Das Mädchen."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:54
 translate german prologue_5da0f47a:
@@ -193,7 +193,6 @@ translate german prologue_d7b38ee8:
     #"About the stars, for instance..."
     "Vielleicht etwas über die Sterne..."
     
-
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:56
 translate german prologue_82d77cb1:
 
@@ -296,7 +295,7 @@ translate german prologue_e85b8394:
 
     # "Но если нельзя умереть, нет смысла жить?"
     #"But if you cannot die, is there a point in living?"
-    "Aber wenn man nicht sterben kann, was macht es dann für einen Sinn zu leben?"
+    "Aber wenn man nicht sterben kann, was macht es dann für einen Sinn, zu leben?"
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:74
 translate german prologue_a0462877:
@@ -624,7 +623,7 @@ translate german prologue_4d249ee8:
 
     # "И именно сегодня мне нужно ехать на встречу институтских товарищей."
     #"And today is the day when I have to go to my university reunion."
-    "Und ausgerechnet heute musste ich mich mit meinen früheren Komilitonen treffen."
+    "Und ausgerechnet heute musste ich mich mit meinen früheren Kommilitonen treffen."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:203
 translate german prologue_3d7e70ae:
@@ -672,7 +671,7 @@ translate german prologue_a43f6da8:
     
     # "Автобус сегодня задерживался так сильно, что я уже был готов плюнуть на всё и потратить последнюю пару сотен на такси (совсем не ехать мне почему-то в голову не пришло)."
     #"The bus today was running so late that I was about to curse it all and spend my last few hundreds rubles for a taxi (the idea of just returning home didn't cross my mind for some reason)."
-    "Der Bus war heute so spät, dass ich schon breit war, auf alles zu scheißen und meine letzten Paar hundert Rubel für ein Taxi auszugeben (aus irgendeinem Grund kam es mir nicht in den Sinn, wieder nach Hause zu gehen)."
+    "Der Bus war heute so spät, dass ich schon bereit war, auf alles zu scheißen und meine letzten paar Hundert Rubel für ein Taxi auszugeben (aus irgendeinem Grund kam es mir nicht in den Sinn, wieder nach Hause zu gehen)."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:244
 translate german prologue_42c6ca3e:
@@ -693,7 +692,7 @@ translate german prologue_6b447492:
 
     # "Может быть, заняться бизнесом?{w} Но откуда я возьму деньги?"
     #"Maybe I could start my own business?{w} But where would I get the money from?"
-    "Ich könnte mich selbständig machen?{w} Aber womit sollte ich mein Geld verdienen?"
+    "Ich könnte mich selbstständig machen?{w} Aber womit sollte ich mein Geld verdienen?"
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:247
 translate german prologue_1263d7e9:
@@ -728,7 +727,7 @@ translate german prologue_b3ca007f:
 
     # "Наверное, потому что тогда всё было проще."
     #"I guess it's because back then, everything was much more simple."
-    "Vermutlich weil damals alles einfacher war."
+    "Vermutlich, weil damals alles einfacher war."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:259
 translate german prologue_74b11ddc:
@@ -742,7 +741,7 @@ translate german prologue_a0da84d1:
 
     # "Проснувшись с утра, я чётко знал, как пройдёт мой день, а выходных ждал с нетерпением – смогу отдохнуть, заняться любимыми делами: компьютер, футбол, встречи с друзьями."
     #"Waking up in the morning, I knew exactly how my day was going to pass, and I always eagerly looked forward to the weekend. Then I could get some rest and have time for the things I liked: computer, football, going out with friends."
-    "Wenn ich morgens aufwachte, wusste ich genau wie mein Tag verlaufen würde und ich konnte mich schon aufs Wochenende freuen. Dann konnte ich mich ausruhen und mich mit den Dingen beschäftigen, die mich interessierten: Computer, Fußball und mit Freunden abhängen."
+    "Wenn ich morgens aufwachte, wusste ich genau, wie mein Tag verlaufen würde und ich konnte mich schon aufs Wochenende freuen. Dann konnte ich mich ausruhen und mich mit den Dingen beschäftigen, die mich interessierten: Computer, Fußball und mit Freunden abhängen."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:261
 translate german prologue_7160de27:
@@ -848,7 +847,7 @@ translate german prologue_f260960e:
 
     # "Впрочем, какая разница – по этому маршруту ходит только 410-ый."
     #"Then again, it doesn’t matter: only the '410' runs this route."
-    "Was sollt's. Nur der 410er fuhr diese Strecke."
+    "Was soll's. Nur der 410er fährt diese Strecke."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:303
 translate german prologue_3cf36c8d:
@@ -911,7 +910,7 @@ translate german prologue_e0c41f97:
 
     # "Бывает, поступки человека легко предсказуемы, но, пытаясь заглянуть к нему в душу, видишь лишь непроглядную тьму."
     #"Sometimes someone's actions can easily be predicted, but if you try to look inside his soul you will only see impenetrable darkness."
-    "Manchmal sind die Handlungen eines Menschen leicht vorherzusagen, aber wenn man versucht in seine Seele zu sehen, entdeckt man nur undurchdringliche Dunkelheit."
+    "Manchmal sind die Handlungen eines Menschen leicht vorherzusagen, aber wenn man versucht, in seine Seele zu sehen, entdeckt man nur undurchdringliche Dunkelheit."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:314
 translate german prologue_a20cefa7_3:
