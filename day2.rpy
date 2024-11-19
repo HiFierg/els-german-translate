@@ -2914,7 +2914,7 @@ translate german day2_dinner_d22005bb:
 
     # th "Кажется, она ничего не заметила."
     #th "Looks like she didn't notice."
-    th "Sieht so aus als hätte sie es nicht bemerkt."
+    th "Sieht so aus, als hätte sie es nicht bemerkt."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:815
 translate german day2_dinner_c0146da9:
@@ -4911,7 +4911,7 @@ translate german day2_pre_cards_a83588c3:
 
     # th "Вдруг я поступил неправильно?"
     #th "What if I made the wrong decision?"
-    th "Was ist, wenn ich mich falsch endschieden habe?"
+    th "Was ist, wenn ich mich falsch entschieden habe?"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:1353
 translate german day2_pre_cards_c92ad65b:
@@ -7756,7 +7756,7 @@ translate german day2_dv_5739d22f:
 
     # th "Вот сейчас я вижу звезду, потому что она светила тогда, а для неё это {i}тогда{/i} – далёкое прошлое."
     #th "Right now I can see the star because it was shining back then, long in the past."
-    th "Also jetzt kann ich sehen wie der Stern damals leuchtete, und für den Stern ist {i}damals{/i} die ferne Vergangenheit."
+    th "Also jetzt kann ich sehen, wie der Stern damals leuchtete, und für den Stern ist {i}damals{/i} die ferne Vergangenheit."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:2329
 translate german day2_dv_799ecc91:
