@@ -1,0 +1,6 @@
+English:                   German:
+Main Menu                   Hauptmenü
+Save Game                   Spiel Speichern
+Load Game                   Spiel Laden
+Settings                    Einstellungen
+Exit                        Beenden
