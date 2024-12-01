@@ -384,7 +384,7 @@ translate german strings:
     # game/scenario.rpy:19995
     old "Проявить осторожность"
     #new "Stay on guard"
-    new "Sei vorsichtig."
+    new "Bleib wachsam."
 
 ### at the hayk
     # game/scenario.rpy:20624
@@ -461,12 +461,12 @@ translate german strings:
     # game/scenario.rpy:29506
     old "Пойти за голосом"
     #new "Follow the voice"
-    new "Folg der Stimme."
+    new "Folge der Stimme."
 
     # game/scenario.rpy:29506
     old "Не ходить за голосом"
     #new "Do not follow the voice"
-    new "Folg der Stimme nicht."
+    new "Folge der Stimme nicht."
 
 ### Ending Ulyana (2)
     # game/scenario.rpy:30898
