@@ -5,9 +5,9 @@ The doors of the most wonderful place in the world - our favorite Camp Sovionok 
 Welcome!
 
 Neues Spiel:
-Geehrter Pionier!
-Du stehst kurz vor einer wundersamen Entdeckung.
-Die Tore des weltbesten Orts der Welt - unser Lieblingslager Sovjonok - haben sich vor dir geöffnet! Du wirst dich für den Rest deines Lebens an die Abenteuer erinnern.
+Ehrenwerter Pionier!
+Dir stehen wundersame Entdeckungen bevor.
+Die Tore zum wundervollsten Ort dieser Welt - unserem Lieblingslager Sovjonok - haben sich vor dir geöffnet! Dein Aufenthalt dort wird unvergesslich bleiben.
 Sei willkommen!
 
 -------------------------------------------------------------------------
@@ -19,8 +19,8 @@ Using the savings you will always be able to come back to the already completed 
 Good luck with all your undertakings!
 
 Gespeicherte Spiele:
-Gehe sorgfältig mit der Geschichte unseres Lagers um. Schreibe dir all deine Gedanken und Befürchtungen der vergangenen Tage sorgfältig auf.
-So kannst du immer wieder auf die bereits abgeschlossenen Episoden zurückgreifen und sie neu interpretieren.
+Gehe sorgfältig mit der Geschichte unseres Lagers um. Schreibe all deine Beobachtungen und Gedanken dieser Tage sorgfältig auf.
+So kannst du immer wieder auf die bereits abgeschlossenen Episoden zurückkommen und sie neu interpretieren.
 Viel Glück bei all deinen Unternehmungen!
 
 
@@ -31,6 +31,6 @@ Gallery:
 And this is our photography club. Your comrades are always ready to capture the most important moments of the camp's life, and you can even see yourself on many of the photographs.
 Keep yourself tidy and be a role model for those around you.
 
-Gallerie:
-Und dies hier ist unser Fotoklub. Deine Kameraden sind stets bereit, die besten Momente des Lagerlebens einzufangen und du kannst sie dir immer wieder auf vielen Bildern ansehen.
-Bleib sauber und sei ein Vorbild für deine Mitmenschen.
+Galerie:
+Und dies ist unser Fotoklub. Deine Kameraden sind stets bereit, die besten Momente des Lagerlebens einzufangen, und du kannst sie dir immer wieder auf vielen Bildern ansehen.
+Halte Ordnung und sei ein Vorbild für deine Mitmenschen.

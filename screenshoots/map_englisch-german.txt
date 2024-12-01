@@ -1,4 +1,4 @@
-Egnlish:                                    German:
+English:                                    German:
 Forest                                      Wald
 Scene                                       Bühne
 Music Club                                  Musik Klub
@@ -7,17 +7,22 @@ Infirmary                                   Krankenstation
 Admin Building                              Verwaltungsgebäude
 Bus Stop                                    Bushaltestelle
 Clubhouse                                   Klubhaus
-Shower / Boilerroom                         Dusche / Heitzungsraum
+Shower / Boilerroom                         Dusche / Heizungsraum
 Square                                      Großer Platz
-Kitchen / Dining-Hall                       Küche / Kantine
+Kitchen / Dining Hall                       Küche / Kantine
 Ware House                                  Lagerhaus
-Volley Bushaltestelle                       Volleyball
+Volleyball                                  Volleyball
 Badminton                                   Badminton
-Gymnasium / Locker Room / Shower            Gymnasium / Umkleideraum / Dusche
-Football                                    Fußball
+Gymnasium / Locker Room / Shower            Turnhalle / Umkleideraum / Dusche
+Football                                    Fußballplatz
 Beach                                       Strand
 Booth                                       Stand
-Boathouse                                   Bootashaus
-Old Building                                Altes Haus
-Closest one Island                          Nächste Insel
+Boathouse                                   Bootshaus
+Old Building                                Altes Gebäude
+Closest One Island                          Nächste Insel
 Long Island                                 Lange Insel
+
+--> Zu ergänzen:
+Buoys                                       Bojen
+Gates                                       Haupteingang
+WC                                          WC
