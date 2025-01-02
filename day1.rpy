@@ -29,9 +29,9 @@ translate german day1_ccc28a84:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:18
 translate german day1_aee379b4:
 
-    # "Но двери не было…"
-    #"But there was no door…"
-    "Aber da war keine Türe…"
+    # "Но двери не было..."
+    #"But there was no door..."
+    "Aber da war keine Türe..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:19
 translate german day1_d42615e7:
@@ -113,16 +113,16 @@ translate german day1_05f4c741:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:37
 translate german day1_7fd7201a:
 
-    # "Везде, куда ни глянь, бушевала зелень: высокая трава на обочине дороги, деревья, цветы…"
+    # "Везде, куда ни глянь, бушевала зелень: высокая трава на обочине дороги, деревья, цветы..."
     #"Greenery wherever I looked: tall grass on the roadside, trees, flowers..."
-    "Grün, so weit das Auge reichte: Hohes Gras am Straßenrand, Bäume, Blumen…"
+    "Grün, so weit das Auge reichte: Hohes Gras am Straßenrand, Bäume, Blumen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:38
 translate german day1_0c35f127:
 
-    # th "Лето!{w} Но как же так?!{w} Только что была зима…"
+    # th "Лето!{w} Но как же так?!{w} Только что была зима..."
     #th "Summer!{w} But how?!{w} It was winter just a moment ago..."
-    th "Sommer!{w} Aber wie?!{w} Eben war doch noch Winter…"
+    th "Sommer!{w} Aber wie?!{w} Eben war doch noch Winter..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:39
 translate german day1_ae3344e7:
@@ -155,9 +155,9 @@ translate german day1_786f868f:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:56
 translate german day1_2f605107:
 
-    # "А потом…{w} провал..."
-    #"And then…{w} A gap..."
-    "Und dann…{w} Filmriss…"
+    # "А потом...{w} провал..."
+    #"And then...{w} A gap..."
+    "Und dann...{w} Filmriss..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:57
 translate german day1_5fabbbed:
@@ -488,9 +488,9 @@ translate german day1_95a9a169:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:125
 translate german day1_3ba35159:
 
-    # me "«Совёнок»…"
-    #me "'Sovyonok'…"
-    me "'Sovyonok'…"
+    # me "«Совёнок»..."
+    #me "'Sovyonok'..."
+    me "'Sovyonok'..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:126
 translate german day1_33b4e80e:
@@ -523,9 +523,9 @@ translate german day1_b987229b:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:130
 translate german day1_33930872:
 
-    # "В голове за долю секунды проносились тысячи теорий: от похищения инопланетянами до летаргического сна, от галлюцинаций до сдвига пространства и времени…"
+    # "В голове за долю секунды проносились тысячи теорий: от похищения инопланетянами до летаргического сна, от галлюцинаций до сдвига пространства и времени..."
     #"Thousands of theories went through my mind instantly: from alien abduction to lethargic sleep, from a hallucination to a time and space shift..."
-    "Tausende von Theorien schossen mir durch den Kopf: Von Entführung durch Außerirdische über lethargischen Schlaf oder Halluzination bis hin zu einer Zeit- und Raumverschiebung…"
+    "Tausende von Theorien schossen mir durch den Kopf: Von Entführung durch Außerirdische über lethargischen Schlaf oder Halluzination bis hin zu einer Zeit- und Raumverschiebung..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:131
 translate german day1_d28308d8:
@@ -843,9 +843,9 @@ translate german day1_76dc3c1c:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:208
 translate german day1_c454f340:
 
-    # th "Впрочем, пионерская форма в XXI веке…"
+    # th "Впрочем, пионерская форма в XXI веке..."
     #th "Then again, a pioneer uniform in the 21st century..."
-    th "Andererseits, eine Pionieruniform im 21. Jahrhundert…"
+    th "Andererseits, eine Pionieruniform im 21. Jahrhundert..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:209
 translate german day1_55a53f71:
@@ -969,7 +969,7 @@ translate german day1_06176d1f:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:232
 translate german day1_13317d7b:
 
-    # me "Ну… да…"
+    # me "Ну... да..."
     #me "Uhm... yeah..."
     me "Ähm... ja..."
 
@@ -997,7 +997,7 @@ translate german day1_c0a65fae:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:240
 translate german day1_13317d7b_1:
 
-    # me "Ну… да…"
+    # me "Ну... да..."
     #me "Uhm... yeah..."
     me "Ähm... ja..."
 
@@ -1095,7 +1095,7 @@ translate german day1_9d000438:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:257
 translate german day1_1ab1c37a:
 
-    # me "А ты, наверное, знаешь…"
+    # me "А ты, наверное, знаешь..."
     #me "Would you happen to know...?"
     me "Weißt du zufällig...?"
 
@@ -1130,8 +1130,8 @@ translate german day1_54f0a60f:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:265
 translate german day1_17993887:
 
-    # me "Я… эээ…"
-    #me "I… erm…"
+    # me "Я... эээ..."
+    #me "I... erm..."
     me "Ich... ähm..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:266
@@ -1179,8 +1179,8 @@ translate german day1_07ef85cb:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:274
 translate german day1_2d3f952e:
 
-    # th "Вожатая, пионерская форма…"
-    #th "Camp leader, pioneer uniform…"
+    # th "Вожатая, пионерская форма..."
+    #th "Camp leader, pioneer uniform..."
     th "Lagerleiterin, Pionieruniform..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:275
@@ -1200,9 +1200,9 @@ translate german day1_bce4a681:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:277
 translate german day1_1b36af68:
 
-    # th "Хотя сейчас меня и это не удивит…"
+    # th "Хотя сейчас меня и это не удивит..."
     #th "But even that would not surprise me right now..."
-    th "Aber das würde mich jetzt auch nicht mehr überraschen…"
+    th "Aber das würde mich jetzt auch nicht mehr überraschen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:279
 translate german day1_39014c31:
@@ -1363,9 +1363,9 @@ translate german day1_f91880c6:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:322
 translate german day1_03448d77:
 
-    # "Ну, то есть в сторону площади…"
+    # "Ну, то есть в сторону площади..."
     #"That is to say, towards the square..."
-    "Also zum großen Platz…"
+    "Also zum großen Platz..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:328
 translate german day1_ebc4605c:
@@ -1391,7 +1391,7 @@ translate german day1_1c924fd9:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:333
 translate german day1_3f084620:
 
-    # th "И всё это, судя по всему, за тысячи километров от дома.{w} Или вообще в другой реальности…"
+    # th "И всё это, судя по всему, за тысячи километров от дома.{w} Или вообще в другой реальности..."
     #th "And, as far as I can tell, this place is located thousands of kilometres away from my home.{w} It might even be a different reality."
     th "Und soweit ich das beurteilen kann, ist dieser Ort tausende Kilometer von meiner Heimat entfernt.{w} Es könnte sogar eine andere Realität sein."
 
@@ -1495,16 +1495,16 @@ translate german day1_5ff36d96:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:356
 translate german day1_d869f630:
 
-    # "И представлял себе быт обычного пионерлагеря несколько по-другому: огромные бараки с рядами железных коек, подъём в шесть тра по сирене, одна минута на то, чтобы заправить кровать, затем построение на плацу…"
+    # "И представлял себе быт обычного пионерлагеря несколько по-другому: огромные бараки с рядами железных коек, подъём в шесть тра по сирене, одна минута на то, чтобы заправить кровать, затем построение на плацу..."
     #"I imagined the daily life of a typical pioneer camp a bit differently: huge barracks with long rows of metal bunks, wake-up call at six o'clock played by a siren, one minute to make your bed, then joining the formation at the drill square..."
-    "Ich stelle mir den den Alltag eines typischen Pioniers etwa so vor: Riesige Baracken mit langen Reihen von Metallkojen. Wecken um sechs Uhr mit einer Sirene, eine Minute um das Bett zu machen, dann Appell in Formation am Exerzierplatz…"
+    "Ich stelle mir den den Alltag eines typischen Pioniers etwa so vor: Riesige Baracken mit langen Reihen von Metallkojen. Wecken um sechs Uhr mit einer Sirene, eine Minute um das Bett zu machen, dann Appell in Formation am Exerzierplatz..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:357
 translate german day1_3a1335b5:
 
-    # th "Стоп!{w} Или я что-то с чем-то путаю…"
+    # th "Стоп!{w} Или я что-то с чем-то путаю..."
     #th "Or wait!{w} Could I be confusing it with something else...?"
-    th "Oder halt!{w} Kann es sein, dass ich das mit was Anderem verwechsle…?"
+    th "Oder halt!{w} Kann es sein, dass ich das mit was Anderem verwechsle...?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:360
 translate german day1_9eee971e:
@@ -1572,8 +1572,8 @@ translate german day1_5ecab483:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:370
 translate german day1_51149e68:
 
-    # me "…"
-    me "…"
+    # me "..."
+    me "..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:372
 translate german day1_dc8deb21:
@@ -1662,8 +1662,8 @@ translate german day1_9d30be31:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:390
 translate german day1_c6de1218:
 
-    # th "Налево, направо, налево, направо…"
-    #th "To the left, to the right, to the left, to the right…"
+    # th "Налево, направо, налево, направо..."
+    #th "To the left, to the right, to the left, to the right..."
     th "Nach links, nach rechts, links, rechts..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:391
@@ -1760,7 +1760,7 @@ translate german day1_2fa68520:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:419
 translate german day1_6e37a835:
 
-    # me "А… да…"
+    # me "А... да..."
     #me "Uhm... yeah..."
     me "Ähm...ja..."
 
@@ -1788,7 +1788,7 @@ translate german day1_c5787aa3:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:423
 translate german day1_5cf26729:
 
-    # me "А… я… да… Семён…"
+    # me "А... я... да... Семён..."
     #me "Uhm... I... yeah... Semyon..."
     me "Ähm... Ich... Jaa... Semyon..."
 
@@ -1809,7 +1809,7 @@ translate german day1_a89521fc:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:427
 translate german day1_65bf82fc:
 
-    # me "Хорошо…"
+    # me "Хорошо..."
     #me "Agreed..."
     me "Einverstanden..."
 
@@ -1879,8 +1879,8 @@ translate german day1_3d8e6458:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:439
 translate german day1_85ccdc6d:
 
-    # me "Пошли…"
-    #me "Let's go…"
+    # me "Пошли..."
+    #me "Let's go..."
     me "Auf geht's..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:440
@@ -1998,7 +1998,7 @@ translate german day1_cc0015de:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:483
 translate german day1_25a8e409:
 
-    # mt_voice "… и хватит издеваться над Леной…"
+    # mt_voice "... и хватит издеваться над Леной..."
     #mt_voice "... and stop teasing Lena already..."
     mt_voice "... und hör auf, Lena zu ärgern..."
 
@@ -2040,16 +2040,16 @@ translate german day1_01fca3c6:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:506
 translate german day1_0d446d18:
 
-    # th "Значит, её зовут Лена…{w} Ну не Рена, и на том спасибо!"
+    # th "Значит, её зовут Лена...{w} Ну не Рена, и на том спасибо!"
     #th "So her name is Lena...{w} Gotta be thankful it's not Rena, at least!"
     th "Sie heißt also Lena...{w} Gott sei Dank ist es zumindest nicht Rena!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:508
 translate german day1_92afc216:
 
-    # un "Да я не…"
+    # un "Да я не..."
     #un "But I don't..."
-    un "Aber ich kann doch nicht…"
+    un "Aber ich kann doch nicht..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:509
 translate german day1_a3f0580d:
@@ -2166,7 +2166,7 @@ translate german day1_ca77693f:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:536
 translate german day1_dda106bc:
 
-    # me "А когда автобус следующий будет, а то я…"
+    # me "А когда автобус следующий будет, а то я..."
     #me "And when does the next bus come, 'cause I... "
     me "Und wann kommt der nächste Bus, weil ich..."
 
@@ -2180,7 +2180,7 @@ translate german day1_fec151d0:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:539
 translate german day1_8f1ac2ed:
 
-    # th "Действительно, зачем мне…"
+    # th "Действительно, зачем мне..."
     #th "Yeah, right, why would I need it...?"
     th "Jup, richtig, warum eigentlich...?"
 
@@ -2201,9 +2201,9 @@ translate german day1_79c3f7b2:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:542
 translate german day1_8d50c9cf:
 
-    # me "Нет, просто интересно…"
+    # me "Нет, просто интересно..."
     #me "No reason, just curious..."
-    me "Nur so, aus Neugier…"
+    me "Nur so, aus Neugier..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:543
 translate german day1_1725efc3:
@@ -2236,9 +2236,9 @@ translate german day1_5a58e925:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:548
 translate german day1_41180a2e:
 
-    # th "Вот это номер…"
+    # th "Вот это номер..."
     #th "Now that's a surprise..."
-    th "Okay, das kam jetzt überraschend…"
+    th "Okay, das kam jetzt überraschend..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:549
 translate german day1_350d74d5:
@@ -2278,8 +2278,8 @@ translate german day1_c40fd752:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:555
 translate german day1_51149e68_1:
 
-    # me "…"
-    me "…"
+    # me "..."
+    me "..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:556
 translate german day1_729f518a:
@@ -2375,8 +2375,8 @@ translate german day1_94a1d364:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:572
 translate german day1_f4df3367:
 
-    # me "Да, спасибо…"
-    #me "Right, thank you…"
+    # me "Да, спасибо..."
+    #me "Right, thank you..."
     me "Stimmt, danke..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:574
@@ -2507,7 +2507,7 @@ translate german day1_6e392819:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:606
 translate german day1_f4234049:
 
-    # me "А ты откуда…"
+    # me "А ты откуда..."
     #me "And how do you...?"
     me "Und woher weißt du...?"
 
@@ -2521,14 +2521,14 @@ translate german day1_eb3ac837:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:611
 translate german day1_1ab8b0e8:
 
-    # th "Электроник. Настоящий. Маразм крепчал…"
+    # th "Электроник. Настоящий. Маразм крепчал..."
     #th "Electronik. The real one. Things were going from 'crazy' to 'completely insane'."
     th "Eletronik. Der Echte. Das geht jetzt aber flott von 'sonderbar' zu 'total Banane'."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:612
 translate german day1_f2e007f0:
 
-    # me "Ясно…"
+    # me "Ясно..."
     #me "All right..."
     me "Aahh ja..."
 
@@ -2563,7 +2563,7 @@ translate german day1_8966f24f:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:618
 translate german day1_f2e007f0_1:
 
-    # me "Ясно…"
+    # me "Ясно..."
     #me "I see..."
     me "Verstehe..."
 
@@ -2633,8 +2633,8 @@ translate german day1_f37aca17:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:637
 translate german day1_31b01f67:
 
-    # un "Да…"
-    #un "Yes…"
+    # un "Да..."
+    #un "Yes..."
     un "Ja..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:638
@@ -2675,7 +2675,7 @@ translate german day1_d2c497e2:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:650
 translate german day1_ac073a3b:
 
-    # el "А вот это…"
+    # el "А вот это..."
     #el "And this here..."
     el "Und das hier..."
 
@@ -2689,8 +2689,8 @@ translate german day1_e84fdadf:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:653
 translate german day1_06114188:
 
-    # el "Ну, что-то вроде того…"
-    #el "Yeah, something like that…"
+    # el "Ну, что-то вроде того..."
+    #el "Yeah, something like that..."
     el "Ja, so in etwa..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:656
@@ -2766,9 +2766,9 @@ translate german day1_7cbd6d0d:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:673
 translate german day1_7810c210:
 
-    # el "Ладно, ты дальше сам как-нибудь…"
+    # el "Ладно, ты дальше сам как-нибудь..."
     #el "All right, you'll manage from here onwards..."
-    el "Okay, von hier an bist du auf dich allein gestellt…"
+    el "Okay, von hier an bist du auf dich allein gestellt..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:674
 translate german day1_8a6dfaab:
@@ -2919,14 +2919,14 @@ translate german day1_80a62586:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:724
 translate german day1_ac5ae99c:
 
-    # "На поле бегали дети совершенно разных возрастов – вот мальчик лет десяти и девочка лет четырнадцати…"
+    # "На поле бегали дети совершенно разных возрастов – вот мальчик лет десяти и девочка лет четырнадцати..."
     #"Kids of different ages were running around the pitch: I could see a boy of about ten and a girl of about fourteen years old..."
     "Kinder verschiedenen Alters rannten über das Feld: Ich konnte einen Jungen von etwa 10 und ein Mädchen von zirka 14 Jahren sehen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:725
 translate german day1_f462954c:
 
-    # th "Девочка…{w} Так это же Ульяна!"
+    # th "Девочка...{w} Так это же Ульяна!"
     #th "A girl...{w} Hey, that's Ulyana!"
     th "Ein Mädchen...{w} Hey, das ist Ulyana!"
 
@@ -3183,16 +3183,16 @@ translate german day1_20d3b7df:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:792
 translate german day1_d5cccf64:
 
-    # "Столовая представляла из себя…{w} столовую."
+    # "Столовая представляла из себя...{w} столовую."
     #"The canteen looked like...{w} a canteen."
     "Die Kantine sah aus wie...{w} eine Kantine."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:793
 translate german day1_5a204f67:
 
-    # "Мне в своё время доводилось бывать в заводской столовой…{w} Эта была в точности такой же, разве что почище и поновее."
+    # "Мне в своё время доводилось бывать в заводской столовой...{w} Эта была в точности такой же, разве что почище и поновее."
     #"I'd had a chance to visit a factory canteen at some point in my life...{w} This one was exactly the same, just maybe a bit cleaner and more modern."
-    "Ich hatte in meinem Leben schon mal eine Firmenkantine besucht…{w} Die sah genauso aus, nur vielleicht ein wenig sauberer und moderner."
+    "Ich hatte in meinem Leben schon mal eine Firmenkantine besucht...{w} Die sah genauso aus, nur vielleicht ein wenig sauberer und moderner."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:794
 translate german day1_7f269d4e:
@@ -3211,9 +3211,9 @@ translate german day1_2b4a4a89:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:797
 translate german day1_865ed000:
 
-    # mt "Семён, сейчас, подожди, мы тебе место найдём…"
-    #mt "Semyon, wait a moment, we'll find you a place to sit…"
-    mt "Semyon, warte kurz, Wir wollen einen freien Platz für dich suchen…"
+    # mt "Семён, сейчас, подожди, мы тебе место найдём..."
+    #mt "Semyon, wait a moment, we'll find you a place to sit..."
+    mt "Semyon, warte kurz, Wir wollen einen freien Platz für dich suchen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:798
 translate german day1_fed0ccad:
@@ -3260,7 +3260,7 @@ translate german day1_f893781b:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:806
 translate german day1_6c59a28a:
 
-    # "Действитеьно, наряд её был несколько вызывающим…"
+    # "Действитеьно, наряд её был несколько вызывающим..."
     #"Indeed, her attire looked somewhat provocative..."
     "Tatsächlich war ihre Kleidung irgendwie provokant..."
 
@@ -3274,7 +3274,7 @@ translate german day1_7f4c6c16:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:809
 translate german day1_aa5269ba:
 
-    # dv "Ладно-ладно…"
+    # dv "Ладно-ладно..."
     #dv "All right, all right..."
     dv "Schon gut, schon gut..."
 
@@ -3309,7 +3309,7 @@ translate german day1_986412cf:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:817
 translate german day1_2cfe56a5:
 
-    # me "Это… А может…"
+    # me "Это... А может..."
     #me "Uhm... Maybe I..."
     me "Ähm... Vielleicht sollte ich..."
 
@@ -3330,9 +3330,9 @@ translate german day1_07918b6c:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:823
 translate german day1_ff014804:
 
-    # "Конечно, была некая доля вероятности, что в котлетах яд кураре, пюре обильно сдобрено мышьяком, а вместо компота мне налили отличный антифриз…"
+    # "Конечно, была некая доля вероятности, что в котлетах яд кураре, пюре обильно сдобрено мышьяком, а вместо компота мне налили отличный антифриз..."
     #"Of course, there was the probability that the cutlets were poisoned with curare, the mashed potatoes generously seasoned with arsenic, and the glass filled with excellent antifreeze instead of kompot..."
-    "Es blieb natürlich eine gewisse Wahrscheinlichkeit, dass das Kotelett mit Kurare verfeinert war, der Kartoffelbrei Arsen enthielt und man mir statt Kompott feinstes Frostschutzmittel eingeschenkt hatte…"
+    "Es blieb natürlich eine gewisse Wahrscheinlichkeit, dass das Kotelett mit Kurare verfeinert war, der Kartoffelbrei Arsen enthielt und man mir statt Kompott feinstes Frostschutzmittel eingeschenkt hatte..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:824
 translate german day1_1dcade22:
@@ -3493,8 +3493,8 @@ translate german day1_39cd2cfa:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:866
 translate german day1_73aab3cd:
 
-    # me "Спасибо…"
-    #me "Thanks…"
+    # me "Спасибо..."
+    #me "Thanks..."
     me "Danke..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:867
@@ -3507,7 +3507,7 @@ translate german day1_dfe4386e:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:869
 translate german day1_e425e9ee:
 
-    # "Все подозрения вмиг развеялиь – так мне хотелось есть.{w} Я подцепил вилкой котлету и…"
+    # "Все подозрения вмиг развеялиь – так мне хотелось есть.{w} Я подцепил вилкой котлету и..."
     #"I was so hungry that my suspicions were gone in a flash.{w} I picked up the cutlet with my fork and..."
     "Ich war so hungrig, dass mein Verdacht im Nu verflog.{w} Ich spießte das Kotelett auf meine Gabel und..."
 
@@ -3535,7 +3535,7 @@ translate german day1_c1ea30fa:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:885
 translate german day1_670b85c3:
 
-    # me "Ах ты, маленькая…"
+    # me "Ах ты, маленькая..."
     #me "You little..."
     me "Du kleines..."
 
@@ -3570,14 +3570,14 @@ translate german day1_51f77987:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:902
 translate german day1_c0e0bceb:
 
-    # "Мы пробежали площадь…"
+    # "Мы пробежали площадь..."
     #"We ran through the square..."
     "Wir rannten über den großen Platz..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:908
 translate german day1_8d3b0cc2:
 
-    # "Помещение клубов…"
+    # "Помещение клубов..."
     #"Past the clubs' house..."
     "Vorbei an den Club-Häusern..."
 
@@ -3598,9 +3598,9 @@ translate german day1_d50859c6:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:916
 translate german day1_80f73680:
 
-    # th "Всё же, наверное, стоило бросить курить…"
-    #th "I should have quit smoking I guess…"
-    th "Ich hätte wohl besser mit dem Rauchen aufhören sollen…"
+    # th "Всё же, наверное, стоило бросить курить..."
+    #th "I should have quit smoking I guess..."
+    th "Ich hätte wohl besser mit dem Rauchen aufhören sollen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:919
 translate german day1_1178684b:
@@ -3646,8 +3646,8 @@ translate german day1_fd3eb8d2:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:928
 translate german day1_b570941e:
 
-    # th "Кажется, я заблудился…"
-    #th "Looks like I'm lost…"
+    # th "Кажется, я заблудился..."
+    #th "Looks like I'm lost..."
     th "Schaut so aus als habe ich mich verlaufen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:929
@@ -3852,7 +3852,7 @@ translate german day1_ac5eb104:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:981
 translate german day1_51149e68_2:
 
-    # me "…"
+    # me "..."
     me "..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:982
@@ -3893,16 +3893,16 @@ translate german day1_dd08f845:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:988
 translate german day1_476d94f1:
 
-    # th "Да уж, девочка-ракета прямо.{w} Только вот сопла у неё в разные стороны…"
+    # th "Да уж, девочка-ракета прямо.{w} Только вот сопла у неё в разные стороны..."
     #th "Yeah, she's a real rocket girl.{w} She could have found a better use for her energy than looking for adventures..."
-    th "Oh ja, sie ist eine wahre Rakete.{w} Sie sollte ihre Energie für Besseres nutzen als für solch einen Blödsinn…"
+    th "Oh ja, sie ist eine wahre Rakete.{w} Sie sollte ihre Energie für Besseres nutzen als für solch einen Blödsinn..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:990
 translate german day1_d1722b3c:
 
-    # sl "Ты, наверное, есть хочешь, поужинать-то не получилось…"
+    # sl "Ты, наверное, есть хочешь, поужинать-то не получилось..."
     #sl "You must be hungry, you didn’t manage to have dinner after all..."
-    sl "Du bist sicherlich hungrig, du hattest ja kein Abendessen…"
+    sl "Du bist sicherlich hungrig, du hattest ja kein Abendessen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:992
 translate german day1_d0dae46d:
@@ -4005,7 +4005,7 @@ translate german day1_518df0ed:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1013
 translate german day1_505d91ae:
 
-    # me "Ладно…"
+    # me "Ладно..."
     #me "Alright..."
     me "Alles klar..."
 
@@ -4042,7 +4042,7 @@ translate german day1_e81739e5:
 
     # th "Наверное, стоило подождать в сторонке..."
     #th "I should have probably kept off and waited... "
-    th "Ich hätte wohl besser abseits gewartet…"
+    th "Ich hätte wohl besser abseits gewartet..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1031
 translate german day1_bbe1ef0f:
@@ -4082,14 +4082,14 @@ translate german day1_7332342b:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1037
 translate german day1_c67591a7:
 
-    # dv "Булок я хочу… с кефиром! Не наелась!"
+    # dv "Булок я хочу... с кефиром! Не наелась!"
     #dv "'Cause I want some buns and kefir! Dinner wasn't big enough!"
     dv "Weil ich noch ein paar Brötchen und Kefir will! Das Abendessen war für den hohlen Zahn!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1038
 translate german day1_8d3f7a19:
 
-    # me "Эээ…{w} А может, не стоит?"
+    # me "Эээ...{w} А может, не стоит?"
     #me "Uhmmm...{w} Is that really a good idea?"
     me "Äähmmm...{w} Ist das wirklich eine gute Idee?"
 
@@ -4117,9 +4117,9 @@ translate german day1_ad73a68c:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1043
 translate german day1_c43ed392:
 
-    # me "Так сейчас Славя придёт и…"
+    # me "Так сейчас Славя придёт и..."
     #me "It's fine, Slavya will come now and..."
-    me "Also gut, Slavya kommt gleich und…"
+    me "Also gut, Slavya kommt gleich und..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1045
 translate german day1_c8b0074b:
@@ -4243,7 +4243,7 @@ translate german day1_44f2c4ea:
 translate german day1_c8f556b6:
 
     # sl "Подожди, я сейчас что-нибудь принесу."
-    #sl "Wait a Häusern…bit, I'll go get something."
+    #sl "Wait a Häusern...bit, I'll go get something."
     sl "Warte einen kleinen Moment, ich hole gerade etwas."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1078
@@ -4291,9 +4291,9 @@ translate german day1_fbb73cfa:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1089
 translate german day1_178aa33f:
 
-    # sl "Нет, просто…"
-    #sl "No, just…"
-    sl "Nein, es ist nur…"
+    # sl "Нет, просто..."
+    #sl "No, just..."
+    sl "Nein, es ist nur..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1090
 translate german day1_d1046a49_1:
@@ -4895,8 +4895,8 @@ translate german day1_2719b81b:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1208
 translate german day1_2dc0eb74:
 
-    # th "Автобус, лагерь, девочки…"
-    #th "Bus, summer camp, girls…"
+    # th "Автобус, лагерь, девочки..."
+    #th "Bus, summer camp, girls..."
     th "Bushaltestelle, Sommerlager, Mädchen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1209
@@ -4971,7 +4971,7 @@ translate german day1_ea263cee:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1224
 translate german day1_62592cb0:
 
-    # un "Ничего…"
+    # un "Ничего..."
     #un "Never mind..."
     un "Kein Ding..."
 
@@ -5001,8 +5001,8 @@ translate german day1_f3297c42:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1233
 translate german day1_53009119:
 
-    # me "Хорошая книжка…"
-    #me "A good book…"
+    # me "Хорошая книжка..."
+    #me "A good book..."
     me "Ein gutes Buch..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1234
@@ -5288,16 +5288,16 @@ translate german day1_76d86f28:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1283
 translate german day1_69ef7bda:
 
-    # un "Поздно уже, мне пора…"
-    #un "It's late, I have to go…"
-    un "Es ist spät, ich werde jetzt gehen…"
+    # un "Поздно уже, мне пора..."
+    #un "It's late, I have to go..."
+    un "Es ist spät, ich werde jetzt gehen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1284
 translate german day1_45544479:
 
-    # me "Да, поздновато…"
-    #me "Yes, it's quite late…"
-    me "Ja, es ist sehr spät…"
+    # me "Да, поздновато..."
+    #me "Yes, it's quite late..."
+    me "Ja, es ist sehr spät..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1285
 translate german day1_2629037f:
@@ -5309,9 +5309,9 @@ translate german day1_2629037f:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1286
 translate german day1_fab13f1e:
 
-    # me "Спокойной…"
-    #me "Night…"
-    me "Nacht…"
+    # me "Спокойной..."
+    #me "Night..."
+    me "Nacht..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1288
 translate german day1_e5d71cd0:
@@ -5323,9 +5323,9 @@ translate german day1_e5d71cd0:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1289
 translate german day1_482011b5:
 
-    # th "Вроде бы вполе типичный образ застенчивой, скромной пионерки, но…"
-    #th "At first glance she is a typically shy and modest pioneer girl, but…"
-    th "Auf den ersten Blick ist sie das typische scheue und bescheidene Pioniermädchen, aber…"
+    # th "Вроде бы вполе типичный образ застенчивой, скромной пионерки, но..."
+    #th "At first glance she is a typically shy and modest pioneer girl, but..."
+    th "Auf den ersten Blick ist sie das typische scheue und bescheidene Pioniermädchen, aber..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1290
 translate german day1_efa2bb54:
@@ -5343,9 +5343,9 @@ translate german day1_a20cefa7_16:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1296
 translate german day1_047c6176:
 
-    # th "Дело было вечером, делать было нечего…"
-    #th "A lazy evening, there’s nothing like a good time with nothing to do…"
-    th "Ein ruhiger Abend. Es gibt doch nichts schöneres als einen Abend, an dem man nichts tun muss…"
+    # th "Дело было вечером, делать было нечего..."
+    #th "A lazy evening, there’s nothing like a good time with nothing to do..."
+    th "Ein ruhiger Abend. Es gibt doch nichts schöneres als einen Abend, an dem man nichts tun muss..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1298
 translate german day1_8b243a91:
@@ -5371,9 +5371,9 @@ translate german day1_01c690bf:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1314
 translate german day1_ccd4c421:
 
-    # me "Да…{w} Гулял, с лагерем знакомился."
-    #me "Yeah…{w} I went for a walk to look around the camp."
-    me "Ja…{w} Ich bin spazieren gegangen, hab mir das Lager angesehen."
+    # me "Да...{w} Гулял, с лагерем знакомился."
+    #me "Yeah...{w} I went for a walk to look around the camp."
+    me "Ja...{w} Ich bin spazieren gegangen, hab mir das Lager angesehen."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1315
 translate german day1_6e6b09c8:
@@ -5434,9 +5434,9 @@ translate german day1_6d7c696f:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1325
 translate german day1_fa9f2c55:
 
-    # me "Да… Конечно…"
+    # me "Да... Конечно..."
     #me "Yep... Sure..."
-    me "Ja… Na klar…"
+    me "Ja... Na klar..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1326
 translate german day1_c2a35634:
@@ -5476,9 +5476,9 @@ translate german day1_8492f5e5:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1333
 translate german day1_4adb9df1:
 
-    # me "Должен, конечно, кто же спорит…"
-    #me "Of course he should, no one argues with that…"
-    me "Na sicher sollte er das, das bestreitet niemand…"
+    # me "Должен, конечно, кто же спорит..."
+    #me "Of course he should, no one argues with that..."
+    me "Na sicher sollte er das, das bestreitet niemand..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1334
 translate german day1_343b3a4f:
@@ -5532,8 +5532,8 @@ translate german day1_20f9f9be:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1342
 translate german day1_0bdad8e7:
 
-    # th "Нет, конечно, в этом лагере много странного…{w} Но эта девушка в лучшем случае на пару лет меня старше..."
-    #th "Yes, of course there are a lot of strange things here…{w} But this girl is just a couple years older than me..."
+    # th "Нет, конечно, в этом лагере много странного...{w} Но эта девушка в лучшем случае на пару лет меня старше..."
+    #th "Yes, of course there are a lot of strange things here...{w} But this girl is just a couple years older than me..."
     th "Ja, sicher, hier ist einiges merkwürdig...{w} Aber die ist doch gerade mal wenige Jahre älter als ich...."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1343
@@ -5560,8 +5560,8 @@ translate german day1_6a31f527:
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1346
 translate german day1_28205106:
 
-    # me "Как скажете…"
-    #me "As you say… ma'am."
+    # me "Как скажете..."
+    #me "As you say... ma'am."
     me "Wie Sie meinen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1347

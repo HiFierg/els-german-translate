@@ -107,7 +107,7 @@ translate german strings:
     # game/scenario.rpy:4212
     old "Пропустить турнир (выиграть у Алисы)"
     #new "Skip the tournament (Win against Alisa)"
-    new "Überspring das Turnier. (Besiege Alisa.)"
+    new "Überspring das Turnier. (Gewinne gegen Alisa.)"
 
     # game/scenario.rpy:4212
     old "Пропустить турнир (проиграть Алисе)"
@@ -171,7 +171,7 @@ translate german strings:
     # game/scenario.rpy:6179
     old "Ладно, я помогу спортивному клубу"
     #new "Fine, I'll help the sports club"
-    new "Also gut, ich helfe beim Sportclub."
+    new "Also gut, ich helfe beim Sportklub."
 
 ### accept Alisas offer?
     # game/scenario.rpy:6728
@@ -237,7 +237,7 @@ translate german strings:
     # game/scenario.rpy:12489
     old "Да просто так"
     #new "Just asking…"
-    new "Ach, nur so..."
+    new "Ach, nur so…"
 
 ### Ulyana in infirmary
     # game/scenario.rpy:12564
@@ -287,27 +287,27 @@ translate german strings:
     # game/scenario.rpy:13215
     old "Пошёл с Алисой"
     #new "... go with Alisa"
-    new "Geh mit Alisa."
+    new "... mit Alisa gehen."
 
     # game/scenario.rpy:13215
     old "Пошёл со Славей"
     #new "... go with Slavya"
-    new "Geh mit Slavya."
+    new "... mit Slavya gehen."
 
     # game/scenario.rpy:13215
     old "Пошёл с Ульяной"
     #new "... go with Ulyana"
-    new "Geh mit Ulyana."
+    new "... mit Ulyana gehen."
 
     # game/scenario.rpy:13215
     old "Пошёл с Леной"
     #new "... go with Lena"
-    new "Geh mit Lena."
+    new "... mit Lena gehen."
 
     # game/scenario.rpy:13215
     old "Пошёл один"
     #new "... go alone"
-    new "Geh alleine."
+    new "... alleine gehen."
 
 ### Which Way in Maze?
     # game/scenario.rpy:13657

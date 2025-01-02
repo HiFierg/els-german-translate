@@ -557,7 +557,7 @@ translate german prologue_a3a04a99:
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:185
 translate german prologue_ac5e97c3:
 
-    # "Может быть, маститый писатель напишет обо мне роман, который станет классикой современной литературы.{w} Или напишу я сам…"
+    # "Может быть, маститый писатель напишет обо мне роман, который станет классикой современной литературы.{w} Или напишу я сам..."
     #"Maybe some highly respected auther will write a novel about me, and it will become a contemporary classic of modern literature.{w} Or I will write one myself..."
     "Vielleicht wird einst ein berühmter Schriftsteller ein Buch über mich schreiben und das wird dann ein Klassiker der modernen Literatur.{w} Oder ich schreibe es selbst..."
 
@@ -580,7 +580,7 @@ translate german prologue_6d041340:
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:189
 translate german prologue_64793d14:
 
-    # "Рисовать – не дано от природы.{w} Программирование – надоело.{w} Иностранные языки – долго и скучно…"
+    # "Рисовать – не дано от природы.{w} Программирование – надоело.{w} Иностранные языки – долго и скучно..."
     #"Not gifted enough to draw.{w} Programming – got bored.{w} Foreign languages - takes too much time..."
     "Zeichnen - mangelndes Talent.{w} Programmieren - ermüdend.{w} Fremdsprachen - langwierig und langweilig..."
 
@@ -704,14 +704,14 @@ translate german prologue_1263d7e9:
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:248
 translate german prologue_ef2e5c25:
 
-    # "Может, стоит попробовать фриланс?{w} Да что я умею, и кому я нужен…"
+    # "Может, стоит попробовать фриланс?{w} Да что я умею, и кому я нужен..."
     #"Maybe I should try freelancing?{w} But what skills do I have and who would want me after all...?"
     "Ich könnte es als Freelancer versuchen?{w} Aber was habe ich schon anzubieten und vor allem: Wer braucht einen wie mich...?"
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:256
 translate german prologue_42e509b4:
 
-    # "Вдруг мне вспомнилось детство…{w} Или скорее юношество – 15-17 лет."
+    # "Вдруг мне вспомнилось детство...{w} Или скорее юношество – 15-17 лет."
     #"I suddenly remembered my childhood...{w} Or rather, my teen years, the time when I was 15-17 years old."
     "Plötzlich erinnerte ich mich an meine Kindheit...{w} Genauer gesagt, an meine Teenagerzeit, als ich so 15-17 Jahre alt war."
 
@@ -768,7 +768,7 @@ translate german prologue_272df669:
 translate german prologue_8963d5d3:
 
     # nvl clear
-    # "Время беззаботного детства…{w} Тогда же я и встретил свою первую любовь."
+    # "Время беззаботного детства...{w} Тогда же я и встретил свою первую любовь."
     nvl clear
     #"That careless childhood age...{w} It was also then that I met my first love."
     "Die sorglose Kinderzeit...{w} Das war auch die Zeit, in der ich meine erste Liebe traf."
@@ -783,7 +783,7 @@ translate german prologue_4a6ac0a3:
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:267
 translate german prologue_7493b623:
 
-    # "Как строчка из профиля в социальной сети осталось лишь имя, да те чувства, которые захлёстывали меня, когда я был с ней.{w} Теплота, нежность, желание заботиться, защитить…"
+    # "Как строчка из профиля в социальной сети осталось лишь имя, да те чувства, которые захлёстывали меня, когда я был с ней.{w} Теплота, нежность, желание заботиться, защитить..."
     #"Only her name remains, like a brief line from a social network profile, along with the feelings which overwhelmed me when I was with her.{w} Affection, tenderness, the desire to care for her and to protect her..."
     "Nur ihr Name blieb wie eine kurze Zeile aus dem Profil eines sozialen Netzwerks, zusammen mit den Gefühlen, die mich überkamen, wenn ich mit ihr zusammen war.{w} Zuneigung, Zärtlichkeit und der Wunsch, für sie zu sorgen und sie zu beschützen..."
 
@@ -811,7 +811,7 @@ translate german prologue_f716a97b:
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:271
 translate german prologue_d631396b:
 
-    # "Да и подходящих девушек я давно не встречал.{w} Хотя где мне их встретить…"
+    # "Да и подходящих девушек я давно не встречал.{w} Хотя где мне их встретить..."
     #"Well, I haven't met any suitable girls for a long time.{w} But where could I meet one anyway...?"
     "Nun, ich habe schon lange keine interessanten Mädchen mehr getroffen.{w} Aber wo auch...?"
 
@@ -859,7 +859,7 @@ translate german prologue_3cf36c8d:
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:306
 translate german prologue_ac957580:
 
-    # "Или не зажигает, а просто пробуждает…"
+    # "Или не зажигает, а просто пробуждает..."
     #"Or maybe not ignite, just awaken them..."
     "Oder vielleicht nicht zu entfachen, sondern eher wiederzuerwecken..."
 
@@ -942,7 +942,7 @@ translate german prologue_d443aa58:
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:323
 translate german prologue_d56c688b:
 
-    # "Глаза закрылись всего на полсекунды и…"
+    # "Глаза закрылись всего на полсекунды и..."
     #"My eyes closed just for a moment, and then..."
     "Ich schloss meine Augen nur für ein Sekündchen und dann..."
 
