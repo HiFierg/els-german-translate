@@ -1124,8 +1124,8 @@ translate german day1_f40c35be:
 translate german day1_54f0a60f:
 
     # slp "Ну спросишь у кого-нибудь, где домик Ольги Дмитриевны!"
-    #slp "Well, you can ask someone where Olga Dmitrievna's cabin is."
-    slp "Ansonsten frag einfach irgendwen nach Olga Dmitrievnas Hütte."
+    #slp "Well, you can ask someone where Olga Dmitrijewna's cabin is."
+    slp "Ansonsten frag einfach irgendwen nach Olga Dmitrijewnas Hütte."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:265
 translate german day1_17993887:
@@ -1747,15 +1747,15 @@ translate german day1_59abc400:
 translate german day1_e85f6b79:
 
     # slp "Ой, я же так и не представилась!{w} Меня Славя зовут!"
-    #slp "Oh, I still haven't introduced myself!{w} My name is Slavya!"
-    slp "Oh, ich habe mich noch gar nicht vorgestellt!{w} Ich heiße Slavya!"
+    #slp "Oh, I still haven't introduced myself!{w} My name is Slawja!"
+    slp "Oh, ich habe mich noch gar nicht vorgestellt!{w} Ich heiße Slawja!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:418
 translate german day1_2fa68520:
 
     # slp "Вообще, полное имя Славяна, но все меня Слвей зовут.{w} И ты тоже зови!"
-    #slp "Actually, my full name's Slavyana, but everyone calls me Slavya.{w} So you can too!"
-    slp "Genauer ist mein voller Name Slavyana, aber alle nennen mich immer nur Slavya.{w} Kannst du auch machen!"
+    #slp "Actually, my full name's Slawjana, but everyone calls me Slawja.{w} So you can too!"
+    slp "Genauer ist mein voller Name Slawjana, aber alle nennen mich immer nur Slawja.{w} Kannst du auch machen!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:419
 translate german day1_6e37a835:
@@ -1789,22 +1789,22 @@ translate german day1_c5787aa3:
 translate german day1_5cf26729:
 
     # me "А... я... да... Семён..."
-    #me "Uhm... I... yeah... Semyon..."
-    me "Ähm... Ich... Jaa... Semyon..."
+    #me "Uhm... I... yeah... Semjon..."
+    me "Ähm... Ich... Jaa... Semjon..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:425
 translate german day1_e2552123:
 
     # sl "Очень приятно, Семён."
-    #sl "Nice to meet you, Semyon."
-    sl "Schön dich kennenzulernen, Semyon."
+    #sl "Nice to meet you, Semjon."
+    sl "Schön dich kennenzulernen, Semjon."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:426
 translate german day1_a89521fc:
 
     # sl "Ладно, я уже заканчиваю.{w} Ты подожди меня тут минутку, сейчас переоденусь, и вместе пойдём к Ольге Дмитриевне, хорошо?"
-    #sl "All right, I'm almost done here.{w} Could you wait here a minute, I'm going to change and we'll go to Olga Dmitrievna together, agreed?"
-    sl "Also gut, ich bin hier fertig.{w} Wenn du eine Minute wartest, ziehe ich mich schnell um und dann gehen wir zusammen zu Olga Dmitrievna. Einverstanden?"
+    #sl "All right, I'm almost done here.{w} Could you wait here a minute, I'm going to change and we'll go to Olga Dmitrijewna together, agreed?"
+    sl "Also gut, ich bin hier fertig.{w} Wenn du eine Minute wartest, ziehe ich mich schnell um und dann gehen wir zusammen zu Olga Dmitrijewna. Einverstanden?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:427
 translate german day1_65bf82fc:
@@ -1873,8 +1873,8 @@ translate german day1_a733d584:
 translate german day1_3d8e6458:
 
     # "Рядом со мной стояла Славя, вновь одетая в пионерскую форму."
-    #"Slavya was standing beside me, dressed in the pioneer uniform again."
-    "Slavya stand neben mir. Sie trug wieder ihre Pionieruniform."
+    #"Slawja was standing beside me, dressed in the pioneer uniform again."
+    "Slawja stand neben mir. Sie trug wieder ihre Pionieruniform."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:439
 translate german day1_85ccdc6d:
@@ -1922,8 +1922,8 @@ translate german day1_805a8066:
 translate german day1_6c5b8d8e:
 
     # sl "Ульяна, хватит бегать! Я всё Ольге Дмитриевне расскажу!"
-    #sl "Ulyana, enough running! I'll tell everything to Olga Dmitrievna!"
-    sl "Ulyana, es reicht! Ich erzähle alles Olga Dmitrievna!"
+    #sl "Uljana, enough running! I'll tell everything to Olga Dmitrijewna!"
+    sl "Uljana, es reicht! Ich erzähle alles Olga Dmitrijewna!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:456
 translate german day1_e2f0dae9:
@@ -1936,15 +1936,15 @@ translate german day1_e2f0dae9:
 translate german day1_0bfd5bdf:
 
     # "Я решил не расспрашивать до поры до времени Славю о происходящем, о местных обитателях."
-    #"I decided not to question Slavya for a while about what was going on or the local residents."
-    "Ich beschloss, Slavya erst einmal nicht über die Leute hier zu befragen oder darüber, was hier vor sich ging."
+    #"I decided not to question Slawja for a while about what was going on or the local residents."
+    "Ich beschloss, Slawja erst einmal nicht über die Leute hier zu befragen oder darüber, was hier vor sich ging."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:462
 translate german day1_5280f6b1:
 
     # th "Лучше сначала добраться до этой таинственной Ольги Дмитриевны."
     #th "Better meet with this mysterious Olga Dmtrievna first."
-    th "Besser, ich treffe erst mal diese mysteriöse Olga Dmitrievna."
+    th "Besser, ich treffe erst mal diese mysteriöse Olga Dmitrijewna."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:463
 translate german day1_1cd246d8:
@@ -1964,8 +1964,8 @@ translate german day1_3337c244:
 translate german day1_598416c3:
 
     # "Наконец Славя остановилась перед небольшим одноэтажным домиком."
-    #"Finally, Slavya stopped in front of a smallish one-storey cabin."
-    "Schließlich stoppte Slavya vor einer kleinen, einstöckigen Hütte."
+    #"Finally, Slawja stopped in front of a smallish one-storey cabin."
+    "Schließlich stoppte Slawja vor einer kleinen, einstöckigen Hütte."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:478
 translate german day1_4ce282c2:
@@ -1992,8 +1992,8 @@ translate german day1_3dc6042e:
 translate german day1_cc0015de:
 
     # "Славя вывеа меня из раздумий."
-    #"Slavya snapped me out of my daydreaming."
-    "Slavya riss mich aus meinem Tagtraum."
+    #"Slawja snapped me out of my daydreaming."
+    "Slawja riss mich aus meinem Tagtraum."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:483
 translate german day1_25a8e409:
@@ -2020,8 +2020,8 @@ translate german day1_368e2a32:
 translate german day1_42c5f640:
 
     # "И точно, через мгновение дверь распахнулась, оттуда выбежала Ульяна и пронеслась мимо, всё так же хитро улыбаясь."
-    #"Indeed, a moment later the door swung open, and Ulyana ran out and dashed past with the same mischievous grin."
-    "Tatsächlich schlug einen Moment später die Türe auf und Ulyana kam herausgerannt. Und mit demselben frechen Grinsen verschwand sie."
+    #"Indeed, a moment later the door swung open, and Uljana ran out and dashed past with the same mischievous grin."
+    "Tatsächlich schlug einen Moment später die Türe auf und Uljana kam herausgerannt. Und mit demselben frechen Grinsen verschwand sie."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:504
 translate german day1_9b6e58bf:
@@ -2062,8 +2062,8 @@ translate german day1_a3f0580d:
 translate german day1_a653101d:
 
     # "Я почему-то захотел обернуться и проводить её взглядом, но Славя сказала:"
-    #"For some reason I felt like turning and following her with my eyes, but Slavya said:"
-    "Unter anderen Umständen hätte ich mich umgedreht um ihr nachzuschauen, aber Slavya meinte:"
+    #"For some reason I felt like turning and following her with my eyes, but Slawja said:"
+    "Unter anderen Umständen hätte ich mich umgedreht um ihr nachzuschauen, aber Slawja meinte:"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:513
 translate german day1_84aaac50:
@@ -2118,15 +2118,15 @@ translate german day1_0aa01509:
 translate german day1_80b7fab7:
 
     # mtp "Пришёл-таки!{w} Отлично!{w} Меня Ольга Дмитриевна зовут, я вожатая."
-    #mtp "You're finally here!{w}  Excellent!{w} My name is Olga Dmitrievna, I'm the camp leader."
-    mtp "Da bist du ja endlich!{w} Wunderbar!{w} Ich heiße Olga Dmitrievna. Ich bin hier die Lagerleiterin."
+    #mtp "You're finally here!{w}  Excellent!{w} My name is Olga Dmitrijewna, I'm the camp leader."
+    mtp "Da bist du ja endlich!{w} Wunderbar!{w} Ich heiße Olga Dmitrijewna. Ich bin hier die Lagerleiterin."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:528
 translate german day1_81f67e23:
 
     # me "Очень приятно, Семён."
-    #me "Nice to meet you, I'm Semyon."
-    me "Sehr erfreut. Semyon."
+    #me "Nice to meet you, I'm Semjon."
+    me "Sehr erfreut. Semjon."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:529
 translate german day1_2a6869f0:
@@ -2348,8 +2348,8 @@ translate german day1_a3268632:
 translate german day1_bd84df53:
 
     # "Всё это время Славя стояла рядом со мной и, казалось, не находила в нашем разговоре ничего такого."
-    #"All this time, Slavya was standing next to me and seemed to find nothing odd in our conversation."
-    "Slavya stand die ganze Zeit neben mir und schien an unserem Gespräch nichts Merkwürdiges zu finden."
+    #"All this time, Slawja was standing next to me and seemed to find nothing odd in our conversation."
+    "Slawja stand die ganze Zeit neben mir und schien an unserem Gespräch nichts Merkwürdiges zu finden."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:569
 translate german day1_869d68e4:
@@ -2411,8 +2411,8 @@ translate german day1_3be70f85:
 translate german day1_733c1098:
 
     # "Я остался наедине со Славей."
-    #"I ended up alone with Slavya."
-    "Ich blieb alleine mit Slavya zurück."
+    #"I ended up alone with Slawja."
+    "Ich blieb alleine mit Slawja zurück."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:583
 translate german day1_4c0d1dce:
@@ -2432,8 +2432,8 @@ translate german day1_0a470c4f:
 translate german day1_d47d9534:
 
     # th "Если в этом не скрыто никакого подвоха или угрозы, то такая реальность в лице Слави мне начинает нравиться всё больше!"
-    #th "If there is no threat or catch to this then this reality, as embodied by Slavya, becomes more and more appealing."
-    th "Wenn davon keine Bedrohung oder sonstigen Unannehmlichkeiten ausgehen, könnte ich beinahe anfangen, diese Realität zu mögen, in der es eine Slavya gibt."
+    #th "If there is no threat or catch to this then this reality, as embodied by Slawja, becomes more and more appealing."
+    th "Wenn davon keine Bedrohung oder sonstigen Unannehmlichkeiten ausgehen, könnte ich beinahe anfangen, diese Realität zu mögen, in der es eine Slawja gibt."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:587
 translate german day1_a20cefa7_6:
@@ -2501,8 +2501,8 @@ translate german day1_19166f7e:
 translate german day1_6e392819:
 
     # elp "Привет, ты новенький, наверное, Семён, да?"
-    #elp "Hello, you're new here, you must be Semyon, right?"
-    elp "Hallo, du bist wohl der Neue; Semyon, richtig?"
+    #elp "Hello, you're new here, you must be Semjon, right?"
+    elp "Hallo, du bist wohl der Neue; Semjon, richtig?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:606
 translate german day1_f4234049:
@@ -2515,14 +2515,14 @@ translate german day1_f4234049:
 translate german day1_eb3ac837:
 
     # elp "Да уже все знают! Я, кстати, Электроник. Настоящий. Можешь меня так и звать."
-    #elp "Everyone knows already! I'm Electronik, by the way. The real one. You can call me that."
+    #elp "Everyone knows already! I'm Elektronik, by the way. The real one. You can call me that."
     elp "Das weiß hier schon jeder! Ich bin übrigens Elektronik. Der Echte. Du kannst mich auch so nennen."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:611
 translate german day1_1ab8b0e8:
 
     # th "Электроник. Настоящий. Маразм крепчал..."
-    #th "Electronik. The real one. Things were going from 'crazy' to 'completely insane'."
+    #th "Elektronik. The real one. Things were going from 'crazy' to 'completely insane'."
     th "Eletronik. Der Echte. Das geht jetzt aber flott von 'sonderbar' zu 'total Banane'."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:612
@@ -2536,8 +2536,8 @@ translate german day1_f2e007f0:
 translate german day1_13475f83:
 
     # el "Ульянка меня ещё Сыроежкой зовёт."
-    #el "Ulyana also calls me Cheesie."
-    el "Ulyanka nennt mich auch Täubling."
+    #el "Uljana also calls me Cheesie."
+    el "Uljanka nennt mich auch Täubling."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:615
 translate german day1_f005cc88:
@@ -2606,15 +2606,15 @@ translate german day1_6bd8e03f:
 translate german day1_ac68c5e6:
 
     # "Там на одной из лавочек сидела Лена и читала какую-то книжку.{w} Электроник уверенным шагом подошёл к ней."
-    #"Lena was sitting on one of the benches, reading some book.{w} Electronik confidently approached her."
+    #"Lena was sitting on one of the benches, reading some book.{w} Elektronik confidently approached her."
     "Lena saß auf einer der Bänke und las ein Buch.{w} Elektronik ging selbstbewusst auf sie zu."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:633
 translate german day1_03a7db73:
 
     # el "Лена, привет! Это новенький, Семён, знакомься!"
-    #el "Hello, Lena! Meet the new guy, Semyon."
-    el "Hallo Lena! Begrüß unseren Neuen, Semyon."
+    #el "Hello, Lena! Meet the new guy, Semjon."
+    el "Hallo Lena! Begrüß unseren Neuen, Semjon."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:634
 translate german day1_ebd7111d:
@@ -2655,7 +2655,7 @@ translate german day1_0e6973ff:
 translate german day1_e71595cb:
 
     # "Я было удивился, что всё «знакомство» ограничилось парой слов, но потом решил, что так и надо.{w} Неуёмная активность Электроника и скромность Лены – не лучшее сочетание."
-    #"I was at first surprised that 'meeting' this girl was reduced to a couple of words, but then I thought that it was better that way.{w} Electronik's vigorous activity did not fit well with Lena's shyness."
+    #"I was at first surprised that 'meeting' this girl was reduced to a couple of words, but then I thought that it was better that way.{w} Elektronik's vigorous activity did not fit well with Lena's shyness."
     "Zunächst überraschte es mich, dass sich die 'Begrüßung' dieses Mädchens auf ein paar Worte beschränkt hatte. Aber dann dachte ich, dass es so vielleicht besser war.{w} Elektroniks energisches Auftreten biss sich zu sehr mit ihrer Schüchternheit."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:641
@@ -2725,8 +2725,8 @@ translate german day1_88b653a6:
 translate german day1_84bfeb9f:
 
     # el "А вот она – Алиса Двачевская. Ты с ней поосторожнее."
-    #el "Her, over there, that's Alisa Dvachevskaya. Be careful around her."
-    el "Die da drüben ist Alisa Dvachevskaya. Du solltest dich in ihrer Nähe in Acht nehmen."
+    #el "Her, over there, that's Alisa Dwatschewskaja. Be careful around her."
+    el "Die da drüben ist Alisa Dwatschewskaja. Du solltest dich in ihrer Nähe in Acht nehmen."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:662
 translate german day1_36dc9fcc:
@@ -2774,14 +2774,14 @@ translate german day1_7810c210:
 translate german day1_8a6dfaab:
 
     # "Электроник бросился бежать так, что только пятки засверкали."
-    #"Electronik took to his heels."
+    #"Elektronik took to his heels."
     "Elektronik rannte, was das Zeug hielt."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:681
 translate german day1_68ae01db:
 
     # "Я решил, что не хочу ещё раз сталкиваться с этой агрессивной девочкой, Алисой, и бросился вслед за Электроником."
-    #"I decided that I had no wish to come across this aggressive Alisa girl again and darted after Electronik."
+    #"I decided that I had no wish to come across this aggressive Alisa girl again and darted after Elektronik."
     "Ich beschloss, dass ich dieser aggressiven Alisa besser nicht im Weg stehen sollte und rannte hinter Elektronik her."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:688
@@ -2795,8 +2795,8 @@ translate german day1_87908dda:
 translate german day1_f5ecd77a:
 
     # "Но и Двачевская за мной не гналась."
-    #"But Dvachevskaya wasn't chasing me either."
-    "Aber Dvachevskaya war ja auch nicht hinter mir her."
+    #"But Dwatschewskaja wasn't chasing me either."
+    "Aber Dwatschewskaja war ja auch nicht hinter mir her."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:690
 translate german day1_efa7a730:
@@ -2865,7 +2865,7 @@ translate german day1_8fa3ff1e:
 translate german day1_9dbfd6f2:
 
     # "Она не ответила и побежала догонять Электроника."
-    #"She made no reply and carried on chasing Electronik."
+    #"She made no reply and carried on chasing Elektronik."
     "Sie antwortete nicht und verfolgte weiter Elektronik."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:707
@@ -2927,8 +2927,8 @@ translate german day1_ac5ae99c:
 translate german day1_f462954c:
 
     # th "Девочка...{w} Так это же Ульяна!"
-    #th "A girl...{w} Hey, that's Ulyana!"
-    th "Ein Mädchen...{w} Hey, das ist Ulyana!"
+    #th "A girl...{w} Hey, that's Uljana!"
+    th "Ein Mädchen...{w} Hey, das ist Uljana!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:726
 translate german day1_5e68b29c:
@@ -2962,8 +2962,8 @@ translate german day1_f85a8374:
 translate german day1_77bd833d:
 
     # "Крикнула Ульянка."
-    #"Ulyana shouted."
-    "Schrie Ulyanka."
+    #"Uljana shouted."
+    "Schrie Uljanka."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:732
 translate german day1_afc02b59:
@@ -3032,8 +3032,8 @@ translate german day1_1cdbc40f:
 translate german day1_317df2d8:
 
     # "А Ульянка вопила мне вслед то ли про {i}трусы{/i}, то ли про {i}труса{/i}..."
-    #"I was followed by Ulyana's screams, about my pants, or about me being a pansy, or something like that..."
-    "Ulyanka schrie mir noch was hinterher, irgendetwas über meine Unterhose, oder dass ich ich ein Schlappschwanz sei, oder irgendsowas..."
+    #"I was followed by Uljana's screams, about my pants, or about me being a pansy, or something like that..."
+    "Uljanka schrie mir noch was hinterher, irgendetwas über meine Unterhose, oder dass ich ich ein Schlappschwanz sei, oder irgendsowas..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:750
 translate german day1_a20cefa7_8:
@@ -3135,8 +3135,8 @@ translate german day1_d1afa489:
 translate german day1_60f3a365:
 
     # "На крыльце стояла Ольга Дмитриевна."
-    #"Olga Dmitrievna was there, standing on the porch."
-    "Olga Dmitrievna stand auf der Veranda."
+    #"Olga Dmitrijewna was there, standing on the porch."
+    "Olga Dmitrijewna stand auf der Veranda."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:778
 translate german day1_3181ce0b:
@@ -3156,8 +3156,8 @@ translate german day1_620995d5:
 translate german day1_e4e46775:
 
     # mt "Семён, чего стоишь? Проходи!"
-    #mt "Semyon, what are you waiting for? Come in already!"
-    mt "Semyon, worauf wartest du? Komm doch rein!"
+    #mt "Semjon, what are you waiting for? Come in already!"
+    mt "Semjon, worauf wartest du? Komm doch rein!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:782
 translate german day1_3db38509:
@@ -3212,8 +3212,8 @@ translate german day1_2b4a4a89:
 translate german day1_865ed000:
 
     # mt "Семён, сейчас, подожди, мы тебе место найдём..."
-    #mt "Semyon, wait a moment, we'll find you a place to sit..."
-    mt "Semyon, warte kurz, Wir wollen einen freien Platz für dich suchen..."
+    #mt "Semjon, wait a moment, we'll find you a place to sit..."
+    mt "Semjon, warte kurz, Wir wollen einen freien Platz für dich suchen..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:798
 translate german day1_fed0ccad:
@@ -3226,15 +3226,15 @@ translate german day1_fed0ccad:
 translate german day1_cbc89c54:
 
     # mt "Стой, Двачевская!"
-    #mt "Dvachevskaya, hold it right there!"
-    mt "Dvachevskaya, warte mal!"
+    #mt "Dwatschewskaja, hold it right there!"
+    mt "Dwatschewskaja, warte mal!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:801
 translate german day1_bccd2e3b:
 
     # "Ольга Дмитриевна прикрикнула на проходящую мимо Алису."
-    #"Olga Dmitrievna shouted at Alisa who was passing by."
-    "Rief Olga Dmitrivna Alisa zu, die gerade vorbeikam."
+    #"Olga Dmitrijewna shouted at Alisa who was passing by."
+    "Rief Olga Dmitrijewna Alisa zu, die gerade vorbeikam."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:803
 translate german day1_e0ebb201:
@@ -3303,8 +3303,8 @@ translate german day1_30ea3e74:
 translate german day1_986412cf:
 
     # mt "Давай вот сюда, к Ульяне!"
-    #mt "Go over there, next to Ulyana!"
-    mt "Da drüben, setz dich neben Ulyana!"
+    #mt "Go over there, next to Uljana!"
+    mt "Da drüben, setz dich neben Uljana!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:817
 translate german day1_2cfe56a5:
@@ -3359,8 +3359,8 @@ translate german day1_087d8e36:
 translate german day1_4b969ae9:
 
     # "Спросил я довольно грубо Ульянку, сидевшую рядом."
-    #"I replied rather rudely to Ulyana, who was sitting next to me."
-    "Antwortete ich Ulyanka, die neben mir saß, eher rüpelhaft."
+    #"I replied rather rudely to Uljana, who was sitting next to me."
+    "Antwortete ich Uljanka, die neben mir saß, eher rüpelhaft."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:831
 translate german day1_bcac0437:
@@ -3408,8 +3408,8 @@ translate german day1_2623f571:
 translate german day1_f9c55ec5:
 
     # th "Нет, точнее, это не мог сделать никто другой, кроме Ульяны!"
-    #th "No, more precisely, none but Ulyana could have done it!"
-    th "Nein, genauer gesagt, niemand außer Ulyana hätte das tun können!"
+    #th "No, more precisely, none but Uljana could have done it!"
+    th "Nein, genauer gesagt, niemand außer Uljana hätte das tun können!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:842
 translate german day1_58e7978c:
@@ -3452,8 +3452,8 @@ translate german day1_39e0f78f:
 translate german day1_8fb93759:
 
     # "Действительно, тарелка Ульянки была пуста – похоже, ест эта маленькая девочка так же быстро, как и котлеты ворует."
-    #"And indeed, Ulyana's plate was empty; it seemed that this little girl eats as fast as she steals someone’s cutlets."
-    "Und in der Tat, Ulyankas Teller war leer. Es schien, als ob dieses kleine Mädchen noch schneller essen als anderen die Koteletts klauen konnte. "
+    #"And indeed, Uljana's plate was empty; it seemed that this little girl eats as fast as she steals someone’s cutlets."
+    "Und in der Tat, Uljankas Teller war leer. Es schien, als ob dieses kleine Mädchen noch schneller essen als anderen die Koteletts klauen konnte. "
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:856
 translate german day1_bf4d7f64:
@@ -3480,8 +3480,8 @@ translate german day1_4c2a1209:
 translate german day1_4bb06742:
 
     # "Примерно через минуту Ульянка вернулась и протянула мне тарелку, на которой лежала дымящаяся котлета."
-    #"About a minute later, Ulyana returned and handed me the plate with a steaming hot cutlet on it."
-    "Eine Minute später kehrte Ulyanka mit einem Teller zurück, auf dem ein dampfend heißes Kotelett lag."
+    #"About a minute later, Uljana returned and handed me the plate with a steaming hot cutlet on it."
+    "Eine Minute später kehrte Uljanka mit einem Teller zurück, auf dem ein dampfend heißes Kotelett lag."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:865
 translate german day1_39cd2cfa:
@@ -3543,8 +3543,8 @@ translate german day1_670b85c3:
 translate german day1_cdba60b2:
 
     # "Ульянка, похоже готовая к такому развитию событий, уже стояла в дверях и смеялась так, как будто услышала свежую шутку Петросяна."
-    #"Ulyana seemed ready for such a twist and was already at the door, laughing as if she had just heard a fresh stand-up comedy joke."
-    "Ulyanka, bestens auf diesen Lauf der Ereignisse vorbereitet, stand bereits an der Türe und lachte wie über einen guten Stand-up-Comedy Witz."
+    #"Uljana seemed ready for such a twist and was already at the door, laughing as if she had just heard a fresh stand-up comedy joke."
+    "Uljanka, bestens auf diesen Lauf der Ereignisse vorbereitet, stand bereits an der Türe und lachte wie über einen guten Stand-up-Comedy Witz."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:889
 translate german day1_a0076c62:
@@ -3606,8 +3606,8 @@ translate german day1_80f73680:
 translate german day1_1178684b:
 
     # "Ульянка скрылась за очередным поворотом, и я потерял её из виду."
-    #"Ulyana passed out of sight on the next turn."
-    "Hinter der nächsten Ecke verschwand Ulyanka aus meinem Sichtfeld."
+    #"Uljana passed out of sight on the next turn."
+    "Hinter der nächsten Ecke verschwand Uljanka aus meinem Sichtfeld."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:920
 translate german day1_b24a1f41:
@@ -3859,15 +3859,15 @@ translate german day1_51149e68_2:
 translate german day1_245b70c4:
 
     # "Передо мной стояла Славя.{w} От неожиданности я даже вздрогнул."
-    #"It was Slavya standing before me.{w} I was so surprised that I jumped."
-    "Slavya stand vor mir.{w} Ich erschrak so sehr, dass ich zusammenzuckte."
+    #"It was Slawja standing before me.{w} I was so surprised that I jumped."
+    "Slawja stand vor mir.{w} Ich erschrak so sehr, dass ich zusammenzuckte."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:984
 translate german day1_ec2df0cc:
 
     # sl "Не догнал Ульяну?"
-    #sl "So, you didn't catch Ulyana, did you?"
-    sl "Also hast du Ulyana nicht erwischt, oder?"
+    #sl "So, you didn't catch Uljana, did you?"
+    sl "Also hast du Uljana nicht erwischt, oder?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:985
 translate german day1_d1046a49:
@@ -3915,8 +3915,8 @@ translate german day1_d0dae46d:
 translate german day1_c17a722d:
 
     # "Славя улыбнулась."
-    #"Slavya smiled."
-    "Slavya lächelte."
+    #"Slawja smiled."
+    "Slawja lächelte."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:995
 translate german day1_4cbb01a1:
@@ -3985,8 +3985,8 @@ translate german day1_63a3eb4c:
 translate german day1_00f9254f:
 
     # "Когда мы вышли на площадь, Славя внезапно остановилась."
-    #"When we reached the square, Slavya stopped in her tracks."
-    "Als wir den großen Platz erreichten, blieb Slavya stehen."
+    #"When we reached the square, Slawja stopped in her tracks."
+    "Als wir den großen Platz erreichten, blieb Slawja stehen."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1011
 translate german day1_7f5d338c:
@@ -4097,8 +4097,8 @@ translate german day1_8d3f7a19:
 translate german day1_1381f7ca:
 
     # dv "А ты сам не хочешь есть, что ли?{w} Ульянка-то тебе поужинать нормально не дала!"
-    #dv "Aren't you hungry yourself, huh?{w} Ulyana didn't let you have a normal dinner, did she?"
-    dv "Du hast wohl keinen Hunger, hm?{w} Ulyanka hat dich doch nichts essen lassen, oder?"
+    #dv "Aren't you hungry yourself, huh?{w} Uljana didn't let you have a normal dinner, did she?"
+    dv "Du hast wohl keinen Hunger, hm?{w} Uljanka hat dich doch nichts essen lassen, oder?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1041
 translate german day1_f396e777:
@@ -4118,8 +4118,8 @@ translate german day1_ad73a68c:
 translate german day1_c43ed392:
 
     # me "Так сейчас Славя придёт и..."
-    #me "It's fine, Slavya will come now and..."
-    me "Also gut, Slavya kommt gleich und..."
+    #me "It's fine, Slawja will come now and..."
+    me "Also gut, Slawja kommt gleich und..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1045
 translate german day1_c8b0074b:
@@ -4173,8 +4173,8 @@ translate german day1_a20cefa7_15:
 translate german day1_696c481c:
 
     # "Славя не заставила себя долго ждать."
-    #"Slavya didn't keep me waiting for too long."
-    "Slavya ließ nicht lange auf sich warten."
+    #"Slawja didn't keep me waiting for too long."
+    "Slawja ließ nicht lange auf sich warten."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1060
 translate german day1_8c608cb1:
@@ -4229,8 +4229,8 @@ translate german day1_6d7067b9:
 translate german day1_3792d81a:
 
     # "А вот Славя, похоже, ничего не заметила.{w} Или по крайней мере сделала вид."
-    #"As for Slavya, she seemed not to have noticed anything.{w} Or at least she was pretending she hadn't."
-    "Slavya schien nichts bemerkt zu haben.{w} Oder sie gab vor, nichts bemerkt zu haben."
+    #"As for Slawja, she seemed not to have noticed anything.{w} Or at least she was pretending she hadn't."
+    "Slawja schien nichts bemerkt zu haben.{w} Oder sie gab vor, nichts bemerkt zu haben."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1074
 translate german day1_44f2c4ea:
@@ -4278,8 +4278,8 @@ translate german day1_37e90611:
 translate german day1_d5866868:
 
     # "Пока я ел, Славя сидела напротив и смотрела на меня."
-    #"Slavya sat across the table and looked at me while I was eating."
-    "Slavya saß mir am Tisch gegenüber und schaute mir beim Essen zu."
+    #"Slawja sat across the table and looked at me while I was eating."
+    "Slawja saß mir am Tisch gegenüber und schaute mir beim Essen zu."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1087
 translate german day1_fbb73cfa:
@@ -4334,8 +4334,8 @@ translate german day1_46db5ea6:
 translate german day1_68e00554:
 
     # "Славя мечтательно уставилась в окно."
-    #"Slavya stared out the window dreamily."
-    "Slavya schaute verträumt aus dem Fenster."
+    #"Slawja stared out the window dreamily."
+    "Slawja schaute verträumt aus dem Fenster."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1097
 translate german day1_b05e0e4e:
@@ -4509,8 +4509,8 @@ translate german day1_879638a9:
 translate german day1_c954d69f:
 
     # "Славя рассмеялась."
-    #"Slavya laughed."
-    "Slavya lachte."
+    #"Slawja laughed."
+    "Slawja lachte."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1123
 translate german day1_72c6e2b1:
@@ -4614,8 +4614,8 @@ translate german day1_82012fff:
 translate german day1_c821ace7:
 
     # "А Славя была ещё и...{w} милой?"
-    #"And Slavya was also...{w} cute?"
-    "Und Slavya war dazu noch...{w} niedlich?"
+    #"And Slawja was also...{w} cute?"
+    "Und Slawja war dazu noch...{w} niedlich?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1138
 translate german day1_7f68049d:
@@ -4706,7 +4706,7 @@ translate german day1_446ce20c:
 
     # "Естественность Слави уже начинала меня пугать, но тут я подумал – а вдруг так всё и должно быть, вдруг весь этот мир непонятен только мне, а для них он...{w} родной?"
     #"Her naturalness started to scare me, but then I thought – what if everything that happens here is how it supposed to be and this world looks strange only to me, while for them it is...{w} normal?"
-    "Slavyas Natürlichkeit erschreckte mich. Doch dann kam mir der Gedanke - was, wenn alles hier so war, wie es sein sollte und es nur auf mich seltsam wirkte? Und für alle anderen war es...{w} normal?"
+    "Slawjas Natürlichkeit erschreckte mich. Doch dann kam mir der Gedanke - was, wenn alles hier so war, wie es sein sollte und es nur auf mich seltsam wirkte? Und für alle anderen war es...{w} normal?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1153
 translate german day1_6578880f:
@@ -4740,15 +4740,15 @@ translate german day1_fadcaef0:
 translate german day1_7b5c12bd:
 
     # "Славя улыбнулась и встала из-за стола."
-    #"Slavya smiled and stood up from the table."
-    "Slavya lächelte und stand auf."
+    #"Slawja smiled and stood up from the table."
+    "Slawja lächelte und stand auf."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1165
 translate german day1_c5c451d5:
 
     # sl "Уже поздно... Сам дорогу до Ольги Дмитриевны найдёшь?"
-    #sl "It's late... Can you find the way to Olga Dmitrievna's by yourself?"
-    sl "Es ist bereits spät... Du findest den Weg zu Olga Dmitrievnas Hütte selbst?"
+    #sl "It's late... Can you find the way to Olga Dmitrijewna's by yourself?"
+    sl "Es ist bereits spät... Du findest den Weg zu Olga Dmitrijewnas Hütte selbst?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1166
 translate german day1_9fef43a7:
@@ -4775,8 +4775,8 @@ translate german day1_7332342b_1:
 translate german day1_bfddcddb:
 
     # "Наверное, со стороны я выглядел глупо, потому что Славя рассмеялась."
-    #"Probably this question seemed stupid, because Slavya bursted into good-natured laughter."
-    "Die Frage war wohl dämlich, weil Slavya in ein herzliches Gelächter ausbrach."
+    #"Probably this question seemed stupid, because Slawja bursted into good-natured laughter."
+    "Die Frage war wohl dämlich, weil Slawja in ein herzliches Gelächter ausbrach."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1171
 translate german day1_c070ca19:
@@ -4824,8 +4824,8 @@ translate german day1_c6b742a3:
 translate german day1_08ccb5b7:
 
     # "Я было собирался догнать Славю, но где она живёт?"
-    #"I was going to catch up to Slavya, but where does she live?"
-    "Ich hätte Slavya nachlaufen können, aber wo wohnte sie?"
+    #"I was going to catch up to Slawja, but where does she live?"
+    "Ich hätte Slawja nachlaufen können, aber wo wohnte sie?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1180
 translate german day1_3aa2ad8d:
@@ -4868,8 +4868,8 @@ translate german day1_0eb5a1f8:
 translate german day1_ee63d9fd:
 
     # "Внезапно очень захотелось последовать совету Слави и поскорее пойти к домику вожатой."
-    #"A sudden desire to follow Slavya's advice and go to the camp leader’s cabin appeared."
-    "Ich bekam den Wunsch, Slavyas Rat zu folgen und die Hütte der Lagerleiterin aufzusuchen."
+    #"A sudden desire to follow Slawja's advice and go to the camp leader’s cabin appeared."
+    "Ich bekam den Wunsch, Slawjas Rat zu folgen und die Hütte der Lagerleiterin aufzusuchen."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1205
 translate german day1_b358634e:
@@ -5184,8 +5184,8 @@ translate german day1_8caec5df:
 translate german day1_60dd740c:
 
     # "Будь на её месте, допустим, Ульянка, наверняка бы меня засмеяла."
-    #"I bet if Ulyana was here she'd have a good laugh at me."
-    "Wäre an ihrer Stelle Ulyanka hier gesessen, hätte sie mich sicher ausgelacht."
+    #"I bet if Uljana was here she'd have a good laugh at me."
+    "Wäre an ihrer Stelle Uljanka hier gesessen, hätte sie mich sicher ausgelacht."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1266
 translate german day1_e1927099:
@@ -5198,8 +5198,8 @@ translate german day1_e1927099:
 translate german day1_610b2212:
 
     # "Я вспомнил вопрос Слави и решил, что он как нельзя лучше подойдёт для начала разговора."
-    #"I recalled the Slavya's question and thought it would be a good start for a conversation."
-    "Ich erinnerte mich an Slavyas Frage und glaubte, das sei ein guter Aufhänger für eine Unterhaltung."
+    #"I recalled the Slawja's question and thought it would be a good start for a conversation."
+    "Ich erinnerte mich an Slawjas Frage und glaubte, das sei ein guter Aufhänger für eine Unterhaltung."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1269
 translate german day1_f1be5fed:
@@ -5226,8 +5226,8 @@ translate german day1_23729c98:
 translate german day1_b5a17bee:
 
     # "Лена явно не очень общительна и вряд ли в состоянии поддержать непринуждённую беседу ни о чём, как Славя."
-    #"Lena definitely isn't very sociable and probably can't carry on a meaningless conversation as easily as Slavya."
-    "Lena war offensichtlich nicht so gesellig und wohl auch nicht so gut im Smalltalk wie Slavya."
+    #"Lena definitely isn't very sociable and probably can't carry on a meaningless conversation as easily as Slawja."
+    "Lena war offensichtlich nicht so gesellig und wohl auch nicht so gut im Smalltalk wie Slawja."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1274
 translate german day1_141ec821:
@@ -5351,8 +5351,8 @@ translate german day1_047c6176:
 translate german day1_8b243a91:
 
     # "Я направился к домику Ольги Дмитриевны."
-    #"I headed towards Olga Dmitrievna’s cabin."
-    "Ich begab mich zu Olga Dmitrievnas Hütte."
+    #"I headed towards Olga Dmitrijewna’s cabin."
+    "Ich begab mich zu Olga Dmitrijewnas Hütte."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1304
 translate german day1_76db5439:
@@ -5365,8 +5365,8 @@ translate german day1_76db5439:
 translate german day1_01c690bf:
 
     # mt "Привет, Семён!{w} Что-то ты долго!"
-    #mt "Hello, Semyon!{w} You're quite late!"
-    mt "Hallo Semyon!{w} Du bist ganz schön spät!"
+    #mt "Hello, Semjon!{w} You're quite late!"
+    mt "Hallo Semjon!{w} Du bist ganz schön spät!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1314
 translate german day1_ccd4c421:
@@ -5470,8 +5470,8 @@ translate german day1_a63ad949:
 translate german day1_8492f5e5:
 
     # "Грозно сказала Ольга Дмитриевна."
-    #" Olga Dmitrievna said strictly."
-    "Antwortete Olga Dmitrievna streng."
+    #" Olga Dmitrijewna said strictly."
+    "Antwortete Olga Dmitrijewna streng."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1333
 translate german day1_4adb9df1:
@@ -5610,7 +5610,7 @@ translate german day1_e62f6767:
 translate german day1_a3857c58:
 
     # "«Не хочешь – заставим» – кажется, именно этим девизом планировала руководствоваться Ольга Дмитриевна."
-    #"'If you don't want to, we'll have to make you' – this is the motto Olga Dmitrievna was probably going to use."
+    #"'If you don't want to, we'll have to make you' – this is the motto Olga Dmitrijewna was probably going to use."
     "'Und bist du nicht willig, so brauch ich Gewalt'. Dieses Motto wollte Olga Dimitrievna wohl anwenden."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1360
@@ -5652,14 +5652,14 @@ translate german day1_de155e12:
 translate german day1_4d51c966:
 
     # "Столовая, полная пионеров...{w} И ехидное лицо Ульянки."
-    #"The canteen, full of pioneers...{w} And the malicious face of Ulyana."
-    "Die Kantine, voll mit Pionieren...{w} Und Ulyankas böses Grinsen."
+    #"The canteen, full of pioneers...{w} And the malicious face of Uljana."
+    "Die Kantine, voll mit Pionieren...{w} Und Uljankas böses Grinsen."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1393
 translate german day1_169054b7:
 
     # "Славя..."
-    "Slavya..."
+    "Slawja..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1400
 translate german day1_06f01a7c:
