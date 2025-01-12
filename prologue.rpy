@@ -545,14 +545,14 @@ translate german prologue_9bc39b5c:
 
     # "На улицу я практически не выхожу, а всё моё общение с людьми сводится к интернет-переписке с {i}анонимами{/i}, у которых нет ни реального имени, ни пола, ни возраста."
     #"I hardly ever leave my home, and my communication with other people almost exclusively consists of online correspondence with {i}the anonymous{/i}, who have no real name, no gender, no age."
-    "Ich gehe kaum vor die Türe und meine Kommunikation mit anderen Menschen beschränkt sich auf Internet-Korrespondenz mit {i}anonymen{/i} Personen ohne richtige Namen, Geschlecht oder Alter."
+    "Ich gehe kaum vor die Tür und meine Kommunikation mit anderen Menschen beschränkt sich auf Internet-Korrespondenz mit {i}anonymen{/i} Personen ohne richtige Namen, Geschlecht oder Alter."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:184
 translate german prologue_a3a04a99:
 
     # "Короче говоря, достаточно типичная жизнь достаточно типичного асоциального человека своего времени.{w} Этакий Обломов XXI века."
     #"So, in brief, a quite typical life of a quite typical antisocial person of his time.{w} Kind of Donnie Darko on a minor scale, without Doomsday-related visions."
-    "Kurz gesagt, das typische Leben eines recht typischen, asozialen Menschen seiner Zeit.{w} So eine Art Oblomov des 21. Jahrhunderts. [Anm.: Oblomov, Roman von Iwan Gontscharow;  der Held steht in der Tradition des 'überflüssigen Menschen' der russischen Literatur des 19. Jhd.]"
+    "Kurz gesagt, das typische Leben eines recht typischen, asozialen Menschen seiner Zeit.{w} So eine Art Oblomow des 21. Jahrhunderts. [Anm.: Oblomow, Roman von Iwan Gontscharow;  der Held steht in der Tradition des 'überflüssigen Menschen' der russischen Literatur des 19. Jhd.]"
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:185
 translate german prologue_ac5e97c3:

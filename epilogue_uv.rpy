@@ -121,8 +121,8 @@ translate german epilogue_uv_13ad0098:
 translate german epilogue_uv_82f332bb:
 
     # "И почему Ольга Дмитриевна меня не разбудила?{w} Хотя какая разница…"
-    #"Why didn't Olga Dmitrievna wake me up?{w} Though who cares…"
-    "Warum hat mich Olga Dmitrievna nicht geweckt?{w} Obwohl, wen interessiert das schon…"
+    #"Why didn't Olga Dmitrijewna wake me up?{w} Though who cares…"
+    "Warum hat mich Olga Dmitrijewna nicht geweckt?{w} Obwohl, wen interessiert das schon…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:37
 translate german epilogue_uv_2677a9c2:
@@ -282,8 +282,8 @@ translate german epilogue_uv_e99cb8c8:
 translate german epilogue_uv_0ec9dbdb:
 
     # "Шахта, Шурик, голоса, девочка-кошка, опять голоса…{w} В чём же можно быть здесь уверенным?!"
-    #"That underground mine, Shurik, voices, the cat-girl, more voices…{w} Is there anything here I can be sure about?!"
-    "Diese unterirdische Miene Shurik, Stimmen, das Katzenmädchen noch mehr Stimmen.…{w} Gibt es hier irgendetwas, bei dem ich mir sicher sein kann!?"
+    #"That underground mine, Schurik, voices, the cat-girl, more voices…{w} Is there anything here I can be sure about?!"
+    "Diese unterirdische Miene Schurik, Stimmen, das Katzenmädchen noch mehr Stimmen.…{w} Gibt es hier irgendetwas, bei dem ich mir sicher sein kann!?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:90
 translate german epilogue_uv_c66393c3:
@@ -709,8 +709,8 @@ translate german epilogue_uv_ab49bee4:
 translate german epilogue_uv_efa22042:
 
     # "К умывальникам неспешно приближались Славя и Женя."
-    #"Slavya and Zhenya were slowly approaching the washstands."
-    "Slavya und Zhenya näherten sich langsam den Waschständen."
+    #"Slawja and Schenja were slowly approaching the washstands."
+    "Slawja und Schenja näherten sich langsam den Waschständen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:164
 translate german epilogue_uv_bd0cee6c:
@@ -800,8 +800,8 @@ translate german epilogue_uv_d9eb3a0e:
 translate german epilogue_uv_8c01a57f:
 
     # "Фыркнула Женя и прошла мимо.{w} Славя виновато улыбнулась и поспешила за ней."
-    #"Zhenya snorted and passed by.{w} Slavya smiled apologetically and hurried after her."
-    "Schnaubte Zhenya und ging weiter.{w} Slavya lächelte entschuldigend und lief ihr nach."
+    #"Schenja snorted and passed by.{w} Slawja smiled apologetically and hurried after her."
+    "Schnaubte Schenja und ging weiter.{w} Slawja lächelte entschuldigend und lief ihr nach."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:187
 translate german epilogue_uv_bda4e78f:
@@ -898,8 +898,8 @@ translate german epilogue_uv_aaec030d:
 translate german epilogue_uv_824ea295:
 
     # "Как будто старый советский фильм – строгая вожатая, образцовые пионеры.{w} И даже Ульяна.{w} И даже Алиса…"
-    #"It was just like an old Soviet movie – the strict camp leader, the exemplary pioneers.{w} Even Ulyana.{w} And even Alisa…"
-    "Es wirkte wie aus einen alten sowjetischen Film – die strenge Lagerleiterin, die vorbildlichen Pioniere.{w} Sogar Ulyana.{w} Und sogar Alisa…"
+    #"It was just like an old Soviet movie – the strict camp leader, the exemplary pioneers.{w} Even Uljana.{w} And even Alisa…"
+    "Es wirkte wie aus einen alten sowjetischen Film – die strenge Lagerleiterin, die vorbildlichen Pioniere.{w} Sogar Uljana.{w} Und sogar Alisa…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:213
 translate german epilogue_uv_9b5ba514:
@@ -926,7 +926,7 @@ translate german epilogue_uv_8c4c3dff:
 translate german epilogue_uv_a17c46ba:
 
     # "Ко мне неожиданно подсел Электроник."
-    #"Electronik suddenly sat beside me."
+    #"Elektronik suddenly sat beside me."
     "Auf einmal setzte sich Elektronik neben mich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:219
@@ -1003,7 +1003,7 @@ translate german epilogue_uv_5aa34a60:
 translate german epilogue_uv_765c7d3f:
 
     # "Рассмеялся Электроник."
-    #"Electronik laughed."
+    #"Elektronik laughed."
     "Lachte Elektronik."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:232
@@ -1129,8 +1129,8 @@ translate german epilogue_uv_c93b36d7:
 translate german epilogue_uv_f4cf968f:
 
     # el "Спроси Ольгу Дмитриевну – она здесь много раз бывала ещё до того, как стала вожатой."
-    #el "Ask Olga Dmitrievna – she’s been in this camp many times, even before she became a camp leader."
-    el "Frag Olga Dmitrievna – sie war schon viele Male in diesem Lager, sogar bevor sie Lagerleiterin wurde."
+    #el "Ask Olga Dmitrijewna – she’s been in this camp many times, even before she became a camp leader."
+    el "Frag Olga Dmitrijewna – sie war schon viele Male in diesem Lager, sogar bevor sie Lagerleiterin wurde."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:253
 translate german epilogue_uv_3118d7bc:
@@ -1157,8 +1157,8 @@ translate german epilogue_uv_e6413ca6:
 translate german epilogue_uv_03870281:
 
     # "Пожалуй, Ольга Дмитриевна была единственным элементом, который несколько выбивался из общей идиллической картины – на роль «образцовой» вожатой она никак не тянула."
-    #"Perhaps Olga Dmitrievna was the only element that was somewhat out of place in the picture of an ideal camp – she certainly was not a role model camp leader."
-    "Vielleicht war Olga Dmitrievna das einzige Element, das außerhalb des Bildes eines idealen Lagers stand – sie steckte sicher nicht in der Rolle einer vorbildlichen Lagerleiterin."
+    #"Perhaps Olga Dmitrijewna was the only element that was somewhat out of place in the picture of an ideal camp – she certainly was not a role model camp leader."
+    "Vielleicht war Olga Dmitrijewna das einzige Element, das außerhalb des Bildes eines idealen Lagers stand – sie steckte sicher nicht in der Rolle einer vorbildlichen Lagerleiterin."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:271
 translate german epilogue_uv_8014570c:
@@ -1178,8 +1178,8 @@ translate german epilogue_uv_b95f1f60:
 translate german epilogue_uv_743fc179:
 
     # mt "Семён… Опять бездельничаешь?"
-    #mt "Semyon… Slacking again?"
-    mt "Semyon… wieder am Faulenzen?"
+    #mt "Semjon… Slacking again?"
+    mt "Semjon… wieder am Faulenzen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:276
 translate german epilogue_uv_22f38a3f:
@@ -1227,8 +1227,8 @@ translate german epilogue_uv_ba8beeb1:
 translate german epilogue_uv_c5d9d3db:
 
     # me "Ольга Дмитриевна, я тут на обеде…{w} с Электроником говорил.{w} И он мне рассказал про легенду о девочке-кошке, якобы живущей здесь."
-    #me "Olga Dmitrievna, I was at the dinner…{w} spoke with Elektronik.{w} And he told me a legend about a cat-girl, that supposedly lives here."
-    me "Olga Dmitrievna, ich habe beim Mittagessen…{w} mit Elektronik gesprochen.{w} Und er hat mir von einer Legende über ein Katzenmädchen erzählt, die hier angeblich leben soll."
+    #me "Olga Dmitrijewna, I was at the dinner…{w} spoke with Elektronik.{w} And he told me a legend about a cat-girl, that supposedly lives here."
+    me "Olga Dmitrijewna, ich habe beim Mittagessen…{w} mit Elektronik gesprochen.{w} Und er hat mir von einer Legende über ein Katzenmädchen erzählt, die hier angeblich leben soll."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:283
 translate german epilogue_uv_a59cb894:
@@ -1283,14 +1283,14 @@ translate german epilogue_uv_f5092004:
 translate german epilogue_uv_02e02e2f:
 
     # "«Кошмар на главной аллее лагеря Совёнок»…"
-    #"'A Nightmare on Sovyonok Street'…"
-    "'Ein Albtraum auf den Wegen von Sovyonok'…"
+    #"'A Nightmare on Sowjonok Street'…"
+    "'Ein Albtraum auf den Wegen von Sowjonok'…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:293
 translate german epilogue_uv_50ca27d3:
 
     # me "Да я понимаю, но…{w} Электроник говорил, вы тут и раньше бывали."
-    #me "Yes, I understand, but...{w} Electronik said that you visited this place before."
+    #me "Yes, I understand, but...{w} Elektronik said that you visited this place before."
     me "Ja, das verstehe ich, aber…{w} Elektronik erzählte, dass sie schon öfter hier waren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:294
@@ -1346,8 +1346,8 @@ translate german epilogue_uv_4d18c559:
 translate german epilogue_uv_bc6747d3:
 
     # "Оживившись, перебила меня Ольга Дмитриевна."
-    #"Olga Dmitrievna interrupted me."
-    "Unterbracht mich Olga Dmitrievna."
+    #"Olga Dmitrijewna interrupted me."
+    "Unterbracht mich Olga Dmitrijewna."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:304
 translate german epilogue_uv_df6f468a:
@@ -2003,8 +2003,8 @@ translate german epilogue_uv_4ac82be2:
 translate german epilogue_uv_701bd2e2:
 
     # me "А ты к Ольге Дмитриевне, наверное?"
-    #me "And you probably came to see Olga Dmitrievna?"
-    me "Und du bist wahrscheinlich hergekommen, um Olga Dmitrievna zu treffen?"
+    #me "And you probably came to see Olga Dmitrijewna?"
+    me "Und du bist wahrscheinlich hergekommen, um Olga Dmitrijewna zu treffen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:440
 translate german epilogue_uv_f3db2cab:
@@ -3540,15 +3540,15 @@ translate german epilogue_uv_4de002b5:
 translate german epilogue_uv_08ce5481:
 
     # me "Ладно, тогда будешь Юлей!"
-    #me "Alright then, you will be Yulya!"
-    me "Na gut, dann bist du Yulya!"
+    #me "Alright then, you will be Yulia!"
+    me "Na gut, dann bist du Yulia!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:779
 translate german epilogue_uv_7b802b26:
 
     # uvp "Юлей…"
-    #uvp "Yulya..."
-    uvp "Yulya…"
+    #uvp "Yulia..."
+    uvp "Yulia…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:780
 translate german epilogue_uv_69f1b777:
@@ -3645,8 +3645,8 @@ translate german epilogue_uv_1e24e1ff:
 translate german epilogue_uv_634747fb:
 
     # "На пороге своего домика меня уже ждала Ольга Дмитриевна."
-    #"Olga Dmitrievna waited for me on the doorstep of her cabin."
-    "Olga Dmitrievna erwartete mich im Eingang der Hütte."
+    #"Olga Dmitrijewna waited for me on the doorstep of her cabin."
+    "Olga Dmitrijewna erwartete mich im Eingang der Hütte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:806
 translate german epilogue_uv_87b272e3:
@@ -3666,15 +3666,15 @@ translate german epilogue_uv_19d8b6a9:
 translate german epilogue_uv_2dc57d68:
 
     # "Интересно, а она реальная?{w} Вот в реальности той девочки, Юли, сомневаться не приходится.{w} Может, она и не человек, но точно существует."
-    #"I wonder, is she real?{w} I don’t have a single doubt about that girl, Yulya.{w} She may not be a human, but she exists."
-    "Ich fragte mich, ob sie real ist?{w} Ich hatte nicht den geringsten Zweifel an diesem Mädchen, Yulya.{w} Sie mochte nicht menschlich sein, aber sie war echt."
+    #"I wonder, is she real?{w} I don’t have a single doubt about that girl, Yulia.{w} She may not be a human, but she exists."
+    "Ich fragte mich, ob sie real ist?{w} Ich hatte nicht den geringsten Zweifel an diesem Mädchen, Yulia.{w} Sie mochte nicht menschlich sein, aber sie war echt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:809
 translate german epilogue_uv_afc131f8:
 
     # "А Ольга Дмитриевна, остальные пионеры?"
-    #"And what about Olga Dmitrievna, the other pioneers?"
-    "Und was ist mit Olga Dmitrievna, den anderen Pionieren?"
+    #"And what about Olga Dmitrijewna, the other pioneers?"
+    "Und was ist mit Olga Dmitrijewna, den anderen Pionieren?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:810
 translate german epilogue_uv_234e69a7:
@@ -3729,8 +3729,8 @@ translate german epilogue_uv_339a89c8:
 translate german epilogue_uv_6f09955a:
 
     # mt "Семён, завтра…"
-    #mt "Semyon, tomorrow..."
-    mt "Semyon, morgen…"
+    #mt "Semjon, tomorrow..."
+    mt "Semjon, morgen…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:823
 translate german epilogue_uv_48e685fd:
@@ -3834,7 +3834,7 @@ translate german epilogue_uv_5ef84dab:
 translate german epilogue_uv_d7e76fb1:
 
     # me "Ольга Дмитриевна, ну 7 утра же ещё только, зачем так рано?"
-    #me "Olga Dmitrievna, it's 7 o'clock in the morning, why so early?"
+    #me "Olga Dmitrijewna, it's 7 o'clock in the morning, why so early?"
     me "Olga Dmirievna, es ist 7 Uhr morgens, wieso so früh?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:850
@@ -3904,8 +3904,8 @@ translate german epilogue_uv_7a6be6b8:
 translate german epilogue_uv_28ae18f5:
 
     # "Так, надо найти Юлю, и в этот раз постараться быть максимально корректным и вежливым."
-    #"Well, I should find Yulya and try to be very polite and proper this time."
-    "Also sollte ich versuchen, Yulya zu finden und diesmal versuchen, so höflich und anständig wie möglich zu sein."
+    #"Well, I should find Yulia and try to be very polite and proper this time."
+    "Also sollte ich versuchen, Yulia zu finden und diesmal versuchen, so höflich und anständig wie möglich zu sein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:875
 translate german epilogue_uv_ceb6fa03:
@@ -3939,8 +3939,8 @@ translate german epilogue_uv_79206dac:
 translate german epilogue_uv_995e66c0:
 
     # "Хотя, может быть, всё совсем не так, совсем-совсем не так…{w} И может, Юля не виновата…"
-    #"Though it could all be totally the other way around...{w} And Yulya may not be guilty in this..."
-    "Obwohl es so auch gar nicht sein muss…{w} Und Yulya trifft überhaupt keine Schuld."
+    #"Though it could all be totally the other way around...{w} And Yulia may not be guilty in this..."
+    "Obwohl es so auch gar nicht sein muss…{w} Und Yulia trifft überhaupt keine Schuld."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:886
 translate german epilogue_uv_a1d45f75:
@@ -3960,8 +3960,8 @@ translate german epilogue_uv_fc936817:
 translate german epilogue_uv_bd81185d:
 
     # "Юля нехотя вылезла из своего укрытия."
-    #"Yulya reluctantly left her hiding place."
-    "Widerwillig verließ Yulya ihr Versteck."
+    #"Yulia reluctantly left her hiding place."
+    "Widerwillig verließ Yulia ihr Versteck."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:895
 translate german epilogue_uv_1e212057:
@@ -4058,8 +4058,8 @@ translate german epilogue_uv_f1645aa5:
 translate german epilogue_uv_0b2a7882:
 
     # "Юля выглядела расстроенной, даже немного испуганной."
-    #"Yulya looked downcast and even a little afraid."
-    "Yulya schaute niedergeschlagen und auch ein wenig besorgt aus."
+    #"Yulia looked downcast and even a little afraid."
+    "Yulia schaute niedergeschlagen und auch ein wenig besorgt aus."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:911
 translate german epilogue_uv_3202acd0:
@@ -4093,15 +4093,15 @@ translate german epilogue_uv_57b757e5:
 translate german epilogue_uv_316ba4bb:
 
     # "Я обернулся и увидел быстро приближающуюся Славю."
-    #"I turned around and saw Slavya approaching."
-    "Ich drehte mich um und sah Slavya auf mich zu kommen."
+    #"I turned around and saw Slawja approaching."
+    "Ich drehte mich um und sah Slawja auf mich zu kommen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:918
 translate german epilogue_uv_25cb17a4:
 
     # "Юля, как и следовало ожидать, скрылась в лесу."
-    #"Yulya disappeared into the forest, as expected."
-    "Yulya war im Wald verschwunden, wie zu erwarten."
+    #"Yulia disappeared into the forest, as expected."
+    "Yulia war im Wald verschwunden, wie zu erwarten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:920
 translate german epilogue_uv_a87c71d7:
@@ -4135,8 +4135,8 @@ translate german epilogue_uv_9ee3c581:
 translate german epilogue_uv_54314043:
 
     # sl "Семён, тут такое…{w} Ну, пойдём со мной – сам всё увидишь!"
-    #sl "Semyon, it's...{w} Come with me, you'll see for yourself!"
-    sl "Semyon, es ist…{w} Komm mit, das musst du selber sehen!"
+    #sl "Semjon, it's...{w} Come with me, you'll see for yourself!"
+    sl "Semjon, es ist…{w} Komm mit, das musst du selber sehen!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:925
 translate german epilogue_uv_1449335c:
@@ -4149,8 +4149,8 @@ translate german epilogue_uv_1449335c:
 translate german epilogue_uv_e2810698:
 
     # "Но на лице Слави читалась такая мольба, что я решил всё же не спорить."
-    #"Slavya's face wore such a pleading expression that I decided not to argue."
-    "Slavyas hatte solch einen flehenden Gesichtsausdruck, dass ich eine weitere Diskussion bleiben ließ."
+    #"Slawja's face wore such a pleading expression that I decided not to argue."
+    "Slawjas hatte solch einen flehenden Gesichtsausdruck, dass ich eine weitere Diskussion bleiben ließ."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:927
 translate german epilogue_uv_68329b9d:
@@ -4226,15 +4226,15 @@ translate german epilogue_uv_2444ccc9:
 translate german epilogue_uv_2412f0b1:
 
     # "Славя продолжала крепко сжимать мою руку."
-    #"Slavya kept squeezing my hand tightly."
-    "Slavya drückte meine Hand noch fester."
+    #"Slawja kept squeezing my hand tightly."
+    "Slawja drückte meine Hand noch fester."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:945
 translate german epilogue_uv_22d16f07:
 
     # "Пионеры вокруг перешёптывались, словно боясь повышать голос, боясь, что эта иллюзия исчезнет или, наоборот, станет ещё более реальной, раздавив собой маленький пионерлагерь «Совёнок»."
-    #"Pioneers whispered around us, as if afraid to speak in a loud voice, afraid that that illusion would disappear, or even the opposite – it would become more real, crushing the little camp Sovyonok beneath it."
-    "Die Pioniere flüsterten um uns herum, als hätten sie angst, laut zu sprechen, angst davor, die Illusion würde verschwinden oder im Gegenteil – sie würde noch realer und in das kleine Lager Sovyonok hineinkrachen und es unter sich begraben."
+    #"Pioneers whispered around us, as if afraid to speak in a loud voice, afraid that that illusion would disappear, or even the opposite – it would become more real, crushing the little camp Sowjonok beneath it."
+    "Die Pioniere flüsterten um uns herum, als hätten sie angst, laut zu sprechen, angst davor, die Illusion würde verschwinden oder im Gegenteil – sie würde noch realer und in das kleine Lager Sowjonok hineinkrachen und es unter sich begraben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:946
 translate german epilogue_uv_727cd6f7:
@@ -4289,8 +4289,8 @@ translate german epilogue_uv_2215b7ef:
 translate german epilogue_uv_part2_62ac5531:
 
     # "Я подбежал к Ольге Дмитриевне."
-    #"I ran to Olga Dmitrievna."
-    "Ich rannte zu Olga Dmitrievna."
+    #"I ran to Olga Dmitrijewna."
+    "Ich rannte zu Olga Dmitrijewna."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:956
 translate german epilogue_uv_part2_be449a3c:
@@ -4345,8 +4345,8 @@ translate german epilogue_uv_part2_e0d4808f:
 translate german epilogue_uv_part2_6db36340:
 
     # "Электроник и Шурик что-то привычно мастерили и, похоже, были совсем не в курсе происходящей в лагере чертовщины."
-    #"Electronik and Shurik were tinkering with something as usual and looked like they knew nothing about the weird stuff happening in the camp."
-    "Elektronik und Shurik bastelten wie gewöhnlich an irgendetwas herum und sie sahen nicht so aus, als wüssten sie über die seltsamen Sachen im Lager Bescheid."
+    #"Elektronik and Schurik were tinkering with something as usual and looked like they knew nothing about the weird stuff happening in the camp."
+    "Elektronik und Schurik bastelten wie gewöhnlich an irgendetwas herum und sie sahen nicht so aus, als wüssten sie über die seltsamen Sachen im Lager Bescheid."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:972
 translate german epilogue_uv_part2_b752e3f7:
@@ -4436,8 +4436,8 @@ translate german epilogue_uv_part2_11af697f:
 translate german epilogue_uv_part2_d815dd97:
 
     # "Я обернулся и увидел Юлю, стоящую рядом."
-    #"I turned around and saw Yulya standing next to me."
-    "Ich drehte mich um und Yulya stand neben mir."
+    #"I turned around and saw Yulia standing next to me."
+    "Ich drehte mich um und Yulia stand neben mir."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:998
 translate german epilogue_uv_part2_b876afc0:
@@ -4534,8 +4534,8 @@ translate german epilogue_uv_part2_74ba4a64:
 translate german epilogue_uv_part2_f8af74e9:
 
     # "Я никак не мог понять, действительно ли Юля не находит всё происходящее хоть сколько-нибудь странным или это всё просто хорошая актёрская игра."
-    #"I totally couldn't understand, does Yulya really not consider this situation even a little bit strange, or is she just good at role-playing?"
-    "Ich habe es absolut nicht verstanden, konnte Yulya an der gesamten Situation überhaupt nichts Seltsames erkennen oder war sie einfach nur eine gute Schauspielerin?"
+    #"I totally couldn't understand, does Yulia really not consider this situation even a little bit strange, or is she just good at role-playing?"
+    "Ich habe es absolut nicht verstanden, konnte Yulia an der gesamten Situation überhaupt nichts Seltsames erkennen oder war sie einfach nur eine gute Schauspielerin?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1016
 translate german epilogue_uv_part2_65fa2c6e:
@@ -4555,8 +4555,8 @@ translate german epilogue_uv_part2_9da8e58a:
 translate german epilogue_uv_part2_a6cdc653:
 
     # mt "Семён."
-    #mt "Semyon."
-    mt "Semyon."
+    #mt "Semjon."
+    mt "Semjon."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1021
 translate german epilogue_uv_part2_1781e744:
@@ -4576,15 +4576,15 @@ translate german epilogue_uv_part2_e8f4b983:
 translate german epilogue_uv_part2_04f49c36:
 
     # "Вот Ольга Дмитриевна реагировала на всё это вполне нормально, как и должен поступать человек в её ситуации."
-    #"Olga Dmitrievna reacted in the usual way, like a normal person would in such a situation."
-    "Olga Dmitrievna reagierte ganz normal, so wie es eine normale Person in solche einer Situation tut."
+    #"Olga Dmitrijewna reacted in the usual way, like a normal person would in such a situation."
+    "Olga Dmitrijewna reagierte ganz normal, so wie es eine normale Person in solche einer Situation tut."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1025
 translate german epilogue_uv_part2_dd2c1757:
 
     # "Я повернулся к Юле, чтобы победоносно сообщить об этом, но девочка-кошка уже исчезла."
-    #"I turned back to Yulya to triumphantly inform her about it, but the cat-girl had already disappeared."
-    "Ich drehte mich zu Yulya um Olga Dmitrievna triumphal von ihr zu erzählen, doch das Katzenmädchen war bereits verschwunden."
+    #"I turned back to Yulia to triumphantly inform her about it, but the cat-girl had already disappeared."
+    "Ich drehte mich zu Yulia um Olga Dmitrijewna triumphal von ihr zu erzählen, doch das Katzenmädchen war bereits verschwunden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1027
 translate german epilogue_uv_part2_13051a08:
@@ -4646,7 +4646,7 @@ translate german epilogue_uv_part2_310e737e:
 translate german epilogue_uv_part2_b833fa40:
 
     # "Закричаа непонятно откуда взявшаяся Ульянка."
-    #"Ulyana shouted, appearing from nowhere."
+    #"Uljana shouted, appearing from nowhere."
     "Schrie Ulianka und tauchte von irgendwoher auf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1038
@@ -4681,15 +4681,15 @@ translate german epilogue_uv_part2_2ca18f35:
 translate german epilogue_uv_part2_35ebcb3b:
 
     # sl "А ты что думаешь, Семён?"
-    #sl "What do you think, Semyon?"
-    sl "Was denkst du darüber, Semyon?"
+    #sl "What do you think, Semjon?"
+    sl "Was denkst du darüber, Semjon?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1047
 translate german epilogue_uv_part2_e522b546:
 
     # "Спросила Славя и уставилась на меня, словно ожидая немедленного ответа."
-    #"Slavya asked and stared at me, as if expecting an immediate answer."
-    "Slavya schaute mich an, als ob sie sofort eine Antwort erwartete."
+    #"Slawja asked and stared at me, as if expecting an immediate answer."
+    "Slawja schaute mich an, als ob sie sofort eine Antwort erwartete."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1048
 translate german epilogue_uv_part2_5de47c68:
@@ -4786,7 +4786,7 @@ translate german epilogue_uv_part2_af0e79a1:
 translate german epilogue_uv_part2_bc284071:
 
     # "Перебила её Ульяна."
-    #"Ulyana interrupted her."
+    #"Uljana interrupted her."
     "Unterbach Uliyana."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1072
@@ -4828,8 +4828,8 @@ translate german epilogue_uv_part2_1de398c6:
 translate german epilogue_uv_part2_a1204b82:
 
     # "Ольга Дмитриевна колебалась."
-    #"Olga Dmitrievna was doubtful."
-    "Olga Dmitrievna zweifelte."
+    #"Olga Dmitrijewna was doubtful."
+    "Olga Dmitrijewna zweifelte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1078
 translate german epilogue_uv_part2_a6810ea8:
@@ -4842,8 +4842,8 @@ translate german epilogue_uv_part2_a6810ea8:
 translate german epilogue_uv_part2_24b65eee:
 
     # "Ничего удивительного: в отлаженной, как швейцарские часы, жизни лагеря она была тираном и деспотом, но когда границы «Совёнка» раздвинулись, а за ними появился таинственный враг, она не смогла удержать нити власти в своих руках, начала паниковать, раскачивая под собой изрядно потерявший привлекательность трон."
-    #"Nothing surprising about that: in the life of the camp, organised as Swiss watch, she was a tyrant and despot, but when the boundaries of Sovyonok expanded and a mysterious opponent appeared from beyond them, she couldn't keep the reins of power in her hands, started to panic, to feel restless on the throne which was losing its appeal."
-    "Das war nicht sonderlich überraschend: Beim Lagerleben, das wie ein Schweizer Uhrwerk lief, war sie ein Tyrann und Despotin, aber wenn die Grenzen von Sovyonok verschwammen und ein dahinter liegender Gegner auftauchte, konnte sie die Zügel der Macht nicht in den Händen halten, geriet in Panik und viel von ihrem Thron, der an Bedeutung verlor."
+    #"Nothing surprising about that: in the life of the camp, organised as Swiss watch, she was a tyrant and despot, but when the boundaries of Sowjonok expanded and a mysterious opponent appeared from beyond them, she couldn't keep the reins of power in her hands, started to panic, to feel restless on the throne which was losing its appeal."
+    "Das war nicht sonderlich überraschend: Beim Lagerleben, das wie ein Schweizer Uhrwerk lief, war sie ein Tyrann und Despotin, aber wenn die Grenzen von Sowjonok verschwammen und ein dahinter liegender Gegner auftauchte, konnte sie die Zügel der Macht nicht in den Händen halten, geriet in Panik und viel von ihrem Thron, der an Bedeutung verlor."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1080
 translate german epilogue_uv_part2_15a8d7cc:
@@ -4884,7 +4884,7 @@ translate german epilogue_uv_part2_ebcff3e9:
 translate german epilogue_uv_part2_a5b8262d:
 
     # "Робко возразила Ольга Дмитриевна."
-    #"Olga Dmitrievna shyly objected."
+    #"Olga Dmitrijewna shyly objected."
     "Erwiderte Olga Dmirievna schüchtern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1086
@@ -4926,8 +4926,8 @@ translate german epilogue_uv_part2_4eb2832a:
 translate german epilogue_uv_part2_d9abbf18:
 
     # "Лена заплакала, и Славя попыталась её утешить."
-    #"Lena started crying and Slavya tried to comfort her."
-    "Lena fing an zu weinen und Slavya versuchte sie zu trösten."
+    #"Lena started crying and Slawja tried to comfort her."
+    "Lena fing an zu weinen und Slawja versuchte sie zu trösten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1097
 translate german epilogue_uv_part2_862ecd27:
@@ -4940,8 +4940,8 @@ translate german epilogue_uv_part2_862ecd27:
 translate german epilogue_uv_part2_5ce4cf42:
 
     # "Вот для Ульянки, похоже, даже смерть не является уважительным оправданием, чтобы вести себя поспокойнее."
-    #"And here is Ulyana, for whom even death itself may not be a good reason to act calmly."
-    "Für Ulyanka war selbst der Tod kein Grund, sich mal ruhiger zu verhalten."
+    #"And here is Uljana, for whom even death itself may not be a good reason to act calmly."
+    "Für Uljanka war selbst der Tod kein Grund, sich mal ruhiger zu verhalten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1100
 translate german epilogue_uv_part2_58c57031:
@@ -4961,8 +4961,8 @@ translate german epilogue_uv_part2_d7b7c1f7:
 translate german epilogue_uv_part2_1f1e9ea8:
 
     # "Я обернулся и посмотрел на Шурика с Электроником."
-    #"I turned around and looked at Shurik and Electronik."
-    "Ich drehte mich um und schaute Elektronik und Shurik an."
+    #"I turned around and looked at Schurik and Elektronik."
+    "Ich drehte mich um und schaute Elektronik und Schurik an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1112
 translate german epilogue_uv_part2_ad26e5b2:
@@ -4996,8 +4996,8 @@ translate german epilogue_uv_part2_f785cd61:
 translate german epilogue_uv_part2_acef7f53:
 
     # "Захлопотала Ольга Дмитриевна."
-    #"Olga Dmitrievna started to busy around."
-    "Olga Dmitrievna war beschäftigt."
+    #"Olga Dmitrijewna started to busy around."
+    "Olga Dmitrijewna war beschäftigt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1118
 translate german epilogue_uv_part2_4c76d45a:
@@ -5023,8 +5023,8 @@ translate german epilogue_uv_part2_ce617998:
 translate german epilogue_uv_part2_ea5dec1f:
 
     # "Через полчаса на площади собрался «поисковый» отряд: я, Алиса, Лена, Славя и Уьяна."
-    #"In half an hour the 'Investigation Team' gathered at the square: me, Alisa, Lena, Slavya, Ulyana."
-    "Eine halbe Stunde später traf sich das Erkundungsteam auf dem großen Platz: ich, Alisa, Lena, Slavya, Ulyana."
+    #"In half an hour the 'Investigation Team' gathered at the square: me, Alisa, Lena, Slawja, Uljana."
+    "Eine halbe Stunde später traf sich das Erkundungsteam auf dem großen Platz: ich, Alisa, Lena, Slawja, Uljana."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1137
 translate german epilogue_uv_part2_811b54d3:
@@ -5072,8 +5072,8 @@ translate german epilogue_uv_part2_f9473cf8:
 translate german epilogue_uv_part2_556ce63a:
 
     # "Первая к рюкзаку подошла Ульяна и, недовольно фыркая, забрала фонарь и тёплую кофту."
-    #"The first one to come to the backpack was Ulyana. She took a flashlight and a warm jacket, grousing."
-    "Als Erstes näherte sich Ulyana dem Rucksack. Vor Unmut schnaubend nahm sie sich eine warme Jacke und eine Taschenlampe."
+    #"The first one to come to the backpack was Uljana. She took a flashlight and a warm jacket, grousing."
+    "Als Erstes näherte sich Uljana dem Rucksack. Vor Unmut schnaubend nahm sie sich eine warme Jacke und eine Taschenlampe."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1149
 translate german epilogue_uv_part2_3cd3be0e:
@@ -5121,8 +5121,8 @@ translate german epilogue_uv_part2_3372f455:
 translate german epilogue_uv_part2_e2da94f6:
 
     # "Я и не рассчитывал на помощь Ольги Дмитриевны, тем более в её словах была определённая доля правды."
-    #"I didn't count on Olga Dmitrievna's help, especially as there was some truth in her words."
-    "Ich hatte nicht auf Olga Dmitrievnas Hilfe gezählt, besonders, weil in ihren Worten ein wenig Wahrheit lag."
+    #"I didn't count on Olga Dmitrijewna's help, especially as there was some truth in her words."
+    "Ich hatte nicht auf Olga Dmitrijewnas Hilfe gezählt, besonders, weil in ihren Worten ein wenig Wahrheit lag."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1167
 translate german epilogue_uv_part2_6626bed3:
@@ -5204,8 +5204,8 @@ translate german epilogue_uv_part2_162c5d13:
 translate german epilogue_uv_part2_1678d751:
 
     # "Возмутилась Ульяна."
-    #"Ulyana sounded annoyed."
-    "Fragte Ulyana ärgerlich."
+    #"Uljana sounded annoyed."
+    "Fragte Uljana ärgerlich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1187
 translate german epilogue_uv_part2_b1c773b0:
@@ -5232,8 +5232,8 @@ translate german epilogue_uv_part2_7adb53b7:
 translate german epilogue_uv_part2_8b245306:
 
     # "Попыталась урезонить её Славя."
-    #"Slavya tried to reason with her."
-    "Slavya versuchte mit ihr zu diskutieren."
+    #"Slawja tried to reason with her."
+    "Slawja versuchte mit ihr zu diskutieren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1192
 translate german epilogue_uv_part2_857c395f:
@@ -5302,8 +5302,8 @@ translate german epilogue_uv_part2_f948448a:
 translate german epilogue_uv_part2_af746624:
 
     # "Обойдя кусты с другой стороны, я жестом показал Юле следовать за мной и, только убедившись, что мы отошли на достаточное расстояние от остальных и нас никто не видит, сказал:"
-    #"Having walked around the bushes, I gestured to Yulya to follow me and only after making sure we had enough distance from others that they wouldn't see us did I speak."
-    "Nachdem ich um den Busch herum gelaufen war, machte ich eine Geste zu Yulya, dass sie mir folgen soll, und ich stellte sicher, dass wir weit genug von den anderen entfernt waren, damit sie nicht sehen konnten, dass wir miteinander sprechen."
+    #"Having walked around the bushes, I gestured to Yulia to follow me and only after making sure we had enough distance from others that they wouldn't see us did I speak."
+    "Nachdem ich um den Busch herum gelaufen war, machte ich eine Geste zu Yulia, dass sie mir folgen soll, und ich stellte sicher, dass wir weit genug von den anderen entfernt waren, damit sie nicht sehen konnten, dass wir miteinander sprechen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1217
 translate german epilogue_uv_part2_f2554bb0:
@@ -5358,8 +5358,8 @@ translate german epilogue_uv_part2_cce2dbb5:
 translate german epilogue_uv_part2_b528e2bc:
 
     # "Спокойно ответила Юля."
-    #"Yulya replied calmly."
-    "Antwortete Yulya ruhig."
+    #"Yulia replied calmly."
+    "Antwortete Yulia ruhig."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1227
 translate german epilogue_uv_part2_da0567b3:
@@ -5421,8 +5421,8 @@ translate german epilogue_uv_part2_c01f7fd7:
 translate german epilogue_uv_part2_1c70a91b:
 
     # "Возмутилась Юля."
-    #"Yulya was exasperated."
-    "Empörte sich Yulya."
+    #"Yulia was exasperated."
+    "Empörte sich Yulia."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1237
 translate german epilogue_uv_part2_43d1686d:
@@ -5519,8 +5519,8 @@ translate german epilogue_uv_part2_819d8828:
 translate german epilogue_uv_part2_41c98a55:
 
     # "Юля приветливо улыбнулась и помахала хвостом."
-    #"Yulya smiled amiably and waved her tail."
-    "Yulya lächelte liebenswürdig und wedelte mit ihrem Schwanz."
+    #"Yulia smiled amiably and waved her tail."
+    "Yulia lächelte liebenswürdig und wedelte mit ihrem Schwanz."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1253
 translate german epilogue_uv_part2_5de7b061:
@@ -5610,22 +5610,22 @@ translate german epilogue_uv_part2_997bc03d:
 translate german epilogue_uv_part2_2a454c26:
 
     # sl "Семён!"
-    #sl "Semyon!"
-    sl "Semyon!"
+    #sl "Semjon!"
+    sl "Semjon!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1267
 translate german epilogue_uv_part2_5f087d0d:
 
     # "Послышался крик Слави."
-    #"I heard Slavya shouting."
-    "Hörte ich Slavya rufen."
+    #"I heard Slawja shouting."
+    "Hörte ich Slawja rufen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1269
 translate german epilogue_uv_part2_2e9e672c:
 
     # "Я обернулся, а когда вновь посмотрел на то место, где стояла Юля, её там уже не было."
-    #"I turned around and when I looked back at the place where Yulya was standing she had already disappeared."
-    "Ich drehte mich um, und als ich zurücksah, war Yulya bereits von ihrem Platz verschwunden."
+    #"I turned around and when I looked back at the place where Yulia was standing she had already disappeared."
+    "Ich drehte mich um, und als ich zurücksah, war Yulia bereits von ihrem Platz verschwunden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1270
 translate german epilogue_uv_part2_d9f91079:
@@ -5728,8 +5728,8 @@ translate german epilogue_uv_part2_17dea409:
 translate german epilogue_uv_part2_a4fde9ae:
 
     # "Огрызнулась Славя."
-    #"Slavya snarled at her."
-    "Pampte Slavya sie an."
+    #"Slawja snarled at her."
+    "Pampte Slawja sie an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1300
 translate german epilogue_uv_part2_7e935856:
@@ -5784,8 +5784,8 @@ translate german epilogue_uv_part2_0a78c8a6:
 translate german epilogue_uv_part2_610dac36:
 
     # "Ульяна же, испугавшись, спряталась за меня."
-    #"Ulyana got scared and hid behind me."
-    "Ulyana fing an sich zu fürchten und versteckte sich hinter mir."
+    #"Uljana got scared and hid behind me."
+    "Uljana fing an sich zu fürchten und versteckte sich hinter mir."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1313
 translate german epilogue_uv_part2_3f49c33b:
@@ -5805,8 +5805,8 @@ translate german epilogue_uv_part2_f9318593:
 translate german epilogue_uv_part2_75eeb62b:
 
     # "Лена бросилась на Алису, но между ними встала Славя."
-    #"Lena rushed at Alisa, but Slavya stood between them."
-    "Lena rannte auf Alisa zu, doch Slavya stellte sich zwischen die beiden."
+    #"Lena rushed at Alisa, but Slawja stood between them."
+    "Lena rannte auf Alisa zu, doch Slawja stellte sich zwischen die beiden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1321
 translate german epilogue_uv_part2_cc189774:
@@ -5826,8 +5826,8 @@ translate german epilogue_uv_part2_d1a7ebe0:
 translate german epilogue_uv_part2_1689ea1f:
 
     # "В слезах вскрикнула Ульянка."
-    #"Ulyana yelled, in tears."
-    "Schrie Ulyanka unter Tränen."
+    #"Uljana yelled, in tears."
+    "Schrie Uljanka unter Tränen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1325
 translate german epilogue_uv_part2_dfa2690e:
@@ -5840,8 +5840,8 @@ translate german epilogue_uv_part2_dfa2690e:
 translate german epilogue_uv_part2_71564beb:
 
     # "Однако вмешиваться мне не пришлось – непонятно откуда выскочила Юля, в два прыжка оказалась между девочками и хищно зашипела."
-    #"However, I didn't have to interfere, Yulya jumped out from nowhere, got between the girls and hissed in rage."
-    "Doch bevor ich dazwischengehen konnte, tauche Yulya wie aus dem Nichts auf, stellte sich zwischen die Mädchen und fauchte böse."
+    #"However, I didn't have to interfere, Yulia jumped out from nowhere, got between the girls and hissed in rage."
+    "Doch bevor ich dazwischengehen konnte, tauche Yulia wie aus dem Nichts auf, stellte sich zwischen die Mädchen und fauchte böse."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1328
 translate german epilogue_uv_part2_12b53b2f:
@@ -5854,8 +5854,8 @@ translate german epilogue_uv_part2_12b53b2f:
 translate german epilogue_uv_part2_24b87964:
 
     # "Девочки отшатнулись, Алиса завизжала, Славя встала в некое подобие бойцовской стойки, а Лена неизвестно откуда достала нож."
-    #"The girls jumped back. Alisa squealed, Slavya adopted some kind of fighting position and Lena was holding a knife which she'd pulled from God knows where."
-    "Die Mädchen sprangen auseinander. Alisa kreischte, Slavya nahm irgendeine Kampfpose ein und Lena hielt ein Messer in der Hand, das sie von Gott weiß, woher hervorgezogen hatte."
+    #"The girls jumped back. Alisa squealed, Slawja adopted some kind of fighting position and Lena was holding a knife which she'd pulled from God knows where."
+    "Die Mädchen sprangen auseinander. Alisa kreischte, Slawja nahm irgendeine Kampfpose ein und Lena hielt ein Messer in der Hand, das sie von Gott weiß, woher hervorgezogen hatte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1336
 translate german epilogue_uv_part2_405c714f:
@@ -5882,8 +5882,8 @@ translate german epilogue_uv_part2_852891ee:
 translate german epilogue_uv_part2_cdd96158:
 
     # "Было непонятно, обращаются ли они к Юле или ко мне."
-    #"I couldn't tell if she was addressing Yulya or me."
-    "Ich wusste nicht, ob sie mich oder Yulya ansprachen."
+    #"I couldn't tell if she was addressing Yulia or me."
+    "Ich wusste nicht, ob sie mich oder Yulia ansprachen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1340
 translate german epilogue_uv_part2_457e2c5c:
@@ -5931,8 +5931,8 @@ translate german epilogue_uv_part2_314afab1:
 translate german epilogue_uv_part2_6905fe00:
 
     # "Юля всё так же шипела, но теперь уже тише."
-    #"Yulya kept on hissing, but more quietly,"
-    "Yulya fauchte noch immer, nun aber leiser."
+    #"Yulia kept on hissing, but more quietly,"
+    "Yulia fauchte noch immer, nun aber leiser."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1356
 translate german epilogue_uv_part2_1b195105:
@@ -5945,8 +5945,8 @@ translate german epilogue_uv_part2_1b195105:
 translate german epilogue_uv_part2_2ff596a2:
 
     # "Холодно сказала Славя."
-    #"Slavya said coldly."
-    "Sagte Slavya kalt."
+    #"Slawja said coldly."
+    "Sagte Slawja kalt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1358
 translate german epilogue_uv_part2_3183db72:
@@ -5973,8 +5973,8 @@ translate german epilogue_uv_part2_6ccdf245_2:
 translate german epilogue_uv_part2_b1ca2485:
 
     # "Подтвердила Юля."
-    #"Yulya confirmed."
-    "Bestätigte Yulya."
+    #"Yulia confirmed."
+    "Bestätigte Yulia."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1363
 translate german epilogue_uv_part2_6c17c857:
@@ -6043,8 +6043,8 @@ translate german epilogue_uv_part2_0bf17dcb:
 translate german epilogue_uv_part2_a5c34365:
 
     # "Юля перестала шипеть и вновь выглядела безразличной ко всему происходящему."
-    #"Yulya stopped hissing and again looked indifferent to everything around her."
-    "Yulya hörte auf zu fauchen und schaute dann jeden einzelnen gleichgültig an."
+    #"Yulia stopped hissing and again looked indifferent to everything around her."
+    "Yulia hörte auf zu fauchen und schaute dann jeden einzelnen gleichgültig an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1383
 translate german epilogue_uv_part2_505d91ae:
@@ -6147,8 +6147,8 @@ translate german epilogue_uv_part2_ab8b4683:
 translate german epilogue_uv_part2_d0c5e298:
 
     # "Когда я вновь открыл их, передо мной стояла Юля."
-    #"When I opened them again, Yulya stood before me."
-    "Als ich sie wieder öffnete, stand Yulya vor mir."
+    #"When I opened them again, Yulia stood before me."
+    "Als ich sie wieder öffnete, stand Yulia vor mir."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1425
 translate german epilogue_uv_part2_71403012:
@@ -6259,8 +6259,8 @@ translate german epilogue_uv_part2_73cd06af:
 translate german epilogue_uv_part2_6af42011:
 
     # "Юля внимательно посмотрела на меня и села рядом."
-    #"Yulya looked at me intently and sat beside me."
-    "Yulya schaute mich genau an und setzte sich neben mich."
+    #"Yulia looked at me intently and sat beside me."
+    "Yulia schaute mich genau an und setzte sich neben mich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1442
 translate german epilogue_uv_part2_479c6fcf:
@@ -6336,8 +6336,8 @@ translate german epilogue_uv_part2_37b06b96:
 translate german epilogue_uv_part2_be1ebd85:
 
     # "Продолжила Юля, проигнорировав мой вопрос."
-    #"Yulya kept talking, ignoring my question."
-    "Yulya sprach einfach weiter und ignorierte meine Frage."
+    #"Yulia kept talking, ignoring my question."
+    "Yulia sprach einfach weiter und ignorierte meine Frage."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1455
 translate german epilogue_uv_part2_ad623b81:
@@ -6448,8 +6448,8 @@ translate german epilogue_uv_part2_2b8c7e9e:
 translate german epilogue_uv_part2_2cde1e69:
 
     # "Серьёзно сказала Юля."
-    #"Yulya said seriously."
-    "Antwortete Yulya ernst."
+    #"Yulia said seriously."
+    "Antwortete Yulia ernst."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1474
 translate german epilogue_uv_part2_262a8646:
@@ -6490,8 +6490,8 @@ translate german epilogue_uv_part2_19e9263c:
 translate german epilogue_uv_part2_893bd690:
 
     # "Мне очень хотелось понять, что у Юли на уме."
-    #"I really wanted to understand what was on Yulya's mind."
-    "Ich wollte, wirklich verstehen was in Yulyas Kopf vor sich ging."
+    #"I really wanted to understand what was on Yulia's mind."
+    "Ich wollte, wirklich verstehen was in Yulias Kopf vor sich ging."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1482
 translate german epilogue_uv_part2_f9abbf96:
@@ -6560,8 +6560,8 @@ translate german epilogue_uv_part2_8495dc4f:
 translate german epilogue_uv_part2_05864633:
 
     # "Юля залилась звонким смехом."
-    #"Yulya laughed loudly."
-    "Yulya lachte laut."
+    #"Yulia laughed loudly."
+    "Yulia lachte laut."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1495
 translate german epilogue_uv_part2_f798a921:
@@ -6678,8 +6678,8 @@ translate german epilogue_uv_part2_c4ec3c82:
 translate german epilogue_uv_part2_6b67a347:
 
     # "Юля всё это время шла рядом, не проронив ни слова."
-    #"Yulya walked in silence beside me all this time."
-    "Yulya lief schweigend neben mir her."
+    #"Yulia walked in silence beside me all this time."
+    "Yulia lief schweigend neben mir her."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1523
 translate german epilogue_uv_part2_62569e6a:
@@ -6769,22 +6769,22 @@ translate german epilogue_uv_part2_55dee337:
 translate german epilogue_uv_part2_959e8bb8:
 
     # "Ведь даже Юля говорит, что с таким сталкивается впервые!"
-    #"Even Yulya says that she’s seeing all this for the first time!"
-    "Selbst Yulya sagte, dass sie das alles zum ersten Mal sieht!"
+    #"Even Yulia says that she’s seeing all this for the first time!"
+    "Selbst Yulia sagte, dass sie das alles zum ersten Mal sieht!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1542
 translate german epilogue_uv_part2_60491530:
 
     # "Вдруг противно зашипела рация, которую я почему-то всё ещё нёс с собой, и взволнованный голос Ольги Дмитриевны, искажённый помехами, сказал:"
-    #"Suddenly the walkie-talkie I still had with me made a nasty sound and the agitated voice of Olga Dmitrievna said:"
-    "Auf einmal zischte das Funkgerät, das ich aus irgendeinem Grund noch bei mir hatte, und in dem durch Störungen aufgeregte Stimme von Olga Dmitrievna zu hören war:"
+    #"Suddenly the walkie-talkie I still had with me made a nasty sound and the agitated voice of Olga Dmitrijewna said:"
+    "Auf einmal zischte das Funkgerät, das ich aus irgendeinem Grund noch bei mir hatte, und in dem durch Störungen aufgeregte Stimme von Olga Dmitrijewna zu hören war:"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1543
 translate german epilogue_uv_part2_7e5a4c32:
 
     # mt "Семён, приём! Семён!"
-    #mt "Semyon, do you copy? Semyon!"
-    mt "Semyon, kannst du mich hören? Semyon!"
+    #mt "Semjon, do you copy? Semjon!"
+    mt "Semjon, kannst du mich hören? Semjon!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1544
 translate german epilogue_uv_part2_e81bfa10:
@@ -6804,8 +6804,8 @@ translate german epilogue_uv_part2_fc30fd2b:
 translate german epilogue_uv_part2_027e452f:
 
     # mt "Семён, тут такое! Возвращайся скорее!"
-    #mt "Semyon, so much is happening! Come back at once!"
-    mt "Semyon, was Schlimmes ist passiert! Komm, so schnell es geht zurück!"
+    #mt "Semjon, so much is happening! Come back at once!"
+    mt "Semjon, was Schlimmes ist passiert! Komm, so schnell es geht zurück!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1547
 translate german epilogue_uv_part2_d64c8037:
@@ -6846,7 +6846,7 @@ translate german epilogue_uv_part2_095e79da:
 translate german epilogue_uv_part2_9f2bee1d:
 
     # mt "Семён, скорее! Нет времени объяснять! Беда…"
-    #mt "Semyon, hurry! There's no time to explain! It's a disaster..."
+    #mt "Semjon, hurry! There's no time to explain! It's a disaster..."
     mt "Senyon, beeil dich! Es gibt keine Zeit zu verlieren! Es ist ein Desaster…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1557
@@ -6867,8 +6867,8 @@ translate german epilogue_uv_part2_e46e5542:
 translate german epilogue_uv_part2_dbcf576f:
 
     # "Взволнованно спросила Юля."
-    #"Yulya asked, agitated."
-    "Fragte Yulya aufgeregt."
+    #"Yulia asked, agitated."
+    "Fragte Yulia aufgeregt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1561
 translate german epilogue_uv_part2_b6d2279b:
@@ -6930,8 +6930,8 @@ translate german epilogue_uv_part2_75a77f12:
 translate german epilogue_uv_part2_cf213262:
 
     # "Что-то случилось со Славей, с Леной, с Ульяной, даже с Алисой…"
-    #"Something happened to Slavya, to Lena, to Ulyana, even to Alisa..."
-    "Irgend was Schlimmes mit Slavya, mit Lena, mit Ulyana, vielleicht sogar mit Alisa…"
+    #"Something happened to Slawja, to Lena, to Uljana, even to Alisa..."
+    "Irgend was Schlimmes mit Slawja, mit Lena, mit Uljana, vielleicht sogar mit Alisa…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1570
 translate german epilogue_uv_part2_6f66ce9d:
@@ -6965,8 +6965,8 @@ translate german epilogue_uv_part2_3aad34f9:
 translate german epilogue_uv_part2_39c34ac9:
 
     # "И вдруг всё случится так, как и говорила Юля?..{w} Нет, этого тоже допустить нельзя."
-    #"And what if everything went the way Yulya described...?{w} No, I should not allow it."
-    "Und was ist, wenn alles so passiert, wie Yulya gesagt hat…?{w} Nein, das kann ich auch nicht zulassen."
+    #"And what if everything went the way Yulia described...?{w} No, I should not allow it."
+    "Und was ist, wenn alles so passiert, wie Yulia gesagt hat…?{w} Nein, das kann ich auch nicht zulassen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1575
 translate german epilogue_uv_part2_f53442e6:
@@ -6993,8 +6993,8 @@ translate german epilogue_uv_part2_44b18e64:
 translate german epilogue_uv_city_959e0edc:
 
     # "И к чёрту этого «Совёнка»!{w} Не существует никакого лагеря, пионеров!{w} И уже всё равно, почему меня занесло туда, главное – выбраться, да поскорее!"
-    #"Damn that Sovyonok!{w} There is no camp, no pioneers!{w} And it really doesn't matter why I arrived there. My priority is to get out, quickly!"
-    "Verfluchtes Sovyonok!{w} Es gibt kein Lager und keine Pioniere!{w} Und es ist auch völlig egal, warum ich dorthingekommen bin. Wichtig ist doch nur, dass ich hier so schnell wie möglich raus komme."
+    #"Damn that Sowjonok!{w} There is no camp, no pioneers!{w} And it really doesn't matter why I arrived there. My priority is to get out, quickly!"
+    "Verfluchtes Sowjonok!{w} Es gibt kein Lager und keine Pioniere!{w} Und es ist auch völlig egal, warum ich dorthingekommen bin. Wichtig ist doch nur, dass ich hier so schnell wie möglich raus komme."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1592
 translate german epilogue_uv_city_54348e42:
@@ -7014,7 +7014,7 @@ translate german epilogue_uv_city_588dbb53:
 translate german epilogue_uv_city_78170aac:
 
     # "Юля некоторое время внимательно смотрела на меня, но затем сделала несколько шагов вперёд, словно приглашая следовать за ней."
-    #"Yulya stared hard at me for some time, but then took a couple of steps forward, as if inviting me to follow her."
+    #"Yulia stared hard at me for some time, but then took a couple of steps forward, as if inviting me to follow her."
     "Yulia sah mich eine Weile an, machte dann aber ein paar Schritte vorwärts, als wolle sie mich auffordern, ihr zu folgen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1595
@@ -7069,8 +7069,8 @@ translate german epilogue_uv_city_fd94b862:
 translate german epilogue_uv_city_f05fcf4f:
 
     # "Юли рядом не оказалось."
-    #"Yulya wasn't around."
-    "Yulya war nirgends zu sehen."
+    #"Yulia wasn't around."
+    "Yulia war nirgends zu sehen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1611
 translate german epilogue_uv_city_84bca6ed:
@@ -7090,14 +7090,14 @@ translate german epilogue_uv_city_421162ac:
 translate german epilogue_uv_city_8e42683f:
 
     # "... из неё вышла Ольга Дмитриевна!"
-    #"...Olga Dmitrievna stepped out!"
+    #"...Olga Dmitrijewna stepped out!"
     "… und Olga Dmitrevna stieg aus!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1619
 translate german epilogue_uv_city_58184ba9:
 
     # mt "Семён! Почему не вернулся? Я же тебя просила!"
-    #mt "Semyon! Why didn't you come back? I asked you to!"
+    #mt "Semjon! Why didn't you come back? I asked you to!"
     mt "Senmyon! Wieso bist du nicht zurückgekommen? Ich habe dich darum gebeten!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1620
@@ -7201,15 +7201,15 @@ translate german epilogue_uv_city_12d134cd:
 translate german epilogue_uv_city_c8562488:
 
     # "А как же Юля?{w} Я вот так просто оставил её там одну?"
-    #"And what about Yulya?{w} Did I just leave her alone there?"
-    "Und was ist mit Yulya?{w} Habe ich sie einfach alleine gelassen?"
+    #"And what about Yulia?{w} Did I just leave her alone there?"
+    "Und was ist mit Yulia?{w} Habe ich sie einfach alleine gelassen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1642
 translate german epilogue_uv_city_9b99b80c:
 
     # "И ведь в этом автобусе, кажется, поместились все пионеры, бывшие в «Совёнке»!"
-    #"It looked like all the pioneers who had been in Sovyonok had got onto this bus!"
-    "Es sah so aus, als wären alle Pioniere aus Sovyonok hier in diesem Bus!"
+    #"It looked like all the pioneers who had been in Sowjonok had got onto this bus!"
+    "Es sah so aus, als wären alle Pioniere aus Sowjonok hier in diesem Bus!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1643
 translate german epilogue_uv_city_3d477727:
@@ -7397,8 +7397,8 @@ translate german epilogue_uv_city_079e3950:
 translate german epilogue_uv_city_4da0715a:
 
     # "И Славя, и Лена, и Алиса, и Ульяна, и Маша…{w} и Юля!"
-    #"And Slavya, and Lena, and Alisa, and Ulyana, and Masha...{w} and Yulya!"
-    "Und Slavya und Lena und Alisa und Ulyana und Masha…{w} und Yulya!"
+    #"And Slawja, and Lena, and Alisa, and Uljana, and Mascha...{w} and Yulia!"
+    "Und Slawja und Lena und Alisa und Uljana und Mascha…{w} und Yulia!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1692
 translate german epilogue_uv_city_f2e3ea45:
@@ -7432,15 +7432,15 @@ translate german epilogue_uv_city_f51c0761:
 translate german epilogue_uv_city_4455d2a3:
 
     # "Обрывки чувств, тени эмоций, куски воспоминаний – мою жизнь разорвали пополам и неумело сшили обратно, а в итоге получилось что-то вроде той увечной куклы, которую мы нашли с Ульянкой в старом лагере.{w} Подождите… или со Славей?!"
-    #"Scraps of feelings, shadows of emotions, parts of memories. My life was ripped apart and clumsily sewn back together and the result was something like that disfigured doll I had found in the old camp together with Ulyana.{w} Wait... or was it with Slavya?!"
-    "Fetzen von Gefühlen, Schatten von Emotionen, Bruchstücke von Erinnerungen. Mein Leben wurde auseinandergerissen und ungeschickt wieder zusammengenäht und das Ergebnis war so etwas, wie die endstellte Puppe, die ich mit Ulyana im verlassenen Lager gefunden hatte.{w} Moment… oder war es Slavya?!"
+    #"Scraps of feelings, shadows of emotions, parts of memories. My life was ripped apart and clumsily sewn back together and the result was something like that disfigured doll I had found in the old camp together with Uljana.{w} Wait... or was it with Slawja?!"
+    "Fetzen von Gefühlen, Schatten von Emotionen, Bruchstücke von Erinnerungen. Mein Leben wurde auseinandergerissen und ungeschickt wieder zusammengenäht und das Ergebnis war so etwas, wie die endstellte Puppe, die ich mit Uljana im verlassenen Lager gefunden hatte.{w} Moment… oder war es Slawja?!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1697
 translate german epilogue_uv_city_dd9d01a3:
 
     # "Перед глазами вдруг во всех подробностях пронёсся тот ночной поход на поиски Шурика, но при этом я даже не мог вспомнить лица девочки, которая была со мной рядом тогда."
-    #"That night search for Shurik flew before my eyes with all its details, but I couldn't remember the face of a girl who was with me that time."
-    "Die Nacht, in der wir nach Shurik suchten, tauchte plötzlich in allen Details vor meinem Auge auf, doch gleichzeitig konnte ich mich nicht erinner, welches Mädchen mit mir dabei war."
+    #"That night search for Schurik flew before my eyes with all its details, but I couldn't remember the face of a girl who was with me that time."
+    "Die Nacht, in der wir nach Schurik suchten, tauchte plötzlich in allen Details vor meinem Auge auf, doch gleichzeitig konnte ich mich nicht erinner, welches Mädchen mit mir dabei war."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1698
 translate german epilogue_uv_city_d15cc5f5:
@@ -7502,8 +7502,8 @@ translate german epilogue_uv_city_a59d3cd1:
 translate german epilogue_uv_city_e19d7211:
 
     # "Юля!"
-    #"Yulya!"
-    "Yulya!"
+    #"Yulia!"
+    "Yulia!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1707
 translate german epilogue_uv_city_a529acd3:
@@ -7593,8 +7593,8 @@ translate german epilogue_uv_city_91ccfacc:
 translate german epilogue_uv_city_e2eac827:
 
     # "Я не помнил во всех подробностях их внешность из сна, однако причёска Слави…{w} И Ульянка словно стала выше."
-    #"I didn't remember every detail of their appearance in the dream. However, Slavya's hair-do...{w} And Ulyana seemed taller."
-    "Ich konnte mich nicht an alle Details ihres Aussehens in dem Traum erinnern. Aber an Slavyas Frisur schon…{w} Und Ulyanka war jetzt größer."
+    #"I didn't remember every detail of their appearance in the dream. However, Slawja's hair-do...{w} And Uljana seemed taller."
+    "Ich konnte mich nicht an alle Details ihres Aussehens in dem Traum erinnern. Aber an Slawjas Frisur schon…{w} Und Uljanka war jetzt größer."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1730
 translate german epilogue_uv_city_85b6f90b:
@@ -7627,8 +7627,8 @@ translate german epilogue_uv_city_9104ac12:
 translate german epilogue_uv_city_f64f0819:
 
     # "Всело сказала Славя."
-    #"Slavya said happily."
-    "Sagte Slavya fröhlich."
+    #"Slawja said happily."
+    "Sagte Slawja fröhlich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1735
 translate german epilogue_uv_city_aa88bb70:
@@ -7641,7 +7641,7 @@ translate german epilogue_uv_city_aa88bb70:
 translate german epilogue_uv_city_517f79f3:
 
     # "Воскликнула Ульяна."
-    #"Exclaimed Ulyana."
+    #"Exclaimed Uljana."
     "Rief Uliana."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1737
@@ -7683,15 +7683,15 @@ translate german epilogue_uv_city_58da8a51:
 translate german epilogue_uv_city_7418a938:
 
     # "И Славю, тот разговор ночью на остановке."
-    #"And Slavya, that conversation at the night bus-stop."
-    "Und an Slavya und unserer Unterhaltung nachts an der Bushaltestelle."
+    #"And Slawja, that conversation at the night bus-stop."
+    "Und an Slawja und unserer Unterhaltung nachts an der Bushaltestelle."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1743
 translate german epilogue_uv_city_34324030:
 
     # "И Ульяну, нашу встречу в институте."
-    #"And Ulyana. Our encounter at the university."
-    "Und Ulyana und unserer Begegnung an der Universität."
+    #"And Uljana. Our encounter at the university."
+    "Und Uljana und unserer Begegnung an der Universität."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1744
 translate german epilogue_uv_city_4135852b:
@@ -7704,8 +7704,8 @@ translate german epilogue_uv_city_4135852b:
 translate german epilogue_uv_city_68c476d7:
 
     # "И даже Машу в другом мире."
-    #"And even Masha in the other world."
-    "Und auch an Masha in der anderen Welt."
+    #"And even Mascha in the other world."
+    "Und auch an Mascha in der anderen Welt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1746
 translate german epilogue_uv_city_e64bad3c:
@@ -7739,15 +7739,15 @@ translate german epilogue_uv_city_bf9f2b06:
 translate german epilogue_uv_city_ff147745:
 
     # ma "В «Совёнке»."
-    #ma "In Sovyonok."
-    ma "In 'Sovyonok'."
+    #ma "In Sowjonok."
+    ma "In 'Sowjonok'."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1751
 translate german epilogue_uv_city_e9b81946:
 
     # dv "Да-да, в «Совёнке». Так вот, не один!"
-    #dv "Yes, yes, in Sovyonok. You weren't the only one!"
-    dv "Ja, ja, in Sovyonok. Du warst nicht der Einzige!"
+    #dv "Yes, yes, in Sowjonok. You weren't the only one!"
+    dv "Ja, ja, in Sowjonok. Du warst nicht der Einzige!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1752
 translate german epilogue_uv_city_9a17ab72:
@@ -7774,8 +7774,8 @@ translate german epilogue_uv_city_c643907f:
 translate german epilogue_uv_city_5307db81:
 
     # "Славя засмущалась."
-    #"Slavya sounded awkward."
-    "Sagte Slavya verlegen."
+    #"Slawja sounded awkward."
+    "Sagte Slawja verlegen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1756
 translate german epilogue_uv_city_e63f8ffa:
@@ -7830,15 +7830,15 @@ translate german epilogue_uv_city_d04d005c:
 translate german epilogue_uv_city_58742dd8:
 
     # dv "Да хватит тебе! Тысячу раз же говории, что это не он, а какой-то другой Семён!"
-    #dv "Stop it already! I told you a thousand times it wasn't him, it was another Semyon!"
-    dv "Hör auf damit! Ich habe dir schon tausend mal gesagt, dass er das nicht war, es war ein anderer Semyon!"
+    #dv "Stop it already! I told you a thousand times it wasn't him, it was another Semjon!"
+    dv "Hör auf damit! Ich habe dir schon tausend mal gesagt, dass er das nicht war, es war ein anderer Semjon!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1764
 translate german epilogue_uv_city_1c47284d:
 
     # me "Как это «другой Семён»?.."
-    #me "What does that mean, 'another Semyon'...?"
-    me "Was soll das heißen, 'ein anderer Semyon'…?"
+    #me "What does that mean, 'another Semjon'...?"
+    me "Was soll das heißen, 'ein anderer Semjon'…?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1765
 translate german epilogue_uv_city_1ace01ff:
@@ -7872,8 +7872,8 @@ translate german epilogue_uv_city_37bdf439:
 translate german epilogue_uv_city_1678d751:
 
     # "Возмутилась Ульяна."
-    #"Ulyana was outraged."
-    "Empörte sich Ulyana."
+    #"Uljana was outraged."
+    "Empörte sich Uljana."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1770
 translate german epilogue_uv_city_2800154c:
@@ -7948,15 +7948,15 @@ translate german epilogue_uv_city_988a30f2:
 translate german epilogue_uv_city_43800bc3:
 
     # "Наоборот, всё наконец-то встало на свои места! «Совёнок», пионеры, вожатая, эти девочки…"
-    #"Everything fell into place at last! Sovyonok, pioneers, the camp leader, these girls..."
-    "Endlich passte alles zusammen! Sovyonok, die Pioniere, die Lagerleiterin, diese Mädchen…"
+    #"Everything fell into place at last! Sowjonok, pioneers, the camp leader, these girls..."
+    "Endlich passte alles zusammen! Sowjonok, die Pioniere, die Lagerleiterin, diese Mädchen…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1781
 translate german epilogue_uv_city_d37fcc88:
 
     # me "А Юля?"
-    #me "What about Yulya?"
-    me "Was ist mit Yulya?"
+    #me "What about Yulia?"
+    me "Was ist mit Yulia?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1782
 translate german epilogue_uv_city_71927170:
@@ -7969,8 +7969,8 @@ translate german epilogue_uv_city_71927170:
 translate german epilogue_uv_city_f9f2a365:
 
     # me "Юля, девочка-кошка, вы её разве не видели?"
-    #me "Yulya, the cat-girl. Didn't you see her?"
-    me "Yulya, das Katzenmädchen. Habt ihr sie gesehen?"
+    #me "Yulia, the cat-girl. Didn't you see her?"
+    me "Yulia, das Katzenmädchen. Habt ihr sie gesehen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1784
 translate german epilogue_uv_city_2bdb69db:
@@ -7990,8 +7990,8 @@ translate german epilogue_uv_city_e3f80252:
 translate german epilogue_uv_city_d69ea088:
 
     # "Я до сих пор чувствовал, что в чём-то виноват перед Юлей."
-    #"I still felt somewhat guilty about leaving Yulya."
-    "Ich fühlte mich etwas schuldig Yulya zurückgelassen zu haben."
+    #"I still felt somewhat guilty about leaving Yulia."
+    "Ich fühlte mich etwas schuldig Yulia zurückgelassen zu haben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1787
 translate german epilogue_uv_city_09622045:
@@ -8019,7 +8019,7 @@ translate german epilogue_uv_city_e29b42f5:
 
     # ma "Нам рассказал пионер, ну то есть ты, который заявил, что в том сне же давным-давно."
     #ma "The pioneer told us. I mean the you who claimed to have been in that dream for a long time."
-    ma "Der Pionier erzählte es uns. Ich meine den Semyon, der behauptet, schon lange in dem Traum zu sein."
+    ma "Der Pionier erzählte es uns. Ich meine den Semjon, der behauptet, schon lange in dem Traum zu sein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1791
 translate german epilogue_uv_city_d180f7cd:
@@ -8102,8 +8102,8 @@ translate german epilogue_uv_city_a5ee8aa0:
 translate german epilogue_uv_city_85f93595:
 
     # "Ульяна тут же больно ущипнула меня."
-    #"Ulyana pinched me at once."
-    "Ulyana kniff mich feste."
+    #"Uljana pinched me at once."
+    "Uljana kniff mich feste."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1803
 translate german epilogue_uv_city_38b5e0e1:
@@ -8193,8 +8193,8 @@ translate german epilogue_uv_city_056a21ff:
 translate german epilogue_uv_city_5573410f:
 
     # "Оставался лишь вопрос с Юлей.{w} Но, может быть, я знал ответ?{w} Может быть, он просто забылся, как забылось и многое другое."
-    #"Only the question of Yulya still remained.{w} But might I know the answer?{w} I could just forget it, just like I forgot many other things."
-    "Einzig die Frage nach Yulya bleibt offen.{w} Aber könnte ich die Antwort wissen?{w} Ich könnte sie vergessen haben, einfach so, wie ich viele andere Dinge vergessen habe."
+    #"Only the question of Yulia still remained.{w} But might I know the answer?{w} I could just forget it, just like I forgot many other things."
+    "Einzig die Frage nach Yulia bleibt offen.{w} Aber könnte ich die Antwort wissen?{w} Ich könnte sie vergessen haben, einfach so, wie ich viele andere Dinge vergessen habe."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1816
 translate german epilogue_uv_city_087cd72d:
@@ -8312,8 +8312,8 @@ translate german epilogue_uv_ulya_8f6b1a03:
 translate german epilogue_uv_ulya_0726abef:
 
     # "Удивилась Юля."
-    #"Yulya was surprised."
-    "Fragte Yulya überrascht."
+    #"Yulia was surprised."
+    "Fragte Yulia überrascht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1854
 translate german epilogue_uv_ulya_0459b6ff:
@@ -8375,8 +8375,8 @@ translate german epilogue_uv_ulya_8f838576:
 translate german epilogue_uv_ulya_5b06f4d4:
 
     # "Казалось, в Юле что-то переменилось, но не было понятно, что именно."
-    #"Something seemed to have changed in Yulya, but I couldn't understand what it was exactly."
-    "Irgendetwas hatte sich an Yulya geändert, doch ich konnte nicht sagen, was genau es war."
+    #"Something seemed to have changed in Yulia, but I couldn't understand what it was exactly."
+    "Irgendetwas hatte sich an Yulia geändert, doch ich konnte nicht sagen, was genau es war."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1868
 translate german epilogue_uv_ulya_1c771708:
@@ -8459,8 +8459,8 @@ translate german epilogue_uv_ulya_b96afcb5:
 translate german epilogue_uv_ulya_6a9c4595:
 
     # "Юля хищно зашипела и оскалилась. Я отпустил хвост."
-    #"Yulya hissed furiously and bared her teeth. I let go of her tail."
-    "Yulya fauchte und fletschte die Zähne. Ich ließ ihren Schwanz wieder los."
+    #"Yulia hissed furiously and bared her teeth. I let go of her tail."
+    "Yulia fauchte und fletschte die Zähne. Ich ließ ihren Schwanz wieder los."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1884
 translate german epilogue_uv_ulya_7d489e88:
@@ -8515,8 +8515,8 @@ translate german epilogue_uv_ulya_27c22bd1:
 translate german epilogue_uv_ulya_1d8e7c07:
 
     # "Не то чтобы сейчас всё катастрофически плохо, но вдруг этот город никуда не денется? А что там, в лагере? Что означают слова Ольги Дмитриевны по рации? И если я уже решил, то стоит ли сейчас колебаться?"
-    #"It is not that everything is really bad right now, but what if that city doesn't disappear? And what's happening at the camp? What do Olga Dmitrievna's words mean? Should I still hesitate, if I have already decided what to do?"
-    "Es ist ja nicht so, dass momentan alles schlecht ist, doch was ist, wenn die Stadt verschwindet? Und was passiert mit dem Lager? Und was hat Olga Dmitrievna gemeint? Sollte ich noch zögern, wenn ich mich entschieden habe?"
+    #"It is not that everything is really bad right now, but what if that city doesn't disappear? And what's happening at the camp? What do Olga Dmitrijewna's words mean? Should I still hesitate, if I have already decided what to do?"
+    "Es ist ja nicht so, dass momentan alles schlecht ist, doch was ist, wenn die Stadt verschwindet? Und was passiert mit dem Lager? Und was hat Olga Dmitrijewna gemeint? Sollte ich noch zögern, wenn ich mich entschieden habe?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1896
 translate german epilogue_uv_ulya_e744e646:
@@ -8542,8 +8542,8 @@ translate german epilogue_uv_ulya_164351d0:
 translate german epilogue_uv_ulya_cadcee8c:
 
     # "Юля казалась чем-то необычайно довольной."
-    #"Yulya seemed extremely satisfied with something."
-    "Irgendetwas machte Yulya extrem zufrieden."
+    #"Yulia seemed extremely satisfied with something."
+    "Irgendetwas machte Yulia extrem zufrieden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1905
 translate german epilogue_uv_ulya_d7695174:
@@ -8611,14 +8611,14 @@ translate german epilogue_uv_ulya_ce617998_1:
 translate german epilogue_uv_ulya_bc110277:
 
     # "Я сразу понял – что-то не так! – «Совёнок» выглядел покинутым."
-    #"It was clear that something was wrong! Sovyonok seemed abandoned."
-    "Mir war klar, dass irgendetwas nicht stimmte! 'Sovyonok' schien verlassen zu sein."
+    #"It was clear that something was wrong! Sowjonok seemed abandoned."
+    "Mir war klar, dass irgendetwas nicht stimmte! 'Sowjonok' schien verlassen zu sein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1928
 translate german epilogue_uv_ulya_35d98a27:
 
     # "Можно было предположить, что пионеры легли сать, но, кроме фонарей, свет нигде не горел, да и почему на площади нас не встречала вожатая с отрядом химзащиты?"
-    #"I could assume that pioneers went to bed, but there were no lights except the street lamps. And why isn’t Olga Dmitrievna waiting for us here with a biohazard squad?"
+    #"I could assume that pioneers went to bed, but there were no lights except the street lamps. And why isn’t Olga Dmitrijewna waiting for us here with a biohazard squad?"
     "Es war davon auszugehen, dass die Pioniere bereits im Bett waren, doch es brannte nirgends Licht außer die Straßenlaternen. Und warum wartete nicht Olga Dmirievna mit dem Seuchenschutz auf uns?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1929
@@ -8646,8 +8646,8 @@ translate german epilogue_uv_ulya_f10b5d1e:
 translate german epilogue_uv_ulya_3dcb7711:
 
     # "Юля тоже выглядела удивлённой, по-настоящему удивлённой, так что я не стал набрасываться на неё с расспросами."
-    #"Yulya seemed to be surprised too, surprised for real. So I didn't jump at her with questions."
-    "Yulya schien genau so überrascht, sogar sehr überrascht. Also ließ ich es bleiben, sie mit Fragen zu überschütten."
+    #"Yulia seemed to be surprised too, surprised for real. So I didn't jump at her with questions."
+    "Yulia schien genau so überrascht, sogar sehr überrascht. Also ließ ich es bleiben, sie mit Fragen zu überschütten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1940
 translate german epilogue_uv_ulya_0b9c8da0:
@@ -8709,8 +8709,8 @@ translate german epilogue_uv_ulya_990400df:
 translate german epilogue_uv_ulya_1b3b6813:
 
     # "Я бросился в сторону домика Ульяны и Алисы."
-    #"I rushed to the cabin of Ulyana and Alisa."
-    "Ich rannte zur Hütte von Ulyana und Alisa."
+    #"I rushed to the cabin of Uljana and Alisa."
+    "Ich rannte zur Hütte von Uljana und Alisa."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1963
 translate german epilogue_uv_ulya_c80ffad8:
@@ -8786,8 +8786,8 @@ translate german epilogue_uv_ulya_6e6530d1:
 translate german epilogue_uv_ulya_522d9099:
 
     # "Без интереса спросила Юля, всё это время молча сопровождавшая меня."
-    #"Yulya, who had followed me in silence, asked without much interest."
-    "Fragte Yulya uninteressiert, die mir schweigend gefolgt ist."
+    #"Yulia, who had followed me in silence, asked without much interest."
+    "Fragte Yulia uninteressiert, die mir schweigend gefolgt ist."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1989
 translate german epilogue_uv_ulya_e3b9d717:
@@ -8814,8 +8814,8 @@ translate german epilogue_uv_ulya_5d937815:
 translate german epilogue_uv_ulya_dc61ff3f:
 
     # "Я не стал возражать, и через пару секунд Юля бесшумно скрылась в ночи."
-    #"I didn't object and in a moment Yulya silently disappeared in the night."
-    "Ich hatte nichts einzuwenden und einen Moment später verschwand Yulya leise in der Dunkelheit der Nacht."
+    #"I didn't object and in a moment Yulia silently disappeared in the night."
+    "Ich hatte nichts einzuwenden und einen Moment später verschwand Yulia leise in der Dunkelheit der Nacht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:1994
 translate german epilogue_uv_ulya_92c8e965:
@@ -8905,8 +8905,8 @@ translate german epilogue_uv_ulya_8e73390d:
 translate german epilogue_uv_ulya_52297f6e:
 
     # pi "Что, Семён, сидишь пригорюнившись?"
-    #pi "Why the sad face, Semyon?"
-    pi "Wieso das betrübte Gesicht Semyon?"
+    #pi "Why the sad face, Semjon?"
+    pi "Wieso das betrübte Gesicht Semjon?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2017
 translate german epilogue_uv_ulya_d4875625:
@@ -9367,8 +9367,8 @@ translate german epilogue_uv_ulya_5deace4a:
 translate german epilogue_uv_ulya_b956f2ed:
 
     # "На месте пионера стояла Юля."
-    #"Yulya was standing where the pioneer had been standing before."
-    "Yulya stand an der Stelle, an der der Pionier zuvor stand."
+    #"Yulia was standing where the pioneer had been standing before."
+    "Yulia stand an der Stelle, an der der Pionier zuvor stand."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2103
 translate german epilogue_uv_ulya_8c9a0417:
@@ -9409,8 +9409,8 @@ translate german epilogue_uv_ulya_66d35f4b:
 translate german epilogue_uv_ulya_e4fd6319:
 
     # "Если из двух зол выбирать меньшее, то я был готов больше доверять Юле, чем этому таинственному пионеру."
-    #"If I have to choose the lesser evil, then I would rather trust Yulya than that mysterious pioneer."
-    "Wenn ich mich für das kleinere Übel entscheiden muss, dann war ich bereit, Yulya mehr zu vertrauen als diesem Pionier."
+    #"If I have to choose the lesser evil, then I would rather trust Yulia than that mysterious pioneer."
+    "Wenn ich mich für das kleinere Übel entscheiden muss, dann war ich bereit, Yulia mehr zu vertrauen als diesem Pionier."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2110
 translate german epilogue_uv_ulya_b558a3fc:
@@ -9549,8 +9549,8 @@ translate german epilogue_uv_ulya_9f91c876:
 translate german epilogue_uv_ulya_03009af2:
 
     # "Юля сейчас совершенно не напоминала ту странную девочку с ушками, которая посыпала грибы сахаром."
-    #"Yulya now looked nothing like that strange girl with animal ears who was sprinkling sugar on mushrooms."
-    "Yulya wirkte nun so gar nicht mehr wie das seltsame Mädchen mit Katzenohren, das Zucker über Pilze streute."
+    #"Yulia now looked nothing like that strange girl with animal ears who was sprinkling sugar on mushrooms."
+    "Yulia wirkte nun so gar nicht mehr wie das seltsame Mädchen mit Katzenohren, das Zucker über Pilze streute."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2132
 translate german epilogue_uv_ulya_84949186:
@@ -9822,8 +9822,8 @@ translate german epilogue_uv_ulya_36f8874d:
 translate german epilogue_uv_ulya_dd718d6c:
 
     # "Юля недовольно надула губки."
-    #"Yulya pouted her lips."
-    "Yulya verdrehte die Augen."
+    #"Yulia pouted her lips."
+    "Yulia verdrehte die Augen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2181
 translate german epilogue_uv_ulya_e75258a6:
@@ -10080,8 +10080,8 @@ translate german epilogue_uv_ulya_ce617998_2:
 translate german epilogue_uv_ulya_d74a75da:
 
     # "Юля села за стол и посмотрела на меня."
-    #"Yulya sat down at the table and looked at me."
-    "Yulya setze sich ein einen Tisch und schaute mich an."
+    #"Yulia sat down at the table and looked at me."
+    "Yulia setze sich ein einen Tisch und schaute mich an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2235
 translate german epilogue_uv_ulya_3513c03c:
@@ -10199,8 +10199,8 @@ translate german epilogue_uv_ulya_f36628c2:
 translate german epilogue_uv_ulya_30f02899:
 
     # "Найдя в холодильнике упаковку яиц, я крикнул Юле:"
-    #"I found a carton of eggs in a fridge and called out to Yulya:"
-    "Im Kühlschrank fand ich keinen Karton mit Eiern und rief zu Yulya raus:"
+    #"I found a carton of eggs in a fridge and called out to Yulia:"
+    "Im Kühlschrank fand ich keinen Karton mit Eiern und rief zu Yulia raus:"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2256
 translate german epilogue_uv_ulya_8908e489:
@@ -10255,8 +10255,8 @@ translate german epilogue_uv_ulya_2e254a1c:
 translate german epilogue_uv_ulya_05c7e10a:
 
     # "А если что, Юля меня защитит."
-    #"And in case of unexpected problems Yulya will protect me."
-    "Und falls es unvorhergesehene Probleme gibt, wird Yulya mich beschützen."
+    #"And in case of unexpected problems Yulia will protect me."
+    "Und falls es unvorhergesehene Probleme gibt, wird Yulia mich beschützen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2268
 translate german epilogue_uv_ulya_ee05990f:
@@ -10339,8 +10339,8 @@ translate german epilogue_uv_ulya_7e790588:
 translate german epilogue_uv_ulya_6b572d3d:
 
     # "Недовольно ответила Юля."
-    #"Yulya answered angrily."
-    "Entgegnete Yulya böse."
+    #"Yulia answered angrily."
+    "Entgegnete Yulia böse."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2291
 translate german epilogue_uv_ulya_5ffa82a0:
@@ -10416,8 +10416,8 @@ translate german epilogue_uv_ulya_ba6a7718:
 translate german epilogue_uv_ulya_57f0d6d3:
 
     # "В конце концов, многоликость Юли хоть и была одной из многочисленных загадок всего происходящего, но далеко не главной."
-    #"In the end, although the fact that Yulya had many faces was just one mystery among many others happening here, it was definitely not the main one."
-    "Letztendlich ist die Tatsache, dass Yulya viele Gesichter hat, auch nur ein Geheimnis von den vielen hier, aber sicherlich nicht das wichtigste."
+    #"In the end, although the fact that Yulia had many faces was just one mystery among many others happening here, it was definitely not the main one."
+    "Letztendlich ist die Tatsache, dass Yulia viele Gesichter hat, auch nur ein Geheimnis von den vielen hier, aber sicherlich nicht das wichtigste."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2304
 translate german epilogue_uv_ulya_eef3f95b:
@@ -10598,8 +10598,8 @@ translate german epilogue_uv_ulya_60f3d758_2:
 translate german epilogue_uv_ulya_088f9ff2:
 
     # "Я внимательно посмотрел на Юлю."
-    #"I looked keenly at Yulya."
-    "Ich schaute Yulya aufmerksam an."
+    #"I looked keenly at Yulia."
+    "Ich schaute Yulia aufmerksam an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2334
 translate german epilogue_uv_ulya_d8abb286:
@@ -10668,8 +10668,8 @@ translate german epilogue_uv_ulya_83a6f072:
 translate german epilogue_uv_ulya_802fc6e1:
 
     # "Юля почесала ушки."
-    #"Yulya scratched her cat ears."
-    "Yulya kratze sich an ihrem Katzenohr."
+    #"Yulia scratched her cat ears."
+    "Yulia kratze sich an ihrem Katzenohr."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2348
 translate german epilogue_uv_ulya_9b21e657:
@@ -10765,8 +10765,8 @@ translate german epilogue_uv_ulya_1b88e3de:
 translate german epilogue_uv_ulya_de0a7798:
 
     # "Юля села рядом."
-    #"Yulya sat next to me."
-    "Yulya setzte sich neben mich."
+    #"Yulia sat next to me."
+    "Yulia setzte sich neben mich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2370
 translate german epilogue_uv_ulya_5ea21bc9:
@@ -10814,7 +10814,7 @@ translate german epilogue_uv_ulya_d577923b:
 translate german epilogue_uv_ulya_066199aa:
 
     # "Юля, похоже, не слушала меня и…{w} начала раздеваться."
-    #"But Yulya seemed to not hear me and...{w} started to undress."
+    #"But Yulia seemed to not hear me and...{w} started to undress."
     "Doch Yula schien mir nicht zuzuhören und…{w} fing an, sich auszuziehen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2378
@@ -10891,8 +10891,8 @@ translate german epilogue_uv_ulya_5187f093:
 translate german epilogue_uv_ulya_b82d4c86:
 
     # "Я обернулся. Юля уже стояла по шею в воде."
-    #"I turned around. Yulya was already in the water up to her neck."
-    "Ich drehte mich rum. Yulya stand bereits bis zum Hals im Wasser."
+    #"I turned around. Yulia was already in the water up to her neck."
+    "Ich drehte mich rum. Yulia stand bereits bis zum Hals im Wasser."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2391
 translate german epilogue_uv_ulya_059a514d:
@@ -10947,8 +10947,8 @@ translate german epilogue_uv_ulya_21c8990f:
 translate german epilogue_uv_ulya_85e87f2d:
 
     # "Взволнованно сказала Юля."
-    #"Yulya said excitedly."
-    "Sagte Yulya ganz aufgeregt."
+    #"Yulia said excitedly."
+    "Sagte Yulia ganz aufgeregt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2399
 translate german epilogue_uv_ulya_c105b60f:
@@ -10975,8 +10975,8 @@ translate german epilogue_uv_ulya_36ed3616:
 translate german epilogue_uv_ulya_8e053d85:
 
     # "Я отвернулся и в ту же секунду почувствовал, как Юля обняла меня."
-    #"I turned around and at the same moment I felt Yulya hug me."
-    "Ich drehte mich um, und im gleichen Moment spürte ich, wie sich Yulya an mich drückte."
+    #"I turned around and at the same moment I felt Yulia hug me."
+    "Ich drehte mich um, und im gleichen Moment spürte ich, wie sich Yulia an mich drückte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2409
 translate german epilogue_uv_ulya_846952dc:
@@ -11024,8 +11024,8 @@ translate german epilogue_uv_ulya_ef505b03:
 translate german epilogue_uv_ulya_d4c218f1:
 
     # "Ноги сами собой подкосились, и я начал уходить под воду.{w} Юля поддержала меня."
-    #"My legs buckled, and I started to go under the water.{w} Yulya held me up."
-    "Meine Knie wurden weich und ich tauchte im Wasser ab.{w} Yulya hielt mich hoch."
+    #"My legs buckled, and I started to go under the water.{w} Yulia held me up."
+    "Meine Knie wurden weich und ich tauchte im Wasser ab.{w} Yulia hielt mich hoch."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2416
 translate german epilogue_uv_ulya_7035f158:
@@ -11108,8 +11108,8 @@ translate german epilogue_uv_ulya_1bdbd74a:
 translate german epilogue_uv_ulya_9ff69ab7:
 
     # "Я попытался отпрянуть, но Юля крепко держала меня."
-    #"I tried to pull myself away, but Yulya held me tight."
-    "Ich versuchte mich loszureißen, doch Yulya hielt mich fest."
+    #"I tried to pull myself away, but Yulia held me tight."
+    "Ich versuchte mich loszureißen, doch Yulia hielt mich fest."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2428
 translate german epilogue_uv_ulya_055bd048:
@@ -11214,8 +11214,8 @@ translate german epilogue_uv_ulya_ec8b60db:
 translate german epilogue_uv_ulya_fdd16430:
 
     # "Засмеялась Юля."
-    #"Yulya laughed."
-    "Yulya lachte."
+    #"Yulia laughed."
+    "Yulia lachte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2443
 translate german epilogue_uv_ulya_31308d65:
@@ -11228,8 +11228,8 @@ translate german epilogue_uv_ulya_31308d65:
 translate german epilogue_uv_ulya_c62be51e:
 
     # "Получается, у Юли всё же есть память о том, что с ней было до лагеря?"
-    #"Could it be that Yulya still has memories about her time before the camp?"
-    "Konnte es sein, dass Yulya noch Erinnerungen an ihre Zeit vor dem Lager hat?"
+    #"Could it be that Yulia still has memories about her time before the camp?"
+    "Konnte es sein, dass Yulia noch Erinnerungen an ihre Zeit vor dem Lager hat?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2445
 translate german epilogue_uv_ulya_1c773453:
@@ -11263,8 +11263,8 @@ translate german epilogue_uv_ulya_8d8c4af3:
 translate german epilogue_uv_ulya_0191cc8f:
 
     # "Вывод один – Юля, скорее всего, такой же пленник этого лагеря, как и я.{w} Пусть и более загадочный."
-    #"The only conclusion is that Yulya seems to be a prisoner in this camp, the same as I.{w} Just a more mysterious one."
-    "Die einzige Schlussfolgerung ist, dass Yulya genau so in diesem Lager gefangen ist, wie ich.{w} Sie ist nur eben mysteriösere."
+    #"The only conclusion is that Yulia seems to be a prisoner in this camp, the same as I.{w} Just a more mysterious one."
+    "Die einzige Schlussfolgerung ist, dass Yulia genau so in diesem Lager gefangen ist, wie ich.{w} Sie ist nur eben mysteriösere."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2450
 translate german epilogue_uv_ulya_89471135:
@@ -11286,8 +11286,8 @@ translate german epilogue_uv_ulya_750ac835:
 translate german epilogue_uv_ulya_3fb50882:
 
     # "Тогда Юля не была для меня всемогущим существом, в свох объятиях я сжимал обычную девочку."
-    #"At that moment Yulya was not an all-powerful being to me, I was holding an ordinary girl in my arms."
-    "In diesem Moment war Yulya kein allmächtiges Wesen für mich, ich hielt ein ganz normales Mädchen in den Armen."
+    #"At that moment Yulia was not an all-powerful being to me, I was holding an ordinary girl in my arms."
+    "In diesem Moment war Yulia kein allmächtiges Wesen für mich, ich hielt ein ganz normales Mädchen in den Armen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2461
 translate german epilogue_uv_ulya_a20cefa7:
@@ -11299,8 +11299,8 @@ translate german epilogue_uv_ulya_a20cefa7:
 translate german epilogue_uv_ulya_d70204eb:
 
     # "Я отнёс спящую Юлю к себе в домик.{w} Она оказалась на удивление лёгкой."
-    #"I brought the sleeping Yulya to my cabin.{w} She was surprisingly light."
-    "Ich trug die schlafende Yulya in meine Hütte.{w} Sie war überraschend leicht."
+    #"I brought the sleeping Yulia to my cabin.{w} She was surprisingly light."
+    "Ich trug die schlafende Yulia in meine Hütte.{w} Sie war überraschend leicht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2470
 translate german epilogue_uv_ulya_a4ad8aa8:
@@ -11320,8 +11320,8 @@ translate german epilogue_uv_ulya_e40d9ea3:
 translate german epilogue_uv_ulya_e74c6a6a:
 
     # "Тихо, чтобы не будить Юлю, я встал с кровати, натянул шорты и вышел из домика."
-    #"Quietly, so as not to wake Yulya up, I got out of bed, pulled on my shorts and went outside."
-    "Leise, um nicht Yulya zu wecken, stand ich auf, zog meine Shorts an und verließ die Hütte."
+    #"Quietly, so as not to wake Yulia up, I got out of bed, pulled on my shorts and went outside."
+    "Leise, um nicht Yulia zu wecken, stand ich auf, zog meine Shorts an und verließ die Hütte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2479
 translate german epilogue_uv_ulya_4e13b8c2:
@@ -11355,8 +11355,8 @@ translate german epilogue_uv_ulya_edf2e8e3:
 translate german epilogue_uv_ulya_77a3bfd6:
 
     # "Если даже Юля и мало чем отличается от меня, она, можно сказать, ближе к тому, кто (или что) стоит за всем этим.{w} Хот бы потому что знает больше меня."
-    #"Even if Yulya was a little different from me, we could say, she was closer to who (or what) was behind all this.{w} Just because she knows more than me."
-    "Selbst wenn sich Yulya nur ein wenig von mir unterschied, konnte man sagen, dass sie näher an dem (oder das) war, was hinter all dem hier steckt.{w} Schon allein, weil sie mehr wusste, als ich."
+    #"Even if Yulia was a little different from me, we could say, she was closer to who (or what) was behind all this.{w} Just because she knows more than me."
+    "Selbst wenn sich Yulia nur ein wenig von mir unterschied, konnte man sagen, dass sie näher an dem (oder das) war, was hinter all dem hier steckt.{w} Schon allein, weil sie mehr wusste, als ich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2484
 translate german epilogue_uv_ulya_ec7e2bac:
@@ -11424,8 +11424,8 @@ translate german epilogue_uv_ulya_d3bd0899_1:
 translate german epilogue_uv_ulya_1b8a1e41:
 
     # "Вспомнились слова Юли о том, что он не сможет причинить мне никкого физического вреда, и я немного успокоился."
-    #"I remembered that Yulya told me that he can’t do me any physical harm, and I calmed down a bit."
-    "Ich erinnerte mich daran, dass Yulya mir erzählte, er könne mir nichts Physisches antun und ich beruhigte mich ein wenig."
+    #"I remembered that Yulia told me that he can’t do me any physical harm, and I calmed down a bit."
+    "Ich erinnerte mich daran, dass Yulia mir erzählte, er könne mir nichts Physisches antun und ich beruhigte mich ein wenig."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2500
 translate german epilogue_uv_ulya_2a3661e7:
@@ -11494,8 +11494,8 @@ translate german epilogue_uv_ulya_02007f83:
 translate german epilogue_uv_ulya_e1e64156:
 
     # "Я чувствовал сильную привязанность к Юле, поэтому не раздумывая заступился за неё."
-    #"I felt a strong attachment to Yulya, so I didn't hesitate to stand up for her."
-    "Ich verspürte eine starke Verbindung zu Yulya, sodass ich nicht zögern würde, mich für sie einzusetzen."
+    #"I felt a strong attachment to Yulia, so I didn't hesitate to stand up for her."
+    "Ich verspürte eine starke Verbindung zu Yulia, sodass ich nicht zögern würde, mich für sie einzusetzen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2510
 translate german epilogue_uv_ulya_cba6f894:
@@ -11508,8 +11508,8 @@ translate german epilogue_uv_ulya_cba6f894:
 translate german epilogue_uv_ulya_25dedf39:
 
     # me "Юля…"
-    #me "Yulya..."
-    me "Yulya…"
+    #me "Yulia..."
+    me "Yulia…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2512
 translate german epilogue_uv_ulya_fefef18f:
@@ -11522,8 +11522,8 @@ translate german epilogue_uv_ulya_fefef18f:
 translate german epilogue_uv_ulya_cf46188f:
 
     # pi "Юля?!"
-    #pi "Yulya?!"
-    pi "Yulya?!"
+    #pi "Yulia?!"
+    pi "Yulia?!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2515
 translate german epilogue_uv_ulya_73e6bc8d:
@@ -11571,8 +11571,8 @@ translate german epilogue_uv_ulya_4e88db3f:
 translate german epilogue_uv_ulya_ba66f329:
 
     # pi "Что же тебе эта Юля рассказала?"
-    #pi "And what has the so-called Yulya told you?"
-    pi "Und was hat die sogenannte Yulya dir erzählt?"
+    #pi "And what has the so-called Yulia told you?"
+    pi "Und was hat die sogenannte Yulia dir erzählt?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2523
 translate german epilogue_uv_ulya_2dd45817:
@@ -11662,8 +11662,8 @@ translate german epilogue_uv_ulya_cd917d11:
 translate german epilogue_uv_ulya_97dc66db:
 
     # "Я был уверен, что Юля ничего от меня не скрывала, но в моём положении любая информация будет полезной."
-    #"I was sure that Yulya had no secrets from me, but in my situation any information could be useful."
-    "Ich war mir sicher, dass Yulya keine Geheimnisse vor mir hat, doch in meiner Situation konnte jede Information nützlich sein."
+    #"I was sure that Yulia had no secrets from me, but in my situation any information could be useful."
+    "Ich war mir sicher, dass Yulia keine Geheimnisse vor mir hat, doch in meiner Situation konnte jede Information nützlich sein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2536
 translate german epilogue_uv_ulya_5f0edde5:
@@ -11795,8 +11795,8 @@ translate german epilogue_uv_ulya_aba701a6:
 translate german epilogue_uv_ulya_021b03c0:
 
     # "Вернувшис в домик, я застал Юлю, тщательно расчёсывающую свой хвост."
-    #"I returned to the cabin and found Yulya, carefully combing her tail."
-    "Zurück in der Hütte fand ich Yulya, wie sie sich sorgfältig ihren Schwanz kämmte."
+    #"I returned to the cabin and found Yulia, carefully combing her tail."
+    "Zurück in der Hütte fand ich Yulia, wie sie sich sorgfältig ihren Schwanz kämmte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2563
 translate german epilogue_uv_ulya_9364ca36:
@@ -11851,8 +11851,8 @@ translate german epilogue_uv_ulya_4d5b668d:
 translate german epilogue_uv_ulya_92ef5f8d:
 
     # "Юля ничего не ответила."
-    #"Yulya didn't answer anything."
-    "Yulya antwortete nicht."
+    #"Yulia didn't answer anything."
+    "Yulia antwortete nicht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2571
 translate german epilogue_uv_ulya_3581e356:
@@ -11920,8 +11920,8 @@ translate german epilogue_uv_ulya_63937d5a:
 translate german epilogue_uv_ulya_0734e246:
 
     # "Я сел на скамейку, а Юя положила голову мне на колени и уставилась на небо."
-    #"I sat on the bench, and Yulya put her head in my lap and stared at the sky."
-    "Ich setzte mich auf eine Bank und Yulya legte ihre Hand in meinen Schoß und schaute in die Sterne."
+    #"I sat on the bench, and Yulia put her head in my lap and stared at the sky."
+    "Ich setzte mich auf eine Bank und Yulia legte ihre Hand in meinen Schoß und schaute in die Sterne."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2594
 translate german epilogue_uv_ulya_5c9504e1:
@@ -12088,8 +12088,8 @@ translate german epilogue_uv_ulya_733740cb:
 translate german epilogue_uv_ulya_1c70a91b:
 
     # "Возмутилась Юя."
-    #"Yulya protested."
-    "Protestierte Yulya."
+    #"Yulia protested."
+    "Protestierte Yulia."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2618
 translate german epilogue_uv_ulya_55b0a935:
@@ -12165,8 +12165,8 @@ translate german epilogue_uv_ulya_50cdb6bd:
 translate german epilogue_uv_ulya_6c4c0225:
 
     # "Юля больно ударила меня под рёбра."
-    #"Yulya hit me painfully in the ribs."
-    "Yulya schlug mir schmerzhaft zwischen die Rippen."
+    #"Yulia hit me painfully in the ribs."
+    "Yulia schlug mir schmerzhaft zwischen die Rippen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2629
 translate german epilogue_uv_ulya_1a723568:
@@ -12262,8 +12262,8 @@ translate german epilogue_uv_ulya_c5c1cbec:
 translate german epilogue_uv_ulya_21be8af1:
 
     # "аконец Юля сказала:"
-    #"Finally Yulya said:"
-    "Schließlich meinte Yulya:"
+    #"Finally Yulia said:"
+    "Schließlich meinte Yulia:"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2646
 translate german epilogue_uv_ulya_c4f8d6ec:
@@ -12367,8 +12367,8 @@ translate german epilogue_uv_ulya_83ff6f89:
 translate german epilogue_uv_ulya_dde67e73:
 
     # "С этими словами Юля бойко зашагала в сторону домика вожатой."
-    #"With these words, Yulya marched briskly towards the camp leader’s cabin."
-    "Mit diesen Worten marschierte Yulya geradewegs zur Hütte der Lagerleiterin."
+    #"With these words, Yulia marched briskly towards the camp leader’s cabin."
+    "Mit diesen Worten marschierte Yulia geradewegs zur Hütte der Lagerleiterin."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2669
 translate german epilogue_uv_ulya_197dfa8a:
@@ -12394,8 +12394,8 @@ translate german epilogue_uv_ulya_ce617998_7:
 translate german epilogue_uv_ulya_e426ad6a:
 
     # "Зайдя в домик, Юля разделась и залезла с головой под одеяло."
-    #"After entering the cabin Yulya immediately undressed, snuck into the bed and pulled the blanket over her head."
-    "Nachdem Yulya die Hütte erreichte, zog sie sich aus, kroch in das Bett und zog sich die Decke über den Kopf."
+    #"After entering the cabin Yulia immediately undressed, snuck into the bed and pulled the blanket over her head."
+    "Nachdem Yulia die Hütte erreichte, zog sie sich aus, kroch in das Bett und zog sich die Decke über den Kopf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2680
 translate german epilogue_uv_ulya_beb6a4da:
@@ -12436,8 +12436,8 @@ translate german epilogue_uv_ulya_c41d257d:
 translate german epilogue_uv_ulya_54256e31:
 
     # "Скомандовала Юля."
-    #"Commanded Yulya."
-    "Befahl Yulya."
+    #"Commanded Yulia."
+    "Befahl Yulia."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2688
 translate german epilogue_uv_ulya_b03955ac:
@@ -12485,8 +12485,8 @@ translate german epilogue_uv_ulya_ecbc37b5:
 translate german epilogue_uv_ulya_54f753f7:
 
     # "Я бегал по «Совёнку» взад и вперёд, словно силясь найти кого-то.{w} Но кого именно – осталось для меня тайной."
-    #"I ran through Sovyonok back and forth, as if trying to find someone.{w} But exactly who remained a mystery to me."
-    "Ich rannte in Sovyonok auf und ab, als versuchte ich jemanden zu finden.{w} Doch wen genau blieb ein Rätzel."
+    #"I ran through Sowjonok back and forth, as if trying to find someone.{w} But exactly who remained a mystery to me."
+    "Ich rannte in Sowjonok auf und ab, als versuchte ich jemanden zu finden.{w} Doch wen genau blieb ein Rätzel."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2712
 translate german epilogue_uv_ulya_ef297c74:
@@ -12520,8 +12520,8 @@ translate german epilogue_uv_ulya_7e0b301d:
 translate german epilogue_uv_ulya_5bd995a8:
 
     # "Повернувшись на другой бок, я увидел мирно спящую рядом со мной Юлю."
-    #"Turning to the other side I saw Yulya, sleeping peacefully next to me."
-    "Ich drehte mich auf die andere Seite und sah Yulya friedlich neben mir schlafen."
+    #"Turning to the other side I saw Yulia, sleeping peacefully next to me."
+    "Ich drehte mich auf die andere Seite und sah Yulia friedlich neben mir schlafen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2723
 translate german epilogue_uv_ulya_85ea5c99:
@@ -12534,8 +12534,8 @@ translate german epilogue_uv_ulya_85ea5c99:
 translate german epilogue_uv_ulya_b5c033aa:
 
     # "Сказала Юля, не открывая глаза."
-    #"Said Yulya, without opening her eyes."
-    "Sagte Yulya ohne die Augen zu öffnen."
+    #"Said Yulia, without opening her eyes."
+    "Sagte Yulia ohne die Augen zu öffnen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2725
 translate german epilogue_uv_ulya_658bead9:
@@ -12716,8 +12716,8 @@ translate german epilogue_uv_ulya_bf9129e5_1:
 translate german epilogue_uv_ulya_6935bf62:
 
     # "Юля подпёрла бока руками и недовольно посмотрела на меня."
-    #"Yulya stood arms akimbo and looked at me resentfully."
-    "Yulya stützte ihre Hände in die Seiten und schaute mich verärgert an."
+    #"Yulia stood arms akimbo and looked at me resentfully."
+    "Yulia stützte ihre Hände in die Seiten und schaute mich verärgert an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2759
 translate german epilogue_uv_ulya_1bc3348a:
@@ -12757,8 +12757,8 @@ translate german epilogue_uv_ulya_ce617998_8:
 translate german epilogue_uv_ulya_cd0c429e:
 
     # "Спустя пару минут мы стояли на той же лесной поляне, где Юля позавчера посыпала грибок сахаром."
-    #"A few minutes later we were standing in the same forest glade, where the day before Yulya had been sprinking a mushroom with sugar."
-    "Ein paar Minuten später standen wir in der gleichen Waldlichtung, in der Yulya tags zuvor Zucker auf die Pilze gestreut hat."
+    #"A few minutes later we were standing in the same forest glade, where the day before Yulia had been sprinking a mushroom with sugar."
+    "Ein paar Minuten später standen wir in der gleichen Waldlichtung, in der Yulia tags zuvor Zucker auf die Pilze gestreut hat."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2771
 translate german epilogue_uv_ulya_2dad5b75:
@@ -12813,8 +12813,8 @@ translate german epilogue_uv_ulya_d9056b1a:
 translate german epilogue_uv_ulya_1331401f:
 
     # "Непринуждённо улыбнувшись, сказала Юля, показывая пальцем на мешок."
-    #"Said Yulya, pointing at a sack with an easy smile."
-    "Sagte Yulya und zeigte mit einem Lächeln auf den Sack."
+    #"Said Yulia, pointing at a sack with an easy smile."
+    "Sagte Yulia und zeigte mit einem Lächeln auf den Sack."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2781
 translate german epilogue_uv_ulya_59d43f12:
@@ -12897,8 +12897,8 @@ translate german epilogue_uv_ulya_1d232d3e:
 translate german epilogue_uv_ulya_58312911:
 
     # "Юля задумалась."
-    #"Yulya thought a little."
-    "Yulya dachte einen Moment nach."
+    #"Yulia thought a little."
+    "Yulia dachte einen Moment nach."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2795
 translate german epilogue_uv_ulya_fd4177df:
@@ -12967,8 +12967,8 @@ translate german epilogue_uv_ulya_eb28f6df:
 translate german epilogue_uv_ulya_62526242:
 
     # "Воскликнула Юля."
-    #"Exclaimed Yulya."
-    "Rief Yulya."
+    #"Exclaimed Yulia."
+    "Rief Yulia."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2807
 translate german epilogue_uv_ulya_75383d27:
@@ -12995,8 +12995,8 @@ translate german epilogue_uv_ulya_8894ed1f:
 translate german epilogue_uv_ulya_f848c25b:
 
     # "Пробубнил я себе под нос, стараясь, чтобы Юля не услышала."
-    #"I muttered under my breath trying to make Yulya not hear it."
-    "Nörgelte ich leise und versuchte es Yulya nicht hören zu lassen."
+    #"I muttered under my breath trying to make Yulia not hear it."
+    "Nörgelte ich leise und versuchte es Yulia nicht hören zu lassen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2812
 translate german epilogue_uv_ulya_cf87a84d:
@@ -13050,8 +13050,8 @@ translate german epilogue_uv_ulya_95c684b4:
 translate german epilogue_uv_ulya_d7b798a9:
 
     # "Юля крутилась вокруг меня и смотрела, как я готовлю."
-    #"Yulya flittered around me, watching me cook."
-    "Yulya lief um mich herum und sah mir beim Kochen zu."
+    #"Yulia flittered around me, watching me cook."
+    "Yulia lief um mich herum und sah mir beim Kochen zu."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2827
 translate german epilogue_uv_ulya_eb7752aa:
@@ -13127,8 +13127,8 @@ translate german epilogue_uv_ulya_5e40bb44:
 translate german epilogue_uv_ulya_920e0bc4:
 
     # "Судя по тому, как Юля уплетала картошку, ей правда пришлась по вкусу моя нехитрая стряпня."
-    #"Judging by the way Yulya was demolishing the potatoes, she actually enjoyed my simple culinary creation."
-    "Nach der Art zu urteilen, wie Yulya die Kartoffeln aß, mochte sie meine einfache Hausmannskost."
+    #"Judging by the way Yulia was demolishing the potatoes, she actually enjoyed my simple culinary creation."
+    "Nach der Art zu urteilen, wie Yulia die Kartoffeln aß, mochte sie meine einfache Hausmannskost."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2845
 translate german epilogue_uv_ulya_31397184:
@@ -13169,8 +13169,8 @@ translate german epilogue_uv_ulya_442d1b23:
 translate german epilogue_uv_ulya_13170ccd:
 
     # "Юля развела руками по сторонам и засмеялась."
-    #"Yulya spread her hands to the sides and laughed."
-    "Yulya breitete die Hände zu den Seiten aus und lachte."
+    #"Yulia spread her hands to the sides and laughed."
+    "Yulia breitete die Hände zu den Seiten aus und lachte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2853
 translate german epilogue_uv_ulya_86f5a471:
@@ -13288,8 +13288,8 @@ translate german epilogue_uv_ulya_7a792120:
 translate german epilogue_uv_ulya_a0ab92e9:
 
     # "Закончила за меня Юля."
-    #"Yulya finished for me."
-    "Beendete Yulya meinen Satz."
+    #"Yulia finished for me."
+    "Beendete Yulia meinen Satz."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2874
 translate german epilogue_uv_ulya_fc30fd2b_1:
@@ -13476,8 +13476,8 @@ translate german epilogue_uv_ulya_c17bf6e0:
 translate german epilogue_uv_ulya_75fc6814:
 
     # "Юля подгоняла и подбадривала меня, однако от этого мне становилось только хуже."
-    #"Yulya hurried and encouraged me, but it was just making things worse."
-    "Yulya hielt an, mich zu ermutigen, doch das machte alles nur noch schlimmer."
+    #"Yulia hurried and encouraged me, but it was just making things worse."
+    "Yulia hielt an, mich zu ermutigen, doch das machte alles nur noch schlimmer."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2910
 translate german epilogue_uv_ulya_0e135c3b:
@@ -13567,8 +13567,8 @@ translate german epilogue_uv_ulya_bedf97cb:
 translate german epilogue_uv_ulya_42a3ce3a:
 
     # "Юля же говорила, что он приедет только ближе к ночи."
-    #"Yulya told me that it would arrive closer to the night."
-    "Yulya sagte mir, dass er erst gegen Abend kommen würde."
+    #"Yulia told me that it would arrive closer to the night."
+    "Yulia sagte mir, dass er erst gegen Abend kommen würde."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2925
 translate german epilogue_uv_ulya_eb16fe39:
@@ -13602,8 +13602,8 @@ translate german epilogue_uv_ulya_13faf4dc:
 translate german epilogue_uv_ulya_3a532c56:
 
     # "Юля легко вскочила на первую ступеньку и жестом пригласила меня последовать за ней."
-    #"Yulya easily jumped onto the first step and gestured for me to follow her."
-    "Yulya sprang auf die erste Stufe und machte eine Geste, mir zu folgen."
+    #"Yulia easily jumped onto the first step and gestured for me to follow her."
+    "Yulia sprang auf die erste Stufe und machte eine Geste, mir zu folgen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2937
 translate german epilogue_uv_ulya_a7b876ab:
@@ -13685,8 +13685,8 @@ translate german epilogue_uv_ulya_e6421b37:
 translate german epilogue_uv_ulya_43dae48d:
 
     # "Юля всё это время о чём-то непрерывно болтала, но я её не слушал."
-    #"Yulya was constantly chattering about something, but I wasn’t listening."
-    "Yulya redete permanent über irgendetwas, doch ich hörte nicht zu."
+    #"Yulia was constantly chattering about something, but I wasn’t listening."
+    "Yulia redete permanent über irgendetwas, doch ich hörte nicht zu."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2955
 translate german epilogue_uv_ulya_ca1945f3:
@@ -13734,8 +13734,8 @@ translate german epilogue_uv_ulya_8f838576_2:
 translate german epilogue_uv_ulya_6a4e1b53:
 
     # "Кошачьи уши, ритмично дёргающиеся взад и вперёд, длинный хвост, несколько увеличенные клыки – сейчас Юля казалась персонажем из сказки."
-    #"Cat ears, a long tail that moved rhythmically back and forth, slightly enlarged fangs. Yulya seems like a character from a fairy tale."
-    "Katzenohren, ein langer Schwanz, der rhythmisch vor und zurück wedelte, etwas längere Eckzähne. Yulya sah aus wie ein Wesen aus einem Märchen."
+    #"Cat ears, a long tail that moved rhythmically back and forth, slightly enlarged fangs. Yulia seems like a character from a fairy tale."
+    "Katzenohren, ein langer Schwanz, der rhythmisch vor und zurück wedelte, etwas längere Eckzähne. Yulia sah aus wie ein Wesen aus einem Märchen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2963
 translate german epilogue_uv_ulya_ad15388e:
@@ -14006,8 +14006,8 @@ translate german epilogue_uv_ulya_c7d80c45:
 translate german epilogue_uv_ulya_ae142e7e:
 
     # "Юля прижалась ко мне."
-    #"Yulya leaned against me."
-    "Yulya lehnte sich an mich."
+    #"Yulia leaned against me."
+    "Yulia lehnte sich an mich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3030
 translate german epilogue_uv_ulya_134e4880:
@@ -14097,8 +14097,8 @@ translate german epilogue_uv_ulya_1c13dd09:
 translate german epilogue_uv_ulya_55396f10:
 
     # "Юля показала пальцем на мешок, валявшийся в проходе."
-    #"Yulya pointed at the bag, lying in the aisle."
-    "Yulya zeigte auf den Sack, der im Gang lag."
+    #"Yulia pointed at the bag, lying in the aisle."
+    "Yulia zeigte auf den Sack, der im Gang lag."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3046
 translate german epilogue_uv_ulya_621c7bd3:
@@ -14139,8 +14139,8 @@ translate german epilogue_uv_ulya_b3557c43:
 translate german epilogue_uv_ulya_b0ef2520:
 
     # "С любопытством сказала Юля, взяв мобильник."
-    #"Yulya asked curiously, taking the mobile."
-    "Fragte Yulya mich neugierig und nahm das Telefon."
+    #"Yulia asked curiously, taking the mobile."
+    "Fragte Yulia mich neugierig und nahm das Telefon."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3053
 translate german epilogue_uv_ulya_589cf2f8:
@@ -14230,8 +14230,8 @@ translate german epilogue_uv_ulya_f5e62b0b:
 translate german epilogue_uv_ulya_a540e1eb:
 
     # "Юля ничего не ответила, а лишь, раскрыв рот, уставилась куда-то вперёд."
-    #"Yulya said nothing, but just stared straight forward with her eyes wide open."
-    "Yulya antwortete nicht, sie starrte nur nach vorne mit weit aufgerissenen Augen."
+    #"Yulia said nothing, but just stared straight forward with her eyes wide open."
+    "Yulia antwortete nicht, sie starrte nur nach vorne mit weit aufgerissenen Augen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3075
 translate german epilogue_uv_ulya_9a70d2e5:
@@ -14279,8 +14279,8 @@ translate german epilogue_uv_ulya_131aff14:
 translate german epilogue_uv_ulya_1d2d7a9b:
 
     # "Юля сильно сжала мою руку."
-    #"Yulya squeezed my hand."
-    "Yulya drückte meine Hand."
+    #"Yulia squeezed my hand."
+    "Yulia drückte meine Hand."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3082
 translate german epilogue_uv_ulya_71296442:
@@ -14342,8 +14342,8 @@ translate german epilogue_uv_ulya_ede926b3:
 translate german epilogue_uv_ulya_60f8aa06:
 
     # "Придя в себя, услышал я крик Юли."
-    #"I heard Yulya's shout just as I regained my senses."
-    "Hörte ich Yulya schreien, als ich wieder zu mir kam."
+    #"I heard Yulia's shout just as I regained my senses."
+    "Hörte ich Yulia schreien, als ich wieder zu mir kam."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3095
 translate german epilogue_uv_ulya_2b71358d:
@@ -14356,8 +14356,8 @@ translate german epilogue_uv_ulya_2b71358d:
 translate german epilogue_uv_ulya_8de32484:
 
     # pi "Привет, Семён! А мы вот тоже решили вернуться «домой»."
-    #pi "Hi, Semyon! We have decided to go back 'home' too."
-    pi "Hallo Semyon! Wir haben uns auch entschlossen zurück 'nach Hause' zu kehren."
+    #pi "Hi, Semjon! We have decided to go back 'home' too."
+    pi "Hallo Semjon! Wir haben uns auch entschlossen zurück 'nach Hause' zu kehren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3100
 translate german epilogue_uv_ulya_2dbb2a67:
@@ -14398,8 +14398,8 @@ translate german epilogue_uv_ulya_43efcd48:
 translate german epilogue_uv_ulya_a067eaab:
 
     # "Ни Юля, ни город, ни исчезновение пионеров, ни этот странный некто, стоящий передо мной, ни в какое сравнение не шли с этим…"
-    #"Neither Yulya, nor the city, nor the disappearance of pioneers, nor this strange person standing before me, were comparable with this..."
-    "Weder Yulya, noch die Stadt, noch das Verschwinden der Pioniere, noch diese seltsame Person, die vor mir stand, konnte man hiermit vergleichen…"
+    #"Neither Yulia, nor the city, nor the disappearance of pioneers, nor this strange person standing before me, were comparable with this..."
+    "Weder Yulia, noch die Stadt, noch das Verschwinden der Pioniere, noch diese seltsame Person, die vor mir stand, konnte man hiermit vergleichen…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3106
 translate german epilogue_uv_ulya_af6577bb:
@@ -14412,7 +14412,7 @@ translate german epilogue_uv_ulya_af6577bb:
 translate german epilogue_uv_ulya_b9e0f9fd:
 
     # "Похоже, Юля была в состоянии говорить.{w} Немудрено, в конце концов, она тоже являлась, ак сказать, сказочным существом."
-    #"Seems like Yulya was still able to speak clearly.{w} Not a surprise. In the end she was still, you could say, an extraordinary being."
+    #"Seems like Yulia was still able to speak clearly.{w} Not a surprise. In the end she was still, you could say, an extraordinary being."
     "Es schien, als wäre sie in der Lage deutlich zu sprechen.{w} Das ist keine Überraschung. Letztendlich ist sie, wenn man das so sagen kann, ein außergewöhnliches Wesen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3108
@@ -14503,8 +14503,8 @@ translate german epilogue_uv_ulya_d438c040:
 translate german epilogue_uv_ulya_f5fb328d:
 
     # "Юля закричала так, что у меня заложило уши, однако ни пионер, ни его спутники никак не отреагировали."
-    #"Yulya shouted so loud that my ears rang. But neither the pioneer nor his companions reacted."
-    "Yulya schrie so laut, dass mir die Ohren klingelten. Doch weder der Pionier noch seine Begleiter reagierten."
+    #"Yulia shouted so loud that my ears rang. But neither the pioneer nor his companions reacted."
+    "Yulia schrie so laut, dass mir die Ohren klingelten. Doch weder der Pionier noch seine Begleiter reagierten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3122
 translate german epilogue_uv_ulya_98717eb9:
@@ -14594,8 +14594,8 @@ translate german epilogue_uv_ulya_c8ba98b9:
 translate german epilogue_uv_ulya_f00f1e41:
 
     # "Вновь заорала Юля."
-    #"Yulya shouted again."
-    "Schrie Yulya wieder."
+    #"Yulia shouted again."
+    "Schrie Yulia wieder."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3135
 translate german epilogue_uv_ulya_7f35eb53:
@@ -14741,8 +14741,8 @@ translate german epilogue_uv_ulya_651e05d0:
 translate german epilogue_uv_ulya_ec2d2644:
 
     # "Юля не нашлась, что ответить."
-    #"Yulya didn't know how to answer."
-    "Yulya wusste nicht, was sie antworten sollte."
+    #"Yulia didn't know how to answer."
+    "Yulia wusste nicht, was sie antworten sollte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3158
 translate german epilogue_uv_ulya_20807278:
@@ -14762,8 +14762,8 @@ translate german epilogue_uv_ulya_5d22fc9e:
 translate german epilogue_uv_ulya_88523b73:
 
     # "Злобно зашипела Юля."
-    #"Yulya hissed."
-    "Yulya fauchte wütend."
+    #"Yulia hissed."
+    "Yulia fauchte wütend."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3161
 translate german epilogue_uv_ulya_f501ead7:
@@ -14783,8 +14783,8 @@ translate german epilogue_uv_ulya_2b07621f:
 translate german epilogue_uv_ulya_3d9eb82e:
 
     # "Юля вскочила, но я остановил её."
-    #"Yulya jumped up, but I stopped her."
-    "Yulya sprang auf, doch ich hielt sie auf."
+    #"Yulia jumped up, but I stopped her."
+    "Yulia sprang auf, doch ich hielt sie auf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3165
 translate german epilogue_uv_ulya_83d116b4:
@@ -14846,8 +14846,8 @@ translate german epilogue_uv_ulya_a78021fb:
 translate german epilogue_uv_ulya_c9107c2d:
 
     # "Грустно сказала Юля."
-    #"Yulya said in a sad voice."
-    "Sagte Yulya traurig."
+    #"Yulia said in a sad voice."
+    "Sagte Yulia traurig."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3175
 translate german epilogue_uv_ulya_065ddf5d:
@@ -14908,8 +14908,8 @@ translate german epilogue_uv_ulya_a6d65f6d:
 translate german epilogue_uv_ulya_27bb93cc:
 
     # "Мы с Юлей тоже молчали."
-    #"Me and Yulya stayed silent too."
-    "Ich und Yulya schwiegen ebenfalls."
+    #"Me and Yulia stayed silent too."
+    "Ich und Yulia schwiegen ebenfalls."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3191
 translate german epilogue_uv_ulya_b8a45f9a:
@@ -14963,8 +14963,8 @@ translate german epilogue_uv_ulya_ce617998_14:
 translate german epilogue_uv_ulya_79c1defa:
 
     # "Я услышал тихое посапывание Юли – она заснула."
-    #"I heard a quiet snoring from Yulya - she'd fallen asleep."
-    "Ich hörte Yulya leise schnarchen – sie war eingeschlafen."
+    #"I heard a quiet snoring from Yulia - she'd fallen asleep."
+    "Ich hörte Yulia leise schnarchen – sie war eingeschlafen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3205
 translate german epilogue_uv_ulya_7ac9cad9:
@@ -15113,8 +15113,8 @@ translate german epilogue_uv_ulya_8f5b6bf9:
 translate german epilogue_uv_ulya_592b8e1f:
 
     # bush "Семён… Семён…"
-    #bush "Semyon... Semyon..."
-    bush "Semyon… Semyon…"
+    #bush "Semjon... Semjon..."
+    bush "Semjon… Semjon…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3246
 translate german epilogue_uv_ulya_e79d0fd5:
@@ -15228,9 +15228,9 @@ translate german epilogue_uv_ulya_aa801636:
     # nvl clear
     # "Лагеря… Да, я помню! Пионерлагерь «Совёнок»! Внезапно все последние семь дней ясно всплыли у меня перед глазами. И то, как я уезжал оттуда вместе с Юлей…"
     #nvl clear
-    #"Camp… Yes, I remember! The Sovyonok pioneer camp! Suddenly I remembered the last seven days. I remembered how I was leaving there, together with Yulya."
+    #"Camp… Yes, I remember! The Sowjonok pioneer camp! Suddenly I remembered the last seven days. I remembered how I was leaving there, together with Yulia."
     nvl clear
-    "Lager… Ja, ich erinnere mich! Das Sovyonok Pionierlager! Plötzlich erinnerte ich mich an die vergangenen sieben Tage. Ich erinnerte mich, wie ich das Lager verließ, zusammen mit Yulya."
+    "Lager… Ja, ich erinnere mich! Das Sowjonok Pionierlager! Plötzlich erinnerte ich mich an die vergangenen sieben Tage. Ich erinnerte mich, wie ich das Lager verließ, zusammen mit Yulia."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3264
 translate german epilogue_uv_ulya_72917697:
@@ -15243,8 +15243,8 @@ translate german epilogue_uv_ulya_72917697:
 translate german epilogue_uv_ulya_66bc60d2:
 
     # bush "Юля?"
-    #bush "Yulya?"
-    bush "Yulya?"
+    #bush "Yulia?"
+    bush "Yulia?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3266
 translate german epilogue_uv_ulya_fc30fd2b_2:
@@ -15309,8 +15309,8 @@ translate german epilogue_uv_ulya_44de386e:
 translate german epilogue_uv_ulya_be28a3d4:
 
     # "И после этих слов тысячи картин, образов, запахов, мыслей и чувств всплыли у меня в голове. Точно, лагерь! Ведь я действительно там уже был! Со Славей, с Леной, с Алисой, с Ульянкой, с Машей… И потом… Но как? Ведь я точно помню, что уехал оттуда и вернулся в реальный мир. А потом встретил на остановке Славю… Нет, точнее, Ульянку в институте. Да нет, Алису на концерте! Но ведь я прожил много лет с Леной! Нет, у меня была совсем другая жизнь с Машей. Как же такое возможно? Я в мельчайших подробностях помню все события, которых хватит как минимум на пять жизней. Но ведь все они происходили параллельно… И тем не менее они реальны, я уверен!"
-    #"After these words, thousands of pictures, images, smells, thoughts reappeared in my mind. The camp! I was there for real! With Slavya, with Lena, with Alisa, with Ulyana, with Masha... And then... But how? I clearly remember that I left it and came back to the real world. And then I met Slavya at a bus stop... No, I met Ulyana at the university. No, I met Alisa at a concert! But I had lived with Lena for so many years! No, I had a completely different life with Masha. How is all that even possible? I remembered events of almost five lifespans in the smallest of details. But everything happened simultaneously... And I am sure that it was all real!"
-    "Nach diesen Worten schossen mir Tausende von Bildern, Vorstellungen, Gerüche, Gedanken und Gefühle durch den Kopf. Das Lager! Ich war tatsächlich dort! Mit Slavya, mit Lena, mit Alica, mit Ulyanka, mit Masha… Und dann… Aber wie? Ich kann mich genau daran erinnern, dass ich das Lager verließ und in meine Welt zurückkehrte. Und dann traf ich Slavya an der Bushaltestelle… Nein, ich traf Ulyanka in der Universität. Nein, ich traf Alica auf dem Konzert! Aber ich habe doch so viele Jahre mit Lena zusammen gelebt! Nein, ich hatte ein komplett anderes Leben mit Masha. Wie ist das alles möglich? Ich erinnere mich sehr detailliert an Ereignisse für fünf Leben. Aber sie passierte alle gleichzeitig… Und sie sind real, da bin ich mir sicher!"
+    #"After these words, thousands of pictures, images, smells, thoughts reappeared in my mind. The camp! I was there for real! With Slawja, with Lena, with Alisa, with Uljana, with Mascha... And then... But how? I clearly remember that I left it and came back to the real world. And then I met Slawja at a bus stop... No, I met Uljana at the university. No, I met Alisa at a concert! But I had lived with Lena for so many years! No, I had a completely different life with Mascha. How is all that even possible? I remembered events of almost five lifespans in the smallest of details. But everything happened simultaneously... And I am sure that it was all real!"
+    "Nach diesen Worten schossen mir Tausende von Bildern, Vorstellungen, Gerüche, Gedanken und Gefühle durch den Kopf. Das Lager! Ich war tatsächlich dort! Mit Slawja, mit Lena, mit Alica, mit Uljanka, mit Mascha… Und dann… Aber wie? Ich kann mich genau daran erinnern, dass ich das Lager verließ und in meine Welt zurückkehrte. Und dann traf ich Slawja an der Bushaltestelle… Nein, ich traf Uljanka in der Universität. Nein, ich traf Alica auf dem Konzert! Aber ich habe doch so viele Jahre mit Lena zusammen gelebt! Nein, ich hatte ein komplett anderes Leben mit Mascha. Wie ist das alles möglich? Ich erinnere mich sehr detailliert an Ereignisse für fünf Leben. Aber sie passierte alle gleichzeitig… Und sie sind real, da bin ich mir sicher!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3276
 translate german epilogue_uv_ulya_63fe795d:
@@ -15447,8 +15447,8 @@ translate german epilogue_uv_ulya_0c39b064:
 translate german epilogue_uv_ulya_eb217c40:
 
     # bush "Я – это ты, но много времени спустя. Времени не в твом понимании. Я выше вас всех. Можешь считать меня главным Семёном."
-    #bush "I am you, but from long time after. Not time as you see it. I am beyond and above all of you. You can consider me the prime Semyon."
-    bush "Ich bin du, aber aus einer Zeit lange danach. Nicht die Zeit, wie du sie siehst. Ich bin dahinter und über euch allen. Du kannst mich als den ersten Semyon betrachten."
+    #bush "I am you, but from long time after. Not time as you see it. I am beyond and above all of you. You can consider me the prime Semjon."
+    bush "Ich bin du, aber aus einer Zeit lange danach. Nicht die Zeit, wie du sie siehst. Ich bin dahinter und über euch allen. Du kannst mich als den ersten Semjon betrachten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3297
 translate german epilogue_uv_ulya_82187263:
@@ -15520,8 +15520,8 @@ translate german epilogue_uv_ulya_b81c8065:
 translate german epilogue_uv_ulya_f9d2f152:
 
     # me "Ну а где всё-таки Юля?"
-    #me "Anyway, where is Yulya?"
-    me "Und wo ist Yulya überhaupt?"
+    #me "Anyway, where is Yulia?"
+    me "Und wo ist Yulia überhaupt?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3308
 translate german epilogue_uv_ulya_e4066547_1:
@@ -15555,8 +15555,8 @@ translate german epilogue_uv_ulya_05dc229b:
 translate german epilogue_uv_ulya_f7dbb331:
 
     # bush "Юля – это твой внутренний мир, твоё подсознание, обретшее форму."
-    #bush "Yulya is your inner world, your conciousness which had gained a form."
-    bush "Yulya ist deine innere Welt, dein Bewusstsein, das eine Form angenommen hat."
+    #bush "Yulia is your inner world, your conciousness which had gained a form."
+    bush "Yulia ist deine innere Welt, dein Bewusstsein, das eine Form angenommen hat."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3313
 translate german epilogue_uv_ulya_ad9639d3:
@@ -15770,9 +15770,9 @@ translate german epilogue_uv_ulya_1424cf31:
     # nvl clear
     # "Я закрыл глаза и явственно увидел улыбающуюся Славю. Она всегда мне помогала, ни в чём не упрекала, с ней легко и комфортно. И та встреча на остановке… Наверное, я никогда не задумывался, как с ней будет в реальной жизни. А будет прекрасно, я уверен!"
     #nvl clear
-    #"I closed my eyes and clearly imagined Slavya smiling at me. She was always willing to help me, and never scolded me for anything. It is always calm and safe being with her. And that meeting at the bus stop… I guess I never thought about being with her in real life. But that would amazing, I’m sure!"
+    #"I closed my eyes and clearly imagined Slawja smiling at me. She was always willing to help me, and never scolded me for anything. It is always calm and safe being with her. And that meeting at the bus stop… I guess I never thought about being with her in real life. But that would amazing, I’m sure!"
     nvl clear
-    "Ich schloss die Augen und stellte mir Slavya vor, wie sie lächelte. Sie war immer hilfsbereit und hat mich nie für irgendetwas ausgeschimpft. Mit ihr zusammen zu sein ist ruhig und sicher. Und das Treffen an der Bushaltestelle… Ich glaube ich habe nie daran gedacht im realen Leben mit ihr zusammen zu sein. Aber es wäre unglaublich. Da bin ich mir sicher!"
+    "Ich schloss die Augen und stellte mir Slawja vor, wie sie lächelte. Sie war immer hilfsbereit und hat mich nie für irgendetwas ausgeschimpft. Mit ihr zusammen zu sein ist ruhig und sicher. Und das Treffen an der Bushaltestelle… Ich glaube ich habe nie daran gedacht im realen Leben mit ihr zusammen zu sein. Aber es wäre unglaublich. Da bin ich mir sicher!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3349
 translate german epilogue_uv_ulya_c62fe1c5:
@@ -15800,9 +15800,9 @@ translate german epilogue_uv_ulya_a8c0d905:
     # nvl clear
     # "Повзрослевшая Ульяна тоже казалась неплохим вариантом. Конечно, тогда, в лагере, я не воспринимал её как женщину, но теперь... Естественно, в ней много недостатков, но в то же время что-то неотвратимо пивлекает. Словно какая-то магия."
     #nvl clear
-    #"The grown-up Ulyana seemed like a good option too. Of course, back in the camp I didn’t treat her as a woman, but now… Obviously, she’s got her cons, but at the same time there was a sense of magic in her, something attractive."
+    #"The grown-up Uljana seemed like a good option too. Of course, back in the camp I didn’t treat her as a woman, but now… Obviously, she’s got her cons, but at the same time there was a sense of magic in her, something attractive."
     nvl clear
-    "Die erwachsene Ulyana könnte es auch sein. Natürlich im Lager hätte ich sie niemals wie eine erwachsene Frau behandeln doch jetzt… möglicherweise. Sie hat ihre Nachteile aber gleichzeitig trägt sie ein Gespür von Magie in sich. Irgendwie attraktiv."
+    "Die erwachsene Uljana könnte es auch sein. Natürlich im Lager hätte ich sie niemals wie eine erwachsene Frau behandeln doch jetzt… möglicherweise. Sie hat ihre Nachteile aber gleichzeitig trägt sie ein Gespür von Magie in sich. Irgendwie attraktiv."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3355
 translate german epilogue_uv_ulya_248b80e1:
@@ -15810,9 +15810,9 @@ translate german epilogue_uv_ulya_248b80e1:
     # nvl clear
     # "Да и Мику… Маша, из той, другой, жизни. Она была дорога мне, по-настоящему дорога. Может быть, {i}там{/i} лагерь – это всего лишь эпизод, и я совсем не такой, как в остальных вариантах, но ведь это даже к лучшему! Новые возможности, перспективы и любимый человек, которого знаешь как будто всю жизнь."
     #nvl clear
-    #"And of course Miku… Masha from that other life. She was truly precious to me. Maybe back {i}there{/i} the camp is just a small episode and I might be a completely different person from myself in all the other paths, but that’s for the best! New opportunities, possibilities and that person I love, a person who I seemingly knew my entire life."
+    #"And of course Miku… Mascha from that other life. She was truly precious to me. Maybe back {i}there{/i} the camp is just a small episode and I might be a completely different person from myself in all the other paths, but that’s for the best! New opportunities, possibilities and that person I love, a person who I seemingly knew my entire life."
     nvl clear
-    "Und dann natürlich Miku… Masha aus dem anderen Leben. Sie war wirklich wertvoll für mich. Vielleicht war es {i}dort{/i} im Lager nur eine kuze Episode und ich war ein komplett anderer Mensch als auf allen anderen Wegen, aber das ist das Beste! Neue Gelegenheiten, Möglichkeiten und die Person, die ich Liebe und anscheinend schon mein ganzes Leben lang kenne."
+    "Und dann natürlich Miku… Mascha aus dem anderen Leben. Sie war wirklich wertvoll für mich. Vielleicht war es {i}dort{/i} im Lager nur eine kuze Episode und ich war ein komplett anderer Mensch als auf allen anderen Wegen, aber das ist das Beste! Neue Gelegenheiten, Möglichkeiten und die Person, die ich Liebe und anscheinend schon mein ganzes Leben lang kenne."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3357
 translate german epilogue_uv_ulya_1f451166:
@@ -15820,9 +15820,9 @@ translate german epilogue_uv_ulya_1f451166:
     # nvl clear
     # "Но всё равно жаль, что я больше никогда не увижу Юлю…"
     #nvl clear
-    #"But it is still sad that I will never see Yulya again…"
+    #"But it is still sad that I will never see Yulia again…"
     nvl clear
-    "Doch es ist wirklich traurig, dass ich Yulya nie wieder sehen werde…"
+    "Doch es ist wirklich traurig, dass ich Yulia nie wieder sehen werde…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3359
 translate german epilogue_uv_ulya_1805ca4b:
@@ -15949,8 +15949,8 @@ translate german epilogue_uv_ulya_b9d89c90:
 translate german epilogue_uv_ulya_8b728ec7:
 
     # "Я почувствовал, как Юля исчезла, скрывшись в лабиринте моего разума."
-    #"I felt Yulya disappear, vanishing in the labyrinth of my mind."
-    "Ich spürte, wie Yulya im Labyrinth meines Gestes verschwand."
+    #"I felt Yulia disappear, vanishing in the labyrinth of my mind."
+    "Ich spürte, wie Yulia im Labyrinth meines Gestes verschwand."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:3378
 translate german epilogue_uv_ulya_3d5436bd:

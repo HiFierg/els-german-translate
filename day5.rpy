@@ -1893,7 +1893,7 @@ translate german day5_clubs_81589db2:
 
     # "Тем временем руководитель кружка кибернетики, ещё вчера казавшийся безумным, выглядел вполне нормально.{w} Можно даже сказать – свежо."
     #"Meanwhile the head of the cybernetics club was looking fine even after yesterday's madness.{w} One could even say he was looking fresh."
-    "Inzwischen schien sich der Präsident des Kybernetikclubs von seinem gestrigen Wahnsinn wieder erholt zu haben.{w} Man konnte sogar sagen, er wirkte ausgeruht."
+    "Inzwischen schien sich der Präsident des Kybernetik-Clubs von seinem gestrigen Wahnsinn wieder erholt zu haben.{w} Man konnte sogar sagen, er wirkte ausgeruht."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:559
 translate german day5_clubs_2ddd0bed:
@@ -5262,7 +5262,7 @@ translate german day5_clubs_2_a869bd00:
 
     # "Мне не хотелось строить теорий – для чего светилам лагерной кибернетики могло понадобиться это устройств."
     #"I didn't want to make up theories about purpose of such a device for luminaries of camp cybernetics."
-    "Ich wollte keine Theorien darüber aufstellen, wie die Kybernetikkoryphäen des Lagers dieses Gerät zu verwenden gedachten."
+    "Ich wollte keine Theorien darüber aufstellen, wie die Kybernetik-Koryphäen des Lagers dieses Gerät zu verwenden gedachten."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1411
 translate german day5_clubs_2_c69b15fb:
@@ -8439,7 +8439,7 @@ translate german day5_main3_a2ade9c9:
 
     # sh "Слушай, мы сейчас с Ольгой Дмитриевной обсуждали перспективы развития кружка кибернетики…"
     #sh "Look, we've been discussing the possibilities for the advancement of the cybernetics club with Olga Dmitrijewna…"
-    sh "Sieh mal, wir haben gerade mit Olga Dmitrijewna über die Entwicklungsmöglichkeiten des Kybernetikclubs geredet..."
+    sh "Schau, wir haben gerade mit Olga Dmitrijewna über die Entwicklungsmöglichkeiten des Kybernetik-Clubs geredet..."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:2187
 translate german day5_main3_13f2497e:

@@ -205,8 +205,8 @@ translate german epilogue_main_571f5d50:
 translate german epilogue_main_c4b53f19:
 
     # "Что же, может, у Ольги Дмитриевны найдётся бритва…"
-    #"Well, perhaps Olga Dmitrievna has a razor..."
-    "Nun, vielleicht hat Olga Dmitrievna ja einen Rasierer…"
+    #"Well, perhaps Olga Dmitrijewna has a razor..."
+    "Nun, vielleicht hat Olga Dmitrijewna ja einen Rasierer…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:51
 translate german epilogue_main_602cb68c:
@@ -488,8 +488,8 @@ translate german epilogue_main_295da44b:
 translate german epilogue_main_8ffdf5b6:
 
     # "{i}Привет, Семён! Классно вчера посидели! Ты нас не забывай, звони почаще!))){/i}"
-    #"{i}Hi Semyon! Yesterday... It was legendary! CU L8R! :))){/i}"
-    "{i}Hallo Semyon! Die Zeit, die wir gestern verbracht habe, war echt toll! Vergiss uns nicht und ruf mal an! :))){/i}"
+    #"{i}Hi Semjon! Yesterday... It was legendary! CU L8R! :))){/i}"
+    "{i}Hallo Semjon! Die Zeit, die wir gestern verbracht habe, war echt toll! Vergiss uns nicht und ruf mal an! :))){/i}"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:102
 translate german epilogue_main_da755414:
@@ -1340,8 +1340,8 @@ translate german epilogue_un_bad_c9575f91:
 translate german epilogue_un_bad_95da6ae5:
 
     # "Впрочем, сейчас он казался мне не более реальным, чем пионерлагерь «Совёнок»."
-    #"However, now it didn’t seem any more real to me than the Sovyonok pioneer camp."
-    "Allerdings kam es mir jetzt nicht realer vor als das Sovyonok Pionierlager."
+    #"However, now it didn’t seem any more real to me than the Sowjonok pioneer camp."
+    "Allerdings kam es mir jetzt nicht realer vor als das Sowjonok Pionierlager."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:294
 translate german epilogue_un_bad_f7d76256:
@@ -2813,8 +2813,8 @@ translate german epilogue_un_good_8ae8f091:
 translate german epilogue_un_good_88e5892d:
 
     # "С такими мыслями я встал и направился к домику Ольги Дмитриевны, чтобы закинуть свои нехитрые пожитки в мешок и навсегда отбыть из пионерлагеря «Совёнок»."
-    #"With such thoughts I stood up and started walking to Olga Dmitrievna's cabin in order to pack my humble belongings and leave the Sovyonok pioneer camp forever."
-    "Mit diesen Gedanken stand ich auf und ging zu Olga Dmitrievnas Hütte, um meine wenigen Sachen in eine Tasche zu stopfen und das Pionierlager Sovyonok für immer zu verlassen."
+    #"With such thoughts I stood up and started walking to Olga Dmitrijewna's cabin in order to pack my humble belongings and leave the Sowjonok pioneer camp forever."
+    "Mit diesen Gedanken stand ich auf und ging zu Olga Dmitrijewnas Hütte, um meine wenigen Sachen in eine Tasche zu stopfen und das Pionierlager Sowjonok für immer zu verlassen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:562
 translate german epilogue_un_good_ce617998:
@@ -2951,8 +2951,8 @@ translate german epilogue_un_good_5f973fa2:
 translate german epilogue_un_good_7676e0eb:
 
     # "Частный извоз на копейке, доставшейся от тестя, много денег не приносил, и я уже был готов пойти работать вожатым в «Совёнок», как неожиданно умерла какая-то троюродная тетя двоюродной бабушки Лены, оставив ей в наследство однокомнатную квартиру где-то в центральной России."
-    #"Moonlighting as a private driver in the 'Kopeyka' rattletrap I inherited from my father-in-law was not really a profitable business. I was even ready to apply for a camp leader position in Sovyonok, when Lena's distant relative died and left us a one-room apartment somewhere in Central Russia."
-    "Aus Geldmangel war ich sogar bereit, eine Stelle als Leiter in Sovyonok an zu nehmen, als ein entfernter Verwandter von Lena starb und uns eine Einzimmerwohnung irgendwo in Zentralrussland hinterließ."
+    #"Moonlighting as a private driver in the 'Kopeyka' rattletrap I inherited from my father-in-law was not really a profitable business. I was even ready to apply for a camp leader position in Sowjonok, when Lena's distant relative died and left us a one-room apartment somewhere in Central Russia."
+    "Aus Geldmangel war ich sogar bereit, eine Stelle als Leiter in Sowjonok an zu nehmen, als ein entfernter Verwandter von Lena starb und uns eine Einzimmerwohnung irgendwo in Zentralrussland hinterließ."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:597
 translate german epilogue_un_good_c490afc8:
@@ -3101,8 +3101,8 @@ translate german epilogue_un_good_d17d0576:
 translate german epilogue_un_good_bc5da8f3:
 
     # "Кто знает, что бы стало со мной, не проснись я однажды в автобусе, стоявшем напротив ворот лагеря «Совёнок»."
-    #"Who can tell what would have happened if I hadn’t woken up in a bus near the Sovyonok camp gates?"
-    "Wer weiß, wie es mir ergangen wäre, wenn ich nicht in dem Bus vor dem Pionierlager Sovyonok aufgewacht wäre."
+    #"Who can tell what would have happened if I hadn’t woken up in a bus near the Sowjonok camp gates?"
+    "Wer weiß, wie es mir ergangen wäre, wenn ich nicht in dem Bus vor dem Pionierlager Sowjonok aufgewacht wäre."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:622
 translate german epilogue_un_good_d7be6fd0:
@@ -3750,9 +3750,9 @@ translate german epilogue_us_54d920bf:
     # nvl clear
     # "С того момента, как я вернулся из «Совёнка», прошло много времени. И многое же изменилось в моей жизни."
     #nvl clear
-    #"Much time has passed from the moment I came back from Sovyonok. And a lot has changed in my life."
+    #"Much time has passed from the moment I came back from Sowjonok. And a lot has changed in my life."
     nvl clear
-    "Es ist einige Zeit vergangen, seit ich aus Sovyonok zurückgekehrt bin. Und in meinem Leben hat sich einiges geändert."
+    "Es ist einige Zeit vergangen, seit ich aus Sowjonok zurückgekehrt bin. Und in meinem Leben hat sich einiges geändert."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:778
 translate german epilogue_us_bd3a1548:
@@ -4387,8 +4387,8 @@ translate german epilogue_us_21b43907:
 translate german epilogue_us_5620292c:
 
     # "Я посмотрел на телефон и понял, что сегодня как раз то число – прошёл ровно год с момента, как я вернулся из пионерлагеря «Совёнок»."
-    #"I looked at my phone and realised that it is exactly a year after I returned from the Sovyonok pioneer camp."
-    "Ich schaute auf mein Handy und stellte fest, dass ich vor genau einem Jahr aus dem Sovyonok-Pionierlager zurückgekehrt bin."
+    #"I looked at my phone and realised that it is exactly a year after I returned from the Sowjonok pioneer camp."
+    "Ich schaute auf mein Handy und stellte fest, dass ich vor genau einem Jahr aus dem Sowjonok-Pionierlager zurückgekehrt bin."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:883
 translate german epilogue_us_c2222e39:
@@ -4415,15 +4415,15 @@ translate german epilogue_us_4510141f:
 translate german epilogue_us_da6f1a84:
 
     # "Если даже самые радостные моменты со временем тускнеют и остаётся лишь воспоминание о том, что подобное вообще происходило, то с неделей, проведённой в «Совёнке», всё было совсем не так."
-    #"Normally even the happiest moments fade and just reminiscences of them remain, nothing more. But the week spent in Sovyonok was different."
+    #"Normally even the happiest moments fade and just reminiscences of them remain, nothing more. But the week spent in Sowjonok was different."
     "Normalerweise verblassen selbst die glücklichsten Momente und es bleibt nur die Erinnerung, dass dies überhaupt passiert ist. Aber bei der Woche, die ich in Sovyonk verbrachte, war das anders."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:887
 translate german epilogue_us_c7712fd2:
 
     # "Я помнил всё до мельчайших подробностей: ужас первых минут после пробуждения в автобусе, тяжёлый, полный неожиданностей и удивительных знакомств первый день, весёлые, беззаботные шалости с Ульянкой – чего стоит хотя бы номер с привидениями."
-    #"I remembered everything in perfect detail: the terror of the first minutes after waking up in the bus. The first day – hard, full of surprises and amazing acquaintances. Cheerful and carefree pranks with Ulyana, just take that trick with the ghosts for instance."
-    "Ich erinnerte mich genau an jedes Detail: Die Panik in den ersten Minuten, nachdem ich im Bus erwacht bin. Der erste Tag, hart und voller wunderbarer Bekanntschaften. Lustige und sorglose Streiche mit Ulyanaka, wie zum Beispiel die Aktion mit dem Geist."
+    #"I remembered everything in perfect detail: the terror of the first minutes after waking up in the bus. The first day – hard, full of surprises and amazing acquaintances. Cheerful and carefree pranks with Uljana, just take that trick with the ghosts for instance."
+    "Ich erinnerte mich genau an jedes Detail: Die Panik in den ersten Minuten, nachdem ich im Bus erwacht bin. Der erste Tag, hart und voller wunderbarer Bekanntschaften. Lustige und sorglose Streiche mit Uljanaka, wie zum Beispiel die Aktion mit dem Geist."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:888
 translate german epilogue_us_3b043f92:
@@ -4443,8 +4443,8 @@ translate german epilogue_us_1133bb6a:
 translate german epilogue_us_88f6794d:
 
     # "Хорошо бы, конечно, встретить Ульянку в реальной жизни."
-    #"It sure would be nice to meet Ulyana in real life."
-    "Es wäre natürlich schön, Ulyanka mal im realen Leben zu treffen."
+    #"It sure would be nice to meet Uljana in real life."
+    "Es wäre natürlich schön, Uljanka mal im realen Leben zu treffen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:891
 translate german epilogue_us_5fdf8a75:
@@ -4499,8 +4499,8 @@ translate german epilogue_us_41ee4507:
 translate german epilogue_us_e8ee1985:
 
     # "Однако я был абсолютно уверен, что в том мире Ульянка счастлива."
-    #"However, I'm sure that Ulyana is happy in that world."
-    "Dennoch war ich mir absolut sicher, dass Ulyanka in dieser Welt absolut glücklich war."
+    #"However, I'm sure that Uljana is happy in that world."
+    "Dennoch war ich mir absolut sicher, dass Uljanka in dieser Welt absolut glücklich war."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:900
 translate german epilogue_us_10bf53a2:
@@ -4876,15 +4876,15 @@ translate german epilogue_us_5274a2e2:
 translate german epilogue_us_96f1754d:
 
     # me "Я Семён.{w} А тебя как записать?"
-    #me "My name is Semyon.{w} What should I call you?"
-    me "Ich heiße Semyon.{w} Wie ist dein Name?"
+    #me "My name is Semjon.{w} What should I call you?"
+    me "Ich heiße Semjon.{w} Wie ist dein Name?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:986
 translate german epilogue_us_f46d0d3c:
 
     # usg "Ульяна."
-    #usg "Ulyana."
-    usg "Ulyana."
+    #usg "Uljana."
+    usg "Uljana."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:987
 translate german epilogue_us_fcd06166:
@@ -4897,8 +4897,8 @@ translate german epilogue_us_fcd06166:
 translate german epilogue_us_8a86e6b2:
 
     # "Точно, это же Ульянка, повзрослевшая лет на пять!"
-    #"Exactly, she's Ulyana, just around five years older!"
-    "Genau es ist Ulyanka, nur so etwa fünf Jahre älter!"
+    #"Exactly, she's Uljana, just around five years older!"
+    "Genau es ist Uljanka, nur so etwa fünf Jahre älter!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:989
 translate german epilogue_us_919cb1ad:
@@ -4939,8 +4939,8 @@ translate german epilogue_us_4af695ee:
 translate german epilogue_us_cf8568cf:
 
     # "В мгновение ока все события в «Совёнке» всплыли перед глазами."
-    #"In the blink of an eye, all the events that happened in Sovyonok flashed in front of my eyes."
-    "Für einen Augenblick erschienen mir alle Ereignisse aus Sovyonok vor meinen Augen."
+    #"In the blink of an eye, all the events that happened in Sowjonok flashed in front of my eyes."
+    "Für einen Augenblick erschienen mir alle Ereignisse aus Sowjonok vor meinen Augen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:995
 translate german epilogue_us_63854d93:
@@ -4960,8 +4960,8 @@ translate german epilogue_us_cba25f57:
 translate german epilogue_us_903a86f3:
 
     # "Добавила Ульяна."
-    #"Ulyana added."
-    "Fügte Ulyana hinzu."
+    #"Uljana added."
+    "Fügte Uljana hinzu."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:998
 translate german epilogue_us_9445daad:
@@ -5002,8 +5002,8 @@ translate german epilogue_us_8f44567c:
 translate german epilogue_us_6b2b31a6:
 
     # "В конце концов, эта девушка значительно старше той Ульянки, которую я помню."
-    #"After all, this girl was much older than the Ulyana I remembered."
-    "Vor allem war dieses Mädchen viel Älter, als ich Ulyanka in Erinnerung hatte."
+    #"After all, this girl was much older than the Uljana I remembered."
+    "Vor allem war dieses Mädchen viel Älter, als ich Uljanka in Erinnerung hatte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1004
 translate german epilogue_us_ae985c6d:
@@ -5079,8 +5079,8 @@ translate german epilogue_us_5de584b6:
 translate german epilogue_us_0dcbddab:
 
     # "Внешность, поведение, манера общения – нет, это точно та самая Ульянка!"
-    #"Appearance, behavior, way of talking... She's definitely that exact Ulyana!"
-    "Aussehen, Verhalten, ihre Art zu reden… Das ist ganz sicher Ulyanka!"
+    #"Appearance, behavior, way of talking... She's definitely that exact Uljana!"
+    "Aussehen, Verhalten, ihre Art zu reden… Das ist ganz sicher Uljanka!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1019
 translate german epilogue_us_894a40f8:
@@ -5268,8 +5268,8 @@ translate german epilogue_dv_ce3c1db8:
 translate german epilogue_dv_3b4fb89e:
 
     # "Возможно, моё фантастическое попадание в «Совёнок» – всего лишь сон?"
-    #"Maybe my fantastic vacation to Sovyonok was just a dream?"
-    "War mein fantastischer Urlaub in Sovyonok doch nur ein Traum?"
+    #"Maybe my fantastic vacation to Sowjonok was just a dream?"
+    "War mein fantastischer Urlaub in Sowjonok doch nur ein Traum?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1083
 translate german epilogue_dv_bb1b5b1b:
@@ -5359,8 +5359,8 @@ translate german epilogue_dv_5bfae656:
 translate german epilogue_dv_a78cb617:
 
     # "А значит, я там был, действительно провёл неделю в пионерлагере «Совёнок» вместе с вожатой, пионерами…{w} вместе с Алисой."
-    #"Therefore I've been there, I spent a week in the Sovyonok pioneer camp with the camp leader and the pioneers...{w} with Alisa."
-    "Ich war also dort eine Woche im Pionierlager Sovyonok mit der Lagerleiterin, den Pionieren…{w} und Alisa."
+    #"Therefore I've been there, I spent a week in the Sowjonok pioneer camp with the camp leader and the pioneers...{w} with Alisa."
+    "Ich war also dort eine Woche im Pionierlager Sowjonok mit der Lagerleiterin, den Pionieren…{w} und Alisa."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1096
 translate german epilogue_dv_a2226b0b:
@@ -5562,8 +5562,8 @@ translate german epilogue_dv_1614d0af:
 translate german epilogue_dv_b3b1bf62:
 
     # "Неужели я за столь короткий срок успел привыкнуть к необоснованным придиркам Ольги Дмитриевны, выходкам Ульянки, наглости Алисы?.."
-    #"Was just one week enough for me to get used to Olga Dmitrievna picking on me all the time, Ulyana's pranks and joking around, or Alisa's cheekiness and mockery?"
-    "Habe ich mich wirklich in nur einer Woche daran gewöhnt, wie Olga Dmitrievna auf mir herum hackte, wie mir Ulyanka Streiche spielte oder wie mich Alisa ärgerte?"
+    #"Was just one week enough for me to get used to Olga Dmitrijewna picking on me all the time, Uljana's pranks and joking around, or Alisa's cheekiness and mockery?"
+    "Habe ich mich wirklich in nur einer Woche daran gewöhnt, wie Olga Dmitrijewna auf mir herum hackte, wie mir Uljanka Streiche spielte oder wie mich Alisa ärgerte?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1125
 translate german epilogue_dv_612f35d1:
@@ -5998,8 +5998,8 @@ translate german epilogue_dv_78b39126:
 translate german epilogue_dv_67aef320:
 
     # "Я ещё раз посмотрел на дату.{w} Да, прошёл ровно год с того момента, как я вернулся из «Совёнка»."
-    #"I looked at the date once more.{w} Yes, it is exactly a year since I returned from Sovyonok."
-    "Ich schaute noch einmal auf das Datum.{w} Ja, es war genau ein Jahr nach meiner Rückkehr aus Sovyonok."
+    #"I looked at the date once more.{w} Yes, it is exactly a year since I returned from Sowjonok."
+    "Ich schaute noch einmal auf das Datum.{w} Ja, es war genau ein Jahr nach meiner Rückkehr aus Sowjonok."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1207
 translate german epilogue_dv_299e685a:
@@ -6034,7 +6034,7 @@ translate german epilogue_dv_663b0360:
 
     # "Интересно, достиг бы я того, чего достиг, без помощи тех фантастических событий?{w} Вряд ли…"
     #"I wonder whether I would’ve achieved all this without those fantastic events?{w} Unlikely..."
-    "Ich frage mich, ob ich das alles auch ohne mein Erlebnis in Sovyonok getan hätte?{w} Unwahrscheinlich…"
+    "Ich frage mich, ob ich das alles auch ohne mein Erlebnis in Sowjonok getan hätte?{w} Unwahrscheinlich…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1212
 translate german epilogue_dv_4e2974c6:
@@ -6589,8 +6589,8 @@ translate german epilogue_dv_ae3e36fe:
 translate german epilogue_dv_5a477656:
 
     # me "Меня Семён зовут!"
-    #me "My name's Semyon."
-    me "Ich heiße Semyon!"
+    #me "My name's Semjon."
+    me "Ich heiße Semjon!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1350
 translate german epilogue_dv_0c70048e:
@@ -6995,8 +6995,8 @@ translate german epilogue_sl_fb89f263:
 translate german epilogue_sl_aa71a533:
 
     # "И рядом со мной сидела Славя.{w} А теперь я опять тут…"
-    #"And Slavya was sitting by my side.{w} And now I'm back here..."
-    "Und Slavya saß neben mir.{w} Und jetzt bin ich wieder hier…"
+    #"And Slawja was sitting by my side.{w} And now I'm back here..."
+    "Und Slawja saß neben mir.{w} Und jetzt bin ich wieder hier…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1447
 translate german epilogue_sl_9762c4e5:
@@ -7030,8 +7030,8 @@ translate german epilogue_sl_af8879d8:
 translate german epilogue_sl_29f47261:
 
     # "Ведь я уже принял решение – начать новую жизнь со Славей, оставил в прошлом все свои проблемы, обиды, страдания, рефлексии, незавершённые дела и планы на будущее."
-    #"After all, I'd already made up my mind to start a new life with Slavya, leaving all my problems behind – insults, suffering, self-examination, unfinished affairs and plans for the future."
-    "Schließlich hatte ich mich dazu entschlossen, mit Slavya ein neues Leben zu beginnen. Ich wollte all meine Probleme, mein Ärger, mein Leid, meine Gedanken, meine nicht erledigten Angelegenheiten und meine Zukunftspläne hinter mich lassen."
+    #"After all, I'd already made up my mind to start a new life with Slawja, leaving all my problems behind – insults, suffering, self-examination, unfinished affairs and plans for the future."
+    "Schließlich hatte ich mich dazu entschlossen, mit Slawja ein neues Leben zu beginnen. Ich wollte all meine Probleme, mein Ärger, mein Leid, meine Gedanken, meine nicht erledigten Angelegenheiten und meine Zukunftspläne hinter mich lassen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1452
 translate german epilogue_sl_57794fd0:
@@ -7142,8 +7142,8 @@ translate german epilogue_sl_32fbcaae:
 translate german epilogue_sl_9e130725:
 
     # "Единственное, что мешало заархивировать этот короткий этап жизни в памяти, – это Славя…"
-    #"The only thing that prevented me from completely forgetting this short period of my life was Slavya."
-    "Das Einzige, was mich daran hinderte, diesen kurzen Abschnitt meines Lebens völlig zu vergessen, war Slavya…"
+    #"The only thing that prevented me from completely forgetting this short period of my life was Slawja."
+    "Das Einzige, was mich daran hinderte, diesen kurzen Abschnitt meines Lebens völlig zu vergessen, war Slawja…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1468
 translate german epilogue_sl_6d445c91:
@@ -7191,8 +7191,8 @@ translate german epilogue_sl_264c0834:
 translate german epilogue_sl_5aa379da:
 
     # "Славя не просила ничего взмен, не требовала поддержки, не ждала, что её поймут или что её работу похвалят."
-    #"Slavya asked nothing in return, needed no encouragement, never expected to be understood or praised for her work."
-    "Slavya verlangte keine Gegenleistung, brauchte keine Ermutigung und erwartete nie, dass sie für ihre Arbeit verstanden oder gelobt wird."
+    #"Slawja asked nothing in return, needed no encouragement, never expected to be understood or praised for her work."
+    "Slawja verlangte keine Gegenleistung, brauchte keine Ermutigung und erwartete nie, dass sie für ihre Arbeit verstanden oder gelobt wird."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1475
 translate german epilogue_sl_0a40af6e:
@@ -7247,8 +7247,8 @@ translate german epilogue_sl_d1d01df5:
 translate german epilogue_sl_dc042d8c:
 
     # "В голове всё ярче мелькал образ Слави."
-    #"Slavya's image flashed in my head, brighter and brighter."
-    "Slavyas Bild zeichnete sich in meinem Kopf immer deutlicher ab."
+    #"Slawja's image flashed in my head, brighter and brighter."
+    "Slawjas Bild zeichnete sich in meinem Kopf immer deutlicher ab."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1483
 translate german epilogue_sl_75314796:
@@ -7325,9 +7325,9 @@ translate german epilogue_sl_dfcf3261:
     # nvl clear
     # "Прошло около месяца со дня моего возвращения из пионерлагеря «Совёнок». Или вернее будет сказать – пробуждения ото сна."
     #nvl clear
-    #"About a month has passed since I returned from Sovyonok. Or, to say it more correctly, since I woke up."
+    #"About a month has passed since I returned from Sowjonok. Or, to say it more correctly, since I woke up."
     nvl clear
-    "Es ist rund ein Monat vergangen, seitdem ich aus Sovyonok zurück bin. Oder besser gesagt, seitdem ich erwacht bin."
+    "Es ist rund ein Monat vergangen, seitdem ich aus Sowjonok zurück bin. Oder besser gesagt, seitdem ich erwacht bin."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1503
 translate german epilogue_sl_65020c5a:
@@ -7402,8 +7402,8 @@ translate german epilogue_sl_a49c2c8d:
 translate german epilogue_sl_cffd8fe2:
 
     # "Теперь, наверное, я готов жить дальше! И спасибо «Совёнку» и всем его обиателям!{w} Без них я бы не смог…"
-    #"Now I think, I'm ready live on. Thanks to Sovyonok and its inhabitants.{w} Without them I wouldn’t be able..."
-    "Ich glaube, jetzt bin ich bereit, weiterzuleben. Dank Sovyonok und seinen Bewohnern.{w} Ohne sie wäre ich nicht dazu in der Lage."
+    #"Now I think, I'm ready live on. Thanks to Sowjonok and its inhabitants.{w} Without them I wouldn’t be able..."
+    "Ich glaube, jetzt bin ich bereit, weiterzuleben. Dank Sowjonok und seinen Bewohnern.{w} Ohne sie wäre ich nicht dazu in der Lage."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1515
 translate german epilogue_sl_ce617998_1:
@@ -7718,8 +7718,8 @@ translate german epilogue_sl_d1e598ce:
 translate german epilogue_sl_f2165086:
 
     # "Может быть, возвращение из «Совёнка» – это и есть конец моего варианта сказки «Золушка»?"
-    #"Maybe the return from Sovyonok is the end of my own version of the 'Cinderella' tale?"
-    "Vielleicht ist die Rückkehr aus Sovyonok das Ende meiner Version der 'Cinderella' Geschichte?"
+    #"Maybe the return from Sowjonok is the end of my own version of the 'Cinderella' tale?"
+    "Vielleicht ist die Rückkehr aus Sowjonok das Ende meiner Version der 'Cinderella' Geschichte?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1581
 translate german epilogue_sl_ced18126:
@@ -7739,8 +7739,8 @@ translate german epilogue_sl_9f4f4f69:
 translate german epilogue_sl_f7a557f1:
 
     # "Я вспомнил Славю, встал, отряхнулся от снега и медленно направился в ночь."
-    #"I remembered Slavya, stood up, shook off the snow and went slowly into the night."
-    "Ich erinnerte mich an Slavya, stand auf, schüttelte den Schnee ab und lief langsam in die Dunkelheit."
+    #"I remembered Slawja, stood up, shook off the snow and went slowly into the night."
+    "Ich erinnerte mich an Slawja, stand auf, schüttelte den Schnee ab und lief langsam in die Dunkelheit."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1584
 translate german epilogue_sl_1eaf8011:
@@ -7767,8 +7767,8 @@ translate german epilogue_sl_498f7c4e:
 translate german epilogue_sl_8ebdfc5e:
 
     # "И вдруг я всё же встречу Славю наяву?.."
-    #"And what if I meet Slavya in reality...?"
-    "Und was wäre, wenn ich Slavya in real treffen würde…?"
+    #"And what if I meet Slawja in reality...?"
+    "Und was wäre, wenn ich Slawja in real treffen würde…?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1588
 translate german epilogue_sl_a20cefa7:
@@ -8060,8 +8060,8 @@ translate german epilogue_sl_7f9ddde9:
 translate german epilogue_sl_5d2bdfb2:
 
     # "Передо мой стояла Славя."
-    #"Slavya stood in front of me."
-    "Vor mir stand Slavya."
+    #"Slawja stood in front of me."
+    "Vor mir stand Slawja."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1653
 translate german epilogue_sl_d7bb50f0:
@@ -8074,8 +8074,8 @@ translate german epilogue_sl_d7bb50f0:
 translate german epilogue_sl_30204e6b:
 
     # "В конце концов, возможно, что это просто девушка, похожая на Славю из моего сна.{w} Или я испытываю тяжелейшее дежавю…"
-    #"Of course it could just be a girl who looks like Slavya from my dream.{w} Or am I experiencing the strongest deja vu..."
-    "Natürlich konnte das auch ein Mädchen sein, das nur wie Slavya aus meinen Träumen aussah.{w} Oder ich erführ gerade ein heftiges Deja Vu…"
+    #"Of course it could just be a girl who looks like Slawja from my dream.{w} Or am I experiencing the strongest deja vu..."
+    "Natürlich konnte das auch ein Mädchen sein, das nur wie Slawja aus meinen Träumen aussah.{w} Oder ich erführ gerade ein heftiges Deja Vu…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1655
 translate german epilogue_sl_7c085c9f:
@@ -8193,8 +8193,8 @@ translate german epilogue_sl_fd914013:
 translate german epilogue_sl_4c079f2d:
 
     # slg "Кстати, меня Славя зовут. Вообще, полное имя – Славяна, но все меня Славей зовут. И ты тоже зови!"
-    #slg "By the way, my name is Slavya. Actually, my full name is Slavyana but everyone calls me Slavya. You can do that too!"
-    slg "Übrigens, ich heiße Slavya. Eigentlich ist mein voller Name Slavyana aber alle nennen mich Slavya. Das kannst du auch!"
+    #slg "By the way, my name is Slawja. Actually, my full name is Slawjana but everyone calls me Slawja. You can do that too!"
+    slg "Übrigens, ich heiße Slawja. Eigentlich ist mein voller Name Slawjana aber alle nennen mich Slawja. Das kannst du auch!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1672
 translate german epilogue_sl_b4002489:
@@ -8207,8 +8207,8 @@ translate german epilogue_sl_b4002489:
 translate german epilogue_sl_b54dd65c:
 
     # "В конце концов, так ли уж важно, почему Славя из моего сна здесь и сейчас стоит передо мной на этой замёрзшей остановке заколдованного автобуса номер 410?"
-    #"After all, is it that important to know why Slavya from my dream is standing right here, right now in front of me at this frozen stop of the charmed bus number 410?"
-    "Ist es wirklich so wichtig zu wissen, warum Slavya aus meinem Traum hier vor mir steht, genau hier in dieser zugefrorenen Bushaltestelle der verzauberten Linie 410?"
+    #"After all, is it that important to know why Slawja from my dream is standing right here, right now in front of me at this frozen stop of the charmed bus number 410?"
+    "Ist es wirklich so wichtig zu wissen, warum Slawja aus meinem Traum hier vor mir steht, genau hier in dieser zugefrorenen Bushaltestelle der verzauberten Linie 410?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1674
 translate german epilogue_sl_a4217a2f:
@@ -8221,8 +8221,8 @@ translate german epilogue_sl_a4217a2f:
 translate german epilogue_sl_94f8232c:
 
     # me "А меня Семён…"
-    #me "And mine is Semyon..."
-    me "Und ich heiße Semyon…"
+    #me "And mine is Semjon..."
+    me "Und ich heiße Semjon…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1676
 translate german epilogue_sl_e62d08e6:
@@ -8298,8 +8298,8 @@ translate german epilogue_sl_90481d5f:
 translate german epilogue_sl_c954d69f:
 
     # "Славя рассмеялась."
-    #"Slavya laughed."
-    "Lachte Slavya."
+    #"Slawja laughed."
+    "Lachte Slawja."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1687
 translate german epilogue_sl_ee42356b:
@@ -8340,7 +8340,7 @@ translate german epilogue_sl_17172b5c:
 translate german epilogue_sl_bbc1f2e4:
 
     # "Славя задумалась."
-    #"Slavya thought for a bit."
+    #"Slawja thought for a bit."
     "Slavyia dachte einen Moment nach."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1693
@@ -8431,8 +8431,8 @@ translate german epilogue_sl_d86d06b8:
 translate german epilogue_sl_6a9e8821:
 
     # "Славе, похоже, было холодно, потому что щёки её пылали ещё сильнее, а растирающие движения руками стали ещё чаще."
-    #"Slavya seemed to feel even colder by now, as her cheeks grew more red and her hands were now moving frenetically, trying to warm her body."
-    "Slavya schien inzwischen zu frieren, ihre Wangen waren feuerrot und sie rieb sich hektisch am Körper, um sich aufzuwärmen."
+    #"Slawja seemed to feel even colder by now, as her cheeks grew more red and her hands were now moving frenetically, trying to warm her body."
+    "Slawja schien inzwischen zu frieren, ihre Wangen waren feuerrot und sie rieb sich hektisch am Körper, um sich aufzuwärmen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1706
 translate german epilogue_sl_161b1e49:
@@ -8522,8 +8522,8 @@ translate german epilogue_sl_d03f0acf:
 translate german epilogue_sl_c93fe8e6:
 
     # "Славя лукаво посмотрела на меня."
-    #"Slavya looked at me playfully."
-    "Slavya schaute mich verspielt an."
+    #"Slawja looked at me playfully."
+    "Slawja schaute mich verspielt an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1719
 translate german epilogue_sl_10f87319:
@@ -8619,8 +8619,8 @@ translate german epilogue_sl_42acf572:
 translate german epilogue_sl_ac2505d0:
 
     # "Спросила Славя через некоторое время."
-    #"Slavya asked after a while."
-    "Fragte Slavya nach einiger Zeit."
+    #"Slawja asked after a while."
+    "Fragte Slawja nach einiger Zeit."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1736
 translate german epilogue_sl_cebb61ed:
@@ -8696,8 +8696,8 @@ translate german epilogue_sl_01f26b1d:
 translate german epilogue_sl_38a71a20:
 
     # "Серьёзно спросила Славя."
-    #"Slavya asked seriously."
-    "Fragte Slavya ernst."
+    #"Slawja asked seriously."
+    "Fragte Slawja ernst."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1747
 translate german epilogue_sl_a52d1d58:
@@ -8738,8 +8738,8 @@ translate german epilogue_sl_8231d531:
 translate german epilogue_sl_e3127a21:
 
     # "Славя, кажется, поняла мои мысли."
-    #"I guess Slavya understood my thoughts."
-    "Ich denke, Slavya hatte mich verstanden."
+    #"I guess Slawja understood my thoughts."
+    "Ich denke, Slawja hatte mich verstanden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1753
 translate german epilogue_sl_ad3d2e0c:

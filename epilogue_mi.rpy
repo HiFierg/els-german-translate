@@ -128,8 +128,8 @@ translate german epilogue_mi_ab07d7f4:
 translate german epilogue_mi_07837af7:
 
     # "Её звали Маша."
-    #"Her name was Masha."
-    "Ihr Name war Masha."
+    #"Her name was Mascha."
+    "Ihr Name war Mascha."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:38
 translate german epilogue_mi_44f92a18:
@@ -352,8 +352,8 @@ translate german epilogue_mi_2c1992b5:
 translate german epilogue_mi_1d5a2e57:
 
     # "Метко подметил непонятно откуда взявшийся Шурик."
-    #"Shurik came out of thin air, proving himself to be quite observent."
-    "Bemerkte Shurik treffend, der wie aus dem Nichts erschien."
+    #"Schurik came out of thin air, proving himself to be quite observent."
+    "Bemerkte Schurik treffend, der wie aus dem Nichts erschien."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:86
 translate german epilogue_mi_193c877e:
@@ -366,8 +366,8 @@ translate german epilogue_mi_193c877e:
 translate german epilogue_mi_2f643813:
 
     # "Шурик спокойно увернулся от запущенной в него панамки и вернулся на операторское место."
-    #"Shurik calmly dodged the panama that was thrown at him and went back to his camera."
-    "Shurik wich gelassen dem Panamahut aus, der nach ihm geworfen wurde und verschwand wieder hinter seiner Kamera."
+    #"Schurik calmly dodged the panama that was thrown at him and went back to his camera."
+    "Schurik wich gelassen dem Panamahut aus, der nach ihm geworfen wurde und verschwand wieder hinter seiner Kamera."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:91
 translate german epilogue_mi_0781974d:
@@ -387,8 +387,8 @@ translate german epilogue_mi_3b0ed2d0:
 translate german epilogue_mi_11a4fd66:
 
     # "И в дверях столкнулся с Машей..."
-    #"And ran into Masha at the doors..."
-    "Und an der Türe traf ich auf Masha..."
+    #"And ran into Mascha at the doors..."
+    "Und an der Türe traf ich auf Mascha..."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:105
 translate german epilogue_mi_eb88f1fb:
@@ -436,8 +436,8 @@ translate german epilogue_mi_c8eb94cd:
 translate german epilogue_mi_a274cb3e:
 
     # "Странно, вроде бы Маша уже была в столовой – что, не успела пообедать?"
-    #"It's strange, seems that Masha has already visited the canteen – what is it, didn't she have time to have her lunch?"
-    "Seltsam, es sah danach aus, dass Masha bereits in der Kantine war – hatte sie keine Zeit zum Essen?"
+    #"It's strange, seems that Mascha has already visited the canteen – what is it, didn't she have time to have her lunch?"
+    "Seltsam, es sah danach aus, dass Mascha bereits in der Kantine war – hatte sie keine Zeit zum Essen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:114
 translate german epilogue_mi_00d4b994:
@@ -457,8 +457,8 @@ translate german epilogue_mi_5b40950c:
 translate german epilogue_mi_a5498145:
 
     # "Спросил я Машу, когда мы сели за стол."
-    #"I asked Masha when we've sat down the table."
-    "Fragte ich Masha, als wir uns an einen Tisch setzten."
+    #"I asked Mascha when we've sat down the table."
+    "Fragte ich Mascha, als wir uns an einen Tisch setzten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:123
 translate german epilogue_mi_64c890f7:
@@ -562,8 +562,8 @@ translate german epilogue_mi_8a8d8f52:
 translate german epilogue_mi_6f794cba:
 
     # "Маша фыркнула и ничего не ответила."
-    #"Masha just sniffed and didn't reply."
-    "Masha schnaubte nur und gab keine Antwort."
+    #"Mascha just sniffed and didn't reply."
+    "Mascha schnaubte nur und gab keine Antwort."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:144
 translate german epilogue_mi_b3a659cb:
@@ -590,8 +590,8 @@ translate german epilogue_mi_f47e1355:
 translate german epilogue_mi_5cd04ce7:
 
     # ma "Только нашей Ольге Дмитриевне."
-    #ma "Only our Olga Dmitrievna would."
-    ma "Nur unsere Olga Dmitrievna würde das tun."
+    #ma "Only our Olga Dmitrijewna would."
+    ma "Nur unsere Olga Dmitrijewna würde das tun."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:151
 translate german epilogue_mi_c4de2e46:
@@ -611,8 +611,8 @@ translate german epilogue_mi_143442a9:
 translate german epilogue_mi_9912a5af:
 
     # "Ехидно протянула Маша."
-    #"Masha said slowly with bitterness in her voice."
-    "Antwortete Masha sarkastisch."
+    #"Mascha said slowly with bitterness in her voice."
+    "Antwortete Mascha sarkastisch."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:156
 translate german epilogue_mi_00cde85b:
@@ -639,8 +639,8 @@ translate german epilogue_mi_ba9e80db:
 translate german epilogue_mi_20caf834:
 
     # "Всё это время Маша сыпала соль в кружку и, похоже, не собиралась останавливаться."
-    #"All this time Masha had been sprinkling salt over her noodle cup, and it seemed she wasn't going to stop."
-    "Während der ganzen Zeit kippte Masha Salz in ihre Nudelschüssel und es sah nicht so aus, als wolle sie damit aufhören."
+    #"All this time Mascha had been sprinkling salt over her noodle cup, and it seemed she wasn't going to stop."
+    "Während der ganzen Zeit kippte Mascha Salz in ihre Nudelschüssel und es sah nicht so aus, als wolle sie damit aufhören."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:161
 translate german epilogue_mi_53e387c4:
@@ -688,8 +688,8 @@ translate german epilogue_mi_f206e4c8:
 translate german epilogue_mi_111d10a4:
 
     # "Мне внезапно стало жалко Машу."
-    #"I suddenly felt sorry for Masha."
-    "Auf einmal tat mir Masha leid."
+    #"I suddenly felt sorry for Mascha."
+    "Auf einmal tat mir Mascha leid."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:176
 translate german epilogue_mi_ad4d8e3a:
@@ -758,8 +758,8 @@ translate german epilogue_mi_8c82cb1d:
 translate german epilogue_mi_90823446:
 
     # "Маша ела молча."
-    #"Masha kept eating in silence."
-    "Masha aß, ohne weiter was zu sagen auf."
+    #"Mascha kept eating in silence."
+    "Mascha aß, ohne weiter was zu sagen auf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:189
 translate german epilogue_mi_e695e8fb:
@@ -786,8 +786,8 @@ translate german epilogue_mi_62eb8e6c:
 translate german epilogue_mi_af79cf2d:
 
     # "Я посмотрел на Машу так, что без слов стало понятно, до какой степени глупым и неуместным был её ответ."
-    #"I looked at Masha in a way that made clear exactly how silly and irrelevant her answer was."
-    "Ich schaute Masha so an, dass klar wurde, wie dumm und unwichtig ihre Antwort war."
+    #"I looked at Mascha in a way that made clear exactly how silly and irrelevant her answer was."
+    "Ich schaute Mascha so an, dass klar wurde, wie dumm und unwichtig ihre Antwort war."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:194
 translate german epilogue_mi_a4712259:
@@ -884,8 +884,8 @@ translate german epilogue_mi_534485c8:
 translate german epilogue_mi_bc30c075:
 
     # "Маша пристально посмотрела на меня."
-    #"Masha fixed her gaze on me."
-    "Masha sah mich scharf an."
+    #"Mascha fixed her gaze on me."
+    "Mascha sah mich scharf an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:212
 translate german epilogue_mi_f7f9f25d:
@@ -905,7 +905,7 @@ translate german epilogue_mi_db110686:
 translate german epilogue_mi_979d0955:
 
     # "Не уверен, что на самом деле именно такая гамма красок сменилась на её лице за долю секунды, но выглядела Маша угрожающе."
-    #"I am not sure that the changing of colours on her face during a fraction of second was really like that, but either way Masha looked scary."
+    #"I am not sure that the changing of colours on her face during a fraction of second was really like that, but either way Mascha looked scary."
     "Ich bin mir nicht sicher, ob es genau dieser Farbverlauf war, der sich auf ihrem Gesicht abzeichnete, aber sie sah beängstigend aus."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:217
@@ -968,8 +968,8 @@ translate german epilogue_mi_cb5eb573:
 translate german epilogue_mi_97cf9711:
 
     # ma "А вот люди посмотрят и сразу скажут: Маша – дура!"
-    #ma "People will watch it and say: Masha is a retard!"
-    ma "Wenn die Leute das sehen, werden sie sagen: Masha ist eine hohle Nuss!"
+    #ma "People will watch it and say: Mascha is a retard!"
+    ma "Wenn die Leute das sehen, werden sie sagen: Mascha ist eine hohle Nuss!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:228
 translate german epilogue_mi_9439a255:
@@ -1031,8 +1031,8 @@ translate german epilogue_mi_51775003:
 translate german epilogue_mi_012acf66:
 
     # "Я приоткрыл один глаз и посмотрел на разгневанную Машу."
-    #"I opened one eye and looked up at the enraged Masha."
-    "Ich öffnete ein Auge und schaute die wütende Masha an."
+    #"I opened one eye and looked up at the enraged Mascha."
+    "Ich öffnete ein Auge und schaute die wütende Mascha an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:239
 translate german epilogue_mi_5cec30a4:
@@ -1073,8 +1073,8 @@ translate german epilogue_mi_44ce257f:
 translate german epilogue_mi_c3914184:
 
     # sa "Маша-нян! Семён-кун!"
-    #sa "Masha-nyan! Semyon-kun!"
-    sa "Masha-nyan! Semyon-kun!"
+    #sa "Mascha-nyan! Semjon-kun!"
+    sa "Mascha-nyan! Semjon-kun!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:250
 translate german epilogue_mi_f994b25d:
@@ -1101,36 +1101,36 @@ translate german epilogue_mi_d10088d4:
 translate german epilogue_mi_9a041eba:
 
     # "Саша.{w} Одна из главных героинь."
-    #"Sasha.{w} One of the main characters."
-    "Sasha.{w} Einer der Hauptfiguren."
+    #"Sascha.{w} One of the main characters."
+    "Sascha.{w} Einer der Hauptfiguren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:257
 translate german epilogue_mi_239efec8:
 
     # "Если сравнивать ё в реальной жизни и того персонажа, которого ей предстоит играть, то Машины слова о несправедливости этого мира могут показаться не такими уж и глупыми."
-    #"If we compare Sasha in real life with the character she's going to play, then Masha's words about the injustice of this world don't seem that meaningless."
-    "Wenn man Sasha im waren Leben mit dem Charakter vergleicht, den sie spielen soll, dann sind Mashas Worte über die Ungerechtigkeit dieser Welt gar nicht so ungerechtfertigt."
+    #"If we compare Sascha in real life with the character she's going to play, then Mascha's words about the injustice of this world don't seem that meaningless."
+    "Wenn man Sascha im waren Leben mit dem Charakter vergleicht, den sie spielen soll, dann sind Maschas Worte über die Ungerechtigkeit dieser Welt gar nicht so ungerechtfertigt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:258
 translate german epilogue_mi_92638c32:
 
     # "Хотя, с другой стороны, Саше не откажешь в наличии актёрского таланта – так-то перевоплощаться на экране!"
-    #"However, on the bright side, one can't ignore Sasha's acting talent – she really becomes a totally different person on the screen!"
-    "Allerdings kann man Sashas schauspielerisches Talent nicht ignorieren – auf der Leinwand wird sie zu einer völlig anderen Person!"
+    #"However, on the bright side, one can't ignore Sascha's acting talent – she really becomes a totally different person on the screen!"
+    "Allerdings kann man Saschas schauspielerisches Talent nicht ignorieren – auf der Leinwand wird sie zu einer völlig anderen Person!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:260
 translate german epilogue_mi_c612ee04:
 
     # ma "Я же тебе тысячу рз говорила – не называй меня Маша-нян!"
-    #ma "I told you like a thousand times – don't you ever call me Masha-nyan!"
-    ma "Ich habs dir schon tausendmal gesagt – nenne mich nicht Masha-nyan!"
+    #ma "I told you like a thousand times – don't you ever call me Mascha-nyan!"
+    ma "Ich habs dir schon tausendmal gesagt – nenne mich nicht Mascha-nyan!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:261
 translate german epilogue_mi_fe3b21aa:
 
     # "Маша скрежетала зубами."
-    #"Masha gritted her teeth."
-    "Masha knirschte mit den Zähnen."
+    #"Mascha gritted her teeth."
+    "Mascha knirschte mit den Zähnen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:262
 translate german epilogue_mi_8b59578c:
@@ -1143,8 +1143,8 @@ translate german epilogue_mi_8b59578c:
 translate german epilogue_mi_389929aa:
 
     # "Саша рывком пододвинула стул и села рядом со мной."
-    #"Sasha snatched the chair, moved it closer and sat beside me."
-    "Sasha zog rasch einen Stuhl herüber und setzte sich neben mich."
+    #"Sascha snatched the chair, moved it closer and sat beside me."
+    "Sascha zog rasch einen Stuhl herüber und setzte sich neben mich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:264
 translate german epilogue_mi_a334a043:
@@ -1164,15 +1164,15 @@ translate german epilogue_mi_4b8e4bdb:
 translate german epilogue_mi_c8b5ead4:
 
     # "Саша, похоже, не услышала реплики о своей профнепригодности."
-    #"Sasha seemed to ignore Masha's opinion of her professional impropriety."
-    "Sasha schien Mashas Bemerkung über ihre Unfähigkeit zu ignorieren."
+    #"Sascha seemed to ignore Mascha's opinion of her professional impropriety."
+    "Sascha schien Maschas Bemerkung über ihre Unfähigkeit zu ignorieren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:267
 translate german epilogue_mi_c7467996:
 
     # my "А мы тут обсуждали, что конкретно Маше-нян не нравится в сценарии."
-    #my "Oh, we were just discussing what exactly Masha-nyan doesn't like about our script."
-    my "Ach, wir diskutierten nur darüber, was genau Masha-nyan nicht an unserem Drehbuch mag."
+    #my "Oh, we were just discussing what exactly Mascha-nyan doesn't like about our script."
+    my "Ach, wir diskutierten nur darüber, was genau Mascha-nyan nicht an unserem Drehbuch mag."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:269
 translate german epilogue_mi_298983e2:
@@ -1192,8 +1192,8 @@ translate german epilogue_mi_84102612:
 translate german epilogue_mi_f5ad59fd:
 
     # "Саша вскрикнула и задрожала."
-    #"Sasha gave a brief cry and started shivering."
-    "Sasha schrie kurz auf und zitterte."
+    #"Sascha gave a brief cry and started shivering."
+    "Sascha schrie kurz auf und zitterte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:275
 translate german epilogue_mi_9038c77e:
@@ -1213,8 +1213,8 @@ translate german epilogue_mi_bd2c4c91:
 translate german epilogue_mi_3ef4a660:
 
     # "Мурлыкнула Саша и обхватила мою руку."
-    #"Sasha murmured and hugged my arm."
-    "Murmelte Sasha und griff nach meinem Arm."
+    #"Sascha murmured and hugged my arm."
+    "Murmelte Sascha und griff nach meinem Arm."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:279
 translate german epilogue_mi_852d3af8:
@@ -1241,7 +1241,7 @@ translate german epilogue_mi_f76258c4:
 translate german epilogue_mi_e76f1572:
 
     # "Маша достала телефон из кармана и посмотрела на время."
-    #"Masha fetched her phone out of her pocket and checked the time."
+    #"Mascha fetched her phone out of her pocket and checked the time."
     "Mascha zieht ihr Handy aus der Tasche und schaut, wie viel Uhr es ist."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:284
@@ -1276,8 +1276,8 @@ translate german epilogue_mi_ed7479aa:
 translate german epilogue_mi_b3fcc6a8:
 
     # "Саша запрыгала, не отпуская мою руку."
-    #"Sasha jumped around, still clinging to my arm."
-    "Sasha sprang herum und griff nach meinem Arm."
+    #"Sascha jumped around, still clinging to my arm."
+    "Sascha sprang herum und griff nach meinem Arm."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:290
 translate german epilogue_mi_12e0f2c5:
@@ -1290,8 +1290,8 @@ translate german epilogue_mi_12e0f2c5:
 translate german epilogue_mi_3cd326b5:
 
     # "Я встал, задвинул стул и посмотрел на Машу сверху вниз."
-    #"I got up, pushed the chair back under the table and looked over at Masha."
-    "Ich stand auf, stelle meinen Stuhl unter den Tisch und schaute rüber zu Masha."
+    #"I got up, pushed the chair back under the table and looked over at Mascha."
+    "Ich stand auf, stelle meinen Stuhl unter den Tisch und schaute rüber zu Mascha."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:292
 translate german epilogue_mi_1e6a6efa:
@@ -1332,8 +1332,8 @@ translate german epilogue_mi_102232fe:
 translate german epilogue_mi_400f3980:
 
     # "Послышалось мне вслед и в ту же секунду мимо пролетела Саша, а за ней – пустой бомж-пкет…"
-    #"Just as that reached my ear, Sasha shot past me with empty noodle packets trailing in her wake..."
-    "Ich hörte irgendetwas und in der gleichen Sekunde schoss Sasha an mir vorbei, gefolgt von einer leeren Packung Nudeln.…"
+    #"Just as that reached my ear, Sascha shot past me with empty noodle packets trailing in her wake..."
+    "Ich hörte irgendetwas und in der gleichen Sekunde schoss Sascha an mir vorbei, gefolgt von einer leeren Packung Nudeln.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:303
 translate german epilogue_mi_a20cefa7:
@@ -1380,8 +1380,8 @@ translate german epilogue_mi_aceecbb8:
 translate german epilogue_mi_d760f21d:
 
     # "Даже без очевидных заявлений Шурика – жарко."
-    #"Even without Shurik being Captain Obvious – it was hot."
-    "Auch ohne Shuriks treffenden Feststellungen – es war heiß."
+    #"Even without Schurik being Captain Obvious – it was hot."
+    "Auch ohne Schuriks treffenden Feststellungen – es war heiß."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:316
 translate german epilogue_mi_2ef129f9:
@@ -1464,8 +1464,8 @@ translate german epilogue_mi_a93c1fe4:
 translate german epilogue_mi_cc507cf7:
 
     # "На меня был направлен мегафон, а за ним сквозь плавящийся воздух можно было разглядеть лицо Ольги Дмитриевны."
-    #"A loudspeaker was pointed at me and right behind it I recognised the face of Olga Dmitrievna through the melting air."
-    "Ein Megafon war auf mich gerichtet und dahinter konnte man durch das Flimmern der Luft das Gesicht von Olga Dmitrievna erkennen."
+    #"A loudspeaker was pointed at me and right behind it I recognised the face of Olga Dmitrijewna through the melting air."
+    "Ein Megafon war auf mich gerichtet und dahinter konnte man durch das Flimmern der Luft das Gesicht von Olga Dmitrijewna erkennen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:329
 translate german epilogue_mi_f4a4def9:
@@ -1506,8 +1506,8 @@ translate german epilogue_mi_968a77a4:
 translate german epilogue_mi_61c207fa:
 
     # "Надо мной нависла камера Шурика."
-    #"Shurik's camera was hanging over me."
-    "Shuriks Kamera hing über mir."
+    #"Schurik's camera was hanging over me."
+    "Schuriks Kamera hing über mir."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:339
 translate german epilogue_mi_3cf97e79:
@@ -1527,8 +1527,8 @@ translate german epilogue_mi_d536fac8:
 translate german epilogue_mi_cb64514a:
 
     # "Ольга Дмитриевна одобрительно улыбнулась."
-    #"Olga Dmitrievna smiled approvingly."
-    "Olga Dmitrievna lächelte anerkennend."
+    #"Olga Dmitrijewna smiled approvingly."
+    "Olga Dmitrijewna lächelte anerkennend."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:348
 translate german epilogue_mi_fdafbf2c:
@@ -1548,8 +1548,8 @@ translate german epilogue_mi_753f8975:
 translate german epilogue_mi_f8e1553e:
 
     # mt "А теперь – знакомство со Славей."
-    #mt "And now – meeting Slavya."
-    mt "Und jetzt – das Treffen mit Slavya."
+    #mt "And now – meeting Slawja."
+    mt "Und jetzt – das Treffen mit Slawja."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:352
 translate german epilogue_mi_25e7e67f:
@@ -1604,15 +1604,15 @@ translate german epilogue_mi_ef82b877:
 translate german epilogue_mi_0b401918:
 
     # "Из ворот показалась Саша."
-    #"Sasha emerged from behind the gates."
-    "Sasha tauchte hinter dem Tor auf."
+    #"Sascha emerged from behind the gates."
+    "Sascha tauchte hinter dem Tor auf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:365
 translate german epilogue_mi_078abde8:
 
     # sa "Привет, Семён-кун! Меня Славя зовут! Ёрошкёнэ!"
-    #sa "Hi, Semyon-kun! My name is Slavya! Yoroshiku-ne!"
-    sa "Hallo Semyon kun! Ich heiße Slavya! Yoroshikune!"
+    #sa "Hi, Semjon-kun! My name is Slawja! Yoroshiku-ne!"
+    sa "Hallo Semjon kun! Ich heiße Slawja! Yoroshikune!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:366
 translate german epilogue_mi_bf59de13:
@@ -1625,8 +1625,8 @@ translate german epilogue_mi_bf59de13:
 translate german epilogue_mi_d7a685d0:
 
     # "Даже кузнечики перестали стрекотать и, казалось, так же, как и мы, заворожённо смотрели на Сашу."
-    #"It seemed like even the grasshoppers suddenly stopped their song and looked up at Sasha with fascination."
-    "Es war, als hätten sogar die Grashüpfer ihr Lied unterbrochen, um sich fasziniert nach Sasha umzusehen."
+    #"It seemed like even the grasshoppers suddenly stopped their song and looked up at Sascha with fascination."
+    "Es war, als hätten sogar die Grashüpfer ihr Lied unterbrochen, um sich fasziniert nach Sascha umzusehen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:368
 translate german epilogue_mi_916c7ee7:
@@ -1639,8 +1639,8 @@ translate german epilogue_mi_916c7ee7:
 translate german epilogue_mi_209e0706:
 
     # "Из-за спины донёсся ужасающе спокойный голос Ольги Дмитриевны."
-    #"The dreadfully calm voice of Olga Dmitrievna reached us from behind me."
-    "Die erschreckend ruhige Stimme von Olga Dmitrievna war von hinter uns zu hören."
+    #"The dreadfully calm voice of Olga Dmitrijewna reached us from behind me."
+    "Die erschreckend ruhige Stimme von Olga Dmitrijewna war von hinter uns zu hören."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:371
 translate german epilogue_mi_1c639c9a:
@@ -1688,8 +1688,8 @@ translate german epilogue_mi_e2203c1f:
 translate german epilogue_mi_1b8271ef:
 
     # "Кнут точно не работает с Сашей, так что можно попробовать пряник."
-    #"A stick certainly won't work with Sasha, so may be we should try a carrot instead."
-    "Die Peitsche funktioniert bei Sasha nicht, also sollte man das Zuckerbrot probieren."
+    #"A stick certainly won't work with Sascha, so may be we should try a carrot instead."
+    "Die Peitsche funktioniert bei Sascha nicht, also sollte man das Zuckerbrot probieren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:379
 translate german epilogue_mi_7f682ff5:
@@ -1723,8 +1723,8 @@ translate german epilogue_mi_6e8305c4:
 translate german epilogue_mi_04183b60:
 
     # "Я сделал несколько шагов, и из ворот показалась Саша."
-    #"I took a few steps forward, and Sasha appeared from behind the gates."
-    "Ich ging einige Schritte auf das Tor zu und Sasha kommt von hinter dem Tor hervor."
+    #"I took a few steps forward, and Sascha appeared from behind the gates."
+    "Ich ging einige Schritte auf das Tor zu und Sascha kommt von hinter dem Tor hervor."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:388
 translate german epilogue_mi_2d51c8a5:
@@ -1764,8 +1764,8 @@ translate german epilogue_mi_794febdd:
 translate german epilogue_mi_2424e856:
 
     # "Ольга Дмитриевна вытерла пот со лба."
-    #"Olga Dmitrievna wiped the sweat from her forehead."
-    "Olga Dmitrievna wischt sich den Schweiß von der Stirn."
+    #"Olga Dmitrijewna wiped the sweat from her forehead."
+    "Olga Dmitrijewna wischt sich den Schweiß von der Stirn."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:394
 translate german epilogue_mi_01ddb43c:
@@ -1840,8 +1840,8 @@ translate german epilogue_mi_a20cefa7_1:
 translate german epilogue_mi_5cbd3ea0:
 
     # "За ужином я сидел с Машей, Сашей и Алисой."
-    #"Tonight I was dining with Masha, Sasha and Alisa."
-    "Beim Abendessen saß ich mit Masha, Sasha und Alisa zusammen."
+    #"Tonight I was dining with Mascha, Sascha and Alisa."
+    "Beim Abendessen saß ich mit Mascha, Sascha und Alisa zusammen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:419
 translate german epilogue_mi_988b5808:
@@ -1875,8 +1875,8 @@ translate german epilogue_mi_ba41249e:
 translate german epilogue_mi_36b02c46:
 
     # dv "Да что вы, Саша отлично готовит!"
-    #dv "What are you talking about, Sasha is a great chef!"
-    dv "Was erzählst du da, Sasha ist eine hervorragende Köchin!"
+    #dv "What are you talking about, Sascha is a great chef!"
+    dv "Was erzählst du da, Sascha ist eine hervorragende Köchin!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:424
 translate german epilogue_mi_7a3a0d77:
@@ -1910,8 +1910,8 @@ translate german epilogue_mi_1c59bfd0:
 translate german epilogue_mi_508e3ad2:
 
     # "Саша была готова разрыдаться."
-    #"Sasha was about to burst into tears."
-    "Sasha war kurz davor in Tränen aus zu brechen."
+    #"Sascha was about to burst into tears."
+    "Sascha war kurz davor in Tränen aus zu brechen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:432
 translate german epilogue_mi_2b2f274d:
@@ -1924,15 +1924,15 @@ translate german epilogue_mi_2b2f274d:
 translate german epilogue_mi_1b24a1e0:
 
     # sa "Ня! Маша-нян, хочешь я завтра ещё что-нибудь…"
-    #sa "Nyaa! Masha-nyan, do you want me to make something..."
-    sa "Nyaa! Masha-nyan, soll ich morgen etwas anderes.…"
+    #sa "Nyaa! Mascha-nyan, do you want me to make something..."
+    sa "Nyaa! Mascha-nyan, soll ich morgen etwas anderes.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:437
 translate german epilogue_mi_2d21996b:
 
     # "Маша посмотрела на неё так, что без слов стало понятно, что продолжать не стоит."
-    #"Masha gave her such a dirty look that it became obvious even to Sasha that she shouldn't continue."
-    "Masha schaute so böse, dass selbst ihr klar wurde, dass es besser wäre, nicht weiter zu sprechen."
+    #"Mascha gave her such a dirty look that it became obvious even to Sascha that she shouldn't continue."
+    "Mascha schaute so böse, dass selbst ihr klar wurde, dass es besser wäre, nicht weiter zu sprechen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:439
 translate german epilogue_mi_df502e69:
@@ -1994,8 +1994,8 @@ translate german epilogue_mi_6ceed182:
 translate german epilogue_mi_5fcef207:
 
     # "Алиса и Саша засмеялись."
-    #"Alisa and Sasha laughed."
-    "Alisa und Sasha lachen."
+    #"Alisa and Sascha laughed."
+    "Alisa und Sascha lachen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:453
 translate german epilogue_mi_a13d417a:
@@ -2022,8 +2022,8 @@ translate german epilogue_mi_bb713d3d:
 translate german epilogue_mi_2dd77e41:
 
     # "Алиса непонимающе посмотрела на Машу и углубилась в тарелку."
-    #"Alisa glanced at Masha blankly and started to dig into her plate."
-    "Alisa sah Masha verständnislos an und begann dann damit, auf ihrem Teller herumzustochern."
+    #"Alisa glanced at Mascha blankly and started to dig into her plate."
+    "Alisa sah Mascha verständnislos an und begann dann damit, auf ihrem Teller herumzustochern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:461
 translate german epilogue_mi_7d88023f:
@@ -2057,15 +2057,15 @@ translate german epilogue_mi_2e15dd85:
 translate german epilogue_mi_1efc89c2:
 
     # sa "Семён-кун – няша!"
-    #sa "Semyon-kun is kawaii!"
-    sa "Semyon kun ist so kawaii!"
+    #sa "Semjon-kun is kawaii!"
+    sa "Semjon kun ist so kawaii!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:467
 translate german epilogue_mi_a16d8757:
 
     # "Саша обхватила мою руку и закивала головой."
-    #"Sasha hugged my arm and nodded vigorously."
-    "Sasha umklammerte meinen Arm und nickte energisch."
+    #"Sascha hugged my arm and nodded vigorously."
+    "Sascha umklammerte meinen Arm und nickte energisch."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:468
 translate german epilogue_mi_3a95f27d:
@@ -2197,8 +2197,8 @@ translate german epilogue_mi_71495458:
 translate german epilogue_mi_8538763c:
 
     # "Маша посмотрела на неё так, что Саша внезапно стала занимать куда меньше места, чем обычно."
-    #"Masha gave her such a look that Sasha suddenly started to take up much less space than usual."
-    "Masha schaute Sasha so an, dass diese gleich mehr abstand zu ihr hielt als üblicherweise."
+    #"Mascha gave her such a look that Sascha suddenly started to take up much less space than usual."
+    "Mascha schaute Sascha so an, dass diese gleich mehr abstand zu ihr hielt als üblicherweise."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:496
 translate german epilogue_mi_b9cb210e:
@@ -2218,22 +2218,22 @@ translate german epilogue_mi_010cbc3b:
 translate german epilogue_mi_caa0783d:
 
     # "Маша резко встала и направилась к выходу."
-    #"Masha got up abruptly and headed for the exit."
-    "Plötzlich stand Masha auf und lief zum Ausgang."
+    #"Mascha got up abruptly and headed for the exit."
+    "Plötzlich stand Mascha auf und lief zum Ausgang."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:502
 translate german epilogue_mi_5354f480:
 
     # sa "Маша-нян расстрилась…"
-    #sa "Masha-nyan is upset..."
-    sa "Masha-nyan ist sauer.…"
+    #sa "Mascha-nyan is upset..."
+    sa "Mascha-nyan ist sauer.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:503
 translate german epilogue_mi_47d1149e:
 
     # "Сказала Саша грустно."
-    #"Said Sasha in a distressed tone."
-    "Sagte Sasha in einem gespielt traurigen Ton."
+    #"Said Sascha in a distressed tone."
+    "Sagte Sascha in einem gespielt traurigen Ton."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:505
 translate german epilogue_mi_a21ed268:
@@ -2253,8 +2253,8 @@ translate german epilogue_mi_f23678e8:
 translate german epilogue_mi_bced139f:
 
     # "На самом деле я не понимал, почему Мша бесится."
-    #"Curiously enough, I really couldn't comprehend why Masha keeps freaking out."
-    "Seltsamerweise wusste ich gar nicht, warum Masha so ausgerastet ist."
+    #"Curiously enough, I really couldn't comprehend why Mascha keeps freaking out."
+    "Seltsamerweise wusste ich gar nicht, warum Mascha so ausgerastet ist."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:510
 translate german epilogue_mi_587f2ffc:
@@ -2372,8 +2372,8 @@ translate german epilogue_mi_eb6b2adb:
 translate german epilogue_mi_33c07f3e:
 
     # "Всё-таки что бы там ни нашло на Машу, она всегда может поддержать любой разговор.{w} Наверное, даже о кузнечиках."
-    #"No matter what's going on in Masha's head, at least she can always keep the conversation going.{w} Even if it's about the grasshoppers."
-    "Egal, was in Mashas Kopf vor sich ging, sie konnte zumindest immer das Gespräch am Laufen halten.{w} Selbst wenn es nur um Grillen ging."
+    #"No matter what's going on in Mascha's head, at least she can always keep the conversation going.{w} Even if it's about the grasshoppers."
+    "Egal, was in Maschas Kopf vor sich ging, sie konnte zumindest immer das Gespräch am Laufen halten.{w} Selbst wenn es nur um Grillen ging."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:533
 translate german epilogue_mi_b69d5469:
@@ -2386,8 +2386,8 @@ translate german epilogue_mi_b69d5469:
 translate german epilogue_mi_5f4cc6c3:
 
     # "К нашему столу подошла Ольга Дмитриевна."
-    #"Olga Dmitrievna approached our table."
-    "Olga Dmitrievna trat an unseren Tisch heran."
+    #"Olga Dmitrijewna approached our table."
+    "Olga Dmitrijewna trat an unseren Tisch heran."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:536
 translate german epilogue_mi_c7675ebb:
@@ -2428,8 +2428,8 @@ translate german epilogue_mi_78cf53f5:
 translate german epilogue_mi_2a270e1d:
 
     # mt "Сцену в лесу ночью со Славей."
-    #mt "The night scene with Slavya in the woods."
-    mt "Die Nachtszene mit Slavya in den Wäldern."
+    #mt "The night scene with Slawja in the woods."
+    mt "Die Nachtszene mit Slawja in den Wäldern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:544
 translate german epilogue_mi_d88ec507:
@@ -2442,8 +2442,8 @@ translate german epilogue_mi_d88ec507:
 translate german epilogue_mi_f18d55d7:
 
     # "Саша услышала, что речь идёт про её героиню, и встрепенулась."
-    #"Sasha heard that we were discussing her character and jumped in."
-    "Sasha hörte, dass wir über ihren Charakter sprachen, und kam angesprungen."
+    #"Sascha heard that we were discussing her character and jumped in."
+    "Sascha hörte, dass wir über ihren Charakter sprachen, und kam angesprungen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:546
 translate german epilogue_mi_2fe8b72b:
@@ -2456,8 +2456,8 @@ translate german epilogue_mi_2fe8b72b:
 translate german epilogue_mi_d489d61c:
 
     # "Натужно начала Ольга Дмитриевна."
-    #"Began Olga Dmitrievna in a strained voice."
-    "Begann Olga Dmitrievna mit erhobener Stimme."
+    #"Began Olga Dmitrijewna in a strained voice."
+    "Begann Olga Dmitrijewna mit erhobener Stimme."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:548
 translate german epilogue_mi_41db4dd8:
@@ -2533,8 +2533,8 @@ translate german epilogue_mi_31409fb0:
 translate german epilogue_mi_4c582a03:
 
     # my "Там я наблюдаю за Славей, которая анцует на берегу лесного озера…"
-    #my "I'm watching Slavya dancing by the side of the lake in the woods..."
-    my "Ich beobachtete Slavya, wie sie am Ufer eines Sees in den Wäldern tanzt.…"
+    #my "I'm watching Slawja dancing by the side of the lake in the woods..."
+    my "Ich beobachtete Slawja, wie sie am Ufer eines Sees in den Wäldern tanzt.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:562
 translate german epilogue_mi_5f43ddfa:
@@ -2561,8 +2561,8 @@ translate german epilogue_mi_65c466a7:
 translate german epilogue_mi_03d57659:
 
     # "Саша непонимающе посмотрела на меня."
-    #"Sasha stared at me with a look of incomprehension."
-    "Sasha schaute mich verständnislos an."
+    #"Sascha stared at me with a look of incomprehension."
+    "Sascha schaute mich verständnislos an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:567
 translate german epilogue_mi_fd1e9efb:
@@ -2610,22 +2610,22 @@ translate german epilogue_mi_e51d66bf:
 translate german epilogue_mi_2e162410:
 
     # "И почему Ольга Дмитриевна именно так подобрала роли?"
-    #"Just why did Olga Dmitrievna cast the characters like this?"
-    "Warum hat Olga Dmitrievna diese Rollen so gecastet?"
+    #"Just why did Olga Dmitrijewna cast the characters like this?"
+    "Warum hat Olga Dmitrijewna diese Rollen so gecastet?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:576
 translate german epilogue_mi_9290596e:
 
     # "Как по мне, так Маша куда лучше бы подошла на роль Слави, а Саша – на роль Мику."
-    #"As for me, I'd rather cast Masha to play Slavya, and Sasha as Miku."
-    "Wenn es nach mir ginge, würde ich Masha für Slavya casten und Sasha als Miku."
+    #"As for me, I'd rather cast Mascha to play Slawja, and Sascha as Miku."
+    "Wenn es nach mir ginge, würde ich Mascha für Slawja casten und Sascha als Miku."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:577
 translate german epilogue_mi_52b336ff:
 
     # "Впрочем, решать режиссёру, а он у нас – Ольга Дмитриевна."
-    #"Anyway, it's up to the director to decide, and Olga Dmitrievna is the only director we have."
-    "Die Entscheidung liegt dennoch beim Regisseur – und das ist Olga Dmitrievna."
+    #"Anyway, it's up to the director to decide, and Olga Dmitrijewna is the only director we have."
+    "Die Entscheidung liegt dennoch beim Regisseur – und das ist Olga Dmitrijewna."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:579
 translate german epilogue_mi_8974ad73:
@@ -2645,8 +2645,8 @@ translate german epilogue_mi_2dcb646d:
 translate german epilogue_mi_f0ac2d1e:
 
     # "Саша непонимающе уставилась на Алису."
-    #"Sasha gave Alisa a blank stare."
-    "Sasha sah Alisa ausdruckslos an."
+    #"Sascha gave Alisa a blank stare."
+    "Sascha sah Alisa ausdruckslos an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:583
 translate german epilogue_mi_449f4ec4:
@@ -2736,8 +2736,8 @@ translate german epilogue_mi_91e87806:
 translate german epilogue_mi_7cbc1a04:
 
     # "Саша вскочила и побежала к выходу."
-    #"Sasha got up and dashed to the exit."
-    "Sasha sprang auf und und rannte zum Ausgang."
+    #"Sascha got up and dashed to the exit."
+    "Sascha sprang auf und und rannte zum Ausgang."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:600
 translate german epilogue_mi_248dbf88:
@@ -2785,8 +2785,8 @@ translate german epilogue_mi_292fb47d:
 translate german epilogue_mi_95ff9942:
 
     # "Я обернулся и увидел Шурика."
-    #"I turned back and caught a sight of Shurik."
-    "Ich drehte mich um und erkannte Shurik."
+    #"I turned back and caught a sight of Schurik."
+    "Ich drehte mich um und erkannte Schurik."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:608
 translate german epilogue_mi_8b6b532c:
@@ -2840,8 +2840,8 @@ translate german epilogue_mi_c38f964d:
 translate german epilogue_mi_8944594a:
 
     # "Маша натягивала между деревьями светоотражающее полотно."
-    #"Masha was setting up a light reflector cloth between the trees."
-    "Masha spannte ein Reflektortuch zwischen den Bäumen auf."
+    #"Mascha was setting up a light reflector cloth between the trees."
+    "Mascha spannte ein Reflektortuch zwischen den Bäumen auf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:627
 translate german epilogue_mi_373f8138:
@@ -2868,8 +2868,8 @@ translate german epilogue_mi_b468297c:
 translate german epilogue_mi_f9ea9881:
 
     # "Ольга Дмитриевна грозно посмотрела на неё."
-    #"Olga Dmitrievna gave her a menacing look."
-    "Olga Dmitrievna schaute sie bedrohlich an."
+    #"Olga Dmitrijewna gave her a menacing look."
+    "Olga Dmitrijewna schaute sie bedrohlich an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:634
 translate german epilogue_mi_73f6d6b1:
@@ -2882,8 +2882,8 @@ translate german epilogue_mi_73f6d6b1:
 translate german epilogue_mi_ee161131:
 
     # "Пожалуй, режиссёр была единственным человеком, с которым Маша спорить не решалась."
-    #"Our director was probably the only person here that Masha hesitated to argue with."
-    "Unsere Regisseurin war wohl die einzige Person hier, bei der Masha es sich nicht traute zu streiten."
+    #"Our director was probably the only person here that Mascha hesitated to argue with."
+    "Unsere Regisseurin war wohl die einzige Person hier, bei der Mascha es sich nicht traute zu streiten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:636
 translate german epilogue_mi_711dadab:
@@ -2902,8 +2902,8 @@ translate german epilogue_mi_a20cefa7_3:
 translate german epilogue_mi_4e70f7d1:
 
     # "Ко мне подсел Шурик."
-    #"Shurik sat down next to me."
-    "Shurik setzte sich neben mich."
+    #"Schurik sat down next to me."
+    "Schurik setzte sich neben mich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:646
 translate german epilogue_mi_7cda594d:
@@ -2923,8 +2923,8 @@ translate german epilogue_mi_a45d1642:
 translate german epilogue_mi_61482050:
 
     # "Я кивнул в сторону Саши, которая усердно прыгала на берегу озера, входя в роль."
-    #"I nodded towards Sasha. She was jumping up and down energetically by the lakeside, warming up for her role."
-    "Ich nickte zu Sasha rüber, die am See hin und her sprang, um sich auf ihre Rolle vor zu bereiten."
+    #"I nodded towards Sascha. She was jumping up and down energetically by the lakeside, warming up for her role."
+    "Ich nickte zu Sascha rüber, die am See hin und her sprang, um sich auf ihre Rolle vor zu bereiten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:650
 translate german epilogue_mi_fbf62cb1:
@@ -2937,8 +2937,8 @@ translate german epilogue_mi_fbf62cb1:
 translate german epilogue_mi_9687a380:
 
     # "Шурик обрёченно вздохнул и направился к камере."
-    #"Shurik heaved a doomed sigh and headed to his camera."
-    "Shurik seufzte wie ein zum Scheitern Verurteilter und ging zurück zu seiner Kamera."
+    #"Schurik heaved a doomed sigh and headed to his camera."
+    "Schurik seufzte wie ein zum Scheitern Verurteilter und ging zurück zu seiner Kamera."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:653
 translate german epilogue_mi_b1ce9623:
@@ -2965,8 +2965,8 @@ translate german epilogue_mi_00dabc53:
 translate german epilogue_mi_84b9f42b:
 
     # "Мимо меня, пританцовывая, прошла Саша."
-    #"Sasha walked past me, almost dancing."
-    "Fast tanzend ging Sasha an mir vorbei."
+    #"Sascha walked past me, almost dancing."
+    "Fast tanzend ging Sascha an mir vorbei."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:661
 translate german epilogue_mi_f2d8c1c4:
@@ -2993,8 +2993,8 @@ translate german epilogue_mi_686c7490:
 translate german epilogue_mi_a24c889e:
 
     # "Саша медленно шл вдоль берега, словно порхала, скидывая по дороге пионерский галстук и расстёгивая рубашку."
-    #"Sasha went slowly along the shoreline, almost hovering above the ground, taking off her neckerchief and unbuttoning her shirt on the way."
-    "Sasha lieft langsam am Ufer entlang, als würde sie schweben, zog ihr Halstuch aus und begann ihr Hemd auf zu knöpfen."
+    #"Sascha went slowly along the shoreline, almost hovering above the ground, taking off her neckerchief and unbuttoning her shirt on the way."
+    "Sascha lieft langsam am Ufer entlang, als würde sie schweben, zog ihr Halstuch aus und begann ihr Hemd auf zu knöpfen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:665
 translate german epilogue_mi_dac31f5f:
@@ -3014,8 +3014,8 @@ translate german epilogue_mi_7dd610b2:
 translate german epilogue_mi_efe25434:
 
     # "Вскоре Саша скрылась в лесу, а я некоторое время постоял на берегу и направился за ней."
-    #"Soon enough, Sasha disappeared into the woods. I took a few moments to space out at the shoreline and then started to follow her."
-    "Schon bald verschwand Sasha zwischen den Bäumen. Ich blieb einen Moment am Ufer stehen und folgte ihr dann."
+    #"Soon enough, Sascha disappeared into the woods. I took a few moments to space out at the shoreline and then started to follow her."
+    "Schon bald verschwand Sascha zwischen den Bäumen. Ich blieb einen Moment am Ufer stehen und folgte ihr dann."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:674
 translate german epilogue_mi_d536fac8_1:
@@ -3028,8 +3028,8 @@ translate german epilogue_mi_d536fac8_1:
 translate german epilogue_mi_1b2c2d2e:
 
     # "Саша выбежала из-за деревьев."
-    #"Sasha immediately dashed back from behind the trees."
-    "Sasha kam von hinter den Bäumen hervor."
+    #"Sascha immediately dashed back from behind the trees."
+    "Sascha kam von hinter den Bäumen hervor."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:677
 translate german epilogue_mi_7e7cffad:
@@ -3077,8 +3077,8 @@ translate german epilogue_mi_cfa206cd:
 translate german epilogue_mi_fb33457e:
 
     # "Рядом со мной непонятно откуда возникла Маша."
-    #"Masha suddenly appeared next to me as if out of nowhere."
-    "Wie aus dem Nichts tauchte Masha neben mir auf."
+    #"Mascha suddenly appeared next to me as if out of nowhere."
+    "Wie aus dem Nichts tauchte Mascha neben mir auf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:687
 translate german epilogue_mi_72fd9d16:
@@ -3105,8 +3105,8 @@ translate german epilogue_mi_9e2ea357:
 translate german epilogue_mi_e60cdb23:
 
     # "Ольга Дмитриевна смешно размахивала руками."
-    #"Olga Dmitrievna looked particularly funny, waving her arms like that."
-    "Olga Dmitrievna wedelte mit den Armen und sah dabei sehr komisch aus."
+    #"Olga Dmitrijewna looked particularly funny, waving her arms like that."
+    "Olga Dmitrijewna wedelte mit den Armen und sah dabei sehr komisch aus."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:694
 translate german epilogue_mi_40ef1a37:
@@ -3119,8 +3119,8 @@ translate german epilogue_mi_40ef1a37:
 translate german epilogue_mi_11d5d9f7:
 
     # "Устало сказала Маша."
-    #"Mumbled Masha in a wasted voice."
-    "Nuschelte Masha leise vor sich hin."
+    #"Mumbled Mascha in a wasted voice."
+    "Nuschelte Mascha leise vor sich hin."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:696
 translate german epilogue_mi_ab8a7c84:
@@ -3188,8 +3188,8 @@ translate german epilogue_mi_17c3f085:
 translate german epilogue_mi_f72fd8e2:
 
     # "На лице Маши читалась крайняя усталость."
-    #"A look of extreme fatigue was on Masha's face."
-    "Masha stand die Müdigkeit ins Gesicht geschrieben."
+    #"A look of extreme fatigue was on Mascha's face."
+    "Mascha stand die Müdigkeit ins Gesicht geschrieben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:716
 translate german epilogue_mi_6e8fe88f:
@@ -3306,7 +3306,7 @@ translate german epilogue_mi_ee06f3f9:
 translate german epilogue_mi_41699bfb:
 
     # "Маша начала раздеваться и побежала к реке."
-    #"Masha started to strip and dashed off towards the river."
+    #"Mascha started to strip and dashed off towards the river."
     "Mascha begann sich auszuziehen und lief zum Fluss."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:746
@@ -3376,8 +3376,8 @@ translate german epilogue_mi_7d565efc:
 translate german epilogue_mi_c7de3691:
 
     # "Маша встала и отошла от меня на метр."
-    #"Masha got up and moved several feet away from me."
-    "Masha stand auf und ging einige Schritte von mir weg."
+    #"Mascha got up and moved several feet away from me."
+    "Mascha stand auf und ging einige Schritte von mir weg."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:759
 translate german epilogue_mi_ca00ddd3:
@@ -3432,8 +3432,8 @@ translate german epilogue_mi_b4a3d493:
 translate german epilogue_mi_8961f09f:
 
     # "Маша еле слышно рассмеялась."
-    #"Masha gave a barely audible laugh."
-    "Masha lachte kaum hörbar."
+    #"Mascha gave a barely audible laugh."
+    "Mascha lachte kaum hörbar."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:771
 translate german epilogue_mi_d58a855b:
@@ -3494,7 +3494,7 @@ translate german epilogue_mi_cb0a184a:
 translate german epilogue_mi_38d4cee4:
 
     # "Маша легла рядом и положила голову мне на колени."
-    #"Masha lay in front of me and rested her head on my lap."
+    #"Mascha lay in front of me and rested her head on my lap."
     "Mascha lag vor mir und legte ihren Kopf in meinen Schoß."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:790
@@ -3641,8 +3641,8 @@ translate german epilogue_mi_981566ae:
 translate german epilogue_mi_c2f0d527:
 
     # "Обиженно сказала Маша."
-    #"Said Masha resentfully."
-    "Antwortete Masha beleidigt."
+    #"Said Mascha resentfully."
+    "Antwortete Mascha beleidigt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:811
 translate german epilogue_mi_3788408c:
@@ -3849,14 +3849,14 @@ translate german epilogue_mi_a20cefa7_8:
 translate german epilogue_mi_71390bb9:
 
     # my "Ладно, пора спать.{w} Завтра тяжёлый день – Ольга Дмитриевна точно нас загоняет."
-    #my "Guess it's time to sleep.{w} It's gonna be a rough day tomorrow – Olga Dmitrievna will definitely push us hard."
-    my "Ich denke, es ist Zeit, schlafen zu gehen.{w} Morgen wird ein harter Tag – Olga Dmitrievna wird uns sicherlich hart ran nehmen."
+    #my "Guess it's time to sleep.{w} It's gonna be a rough day tomorrow – Olga Dmitrijewna will definitely push us hard."
+    my "Ich denke, es ist Zeit, schlafen zu gehen.{w} Morgen wird ein harter Tag – Olga Dmitrijewna wird uns sicherlich hart ran nehmen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:864
 translate german epilogue_mi_d5b285ba:
 
     # "Я медленно застёгивал рубашку и смотрел на одевающуюся Машу."
-    #"I was slowly buttoning my shirt as I watched Masha dressing."
+    #"I was slowly buttoning my shirt as I watched Mascha dressing."
     "Ich knöpfte mein Hemd langsam zu, als ich Mascha dabei zu sah, wie sie sich anzog."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:865
@@ -3933,8 +3933,8 @@ translate german epilogue_mi_97c79ba2:
 translate german epilogue_mi_19aed9c9:
 
     # "Маша вопрошающе посмотрела на меня."
-    #"Masha gave me a questioning look."
-    "Masha schaute mich fragend an."
+    #"Mascha gave me a questioning look."
+    "Mascha schaute mich fragend an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:879
 translate german epilogue_mi_c405517a:
@@ -3974,8 +3974,8 @@ translate german epilogue_mi_6c0b31c2:
 translate german epilogue_mi_cbb4c74c:
 
     # "Потянуться не получилось – на моей левой руке спала Маша."
-    #"I wasn't able to stretch – Masha was sleeping on my left arm."
-    "Es war mir nicht möglich, mich zu strecken – Masha lag auf meinem linken Arm."
+    #"I wasn't able to stretch – Mascha was sleeping on my left arm."
+    "Es war mir nicht möglich, mich zu strecken – Mascha lag auf meinem linken Arm."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:898
 translate german epilogue_mi_050d92e1:
@@ -4072,8 +4072,8 @@ translate german epilogue_mi_43c329b2:
 translate german epilogue_mi_14d3fbf7:
 
     # ro "Привет, Семён!"
-    #ro "Hi Semyon!"
-    ro "Hi Semyon!"
+    #ro "Hi Semjon!"
+    ro "Hi Semjon!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:920
 translate german epilogue_mi_c54301b0:
@@ -4100,8 +4100,8 @@ translate german epilogue_mi_95f95256:
 translate german epilogue_mi_9fc335aa:
 
     # "Внутри была Ольга Дмитриевна.{w} Она пристально посмотрела на меня."
-    #"Olga Dmitrievna was inside.{w} She drilled me with her gaze."
-    "Olga Dmitrievna war drinnen.{w} Sie schaute mich durchbohrenden Blicken an."
+    #"Olga Dmitrijewna was inside.{w} She drilled me with her gaze."
+    "Olga Dmitrijewna war drinnen.{w} Sie schaute mich durchbohrenden Blicken an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:937
 translate german epilogue_mi_d8b1d698:
@@ -4135,8 +4135,8 @@ translate german epilogue_mi_a30d42e4:
 translate german epilogue_mi_71fcb370:
 
     # my "С Машей, а что?"
-    #my "I was with Masha... And what's the problem?"
-    my "Ich war mit Masha… Und was ist eigentlich das Problem?"
+    #my "I was with Mascha... And what's the problem?"
+    my "Ich war mit Mascha… Und was ist eigentlich das Problem?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:943
 translate german epilogue_mi_2e8f7dad:
@@ -4156,15 +4156,15 @@ translate german epilogue_mi_3d8b8a51:
 translate german epilogue_mi_af66aeeb:
 
     # "Ольга Дмитриевна удивлённо посмотрела на меня."
-    #"Olga Dmitrievna gave me a surprised glance."
-    "Olga Dmitrievna schaute mich überrascht an."
+    #"Olga Dmitrijewna gave me a surprised glance."
+    "Olga Dmitrijewna schaute mich überrascht an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:947
 translate german epilogue_mi_3b56ad7d:
 
     # my "С Машей."
-    #my "With Masha."
-    my "Mit Masha."
+    #my "With Mascha."
+    my "Mit Mascha."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:948
 translate german epilogue_mi_d18d27a7:
@@ -4177,8 +4177,8 @@ translate german epilogue_mi_d18d27a7:
 translate german epilogue_mi_7fb436a3:
 
     # mt "У нас тут нет никаких Маш."
-    #mt "We don’t have any Mashas here."
-    mt "Wir haben hier keine Mashas."
+    #mt "We don’t have any Maschas here."
+    mt "Wir haben hier keine Maschas."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:951
 translate german epilogue_mi_a55c62b2:
@@ -4191,8 +4191,8 @@ translate german epilogue_mi_a55c62b2:
 translate german epilogue_mi_c04c6271:
 
     # mt "Семён, такое поведение не достойно настоящего пионера!"
-    #mt "Semyon, your behaviour is unbecoming of a true pioneer!"
-    mt "Semyon, dein Verhalten ist für ein Pionier unpassend!"
+    #mt "Semjon, your behaviour is unbecoming of a true pioneer!"
+    mt "Semjon, dein Verhalten ist für ein Pionier unpassend!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:953
 translate german epilogue_mi_22f7322a:
@@ -4212,8 +4212,8 @@ translate german epilogue_mi_fbd62a8b:
 translate german epilogue_mi_105fc865:
 
     # mt "Семён!"
-    #mt "Semyon!"
-    mt "Semyon!"
+    #mt "Semjon!"
+    mt "Semjon!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:956
 translate german epilogue_mi_2151a69f:
@@ -4296,8 +4296,8 @@ translate german epilogue_mi_74a4c096:
 translate german epilogue_mi_221aaa4e:
 
     # my "Ольга Дмитриевна, я понимаю, что у вас с утра прекрасное настроение и большое желание пошутить, но…"
-    #my "Olga Dmitrievna, I get it that you're in the finest of moods this morning and you have an eagerness to joke around, but..."
-    my "Olga Dmitrievna, ich habe Verständnis dafür, dass du morgens gute Laune hast und große Lust auf Witze, aber.…"
+    #my "Olga Dmitrijewna, I get it that you're in the finest of moods this morning and you have an eagerness to joke around, but..."
+    my "Olga Dmitrijewna, ich habe Verständnis dafür, dass du morgens gute Laune hast und große Lust auf Witze, aber.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:970
 translate german epilogue_mi_f8da58c6:
@@ -4317,8 +4317,8 @@ translate german epilogue_mi_5a64d54b:
 translate german epilogue_mi_118c25a9:
 
     # my "Ольга Дмитриевна, вы хорошо спали? С вами всё нормально?"
-    #my "Olga Dmitrievna, have you slept well? Are you ok?"
-    my "Olga Dmitrievna, hast du gut geschlafen? Geht es dir gut?"
+    #my "Olga Dmitrijewna, have you slept well? Are you ok?"
+    my "Olga Dmitrijewna, hast du gut geschlafen? Geht es dir gut?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:973
 translate german epilogue_mi_06543492:
@@ -4366,8 +4366,8 @@ translate german epilogue_mi_987f165b:
 translate german epilogue_mi_287b8014:
 
     # "Надо пойти рассказать Маше – пусть посмеётся."
-    #"I have to go and tell Masha – share some laughter with her."
-    "Ich muss los und es Masha erzählen – ein bisschen mit ihr lachen."
+    #"I have to go and tell Mascha – share some laughter with her."
+    "Ich muss los und es Mascha erzählen – ein bisschen mit ihr lachen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:992
 translate german epilogue_mi_bbbfbbde:
@@ -4380,15 +4380,15 @@ translate german epilogue_mi_bbbfbbde:
 translate german epilogue_mi_b191b3f3:
 
     # my "Маш, они тут знаешь, что придумали…"
-    #my "Masha, you won't believe what they've..."
-    my "Masha, du glaubst nicht, was die sich.…"
+    #my "Mascha, you won't believe what they've..."
+    my "Mascha, du glaubst nicht, was die sich.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:996
 translate german epilogue_mi_7225eb18:
 
     # "Маша сидела в углу кровати с совершенно белым лицом, обхватив ноги руками."
-    #"Masha was sitting on the corner of a bed with an absolutely pale face, wrapping her arms around her legs."
-    "Masha saß mit völlig bleichem Gesicht auf einer Kante des Bettes, die Arme um die Beine geschlungen."
+    #"Mascha was sitting on the corner of a bed with an absolutely pale face, wrapping her arms around her legs."
+    "Mascha saß mit völlig bleichem Gesicht auf einer Kante des Bettes, die Arme um die Beine geschlungen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:997
 translate german epilogue_mi_850753d4:
@@ -4429,8 +4429,8 @@ translate german epilogue_mi_a1cd396c:
 translate german epilogue_mi_6e1e7593:
 
     # "Маша тряслась, а в глазах читался ужас."
-    #"Masha was trembling, and an expression of horror was on her face."
-    "Masha zitterte und das Entsetzen stand ihr ins Gesicht geschrieben."
+    #"Mascha was trembling, and an expression of horror was on her face."
+    "Mascha zitterte und das Entsetzen stand ihr ins Gesicht geschrieben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1004
 translate german epilogue_mi_c0db5536:
@@ -4464,8 +4464,8 @@ translate german epilogue_mi_e50ade73:
 translate german epilogue_mi_eab4b893:
 
     # "Я тут же вспомнил про недавний разговор с Ольгой Дмитриевной."
-    #"I recalled the recent conversation with Olga Dmitrievna at once."
-    "Ich erinnerte mich auf einmal an mein Gespräch mit Olga Dmitrievna."
+    #"I recalled the recent conversation with Olga Dmitrijewna at once."
+    "Ich erinnerte mich auf einmal an mein Gespräch mit Olga Dmitrijewna."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1009
 translate german epilogue_mi_8877ce04:
@@ -4534,8 +4534,8 @@ translate german epilogue_mi_2ea136fe:
 translate german epilogue_mi_020471bd:
 
     # my "Надо мыслить логически! Просто они решили нас разыграть, вот и всё! Я только что разговаривал с Ольгой Дмитриевной, и она…"
-    #my "We have to think logically! It's just them trying to pull a prank on us, that's all! I was just talking to Olga Dmitrievna, and she..."
-    my "Denk mal logisch darüber nach! Sie werden uns nur auf den Arm nehmen wollen, sonst nichts! Ich habe eben mit Olga Dmitrievna gesprochen und sie.…"
+    #my "We have to think logically! It's just them trying to pull a prank on us, that's all! I was just talking to Olga Dmitrijewna, and she..."
+    my "Denk mal logisch darüber nach! Sie werden uns nur auf den Arm nehmen wollen, sonst nichts! Ich habe eben mit Olga Dmitrijewna gesprochen und sie.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1020
 translate german epilogue_mi_9465eed8:
@@ -4548,8 +4548,8 @@ translate german epilogue_mi_9465eed8:
 translate german epilogue_mi_f5c1c55b:
 
     # "Нет, такого я Маше сказать не могу…"
-    #"Nah, I can't just say that to Masha..."
-    "Nein, das kann ich Masha nicht erzählen.…"
+    #"Nah, I can't just say that to Mascha..."
+    "Nein, das kann ich Mascha nicht erzählen.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1022
 translate german epilogue_mi_6d353af2:
@@ -4569,8 +4569,8 @@ translate german epilogue_mi_fd57f767:
 translate german epilogue_mi_8974dd9f:
 
     # "Всхлипывала у меня на руках Маша."
-    #"Masha was sobbing in my arms."
-    "Masha lag schluchzend in meinen Armen."
+    #"Mascha was sobbing in my arms."
+    "Mascha lag schluchzend in meinen Armen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1025
 translate german epilogue_mi_40789c4e:
@@ -4583,8 +4583,8 @@ translate german epilogue_mi_40789c4e:
 translate german epilogue_mi_95c191c3:
 
     # "По правде говоря, мне уже и самому было интересно, что же это за шутки такие, которые могут довести спокойную и готовую ко всему Машу до истерики."
-    #"To tell the truth, at this point I was interested myself in finding out what kind of joke this was, one that can bring Masha, who is always calm and prepared for everything, to hysterics."
-    "Um die Wahrheit zu sagen, von diesem Punkt an war ich selber daran interessiert herauszufinden, was das für ein Witz sein sollte, der Masha, die immer ruhig und auf alles gefasst ist, hysterisch werden lässt."
+    #"To tell the truth, at this point I was interested myself in finding out what kind of joke this was, one that can bring Mascha, who is always calm and prepared for everything, to hysterics."
+    "Um die Wahrheit zu sagen, von diesem Punkt an war ich selber daran interessiert herauszufinden, was das für ein Witz sein sollte, der Mascha, die immer ruhig und auf alles gefasst ist, hysterisch werden lässt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1028
 translate german epilogue_mi_40ef1a37_1:
@@ -4618,8 +4618,8 @@ translate german epilogue_mi_0d0c986a:
 translate german epilogue_mi_f9eeb73d:
 
     # "Маша с трудом улыбнулась."
-    #"Masha smiled faintly."
-    "Masha lächelte mühevoll."
+    #"Mascha smiled faintly."
+    "Mascha lächelte mühevoll."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1035
 translate german epilogue_mi_cfd5f29b:
@@ -4646,14 +4646,14 @@ translate german epilogue_mi_04e16600:
 translate german epilogue_mi_9164b34c:
 
     # my "Ольга Дмириевна говорила про какую-то линейку. Давай на площадь – они наверняка там."
-    #my "Olga Dmitrievna was talking about some kind of a lineup. Let's go to the square – most likely they will be there."
-    my "Olga Dmitrievna erzählte was von einem Morgenapell. Lass uns zum großen Platz gehen – wahrscheinlich werden sie dort sein."
+    #my "Olga Dmitrijewna was talking about some kind of a lineup. Let's go to the square – most likely they will be there."
+    my "Olga Dmitrijewna erzählte was von einem Morgenapell. Lass uns zum großen Platz gehen – wahrscheinlich werden sie dort sein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1046
 translate german epilogue_mi_499411c9:
 
     # "Маша взяла меня за руку, но тут же отпустила."
-    #"Masha took my hand, but let it go it right away."
+    #"Mascha took my hand, but let it go it right away."
     "Mascha nahm meine Hand, ließ sie aber gleich wieder los."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1047
@@ -4687,8 +4687,8 @@ translate german epilogue_mi_eb1f0748:
 translate german epilogue_mi_e02d4ff6:
 
     # "Ольга Дмитриевна пыталась построить всех в ряд."
-    #"Olga Dmitrievna tried to line them all up."
-    "Olga Dmitrievna versuchte die Leute in Reih und Glied aufzustellen."
+    #"Olga Dmitrijewna tried to line them all up."
+    "Olga Dmitrijewna versuchte die Leute in Reih und Glied aufzustellen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1057
 translate german epilogue_mi_c44b27a4:
@@ -4701,8 +4701,8 @@ translate german epilogue_mi_c44b27a4:
 translate german epilogue_mi_1ddcb8c6:
 
     # my "Ольга Дмитриевна, знаете ли…"
-    #my "Olga Dmitrievna, you know..."
-    my "Olga Dmitrievna, weißt du…"
+    #my "Olga Dmitrijewna, you know..."
+    my "Olga Dmitrijewna, weißt du…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1061
 translate german epilogue_mi_9c242b70:
@@ -4757,15 +4757,15 @@ translate german epilogue_mi_be2c12c6:
 translate german epilogue_mi_5427ae40:
 
     # "Из-за спины робко выглянула Маша."
-    #"Masha cautiously looked out from behind my back."
-    "Masha schaute schüchtern von hinter meinem Rücken hervor."
+    #"Mascha cautiously looked out from behind my back."
+    "Mascha schaute schüchtern von hinter meinem Rücken hervor."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1071
 translate german epilogue_mi_7609eb24:
 
     # ma "Ольга Дмитриевна, ведь правда уже не смешно…"
-    #ma "Olga Dmitrievna, it really isn’t funny anymore..."
-    ma "Olga Dmitrievna, das ist jetzt wirklich nicht mehr lustig.…"
+    #ma "Olga Dmitrijewna, it really isn’t funny anymore..."
+    ma "Olga Dmitrijewna, das ist jetzt wirklich nicht mehr lustig.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1072
 translate german epilogue_mi_b8ebaa25:
@@ -4799,8 +4799,8 @@ translate german epilogue_mi_ea1863fe:
 translate german epilogue_mi_e369f105:
 
     # "Ольга Дмитриевна никогда не была хорошим актёром, так что вряд ли это выражение удивления и непонимания было наигранным…"
-    #"Olga Dmitrievna was never a decent actress, so I doubt that this expression of surprise and incomprehension was fake..."
-    "Olga Dmitrievna war noch nie eine gute Schauspielerin, daher glaubte ich nicht daran, dass dieser Ausdruck von Überraschung und Unverständnis gespielt war.…"
+    #"Olga Dmitrijewna was never a decent actress, so I doubt that this expression of surprise and incomprehension was fake..."
+    "Olga Dmitrijewna war noch nie eine gute Schauspielerin, daher glaubte ich nicht daran, dass dieser Ausdruck von Überraschung und Unverständnis gespielt war.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1077
 translate german epilogue_mi_f385c640:
@@ -4841,8 +4841,8 @@ translate german epilogue_mi_f33afa6e:
 translate german epilogue_mi_1af119c3:
 
     # "Я схватил Машу за руку и направился прочь с площади."
-    #"I grabbed Masha by her arm and headed away from the square."
-    "Ich fasste Masha am Arm und lief mit ihr weg vom großen Platz."
+    #"I grabbed Mascha by her arm and headed away from the square."
+    "Ich fasste Mascha am Arm und lief mit ihr weg vom großen Platz."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1086
 translate german epilogue_mi_3dccb76f:
@@ -4862,8 +4862,8 @@ translate german epilogue_mi_e5c4f40a:
 translate german epilogue_mi_4742eb97:
 
     # "Вслед нам доносились крики Ольги Дмитриевны, но я не обращал на них внимания."
-    #"Olga Dmitrievna's shouts followed us, but I didn't pay any attention."
-    "Olga Dmitrievna schrie uns noch irgendetwas hinterher, aber ich schenkte dem keine weitere Beachtung."
+    #"Olga Dmitrijewna's shouts followed us, but I didn't pay any attention."
+    "Olga Dmitrijewna schrie uns noch irgendetwas hinterher, aber ich schenkte dem keine weitere Beachtung."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1089
 translate german epilogue_mi_a20cefa7_11:
@@ -4896,8 +4896,8 @@ translate german epilogue_mi_448b06ba:
 translate german epilogue_mi_f81758d9:
 
     # "Маша ничего не ответила, лишь направилась за мной."
-    #"Masha didn't reply, just followed my lead."
-    "Masha antwortete nicht, sie folgte nur meiner Anweisung."
+    #"Mascha didn't reply, just followed my lead."
+    "Mascha antwortete nicht, sie folgte nur meiner Anweisung."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1102
 translate german epilogue_mi_bd1a2f8e:
@@ -4924,8 +4924,8 @@ translate german epilogue_mi_7feccd3d:
 translate german epilogue_mi_dc50fc49:
 
     # ro "О, Семён! И не один! Привет! Пришли в наш кружок записываться?"
-    #ro "Oh, Semyon! And you're not alone! Hi there! Have you come here to join our club?"
-    ro "Oh, Semyon! Und du bist nicht alleine! Hallo! Seid ihr hier, um unserem Club beizutreten?"
+    #ro "Oh, Semjon! And you're not alone! Hi there! Have you come here to join our club?"
+    ro "Oh, Semjon! Und du bist nicht alleine! Hallo! Seid ihr hier, um unserem Club beizutreten?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1116
 translate german epilogue_mi_b9c61f4c:
@@ -4973,8 +4973,8 @@ translate german epilogue_mi_a9ea475f:
 translate german epilogue_mi_bb291d76:
 
     # "Он, так же, как и Ольга Дмитриевна, непонимающе уставился на меня."
-    #"Just like Olga Dmitrievna, he stared at me with no sign of understanding."
-    "Genau wie Olga Dmitrievna schaute er mich verständnislos an."
+    #"Just like Olga Dmitrijewna, he stared at me with no sign of understanding."
+    "Genau wie Olga Dmitrijewna schaute er mich verständnislos an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1125
 translate german epilogue_mi_3286aba0:
@@ -5029,22 +5029,22 @@ translate german epilogue_mi_48f2e671:
 translate german epilogue_mi_71aef04d:
 
     # ro "Семён, я тебя решительно не понимаю…"
-    #ro "Semyon, I really don't understand what are you talking about..."
-    ro "Semyon, ich habe absolut keine Ahnung, wovon du da gerade redest.…"
+    #ro "Semjon, I really don't understand what are you talking about..."
+    ro "Semjon, ich habe absolut keine Ahnung, wovon du da gerade redest.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1133
 translate german epilogue_mi_114b3078:
 
     # "Только сейчас до меня дошло, что меня здесь все называют Семён…"
-    #"It’s only now that I realised that everyone around is calling me Semyon..."
-    "Erst jetzt fällt mir auf, dass mich alle hier Semyon nennen.…"
+    #"It’s only now that I realised that everyone around is calling me Semjon..."
+    "Erst jetzt fällt mir auf, dass mich alle hier Semjon nennen.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1134
 translate german epilogue_mi_3af97c5c:
 
     # "Нет, и Саша тоже любила вечно повторять «Семён-кун»…"
-    #"Well, Sasha was always calling me 'Semyon-kun' too..."
-    "Nun, Sasha liebte es ebenfalls mich 'Semyon kun' zu rufen.…"
+    #"Well, Sascha was always calling me 'Semjon-kun' too..."
+    "Nun, Sascha liebte es ebenfalls mich 'Semjon kun' zu rufen.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1135
 translate german epilogue_mi_2bdf9616:
@@ -5057,15 +5057,15 @@ translate german epilogue_mi_2bdf9616:
 translate german epilogue_mi_a28e10ab:
 
     # "Вроде бы и ничего страшного, но меня же не Семён зовут!"
-    #"It's not a big thing, but my name is definitely not Semyon!"
-    "Das ist an sich keine Sache, aber mein Name ist sicherlich nicht Semyon!"
+    #"It's not a big thing, but my name is definitely not Semjon!"
+    "Das ist an sich keine Sache, aber mein Name ist sicherlich nicht Semjon!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1138
 translate german epilogue_mi_fc0ed84b:
 
     # "Я в ужасе сделал шаг назад и налетел на Машу."
-    #"I stepped back in horror and tripped over Masha."
-    "Entsetzt machte ich einen Schritt zurück und lief in Masha hinein."
+    #"I stepped back in horror and tripped over Mascha."
+    "Entsetzt machte ich einen Schritt zurück und lief in Mascha hinein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1140
 translate german epilogue_mi_4a4eea7d:
@@ -5092,8 +5092,8 @@ translate german epilogue_mi_1a34a91c:
 translate german epilogue_mi_2264c5bc:
 
     # "Я схватил Машу за руку и выбежал на улицу."
-    #"I snatched Masha's hand and ran out."
-    "Ich schnappte mir Mashas Hand und rannte raus."
+    #"I snatched Mascha's hand and ran out."
+    "Ich schnappte mir Maschas Hand und rannte raus."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1157
 translate german epilogue_mi_65d0e61a:
@@ -5106,8 +5106,8 @@ translate german epilogue_mi_65d0e61a:
 translate german epilogue_mi_90269e81:
 
     # "Обернувшись, увидел Машу, которая еле дышала."
-    #"As I turned around I saw Masha gasping for breath."
-    "Als ich mich herumdrehte, erblickte ich Masha, die nach Luft schnappte."
+    #"As I turned around I saw Mascha gasping for breath."
+    "Als ich mich herumdrehte, erblickte ich Mascha, die nach Luft schnappte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1161
 translate german epilogue_mi_e8deb2c6:
@@ -5175,8 +5175,8 @@ translate german epilogue_mi_326ad2f9:
 translate german epilogue_mi_a35f3a53:
 
     # "Маша была готова расплакаться."
-    #"Masha was on the edge of bursting into tears."
-    "Masha war kurz davor, in Tränen auszubrechen."
+    #"Mascha was on the edge of bursting into tears."
+    "Mascha war kurz davor, in Tränen auszubrechen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1173
 translate german epilogue_mi_d4708852:
@@ -5231,8 +5231,8 @@ translate german epilogue_mi_6f413eb8:
 translate german epilogue_mi_ee84d14d:
 
     # "Маша еле заметно улыбнулась и направилась за мной."
-    #"Masha gave a barely noticeable smile and followed me."
-    "Masha lächelte kaum sichtbar und folgte mir."
+    #"Mascha gave a barely noticeable smile and followed me."
+    "Mascha lächelte kaum sichtbar und folgte mir."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1183
 translate german epilogue_mi_a20cefa7_12:
@@ -5272,8 +5272,8 @@ translate german epilogue_mi_039e411f:
 translate german epilogue_mi_c99f77e3:
 
     # "Однако еду выдавали, мы с Машей взяли по подносу и сели подальше от остальных."
-    #"However, food was being distributed, so me and Masha took trays and sat down seperately from the others."
-    "Wie auch immer, Essen gab es hier, also nahmen Masha und ich uns ein Tablet und setzten uns etwas abseits von den anderen."
+    #"However, food was being distributed, so me and Mascha took trays and sat down seperately from the others."
+    "Wie auch immer, Essen gab es hier, also nahmen Mascha und ich uns ein Tablet und setzten uns etwas abseits von den anderen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1196
 translate german epilogue_mi_fb2c31f0:
@@ -5321,8 +5321,8 @@ translate german epilogue_mi_29741375:
 translate german epilogue_mi_790d5a8d:
 
     # "Пока я думал, что ответить, Маша отодвинула стул рядом с собой и жестом пригласила Лену сесть."
-    #"While I was thinking as to how I should answer, Masha pulled out a chair beside her and invited Lena to sit down with a gesture."
-    "Ich überlegte noch, was ich antworten könnte, da zog Masha einen Stuhl zurück und bat Lena mit einer Geste, sich zu setzen."
+    #"While I was thinking as to how I should answer, Mascha pulled out a chair beside her and invited Lena to sit down with a gesture."
+    "Ich überlegte noch, was ich antworten könnte, da zog Mascha einen Stuhl zurück und bat Lena mit einer Geste, sich zu setzen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1205
 translate german epilogue_mi_dac35953:
@@ -5349,8 +5349,8 @@ translate german epilogue_mi_684d739f:
 translate german epilogue_mi_f8d7c8a1:
 
     # "Маша нервно засмеялась."
-    #"Masha laughed nervously."
-    "Lachte Masha nervös."
+    #"Mascha laughed nervously."
+    "Lachte Mascha nervös."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1210
 translate german epilogue_mi_6c544c99:
@@ -5405,8 +5405,8 @@ translate german epilogue_mi_30741e46:
 translate german epilogue_mi_827f779d:
 
     # un "А вы ничего про Славю не слышали?"
-    #un "Did you hear anything about Slavya?"
-    un "Hast du irgendwas von Slavya gehört?"
+    #un "Did you hear anything about Slawja?"
+    un "Hast du irgendwas von Slawja gehört?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1219
 translate german epilogue_mi_7abdce27:
@@ -5419,8 +5419,8 @@ translate german epilogue_mi_7abdce27:
 translate german epilogue_mi_0c42474d:
 
     # un "Ну, её со вчерашнего дня никто не видел…{w} Сначала вы пропали… Но вы нашлись… А вот Славя…"
-    #un "Well, nobody has seen her since yesterday...{w} It's like you two disappeared first... Now you are here... But Slavya is..."
-    un "Also, seit gestern hat sie niemand mehr gesehen.…{w} Erst seid ihr beiden verschwunden.… Nun seid ihr wieder da… Aber Slavya ist…"
+    #un "Well, nobody has seen her since yesterday...{w} It's like you two disappeared first... Now you are here... But Slawja is..."
+    un "Also, seit gestern hat sie niemand mehr gesehen.…{w} Erst seid ihr beiden verschwunden.… Nun seid ihr wieder da… Aber Slawja ist…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1222
 translate german epilogue_mi_d0cb10a2:
@@ -5468,15 +5468,15 @@ translate german epilogue_mi_9b627c74:
 translate german epilogue_mi_6d56d6ac:
 
     # "Славя…{w} Саша могла и в трёх соснах заблудиться – ничего удивительного."
-    #"Slavya...{w} Sasha indeed could lose her way in broad daylight – that's hardly surprising."
-    "Slavya…{w} Sascha könnte sich tatsächlich bei helllichtem Tag verirren – das wäre nicht mal verwunderlich."
+    #"Slawja...{w} Sascha indeed could lose her way in broad daylight – that's hardly surprising."
+    "Slawja…{w} Sascha könnte sich tatsächlich bei helllichtem Tag verirren – das wäre nicht mal verwunderlich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1230
 translate german epilogue_mi_531f4fb8:
 
     # "Я уже заканчивал доедать резиновую овсянку, как вдруг в столовую, размахивая руками, вбежала Ольга Дмитриевна."
-    #"I was just finishing eating the rubber-like oatmeal when suddenly Olga Dmitrievna ran into the canteen, waving her hands."
-    "Ich war gerade dabei, den gummiartigen Haferbrei zu essen, als plötzlich Olga Dmitrievna in die Kantine gerannt kam und mit den Armen wedelte."
+    #"I was just finishing eating the rubber-like oatmeal when suddenly Olga Dmitrijewna ran into the canteen, waving her hands."
+    "Ich war gerade dabei, den gummiartigen Haferbrei zu essen, als plötzlich Olga Dmitrijewna in die Kantine gerannt kam und mit den Armen wedelte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1231
 translate german epilogue_mi_3d70faed:
@@ -5503,8 +5503,8 @@ translate german epilogue_mi_762bfea5:
 translate german epilogue_mi_af771b64:
 
     # "Казалось, что возражать не стоит, я встал, кивнул Маше, и мы направились за Ольгой Дмитриевной."
-    #"Seemed that objecting wasn't worth it, so I got up, nodded to Masha, and we headed after Olga Dmitrievna."
-    "Es schien, dass es sich nicht lohnen würde zu widersprechen. Also stand ich auf, nickte Mascha zu und wir gingen mit Olga Dmitrievna mit."
+    #"Seemed that objecting wasn't worth it, so I got up, nodded to Mascha, and we headed after Olga Dmitrijewna."
+    "Es schien, dass es sich nicht lohnen würde zu widersprechen. Also stand ich auf, nickte Mascha zu und wir gingen mit Olga Dmitrijewna mit."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1246
 translate german epilogue_mi_45d3dfab:
@@ -5538,8 +5538,8 @@ translate german epilogue_mi_8e0229dd:
 translate german epilogue_mi_349b0aba:
 
     # mt "Такая! Вы знаете, что пропала Слая?"
-    #mt "I should! Did you know that Slavya is missing?"
-    mt "Das tut es! Weißt du, dass Slavya vermisst wird?"
+    #mt "I should! Did you know that Slawja is missing?"
+    mt "Das tut es! Weißt du, dass Slawja vermisst wird?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1252
 translate german epilogue_mi_4f716193:
@@ -5587,8 +5587,8 @@ translate german epilogue_mi_001b9dd0:
 translate german epilogue_mi_01ce7e3e:
 
     # "Я посмотрел на Машу."
-    #"I looked at Masha."
-    "Ich schaute Masha an."
+    #"I looked at Mascha."
+    "Ich schaute Mascha an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1262
 translate german epilogue_mi_e0d7e61d:
@@ -5650,8 +5650,8 @@ translate german epilogue_mi_77b14888:
 translate german epilogue_mi_0498059b:
 
     # "Ольга Дмитриевна показала в сторону дерева."
-    #"Olga Dmitrievna pointed at a tree."
-    "Olga Dmitrievna zeigt auf einen Baum."
+    #"Olga Dmitrijewna pointed at a tree."
+    "Olga Dmitrijewna zeigt auf einen Baum."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1284
 translate german epilogue_mi_477f49be:
@@ -5664,8 +5664,8 @@ translate german epilogue_mi_477f49be:
 translate german epilogue_mi_6e403fb6:
 
     # "Маша выглянула у меня из-за плеча и тут же в ужасе закричала."
-    #"Masha peered out from behind my shoulder and screamed in terror straight away."
-    "Masha schaute über meine Schulter und schrie vor Entsetzen auf."
+    #"Mascha peered out from behind my shoulder and screamed in terror straight away."
+    "Mascha schaute über meine Schulter und schrie vor Entsetzen auf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1286
 translate german epilogue_mi_3d6cfafe:
@@ -5678,15 +5678,15 @@ translate german epilogue_mi_3d6cfafe:
 translate german epilogue_mi_efa05797:
 
     # "Она разрыдалась и бросилась в объятия Ольги Дмитриевны."
-    #"She burst into tears and rushed into Olga Dmitrievna's arms."
-    "Sie brach in Tränen aus und viel in Olga Dmitrievnas Arme."
+    #"She burst into tears and rushed into Olga Dmitrijewna's arms."
+    "Sie brach in Tränen aus und viel in Olga Dmitrijewnas Arme."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1288
 translate german epilogue_mi_3352219f:
 
     # "Я сделал над собой усилие и, чтобы до конца убедиться, что это действительно Славя, заглянул за дерево."
-    #"I made a considerable effort: I had to look behind the tree to ensure that it was indeed Slavya."
-    "Es kostete mich eine Menge Überwindung, um hinter den Baum zu sehen und mich zu überzeugen, dass es tatsächlich Slavya war."
+    #"I made a considerable effort: I had to look behind the tree to ensure that it was indeed Slawja."
+    "Es kostete mich eine Menge Überwindung, um hinter den Baum zu sehen und mich zu überzeugen, dass es tatsächlich Slawja war."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1289
 translate german epilogue_mi_a45eb573:
@@ -5720,8 +5720,8 @@ translate german epilogue_mi_a0c3cc82:
 translate german epilogue_mi_bd343a2b:
 
     # "Сказала Ольга Дмитриевна удивительно спокойным голосом."
-    #"Said Olga Dmitrievna in surprisingly stone-cold voice."
-    "Antwortete Olga Dmitrievna mit überraschend kalter Stimme."
+    #"Said Olga Dmitrijewna in surprisingly stone-cold voice."
+    "Antwortete Olga Dmitrijewna mit überraschend kalter Stimme."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1302
 translate german epilogue_mi_2cd46005:
@@ -5734,8 +5734,8 @@ translate german epilogue_mi_2cd46005:
 translate german epilogue_mi_9ef4463b:
 
     # "Маша продолжала плакать, теперь уже у меня на плече."
-    #"Masha continued to cry, now on my shoulder."
-    "Masha weinte noch immer, diesmal an meiner Schulter."
+    #"Mascha continued to cry, now on my shoulder."
+    "Mascha weinte noch immer, diesmal an meiner Schulter."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1304
 translate german epilogue_mi_8746139c:
@@ -5762,8 +5762,8 @@ translate german epilogue_mi_2deb3a6a:
 translate german epilogue_mi_4cc32fd1:
 
     # "Человека, которого мы знали.{w} Славю, Сашу – неважно!"
-    #"A person who we knew.{w} Slavya or Sasha – it makes no difference!"
-    "Eine Person, die wir kannten.{w} Slavya oder Sasha – das machte keinen Unterschied!"
+    #"A person who we knew.{w} Slawja or Sascha – it makes no difference!"
+    "Eine Person, die wir kannten.{w} Slawja oder Sascha – das machte keinen Unterschied!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1309
 translate german epilogue_mi_9b82e676:
@@ -5825,8 +5825,8 @@ translate german epilogue_mi_9d5abb5c:
 translate german epilogue_mi_03e931a3:
 
     # "Я крепче обнял Машу."
-    #"I hugged Masha tighter."
-    "Ich drückte Masha fester."
+    #"I hugged Mascha tighter."
+    "Ich drückte Mascha fester."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1318
 translate german epilogue_mi_32a03025:
@@ -5880,8 +5880,8 @@ translate german epilogue_mi_209abbb1:
 translate german epilogue_mi_cd30d9b9:
 
     # "Маша спала в домике Ольги Дмитриевны."
-    #"Masha was sleeping in Olga Dmitrievna's cabin."
-    "Masha schlief in Olga Dmitrievnas Hütte."
+    #"Mascha was sleeping in Olga Dmitrijewna's cabin."
+    "Mascha schlief in Olga Dmitrijewnas Hütte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1335
 translate german epilogue_mi_6eda1825:
@@ -5894,8 +5894,8 @@ translate german epilogue_mi_6eda1825:
 translate german epilogue_mi_a5a8139e:
 
     # "Главными сейчас мне представлялись два вопрса: первый – что здесь происходит, второй – кто убил Славю.{w} Или Сашу. В общем, кто убийца?"
-    #"There were two main questions in my mind: first – what is happening here, and second – who murdered Slavya.{w} Or Sasha. Anyway, who's the murderer?"
-    "Mir kreisten hauptsächlich zwei Fragen im Kopf: Erstens, was passiert hier und zweitens, wer hat Slavya ermordet.{w} Oder Sasha. Wie auch immer, wer ist der Mörder?"
+    #"There were two main questions in my mind: first – what is happening here, and second – who murdered Slawja.{w} Or Sascha. Anyway, who's the murderer?"
+    "Mir kreisten hauptsächlich zwei Fragen im Kopf: Erstens, was passiert hier und zweitens, wer hat Slawja ermordet.{w} Oder Sascha. Wie auch immer, wer ist der Mörder?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1337
 translate german epilogue_mi_a645528a:
@@ -5943,8 +5943,8 @@ translate german epilogue_mi_44e8a885:
 translate german epilogue_mi_e0069242:
 
     # "Но кто из здесь собравшихся способен на такое? Роутер? Лена? Может быть, сама Ольга Дмитриевна?"
-    #"But of all the people gathered here, who would be able to do something like that? Router? Lena? Maybe Olga Dmitrievna herself?"
-    "Aber wer der hier Anwesenden wäre zu solch einer Tat fähig? Router? Lena? Vielleicht sogar Olga Dmitrievna selber?"
+    #"But of all the people gathered here, who would be able to do something like that? Router? Lena? Maybe Olga Dmitrijewna herself?"
+    "Aber wer der hier Anwesenden wäre zu solch einer Tat fähig? Router? Lena? Vielleicht sogar Olga Dmitrijewna selber?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1344
 translate german epilogue_mi_a4cb3fed:
@@ -5971,8 +5971,8 @@ translate german epilogue_mi_b10ee23b:
 translate german epilogue_mi_b9939397:
 
     # "Тогда чего бояться? Может быть, я боюсь не за себя…{w} За Машу…"
-    #"Then what's there to be afraid of? Maybe I'm not afraid for myself...{w} But for Masha..."
-    "Wovor soll ich mich fürchten? Wahrscheinlich habe ich keine Angst um mich.…{w} Aber um Masha…"
+    #"Then what's there to be afraid of? Maybe I'm not afraid for myself...{w} But for Mascha..."
+    "Wovor soll ich mich fürchten? Wahrscheinlich habe ich keine Angst um mich.…{w} Aber um Mascha…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1348
 translate german epilogue_mi_b2e7370c:
@@ -6202,8 +6202,8 @@ translate german epilogue_mi_7b836a93:
 translate german epilogue_mi_298ef616:
 
     # un "Ты бы мог убить Славю?"
-    #un "Could you have murdered Slavya?"
-    un "Könntest du Slavya ermordet haben?"
+    #un "Could you have murdered Slawja?"
+    un "Könntest du Slawja ermordet haben?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1388
 translate german epilogue_mi_a4b858b3:
@@ -6237,8 +6237,8 @@ translate german epilogue_mi_82a95096:
 translate german epilogue_mi_a34c7a38:
 
     # "Точнее, не того меня, что был вчера.{w} И не ту Славю, которая Саша."
-    #"More precisely, not the me from yesterday.{w} And not the Slavya whose name is Sasha."
-    "Genauer gesagt, nicht das ich, dass ich gestern war.{w} Und nicht die Slavya, die eigentlich Sasha heißt."
+    #"More precisely, not the me from yesterday.{w} And not the Slawja whose name is Sascha."
+    "Genauer gesagt, nicht das ich, dass ich gestern war.{w} Und nicht die Slawja, die eigentlich Sascha heißt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1393
 translate german epilogue_mi_536e6181:
@@ -6335,8 +6335,8 @@ translate german epilogue_mi_7bec5d07:
 translate german epilogue_mi_d1c55a8c:
 
     # "Я решил не задерживаться и пошёл к домику Ольги Дмитриевны."
-    #"I chose not to linger and headed to Olga Dmitrievna's cabin."
-    "Ich entschied mich dazu auch nicht länger zu bleiben und machte mich auf den Weg zu Olga Dmitrievna's Hütte."
+    #"I chose not to linger and headed to Olga Dmitrijewna's cabin."
+    "Ich entschied mich dazu auch nicht länger zu bleiben und machte mich auf den Weg zu Olga Dmitrijewna's Hütte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1411
 translate german epilogue_mi_a20cefa7_14:
@@ -6355,8 +6355,8 @@ translate german epilogue_mi_50fa59ee:
 translate german epilogue_mi_ee446fb5:
 
     # "Маша всё ещё спала, я решил её не будить и тихо пристроился рядом."
-    #"Masha was still sleeping, so I decided not to wake her and quietly climbed in next to her."
-    "Masha schlief noch, ich wollte sie nicht wecken und kuschelte mich an sie."
+    #"Mascha was still sleeping, so I decided not to wake her and quietly climbed in next to her."
+    "Mascha schlief noch, ich wollte sie nicht wecken und kuschelte mich an sie."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1421
 translate german epilogue_mi_e4f4f44e:
@@ -6404,8 +6404,8 @@ translate german epilogue_mi_f240c5d7:
 translate german epilogue_mi_a59fd30e:
 
     # "Все придуриваются, потому что убили Славю (всё же мне не хотелось верить, что жертвой стала Саша, поэтому про себя я называл её именно Славей), или убили Славю, потому что все придуриваются…"
-    #"Either everyone keeps pretending because Slavya was murdered (I still couldn't accept that Sasha was the victim, so I've kept telling myself that it was indeed Slavya), or Slavya was killed because everyone keeps pretending..."
-    "Alle verhalten sich so, weil Slavya ermordet wurde (ich konnte nicht akzeptieren, dass Sasha das Opfer war, daher habe ich sie für mich Slavya genannt) oder Slavya wurde ermordet, weil sich alle so verhalten.…"
+    #"Either everyone keeps pretending because Slawja was murdered (I still couldn't accept that Sascha was the victim, so I've kept telling myself that it was indeed Slawja), or Slawja was killed because everyone keeps pretending..."
+    "Alle verhalten sich so, weil Slawja ermordet wurde (ich konnte nicht akzeptieren, dass Sascha das Opfer war, daher habe ich sie für mich Slawja genannt) oder Slawja wurde ermordet, weil sich alle so verhalten.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1428
 translate german epilogue_mi_c6188591:
@@ -6495,8 +6495,8 @@ translate german epilogue_mi_55acc250:
 translate german epilogue_mi_10eae588:
 
     # "Я отодвинул шкаф, прикинул, где конкретно находится задняя стенка ящика, и сильно, но в то же время аккуратно, чтобы не будить Машу, ударил туда ногой."
-    #"I pushed the cabinet from the wall, estimated where exactly on the back side that drawer was, and gave it a sharp and precise (so I would not wake Masha up) kick with my leg."
-    "Ich schob den Schrank von der Wand weg, machte an der Rückwand die Stelle aus, an der sich die Schublade befand und trat kräftig, aber nicht zu feste (um Masha nicht zu wecken) gegen die Rückwand."
+    #"I pushed the cabinet from the wall, estimated where exactly on the back side that drawer was, and gave it a sharp and precise (so I would not wake Mascha up) kick with my leg."
+    "Ich schob den Schrank von der Wand weg, machte an der Rückwand die Stelle aus, an der sich die Schublade befand und trat kräftig, aber nicht zu feste (um Mascha nicht zu wecken) gegen die Rückwand."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1449
 translate german epilogue_mi_07f9ee90:
@@ -6684,7 +6684,7 @@ translate german epilogue_mi_0fc06d24:
 translate german epilogue_mi_2517d987:
 
     # dv "Уже поздно, а Ульянка так и не вернулась."
-    #dv "It's already late, but Ulyana is still nowhere to be seen."
+    #dv "It's already late, but Uljana is still nowhere to be seen."
     dv "Es ist schon spät und Ulianka ist noch nicht wieder zurück."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1507
@@ -6754,8 +6754,8 @@ translate german epilogue_mi_26bbbc79:
 translate german epilogue_mi_65e215d0:
 
     # "Тут у меня мелькнула страшная мысль.{w} А где же Ольга Дмитриевна?.."
-    #"A scary thought suddenly flashed through my mind.{w} Where's Olga Dmitrievna...?"
-    "Plötzlich schoss mir ein schrecklicher Gedanke durch den Kopf.{w} Wo ist Olga Dmitrievna…?"
+    #"A scary thought suddenly flashed through my mind.{w} Where's Olga Dmitrijewna...?"
+    "Plötzlich schoss mir ein schrecklicher Gedanke durch den Kopf.{w} Wo ist Olga Dmitrijewna…?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1517
 translate german epilogue_mi_2f7416f2:
@@ -6796,15 +6796,15 @@ translate german epilogue_mi_cb6ef91a:
 translate german epilogue_mi_fb4190cc:
 
     # dv "Но тогда же только Славя, а сейчас уже и Ульяна…"
-    #dv "But back then it was only Slavya, and now it's also Ulyana..."
+    #dv "But back then it was only Slawja, and now it's also Uljana..."
     dv "Aber da war es erst Slava und nun auch noch Uliana.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1531
 translate german epilogue_mi_e63e04ce:
 
     # my "И Ольга Дмитриевна. Ты её видела?"
-    #my "And Olga Dmitrievna. Have you seen her?"
-    my "Und Olga Dmitrievna. Hast du sie gesehen?"
+    #my "And Olga Dmitrijewna. Have you seen her?"
+    my "Und Olga Dmitrijewna. Hast du sie gesehen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1532
 translate german epilogue_mi_b8e9ed52:
@@ -7104,8 +7104,8 @@ translate german epilogue_mi_5b1b0f13:
 translate german epilogue_mi_41ff22a7:
 
     # un "Я сидела одна и… уже поздно было и… а Мику всё нет…. и я… а тут же ещё такое со Славей… и я…"
-    #un "I was just sitting alone and... it's already quite late and... but Miku's still missing... yet I... and what happened to Slavya... and I..."
-    un "Ich saß alleine da und… es war schon so spät… aber Miku kam nicht… und jetzt… nachden, was mit Slavya passiert ist… und ich…"
+    #un "I was just sitting alone and... it's already quite late and... but Miku's still missing... yet I... and what happened to Slawja... and I..."
+    un "Ich saß alleine da und… es war schon so spät… aber Miku kam nicht… und jetzt… nachden, was mit Slawja passiert ist… und ich…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1595
 translate german epilogue_mi_3019d555:
@@ -7125,8 +7125,8 @@ translate german epilogue_mi_772757c7:
 translate german epilogue_mi_97352ac0:
 
     # my "А ты случайно не знаешь, где Ульяна и Ольга Дмитриевна?"
-    #my "By any chance, do you know where Ulyana and Olga Dmitrievna are?"
-    my "Wo wir dabei sind, hast du eine Ahnung, wo Ulyana und Olga Dmitrievna sind?"
+    #my "By any chance, do you know where Uljana and Olga Dmitrijewna are?"
+    my "Wo wir dabei sind, hast du eine Ahnung, wo Uljana und Olga Dmitrijewna sind?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1598
 translate german epilogue_mi_3932a02b:
@@ -7153,8 +7153,8 @@ translate german epilogue_mi_52f6ea86:
 translate german epilogue_mi_4297ae4e:
 
     # dv "Семён…"
-    #dv "Semyon..."
-    dv "Semyon…"
+    #dv "Semjon..."
+    dv "Semjon…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1602
 translate german epilogue_mi_5b9b3c9e:
@@ -7349,8 +7349,8 @@ translate german epilogue_mi_38116f5e:
 translate german epilogue_mi_d2c06568:
 
     # ro "Вы не видели Шурика?"
-    #ro "Have you seen Shurik?"
-    ro "Habt ihr Shurik gesehen?"
+    #ro "Have you seen Schurik?"
+    ro "Habt ihr Schurik gesehen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1641
 translate german epilogue_mi_b84b7fde:
@@ -7522,8 +7522,8 @@ translate german epilogue_mi_f5ac9909:
 translate german epilogue_mi_d5218c9a:
 
     # my "Хотя бы можем быть уверены, что с ними… не случилось то же самое, что со Славей!"
-    #my "Well, at least we can be sure that it's not the same case... as whatever happened to Slavya!"
-    my "Zumindest können wir sicher sein, das hier ist was anderes als… was immer mit Slavya passiert ist!"
+    #my "Well, at least we can be sure that it's not the same case... as whatever happened to Slawja!"
+    my "Zumindest können wir sicher sein, das hier ist was anderes als… was immer mit Slawja passiert ist!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1679
 translate german epilogue_mi_59c3611a:
@@ -7759,8 +7759,8 @@ translate german epilogue_mi_a20cefa7_17:
 translate german epilogue_mi_e258274a:
 
     # "Через минуту мы подошли к домику Ольги Дмитриевны."
-    #"A minute later, we were approaching Olga Dmitrievna's cabin."
-    "Eine Minute später erreichten wir die Hütte von Olga Dmitrievna."
+    #"A minute later, we were approaching Olga Dmitrijewna's cabin."
+    "Eine Minute später erreichten wir die Hütte von Olga Dmitrijewna."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1725
 translate german epilogue_mi_103eb1f8:
@@ -7885,8 +7885,8 @@ translate german epilogue_mi_a29f386e:
 translate german epilogue_mi_b5d68c97:
 
     # ro "И со Славей? Это тоже такой розыгрыш?"
-    #ro "And Slavya too? That's all just a stupid prank?"
-    ro "Und Slavya? Hällst du das auch nur für einen schlechten Scherz?"
+    #ro "And Slawja too? That's all just a stupid prank?"
+    ro "Und Slawja? Hällst du das auch nur für einen schlechten Scherz?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1746
 translate german epilogue_mi_0b63e0e1:
@@ -7969,15 +7969,15 @@ translate german epilogue_mi_9bb0e846:
 translate german epilogue_mi_4bae00e6:
 
     # ro "Я был у себя в домике – Шурик подтвердит!"
-    #ro "I was in my cabin at night – Shurik can prove it!"
-    ro "Ich war in meiner Hütte – Shurik kann es beweisen!"
+    #ro "I was in my cabin at night – Schurik can prove it!"
+    ro "Ich war in meiner Hütte – Schurik kann es beweisen!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1760
 translate german epilogue_mi_76243b78:
 
     # my "Да, только вот Шурик временно недоступен…"
-    #my "Sure, but Shurik's temporarily unavailable..."
-    my "Klar, nur das Shurik gerade nicht da ist.…"
+    #my "Sure, but Schurik's temporarily unavailable..."
+    my "Klar, nur das Schurik gerade nicht da ist.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1761
 translate german epilogue_mi_daca0afa:
@@ -8123,8 +8123,8 @@ translate german epilogue_mi_cf4f8759:
 translate german epilogue_mi_b6b544d2:
 
     # "Похоже, мы разбудили Машу."
-    #"Seems like we woke Masha up."
-    "Anscheinend hatten wir Masha geweckt."
+    #"Seems like we woke Mascha up."
+    "Anscheinend hatten wir Mascha geweckt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1794
 translate german epilogue_mi_1addbba1:
@@ -8158,8 +8158,8 @@ translate german epilogue_mi_13d057b3:
 translate german epilogue_mi_ae15ba1a:
 
     # "Лена в слезах бросилась на шею Маше."
-    #"Lena burst into tears and flung her arms round Masha's neck."
-    "Lena brach in Tränen aus und schlang ihre Arme um Mashas Hals."
+    #"Lena burst into tears and flung her arms round Mascha's neck."
+    "Lena brach in Tränen aus und schlang ihre Arme um Maschas Hals."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1802
 translate german epilogue_mi_a35f21fb:
@@ -8235,8 +8235,8 @@ translate german epilogue_mi_d54d0a6f:
 translate german epilogue_mi_20db871e:
 
     # "Я протянул ему трубу и медленно подошёл к кровати, на которой Лена всё ещё рыдала в объятиях Маши."
-    #"I handed him the pipe and slowly approached the bed where Lena was still sobbing in Masha's arms."
-    "Ich reichte ihm das Rohr und ging langsam zum Bett, wo Lena leise weinend in Mashas Armen lag."
+    #"I handed him the pipe and slowly approached the bed where Lena was still sobbing in Mascha's arms."
+    "Ich reichte ihm das Rohr und ging langsam zum Bett, wo Lena leise weinend in Maschas Armen lag."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1815
 translate german epilogue_mi_db756b30:
@@ -8284,8 +8284,8 @@ translate german epilogue_mi_1dff787e:
 translate german epilogue_mi_e3998c81:
 
     # "Шёпот Маши, всхлипы Лены, голос Алисы – всё слилось в тихую колыбельную, и я провалился в сон."
-    #"Masha's whispers, Lena's sobs, Alisa's voice – all that has somehow melted in one quiet lullaby, and so I fell asleep."
-    "Mashas Flüstern, Lenas Schluchzen, Alisas Stimme – all dies fügte sich zu einem leisen Schlaflied und ich schlief ein."
+    #"Mascha's whispers, Lena's sobs, Alisa's voice – all that has somehow melted in one quiet lullaby, and so I fell asleep."
+    "Maschas Flüstern, Lenas Schluchzen, Alisas Stimme – all dies fügte sich zu einem leisen Schlaflied und ich schlief ein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1831
 translate german epilogue_mi_a20cefa7_18:
@@ -8367,8 +8367,8 @@ translate german epilogue_mi_e9e6e7f9_1:
 translate german epilogue_mi_44cfa98c:
 
     # "Я с трудом приподнялся, перелез через спящих в обнимку Лену и Машу и спрыгнул на пол."
-    #"I rose with considerable effort, climbed over Lena and Masha who slept with their arms around each other and jumped down to the floor."
-    "Ich erhob mich mühsam, kletterte über Lena und Masha, die Arm in Arm neben mir schliefen und sprang auf den Boden."
+    #"I rose with considerable effort, climbed over Lena and Mascha who slept with their arms around each other and jumped down to the floor."
+    "Ich erhob mich mühsam, kletterte über Lena und Mascha, die Arm in Arm neben mir schliefen und sprang auf den Boden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1851
 translate german epilogue_mi_7f4ec5bf:
@@ -8701,8 +8701,8 @@ translate german epilogue_mi_7a8ced10:
 translate german epilogue_mi_6f990f62:
 
     # "Маша потянулась и мило улыбнулась мне."
-    #"Masha stretched out and gave me a cute smile."
-    "Masha streckte sich aus und lächelte mich süß an."
+    #"Mascha stretched out and gave me a cute smile."
+    "Mascha streckte sich aus und lächelte mich süß an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1922
 translate german epilogue_mi_49c498a0:
@@ -8757,8 +8757,8 @@ translate german epilogue_mi_70a3cd5c:
 translate german epilogue_mi_d79f8f4c:
 
     # "Маша посмотрела в окно и ничего не сказала.{w} Похоже, она вспомнила…"
-    #"Masha glanced out of window and said nothing.{w} Seems like she remembered now."
-    "Masha schaute aus dem Fenster und sagte nichts.{w} So als würde sie sich wieder erinnern."
+    #"Mascha glanced out of window and said nothing.{w} Seems like she remembered now."
+    "Mascha schaute aus dem Fenster und sagte nichts.{w} So als würde sie sich wieder erinnern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1934
 translate german epilogue_mi_6cc461d6:
@@ -8805,8 +8805,8 @@ translate german epilogue_mi_a9c1d18e:
 translate german epilogue_mi_22f7f7dc:
 
     # "Тихо поинтересовалась Маша."
-    #"Inquired Masha quietly."
-    "Fragte Masha leise."
+    #"Inquired Mascha quietly."
+    "Fragte Mascha leise."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1953
 translate german epilogue_mi_f862db93:
@@ -9036,8 +9036,8 @@ translate german epilogue_mi_0b861b18:
 translate german epilogue_mi_8fdf19ba:
 
     # "Вмешалась в разговор молчавшая до этого Маша."
-    #"Masha, who had kept silent so far, butted in."
-    "Mischte sich Masha ein, die bisher schweigend da saß."
+    #"Mascha, who had kept silent so far, butted in."
+    "Mischte sich Mascha ein, die bisher schweigend da saß."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1994
 translate german epilogue_mi_b017a002:
@@ -9092,8 +9092,8 @@ translate german epilogue_mi_5f2878d9:
 translate german epilogue_mi_01ce7e3e_1:
 
     # "Я посмотрел на Машу."
-    #"I cast a look at Masha."
-    "Ich schaute Masha an."
+    #"I cast a look at Mascha."
+    "Ich schaute Mascha an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2002
 translate german epilogue_mi_9f98315f:
@@ -9148,8 +9148,8 @@ translate german epilogue_mi_20e75221:
 translate german epilogue_mi_8d1032a5:
 
     # ma "Похоже, они правда в это верят. И до вчерашнего дня на нашем месте были некие Семён и Мику."
-    #ma "It looks like they genuinely believe that. And some folks, named Semyon and Miku, were in our shoes until yesterday."
-    ma "Es sieht so aus, als würden sie es wirklich glauben. Und einige Leute mit den Namen Miku und Semyon, waren gestern hier an unserer Stelle."
+    #ma "It looks like they genuinely believe that. And some folks, named Semjon and Miku, were in our shoes until yesterday."
+    ma "Es sieht so aus, als würden sie es wirklich glauben. Und einige Leute mit den Namen Miku und Semjon, waren gestern hier an unserer Stelle."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2017
 translate german epilogue_mi_b74846e4:
@@ -9211,8 +9211,8 @@ translate german epilogue_mi_f6aad95c:
 translate german epilogue_mi_c7c73a32:
 
     # "Я внимательно смотрел на Машу."
-    #"I looked closely at Masha."
-    "Ich schaute Masha aufmerksam an."
+    #"I looked closely at Mascha."
+    "Ich schaute Mascha aufmerksam an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2028
 translate german epilogue_mi_fb6ae8d4:
@@ -9358,8 +9358,8 @@ translate german epilogue_mi_57d8a15d:
 translate german epilogue_mi_c1100f55:
 
     # "Похоже, за последние дни изменились совершенно все!{w} И Маша тоже…"
-    #"It looks like the last few days changed everything and everyone!{w} Including Masha..."
-    "Es macht den Eindruck, als haben die letzten paar Tage alles und jeden verändert!{w} Einschlißlich Masha.…"
+    #"It looks like the last few days changed everything and everyone!{w} Including Mascha..."
+    "Es macht den Eindruck, als haben die letzten paar Tage alles und jeden verändert!{w} Einschlißlich Mascha.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2054
 translate german epilogue_mi_deca8d3b:
@@ -9449,7 +9449,7 @@ translate german epilogue_mi_9f8b3255:
 translate german epilogue_mi_a19d3e12:
 
     # "Это была Ульянка.{w} Нет, точнее, кто-то похожий на неё…"
-    #"It was Ulyana.{w} No, not Ulyana, but something that looked like her..."
+    #"It was Uljana.{w} No, not Uljana, but something that looked like her..."
     "Es war Ulianka.{w} Nein, es war jemand, der ihr sehr ähnlich war.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2073
@@ -9477,14 +9477,14 @@ translate german epilogue_mi_70b8148d:
 translate german epilogue_mi_e5b6bc80:
 
     # us "Семён…"
-    #us "Semyon..."
-    us "Semyon.…"
+    #us "Semjon..."
+    us "Semjon.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2077
 translate german epilogue_mi_b5deb76e:
 
     # "То, что казалось Ульяной, звало меня."
-    #"The thing that seemed to be Ulyana was calling for me."
+    #"The thing that seemed to be Uljana was calling for me."
     "Dieses Ding, das aussah wie Uliana rief nach mir."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2078
@@ -9526,8 +9526,8 @@ translate german epilogue_mi_bfc45034:
 translate german epilogue_mi_dca1260c:
 
     # "Я рефлекторно обернулся, краем глаза успел разглядеть Машу, стоявшую на крыльце, и тут же снова посмотрел в сторону, где была «Ульяна»."
-    #"I instinctively turned towards the word, caught sight of Masha, standing on the porch, and then instantly looked back to 'Ulyana'."
-    "Reflexartig drehte ich mich in die Richtung, aus der die Worte kamen, und sah Masha auf der Veranda stehen und ich drehte mich gleich wieder zurück zu 'Uliana'."
+    #"I instinctively turned towards the word, caught sight of Mascha, standing on the porch, and then instantly looked back to 'Uljana'."
+    "Reflexartig drehte ich mich in die Richtung, aus der die Worte kamen, und sah Mascha auf der Veranda stehen und ich drehte mich gleich wieder zurück zu 'Uliana'."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2089
 translate german epilogue_mi_5007383a:
@@ -9540,8 +9540,8 @@ translate german epilogue_mi_5007383a:
 translate german epilogue_mi_d04071e3:
 
     # "Маша, похоже заметившая смертельную бледность на моём лице, в мгновение ока подскочила ко мне."
-    #"Masha seemed to notice the deathly pallor upon my face and jumped over to me in the blink of an eye."
-    "Masha schien mein leichenblasses Gesicht gesehen zu haben und sprang im Bruchteil einer Sekunde zu mir herunter."
+    #"Mascha seemed to notice the deathly pallor upon my face and jumped over to me in the blink of an eye."
+    "Mascha schien mein leichenblasses Gesicht gesehen zu haben und sprang im Bruchteil einer Sekunde zu mir herunter."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2092
 translate german epilogue_mi_49a38e33:
@@ -9554,7 +9554,7 @@ translate german epilogue_mi_49a38e33:
 translate german epilogue_mi_1c8f07f7:
 
     # my "Я… Я… видел Ульяну… Там…"
-    #my "I... I just saw Ulyana... There..."
+    #my "I... I just saw Uljana... There..."
     my "Ich… Ich sah Uliana… Dort…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2094
@@ -9568,8 +9568,8 @@ translate german epilogue_mi_02db51d2:
 translate german epilogue_mi_f7f58c4b:
 
     # "Нет, зрелище разорванной Слави, конечно, было ужасающим…"
-    #"Sure, the sight of the butchered Slavya was indeed gruesome..."
-    "Sicher, der Anblick der abgeschlachteten Slavya war grausam.…"
+    #"Sure, the sight of the butchered Slawja was indeed gruesome..."
+    "Sicher, der Anblick der abgeschlachteten Slawja war grausam.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2096
 translate german epilogue_mi_c633ec22:
@@ -9596,8 +9596,8 @@ translate german epilogue_mi_d3701ebe:
 translate german epilogue_mi_5217a1fa:
 
     # "Маша трясла меня за плечи."
-    #"Masha was shaking me by the shoulders."
-    "Masha schüttelte mich an den Schultern."
+    #"Mascha was shaking me by the shoulders."
+    "Mascha schüttelte mich an den Schultern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2100
 translate german epilogue_mi_b957be9d:
@@ -9617,8 +9617,8 @@ translate german epilogue_mi_9bf74aca:
 translate german epilogue_mi_409bc2a3:
 
     # "Я почувствовал хлёсткий удар по лицу и непонимающе посмотрел на Машу."
-    #"I felt a round-arm slap his me in the face and gave Masha a questioning look."
-    "Ich spürte einen Schlag im Gesicht und starrte Masha fragend an."
+    #"I felt a round-arm slap his me in the face and gave Mascha a questioning look."
+    "Ich spürte einen Schlag im Gesicht und starrte Mascha fragend an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2111
 translate german epilogue_mi_32cd69c5:
@@ -9631,15 +9631,15 @@ translate german epilogue_mi_32cd69c5:
 translate german epilogue_mi_e5d90224:
 
     # my "Там стояла Ульяна… с лицом…{w} В общем, зомби. Да, Ульяна-зомби. Самое подходящее объяснение!"
-    #my "Ulyana was there... with her face...{w} Basically, it was a zombie. Yeah, zombie Ulyana. That's the most rational explanation I can give!"
-    my "Ulyana war dort… mit einem Gesicht…{w} Eigentlich war sie ein Zombie. Ja, Zombie-Uliana. Das ist die beste Erklärung, die ich finden kann!"
+    #my "Uljana was there... with her face...{w} Basically, it was a zombie. Yeah, zombie Uljana. That's the most rational explanation I can give!"
+    my "Uljana war dort… mit einem Gesicht…{w} Eigentlich war sie ein Zombie. Ja, Zombie-Uliana. Das ist die beste Erklärung, die ich finden kann!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2114
 translate german epilogue_mi_f159f577:
 
     # "Маша ошарашенно смотрела на меня."
-    #"Masha looked at me dumbfounded."
-    "Masha schaute mich verblüfft an."
+    #"Mascha looked at me dumbfounded."
+    "Mascha schaute mich verblüfft an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2115
 translate german epilogue_mi_ddba048a:
@@ -9728,8 +9728,8 @@ translate german epilogue_mi_f6b9796e:
 translate german epilogue_mi_be002e4f:
 
     # "Скептически ухмыльнулась Маша."
-    #"Masha grinned sceptically."
-    "Masha grinste skeptisch."
+    #"Mascha grinned sceptically."
+    "Mascha grinste skeptisch."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2144
 translate german epilogue_mi_ad288150_1:
@@ -9847,8 +9847,8 @@ translate german epilogue_mi_8690ec90:
 translate german epilogue_mi_3cd95137:
 
     # "Громко сказала Маша."
-    #"Said Masha out loud."
-    "Sagte Masha laut."
+    #"Said Mascha out loud."
+    "Sagte Mascha laut."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2165
 translate german epilogue_mi_395daf08:
@@ -9889,8 +9889,8 @@ translate german epilogue_mi_f2f360c8:
 translate german epilogue_mi_f988541d:
 
     # "А что, если Маша права? Может быть, не надо суетиться?"
-    #"What if Masha's right? Perhaps we shouldn't be running around aimlessly?"
-    "Was ist, wenn Masha recht hat? Vielleicht sollten wir wirklich nicht ziellos herumlaufen?"
+    #"What if Mascha's right? Perhaps we shouldn't be running around aimlessly?"
+    "Was ist, wenn Mascha recht hat? Vielleicht sollten wir wirklich nicht ziellos herumlaufen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2171
 translate german epilogue_mi_0c03293b:
@@ -10008,8 +10008,8 @@ translate german epilogue_mi_bc561ca0:
 translate german epilogue_mi_7b696593:
 
     # "Маша медленно встала и посмотрела на меня."
-    #"Masha got up slowly and looked at me."
-    "Masha erhob sich langsam und schaute mich an."
+    #"Mascha got up slowly and looked at me."
+    "Mascha erhob sich langsam und schaute mich an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2193
 translate german epilogue_mi_5638fcf6:
@@ -10077,8 +10077,8 @@ translate german epilogue_mi_6049b2ea:
 translate german epilogue_mi_38c29669:
 
     # "Маша махнула рукой."
-    #"Masha gestured at the horizon."
-    "Masha zeigte auf den Horizont."
+    #"Mascha gestured at the horizon."
+    "Mascha zeigte auf den Horizont."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2214
 translate german epilogue_mi_ec1be65f:
@@ -10264,8 +10264,8 @@ translate german epilogue_mi_ac1911e9:
 translate german epilogue_mi_6a8b4df5:
 
     # "Мрачно сказала Маша, повалившись на траву."
-    #"Said Masha in a gloomy mood, sinking down to the grass."
-    "Sagte Masha mit düsterer Stimmung und sank ins Gras."
+    #"Said Mascha in a gloomy mood, sinking down to the grass."
+    "Sagte Mascha mit düsterer Stimmung und sank ins Gras."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2256
 translate german epilogue_mi_916de10c:
@@ -10425,8 +10425,8 @@ translate german epilogue_mi_202c17a8:
 translate german epilogue_mi_5dd3dee9:
 
     # "Спокойно сказала Маша."
-    #"Said Masha calmly."
-    "Sagte Masha ruhig."
+    #"Said Mascha calmly."
+    "Sagte Mascha ruhig."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2290
 translate german epilogue_mi_3b32e781:
@@ -10585,8 +10585,8 @@ translate german epilogue_mi_ae92f472:
 translate german epilogue_mi_36b49d85:
 
     # "Через несколько минут мы вышли…{w} к воротам пионерлагеря «Совёнок»…"
-    #"In few minutes we finally came...{w} to the gates of the Sovyonok pioneer camp..."
-    "Einige Minuten später erreichten wir.…{w} die Tore des Sovyonok Pionierlagers.…"
+    #"In few minutes we finally came...{w} to the gates of the Sowjonok pioneer camp..."
+    "Einige Minuten später erreichten wir.…{w} die Tore des Sowjonok Pionierlagers.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2329
 translate german epilogue_mi_971b05e7:
@@ -10668,8 +10668,8 @@ translate german epilogue_mi_9c57ac94:
 translate german epilogue_mi_407fb42e:
 
     # "Спросила Маша, пережёвывая непонятно откуда взявшуюся землянику."
-    #"Asked Masha, chewing on some strawberries of uncertain origin."
-    "Fragte Masha, die auf wilden Erdbeeren kaute, die wie aus dem Nichts erschienen waren."
+    #"Asked Mascha, chewing on some strawberries of uncertain origin."
+    "Fragte Mascha, die auf wilden Erdbeeren kaute, die wie aus dem Nichts erschienen waren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2350
 translate german epilogue_mi_e5032065:
@@ -10710,8 +10710,8 @@ translate german epilogue_mi_20f54ffc_2:
 translate german epilogue_mi_31b8751f:
 
     # "Маша так глупо выглядела, что я невольно улыбнулся."
-    #"Masha looked so silly now, so I couldn't help flashing an ironic smile."
-    "Masha schaute so dumm aus der Wäsche, dass ich mir ein ironisches Grinsen nicht verkneifen konnte."
+    #"Mascha looked so silly now, so I couldn't help flashing an ironic smile."
+    "Mascha schaute so dumm aus der Wäsche, dass ich mir ein ironisches Grinsen nicht verkneifen konnte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2357
 translate german epilogue_mi_855bda49:
@@ -10724,8 +10724,8 @@ translate german epilogue_mi_855bda49:
 translate german epilogue_mi_c6243ca7:
 
     # my "Вперёд… И там Совёнок."
-    #my "Forward... And Sovyonok is there."
-    my "Vorwärts… Und da ist Sovyonok."
+    #my "Forward... And Sowjonok is there."
+    my "Vorwärts… Und da ist Sowjonok."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2360
 translate german epilogue_mi_7ae81d9e:
@@ -10794,8 +10794,8 @@ translate german epilogue_mi_bf48949e:
 translate german epilogue_mi_65d91c76:
 
     # "Я внимательно посмотрел на Машу и понял, что больше ждать нельзя."
-    #"I looked at Masha keenly and suddenly realised that I can't wait anymore."
-    "Ich schaute Masha an und plötzlich konnte ich nicht länger abwarten."
+    #"I looked at Mascha keenly and suddenly realised that I can't wait anymore."
+    "Ich schaute Mascha an und plötzlich konnte ich nicht länger abwarten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2371
 translate german epilogue_mi_de289d79:
@@ -10997,8 +10997,8 @@ translate german epilogue_mi_4a929c62:
 translate german epilogue_mi_0f7b726d:
 
     # "Маша с сомнением посмотрела на эту конструкцию, подёргала несколько раз и, убедившись в её прочности, улыбнулась."
-    #"Masha gave our device a questioning look, but ultimately gave it a few strong pulls, ensuring its strength, and smiled."
-    "Masha betrachtete unsere Konstruktion mit zweifelndem Blick, aber als sie einige Male daran zog, war sie von der Tragkraft überzeugt und lächelte."
+    #"Mascha gave our device a questioning look, but ultimately gave it a few strong pulls, ensuring its strength, and smiled."
+    "Mascha betrachtete unsere Konstruktion mit zweifelndem Blick, aber als sie einige Male daran zog, war sie von der Tragkraft überzeugt und lächelte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2411
 translate german epilogue_mi_044b0bcd:
@@ -11031,8 +11031,8 @@ translate german epilogue_mi_0c231086:
 translate german epilogue_mi_3c08fc74:
 
     # "Роутеру было ещё хуже – его периодически сменяли то Маша, то Алиса."
-    #"Router felt even worse – both Masha and Alisa were swapping places with him every now and then."
-    "Router erging es noch schlimmer – Masha und Alisa tauschten mit ihm hin und wieder die Plätze."
+    #"Router felt even worse – both Mascha and Alisa were swapping places with him every now and then."
+    "Router erging es noch schlimmer – Mascha und Alisa tauschten mit ihm hin und wieder die Plätze."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2420
 translate german epilogue_mi_b8ecaed9:
@@ -11073,7 +11073,7 @@ translate german epilogue_mi_867157a6:
 translate german epilogue_mi_bdc084f3:
 
     # "Протянула Маша."
-    #"Masha lingered on the words."
+    #"Mascha lingered on the words."
     "Mascha sprach nicht weiter."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2436
@@ -11121,8 +11121,8 @@ translate german epilogue_mi_a20cefa7_27:
 translate german epilogue_mi_6ba66183:
 
     # "Выбор пал на домик Ольги Дмитриевны."
-    #"The obvious choice was Olga Dmitrievna's cabin."
-    "Die Wahl viel auf Olga Dmitrievnas Hütte."
+    #"The obvious choice was Olga Dmitrijewna's cabin."
+    "Die Wahl viel auf Olga Dmitrijewnas Hütte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2450
 translate german epilogue_mi_15104e27:
@@ -11149,8 +11149,8 @@ translate german epilogue_mi_0a658695:
 translate german epilogue_mi_72499cac:
 
     # "Грозно сказала Маша."
-    #"Said Masha sternly."
-    "Sagte Masha ernst."
+    #"Said Mascha sternly."
+    "Sagte Mascha ernst."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2455
 translate german epilogue_mi_6731b709:
@@ -11464,8 +11464,8 @@ translate german epilogue_mi_a600ff76:
 translate german epilogue_mi_3cdfabf7:
 
     # "Я одним глазком выглянул из-под одеяла и увидел Алису и Машу с ведром воды и какими-то пакетами."
-    #"I barely peered out from under the blanket and caught a glimpse of Alisa and Masha entering with a bucket of water and some bags."
-    "Ich schaute vorsichtig unter meiner Decke hervor und sah Alisa und Masha den Raum betreten mit einem Eimer Wasser und einigen Taschen."
+    #"I barely peered out from under the blanket and caught a glimpse of Alisa and Mascha entering with a bucket of water and some bags."
+    "Ich schaute vorsichtig unter meiner Decke hervor und sah Alisa und Mascha den Raum betreten mit einem Eimer Wasser und einigen Taschen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2522
 translate german epilogue_mi_f6d3ba26:
@@ -11548,8 +11548,8 @@ translate german epilogue_mi_98b3a8c1:
 translate german epilogue_mi_2ceeb90b:
 
     # dv "Ольга Дмитриевна же звонила в милицию…"
-    #dv "But Olga Dmitrievna has called the police..."
-    dv "Olga Dmitrievna hat doch die Polizei gerufen.…"
+    #dv "But Olga Dmitrijewna has called the police..."
+    dv "Olga Dmitrijewna hat doch die Polizei gerufen.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2536
 translate german epilogue_mi_b75cedb9:
@@ -11583,8 +11583,8 @@ translate german epilogue_mi_d162c751:
 translate german epilogue_mi_5d8b05ff:
 
     # "Алиса легла на кровать к Лене, а Маша села рядом со мной."
-    #"Alisa lay down on Lena's bed, and Masha sat down next to me."
-    "Alisa legte sich neben Lena ins Bett und Masha setzte sich neben mich."
+    #"Alisa lay down on Lena's bed, and Mascha sat down next to me."
+    "Alisa legte sich neben Lena ins Bett und Mascha setzte sich neben mich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2545
 translate german epilogue_mi_09de083e:
@@ -11653,8 +11653,8 @@ translate german epilogue_mi_17742508:
 translate german epilogue_mi_1ce87451:
 
     # "Тихо сказала Маша."
-    #"Replied Masha quietly."
-    "Antwortete Masha leise."
+    #"Replied Mascha quietly."
+    "Antwortete Mascha leise."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2560
 translate german epilogue_mi_ba17b8a7:
@@ -11756,8 +11756,8 @@ translate german epilogue_mi_d897367d:
 translate german epilogue_mi_1d5cb079:
 
     # "Рядом мирно посапывала Маша, а в ногах валялся Роутер, свернувшийся клубочком."
-    #"Masha was lying asleep next to me, while Router was curled up on the floor."
-    "Masha schlief neben mir, während Router auf dem Boden zusammengerollt lag."
+    #"Mascha was lying asleep next to me, while Router was curled up on the floor."
+    "Mascha schlief neben mir, während Router auf dem Boden zusammengerollt lag."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2589
 translate german epilogue_mi_95cddf67:
@@ -11784,8 +11784,8 @@ translate german epilogue_mi_333411d8_2:
 translate german epilogue_mi_f5a3eeec:
 
     # "Я грубо растолкал Машу."
-    #"I woke Masha up with a few rough prods."
-    "Ich weckte Masha mit einigen rauen Stößen."
+    #"I woke Mascha up with a few rough prods."
+    "Ich weckte Mascha mit einigen rauen Stößen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2594
 translate german epilogue_mi_20f54ffc_3:
@@ -11854,8 +11854,8 @@ translate german epilogue_mi_e77cd9de:
 translate german epilogue_mi_4b1dca0c:
 
     # "Встревоженно сказала Маша."
-    #"Said Masha worriedly."
-    "Antwortete Masha ängstlich."
+    #"Said Mascha worriedly."
+    "Antwortete Mascha ängstlich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2607
 translate german epilogue_mi_bb853559:
@@ -11903,8 +11903,8 @@ translate german epilogue_mi_20b8375c:
 translate german epilogue_mi_0a0f07b3:
 
     # "Я ударил кулаком по столу, отчего Маша вздрогнула."
-    #"I pounded my fist on the table, making Masha jump."
-    "Ich schlug mit der Faust auf den Tisch, was Masha zusammenzucken lies?"
+    #"I pounded my fist on the table, making Mascha jump."
+    "Ich schlug mit der Faust auf den Tisch, was Mascha zusammenzucken lies?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2618
 translate german epilogue_mi_b0069244:
@@ -11966,7 +11966,7 @@ translate german epilogue_mi_42faecaa:
 translate german epilogue_mi_96cd1356:
 
     # "Маша ничего не ответила."
-    #"Masha kept silent."
+    #"Mascha kept silent."
     "Mascha schwieg."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2629
@@ -12015,8 +12015,8 @@ translate german epilogue_mi_3bd941f9:
 translate german epilogue_mi_cfe4baf3:
 
     # "Впрочем, если вспомнить, насколько она была напугана, думаю, она бы разбудила Машу, никуда бы не пошла…"
-    #"Although, given how frightened she looked, I guess she would have woken up Masha or just have held it till morning..."
-    "Allerdings, wenn ich bedenke, wie verängstigt sie war, denke ich eher, sie hätte Masha geweckt oder hätte bis zum Morgen eingehalten.…"
+    #"Although, given how frightened she looked, I guess she would have woken up Mascha or just have held it till morning..."
+    "Allerdings, wenn ich bedenke, wie verängstigt sie war, denke ich eher, sie hätte Mascha geweckt oder hätte bis zum Morgen eingehalten.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2639
 translate german epilogue_mi_9ce03507:
@@ -12078,8 +12078,8 @@ translate german epilogue_mi_78bb1682:
 translate german epilogue_mi_3c910ff4:
 
     # "Ко мне подскочила Маша."
-    #"Masha rushed over to me."
-    "Masha stürzte zu mir."
+    #"Mascha rushed over to me."
+    "Mascha stürzte zu mir."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2667
 translate german epilogue_mi_3d6cfafe_1:
@@ -12120,7 +12120,7 @@ translate german epilogue_mi_ce032298:
 translate german epilogue_mi_f0dd9ecf:
 
     # "Открыв дверь, Маша вскрикнула и замерла."
-    #"Opening the door, Masha screamed and froze in her tracks."
+    #"Opening the door, Mascha screamed and froze in her tracks."
     "Marsha öffnete die Türe, dann schrie sie und erstarrte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2680
@@ -12134,8 +12134,8 @@ translate german epilogue_mi_0e2c4200:
 translate german epilogue_mi_fd6cf8ba:
 
     # "Тут же Маша упала мне на руки и потеряла сознание."
-    #"The next moment Masha fainted and fell back into my arms."
-    "Im nächsten Moment brach Masha bewusstlos in meinen Armen zusammen."
+    #"The next moment Mascha fainted and fell back into my arms."
+    "Im nächsten Moment brach Mascha bewusstlos in meinen Armen zusammen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2683
 translate german epilogue_mi_9b50f023:
@@ -12211,8 +12211,8 @@ translate german epilogue_mi_f9065ef9:
 translate german epilogue_mi_657108f7:
 
     # "В отличие от Маши она не стала спорить."
-    #"Unlike Masha, she wasn't one to argue."
-    "Im Gegensatz zu Masha stritt sie nicht."
+    #"Unlike Mascha, she wasn't one to argue."
+    "Im Gegensatz zu Mascha stritt sie nicht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2697
 translate german epilogue_mi_cca21832:
@@ -12232,8 +12232,8 @@ translate german epilogue_mi_761c4b2e:
 translate german epilogue_mi_1bafb56b:
 
     # "У меня на коленях неподвижно лежала Маша, в углу кровати ритмично трясся Роутер, а напротив сидела Лена с застывшим на лице выражением обречённости и отчаяния."
-    #"Masha was still lying on my lap, Router was quivering in the corner of the bed, and Lena was sitting in front of me with an expression of doom and despair on her face."
-    "Masha lag immer noch auf meinem Schoß, Router lag zitternd in einer Ecke des Bettes und Lena saß ihm gegenüber. Verzweiflung stand ihr ins Gesicht geschrieben."
+    #"Mascha was still lying on my lap, Router was quivering in the corner of the bed, and Lena was sitting in front of me with an expression of doom and despair on her face."
+    "Mascha lag immer noch auf meinem Schoß, Router lag zitternd in einer Ecke des Bettes und Lena saß ihm gegenüber. Verzweiflung stand ihr ins Gesicht geschrieben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2700
 translate german epilogue_mi_3874b4a4:
@@ -12253,8 +12253,8 @@ translate german epilogue_mi_d8767c7a:
 translate german epilogue_mi_ce811c64:
 
     # "Не пугала и мысль, что меня разорвут на куски, как Славю, или что стану зомби, как Ульяна."
-    #"I wasn't afraid that I would be torn to pieces just like Slavya, or I would become a zombie like Ulyana."
-    "Der Gedanke daran, wie Slavya in Stücke gerissen zu werden oder wie Uliana als Zombie zu enden, erschreckte mich auch nicht."
+    #"I wasn't afraid that I would be torn to pieces just like Slawja, or I would become a zombie like Uljana."
+    "Der Gedanke daran, wie Slawja in Stücke gerissen zu werden oder wie Uliana als Zombie zu enden, erschreckte mich auch nicht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2703
 translate german epilogue_mi_170b2003:
@@ -12267,8 +12267,8 @@ translate german epilogue_mi_170b2003:
 translate german epilogue_mi_e374bab2:
 
     # "Маша тихо застонала."
-    #"Masha let out a quiet moan."
-    "Masha stöhnte leise."
+    #"Mascha let out a quiet moan."
+    "Mascha stöhnte leise."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2707
 translate german epilogue_mi_4fce6de4:
@@ -12337,8 +12337,8 @@ translate german epilogue_mi_282e0eee:
 translate german epilogue_mi_10a44f66:
 
     # "Сквозь слёзы спросила Маша."
-    #"Asked Masha through her tears."
-    "Fragte Masha weinend."
+    #"Asked Mascha through her tears."
+    "Fragte Mascha weinend."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2719
 translate german epilogue_mi_b44a635d:
@@ -12407,8 +12407,8 @@ translate german epilogue_mi_5788b9db:
 translate german epilogue_mi_2f93c801:
 
     # "Маша и Лена ещё крепче прижались ко мне."
-    #"I felt Masha and Lena hugging me even tighter."
-    "Ich spürte, wie mich Lena und Masha noch fester drückten."
+    #"I felt Mascha and Lena hugging me even tighter."
+    "Ich spürte, wie mich Lena und Mascha noch fester drückten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2730
 translate german epilogue_mi_7cabd0eb:
@@ -12484,8 +12484,8 @@ translate german epilogue_mi_d58a29ab:
 translate german epilogue_mi_8f19793e:
 
     # "Робко возразила Маша."
-    #"Masha tried to make a humble objection."
-    "Warf Masha schüchtern ein."
+    #"Mascha tried to make a humble objection."
+    "Warf Mascha schüchtern ein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2746
 translate german epilogue_mi_73866edf:
@@ -12526,8 +12526,8 @@ translate german epilogue_mi_2aa79f94:
 translate german epilogue_mi_7037899d:
 
     # my "Возьмёмся за руки и пойдём. Я первый, поведу вас, потом Маша, потом Лена, потом ты."
-    #my "Ok, we're gonna hold hands and go. I'll go first and lead the way. Masha goes next, then Lena, then you."
-    my "Okay, wir halten uns an den Händen und gehen. Ich gehe zuerst und führe die Gruppe an. Masha kommt als Nächstes, dann Lena und dann du."
+    #my "Ok, we're gonna hold hands and go. I'll go first and lead the way. Mascha goes next, then Lena, then you."
+    my "Okay, wir halten uns an den Händen und gehen. Ich gehe zuerst und führe die Gruppe an. Mascha kommt als Nächstes, dann Lena und dann du."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2752
 translate german epilogue_mi_6b024c96:
@@ -12561,8 +12561,8 @@ translate german epilogue_mi_c5d5810d:
 translate german epilogue_mi_35423a3b:
 
     # "Я взял Машу за руку, обернулся и внимательно посмотрел на Лену и Роутера."
-    #"I took Masha's hand, turned around and gave Lena and Router a serious look."
-    "Ich nahm Mashas Hand, drehte mich um und sah Lena und Router ernst an."
+    #"I took Mascha's hand, turned around and gave Lena and Router a serious look."
+    "Ich nahm Maschas Hand, drehte mich um und sah Lena und Router ernst an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2757
 translate german epilogue_mi_f91862ca:
@@ -12589,8 +12589,8 @@ translate german epilogue_mi_f7a66aa8:
 translate german epilogue_mi_7983c203:
 
     # "Я собрался с духом, распахнул дверь и вышел наружу, придерживая Машу за руку."
-    #"I steeled myself, burst open the door and went out, holding Masha's hand."
-    "Ich nahm all meinen Mut zusammen, öffnete die Türe und ging mit Masha an der Hand nach draußen."
+    #"I steeled myself, burst open the door and went out, holding Mascha's hand."
+    "Ich nahm all meinen Mut zusammen, öffnete die Türe und ging mit Mascha an der Hand nach draußen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2762
 translate german epilogue_mi_eec4cf2b:
@@ -12679,8 +12679,8 @@ translate german epilogue_mi_d2d78eec:
 translate german epilogue_mi_55b4c0e5:
 
     # "Спросила Маша, не отпуская мою руку."
-    #"Asked Masha, not letting go of my hand."
-    "Fragte Masha, ohne meine Hand loszulassen."
+    #"Asked Mascha, not letting go of my hand."
+    "Fragte Mascha, ohne meine Hand loszulassen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2795
 translate german epilogue_mi_413cf259:
@@ -12707,8 +12707,8 @@ translate german epilogue_mi_c6b1fe3f:
 translate german epilogue_mi_6e61e470:
 
     # "Маша обняла её и попыталась успокоить."
-    #"Masha embraced her and tried to comfort her."
-    "Masha umarmte sie und versuchte sie zu trösten."
+    #"Mascha embraced her and tried to comfort her."
+    "Mascha umarmte sie und versuchte sie zu trösten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2800
 translate german epilogue_mi_5d58c3b8:
@@ -12742,8 +12742,8 @@ translate german epilogue_mi_290e56ee:
 translate german epilogue_mi_ac9a276c:
 
     # "Лена рыдала, Роутер ходил вокруг нас кругами, а Маша села на скамейку и закрыла лицо руками."
-    #"Lena was sobbing, Router was pacing in circles around us, and Masha sat down the bench and buried her face in her hands."
-    "Lena schluchzte, Router lief im Kreis um uns herum und Masha setzte sich auf eine Bank und legte ihre Hände auf das Gesicht."
+    #"Lena was sobbing, Router was pacing in circles around us, and Mascha sat down the bench and buried her face in her hands."
+    "Lena schluchzte, Router lief im Kreis um uns herum und Mascha setzte sich auf eine Bank und legte ihre Hände auf das Gesicht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2809
 translate german epilogue_mi_f077aeea:
@@ -12770,8 +12770,8 @@ translate german epilogue_mi_727a919f:
 translate german epilogue_mi_38a7da59:
 
     # "Я подошёл к Маше, наклонился и взял её за руку."
-    #"I walked to Masha, leaned over and took her hand."
-    "Ich ging zu Masha, lehnte mich über sie und nahm ihre Hand."
+    #"I walked to Mascha, leaned over and took her hand."
+    "Ich ging zu Mascha, lehnte mich über sie und nahm ihre Hand."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2814
 translate german epilogue_mi_2178548f:
@@ -12853,8 +12853,8 @@ translate german epilogue_mi_b2bc2a02:
 translate german epilogue_mi_e3229b58:
 
     # "Спросила Маша, вытирая слезы."
-    #"Asked Masha, wiping her tears."
-    "Fragte Masha und wischte sich die Tränen aus dem Gesicht."
+    #"Asked Mascha, wiping her tears."
+    "Fragte Mascha und wischte sich die Tränen aus dem Gesicht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2841
 translate german epilogue_mi_1ca97523:
@@ -12951,8 +12951,8 @@ translate german epilogue_mi_aea41fc4:
 translate german epilogue_mi_c67e1ffd:
 
     # "Испуганно сказала Маша."
-    #"Said Masha anxiously."
-    "Sagte Masha erschrocken."
+    #"Said Mascha anxiously."
+    "Sagte Mascha erschrocken."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2858
 translate german epilogue_mi_f5f53cd8:
@@ -13000,8 +13000,8 @@ translate german epilogue_mi_b6e2867e:
 translate german epilogue_mi_f6db9d2f:
 
     # "Я схватил Машу и Лену за руки и бросился назад в лагерь."
-    #"I grabbed Masha's and Lena's hands and darted off back into the camp."
-    "Ich griff Mashas und Lenas Hand und rannte zurück ins Lager."
+    #"I grabbed Mascha's and Lena's hands and darted off back into the camp."
+    "Ich griff Maschas und Lenas Hand und rannte zurück ins Lager."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2877
 translate german epilogue_mi_f19be6a7:
@@ -13028,8 +13028,8 @@ translate german epilogue_mi_b1c873bb:
 translate german epilogue_mi_41f008ff:
 
     # "Закричала Маша и дёрнулась по направлению к автобусной остановке."
-    #"Masha screamed and shifted towards the bus stop."
-    "Schrie Masha und wollte schon zurück zur Bushaltestelle laufen."
+    #"Mascha screamed and shifted towards the bus stop."
+    "Schrie Mascha und wollte schon zurück zur Bushaltestelle laufen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2882
 translate german epilogue_mi_a900b142:
@@ -13084,8 +13084,8 @@ translate german epilogue_mi_d149a305:
 translate german epilogue_mi_b84b36c8:
 
     # "Возвращаться в домик Ольги Дмитриевны было нельзя."
-    #"Returning to Olga Dmitrievna's cabin wasn't an option."
-    "Zurück in Olga Dmitrievnas Hütte war keine Option."
+    #"Returning to Olga Dmitrijewna's cabin wasn't an option."
+    "Zurück in Olga Dmitrijewnas Hütte war keine Option."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2890
 translate german epilogue_mi_2e4f2c35:
@@ -13203,8 +13203,8 @@ translate german epilogue_mi_1b7c0a78:
 translate german epilogue_mi_9cc83bd6:
 
     # "Маша сидела, обхватив руками колени, и раскачивалась из стороны в сторону."
-    #"Masha was sitting, hugging her knees and rocking from side to side."
-    "Masha saß da, umklammerte ihre Knie und wippte hin und her."
+    #"Mascha was sitting, hugging her knees and rocking from side to side."
+    "Mascha saß da, umklammerte ihre Knie und wippte hin und her."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2922
 translate german epilogue_mi_60b21c95:
@@ -13286,8 +13286,8 @@ translate german epilogue_mi_cb4ba357:
 translate german epilogue_mi_dda9e6e8:
 
     # "Если бы не прерывистое дыхание Маши, я бы подумал, что умер."
-    #"If not for Masha's labored breathing, I would think I was dead."
-    "Wäre da nicht Mashas unregelmäßiger Atem gewesen, hätte ich gedacht, ich wäre tot."
+    #"If not for Mascha's labored breathing, I would think I was dead."
+    "Wäre da nicht Maschas unregelmäßiger Atem gewesen, hätte ich gedacht, ich wäre tot."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2941
 translate german epilogue_mi_661c87b5:
@@ -13412,7 +13412,7 @@ translate german epilogue_mi_a68bf534_1:
 translate german epilogue_mi_7a73e50c:
 
     # "Маша вновь улыбнулась, её лицо задрожало, и по нему потекли слёзы."
-    #"Masha smiled again, although her face was trembling and tears were running down her cheeks."
+    #"Mascha smiled again, although her face was trembling and tears were running down her cheeks."
     "Mascha lächelte wieder ihr Gesicht zitterte und Tränen liefen ihr über die Wangen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2961
@@ -13509,8 +13509,8 @@ translate german epilogue_mi_58343c59:
 translate german epilogue_mi_d8b53ec6:
 
     # "Тихо сказала Маша и крепче прижалась ко мне."
-    #"Said Masha quietly and held me tighter."
-    "Sagte Masha leise und hielt mich fester."
+    #"Said Mascha quietly and held me tighter."
+    "Sagte Mascha leise und hielt mich fester."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2980
 translate german epilogue_mi_6bd68c39:
@@ -13607,8 +13607,8 @@ translate german epilogue_mi_e900bc14:
 translate german epilogue_mi_7a43a1d3:
 
     # "Я падал, вставал, поднимал Лену и Машу, продирался сквозь чащу, и вскоре шум стал тише, слышалось только тихое стрекотание кузнечиков."
-    #"I was tumbling down, getting up again, helping Lena and Masha to get up too, hewing through the dense foliage. Eventually, the noise faded, leaving us with only the quiet chirping of grasshoppers."
-    "Ich fiel hin, stand wieder auf, half Lena und Masha auch wieder hoch, rannte durch das Laub. Irgendwann wurde das Geräusch leiser und es war nur noch das leise Zirpen der Grashüpfer zu hören."
+    #"I was tumbling down, getting up again, helping Lena and Mascha to get up too, hewing through the dense foliage. Eventually, the noise faded, leaving us with only the quiet chirping of grasshoppers."
+    "Ich fiel hin, stand wieder auf, half Lena und Mascha auch wieder hoch, rannte durch das Laub. Irgendwann wurde das Geräusch leiser und es war nur noch das leise Zirpen der Grashüpfer zu hören."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3009
 translate german epilogue_mi_1464e77a:
@@ -13718,15 +13718,15 @@ translate german epilogue_mi_e9aee5ea:
 translate german epilogue_mi_dc80e866:
 
     # "Точнее, толпа Ульян…"
-    #"Or rather, a crowd of Ulyanas..."
-    "Oder genauer, eine Gruppe von Ulyanas.…"
+    #"Or rather, a crowd of Uljanas..."
+    "Oder genauer, eine Gruppe von Uljanas.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3041
 translate german epilogue_mi_fddbd92f:
 
     # "Все они были такими же, как та Ульяна, которую я видел сегодня утром – с оторванным лицом и ужасной искривлённой улыбкой."
-    #"They were all exactly the same as that Ulyana I saw this morning – with the same torn face and horribly distorted smile."
-    "Sie sahen alle genau so aus wie die Ulyana, die ich heute Morgen gesehen habe – sie hatten das gleiche zerfetzte Gesicht und das gleiche schreckliche Grinsen."
+    #"They were all exactly the same as that Uljana I saw this morning – with the same torn face and horribly distorted smile."
+    "Sie sahen alle genau so aus wie die Uljana, die ich heute Morgen gesehen habe – sie hatten das gleiche zerfetzte Gesicht und das gleiche schreckliche Grinsen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3042
 translate german epilogue_mi_9e72eb1c:
@@ -13746,8 +13746,8 @@ translate german epilogue_mi_52648267:
 translate german epilogue_mi_b22355a1:
 
     # "Вдруг из толпы вышла одна из «Ульян» и достала из-за спины…{w} оторванную голову Роутера."
-    #"All of a sudden, one of the 'Ulyanas' came forward from the crowd and pulled...{w} the severed head of Router from behind her back."
-    "Plötzlich trat eine der 'Ulyanas' aus der Gruppe hervor und zog von hinter ihrem Rücken…{w} den abgetrennten Kopf von Router hervor."
+    #"All of a sudden, one of the 'Uljanas' came forward from the crowd and pulled...{w} the severed head of Router from behind her back."
+    "Plötzlich trat eine der 'Uljanas' aus der Gruppe hervor und zog von hinter ihrem Rücken…{w} den abgetrennten Kopf von Router hervor."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3049
 translate german epilogue_mi_f58f26f9:
@@ -13767,8 +13767,8 @@ translate german epilogue_mi_67e4b031:
 translate german epilogue_mi_24eb79a9:
 
     # us "Привет, Семён! Как твои дела?"
-    #us "Hi there, Semyon! How are you doing?"
-    us "Hallo Semyon! Wie geht es dir?"
+    #us "Hi there, Semjon! How are you doing?"
+    us "Hallo Semjon! Wie geht es dir?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3052
 translate german epilogue_mi_64c1dacf:
@@ -13781,8 +13781,8 @@ translate german epilogue_mi_64c1dacf:
 translate german epilogue_mi_85b7581c:
 
     # "Тогда я совсем забыл о Маше и тем более о Лене."
-    #"I must admit that back then I'd completely stopped thinking of Masha or Lena."
-    "Ich vergas Masha völlig und Lena vergas ich noch viel mehr."
+    #"I must admit that back then I'd completely stopped thinking of Mascha or Lena."
+    "Ich vergas Mascha völlig und Lena vergas ich noch viel mehr."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3059
 translate german epilogue_mi_6fa07538:
@@ -13835,8 +13835,8 @@ translate german epilogue_mi_a490ddde:
 translate german epilogue_mi_20b70770:
 
     # "«Ульян» не было слышно, и это меня немного успокоило."
-    #"The sound of the 'Ulyanas' was nowhere to be heard, which calmed me down a little."
-    "Das Geräusch der 'Ulyanas' war nicht mehr zu hören, was mich ein wenig beruhigte."
+    #"The sound of the 'Uljanas' was nowhere to be heard, which calmed me down a little."
+    "Das Geräusch der 'Uljanas' war nicht mehr zu hören, was mich ein wenig beruhigte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3080
 translate german epilogue_mi_7f05575c:
@@ -13849,8 +13849,8 @@ translate german epilogue_mi_7f05575c:
 translate german epilogue_mi_02b36d0b:
 
     # my "Маша… Лена…"
-    #my "Masha... Lena..."
-    my "Masha… Lena…"
+    #my "Mascha... Lena..."
+    my "Mascha… Lena…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3082
 translate german epilogue_mi_4fc4bd86:
@@ -13884,8 +13884,8 @@ translate german epilogue_mi_00cfd6e5:
 translate german epilogue_mi_a313a700:
 
     # "Я помог Маше подняться."
-    #"I helped Masha get up."
-    "Ich half Masha auf die Beine."
+    #"I helped Mascha get up."
+    "Ich half Mascha auf die Beine."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3092
 translate german epilogue_mi_c8171111:
@@ -14073,8 +14073,8 @@ translate german epilogue_mi_ff0e72ed:
 translate german epilogue_mi_347e63c2:
 
     # "Взмолилась Маша."
-    #"Masha begged."
-    "Bettelte Masha."
+    #"Mascha begged."
+    "Bettelte Mascha."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3132
 translate german epilogue_mi_fd1bdbfc:
@@ -14115,8 +14115,8 @@ translate german epilogue_mi_b587d808:
 translate german epilogue_mi_49190220:
 
     # "Голос Маши дрожал, но всё равно звучал более-менее уверенно."
-    #"Masha's voice was trembling but she still sounded more or less confident."
-    "Mashas Stimme war zittrig, aber sie klang mehr oder weniger gefasst."
+    #"Mascha's voice was trembling but she still sounded more or less confident."
+    "Maschas Stimme war zittrig, aber sie klang mehr oder weniger gefasst."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3138
 translate german epilogue_mi_7bfb3264:
@@ -14199,8 +14199,8 @@ translate german epilogue_mi_20f54ffc_4:
 translate german epilogue_mi_cfb3fc4f:
 
     # "Маша схватила меня за рукав и уставилась на то место, где секунду назад сидела ена."
-    #"Masha grabbed me by the sleeve and stared at the spot where Lena had been sitting a moment ago."
-    "Masha fasste mich am Ärmel und schaute auf die Stelle, an der Lena noch vor wenigen Augenblicken gesessen hatte."
+    #"Mascha grabbed me by the sleeve and stared at the spot where Lena had been sitting a moment ago."
+    "Mascha fasste mich am Ärmel und schaute auf die Stelle, an der Lena noch vor wenigen Augenblicken gesessen hatte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3161
 translate german epilogue_mi_a4a54acd:
@@ -14290,8 +14290,8 @@ translate german epilogue_mi_a595d43b:
 translate german epilogue_mi_a3a11b35:
 
     # "Маша ещё сильнее прижалась ко мне."
-    #"Masha pressed against me even harder"
-    "Masha drückte sich noch fester an mich."
+    #"Mascha pressed against me even harder"
+    "Mascha drückte sich noch fester an mich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3181
 translate german epilogue_mi_4ea6e0a7:
@@ -14381,8 +14381,8 @@ translate german epilogue_mi_493613af:
 translate german epilogue_mi_84b04f60:
 
     # "Страдальчески взмолилась Маша."
-    #"Masha begged in anguish."
-    "Flehte Masha schmerzlich."
+    #"Mascha begged in anguish."
+    "Flehte Mascha schmerzlich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3203
 translate german epilogue_mi_e9e6e7f9_2:
@@ -14471,8 +14471,8 @@ translate german epilogue_mi_b6f57941:
 translate german epilogue_mi_059b8596:
 
     # "Машин голос дрожал."
-    #"Masha's voice was trembling."
-    "Fragte Masha mit zitternder Stimme."
+    #"Mascha's voice was trembling."
+    "Fragte Mascha mit zitternder Stimme."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3225
 translate german epilogue_mi_d00cf9c5:
@@ -14567,8 +14567,8 @@ translate german epilogue_mi_ccf84f7d:
 translate german epilogue_mi_ca2bcd31:
 
     # "Я кое-как поднялся и разбудил Машу."
-    #"Somehow I rose and woke up Masha."
-    "Irgendwie stand ich auf und weckte Masha."
+    #"Somehow I rose and woke up Mascha."
+    "Irgendwie stand ich auf und weckte Mascha."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3243
 translate german epilogue_mi_20c2627d:
@@ -14595,8 +14595,8 @@ translate german epilogue_mi_48f216c9:
 translate german epilogue_mi_2c9bce0d:
 
     # "Маша постоянно что-то шептала."
-    #"Masha was whispering something all the time."
-    "Masha flüsterte die ganze Zeit etwas vor sich hin."
+    #"Mascha was whispering something all the time."
+    "Mascha flüsterte die ganze Zeit etwas vor sich hin."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3252
 translate german epilogue_mi_c8ad0429:
@@ -14630,8 +14630,8 @@ translate german epilogue_mi_853bf27c:
 translate german epilogue_mi_8060d8b7:
 
     # "Маша показала куда-то в темноту."
-    #"Masha was pointing somewhere into the darkness."
-    "Masha zeigte nach irgendwo in die Dunkelheit."
+    #"Mascha was pointing somewhere into the darkness."
+    "Mascha zeigte nach irgendwo in die Dunkelheit."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3263
 translate german epilogue_mi_c367b132:
@@ -14693,8 +14693,8 @@ translate german epilogue_mi_a2d6a840:
 translate german epilogue_mi_ccc4b1b1:
 
     # "Маша в изнеможении опустилась на пол."
-    #"Exhausted, Masha dropped to the floor."
-    "Erschöpft viel Masha zu Boden."
+    #"Exhausted, Mascha dropped to the floor."
+    "Erschöpft viel Mascha zu Boden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3282
 translate german epilogue_mi_7ddfed17:
@@ -14721,8 +14721,8 @@ translate german epilogue_mi_3a8d7079:
 translate german epilogue_mi_36c6417c:
 
     # "Очевидно, сил у неё больше не осталось – Маша боролась с усталостью и в любую секунду была готова потерять сознание."
-    #"She obviously had no energy anymore – Masha was struggling with her exhaustion and could lose consciousness any second."
-    "Sie hatte offensichtlich keine Kraft mehr – Masha kämpfte gegen ihre Erschöpfung an und könnte jeden Moment ihr Bewusstsein verlieren."
+    #"She obviously had no energy anymore – Mascha was struggling with her exhaustion and could lose consciousness any second."
+    "Sie hatte offensichtlich keine Kraft mehr – Mascha kämpfte gegen ihre Erschöpfung an und könnte jeden Moment ihr Bewusstsein verlieren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3286
 translate german epilogue_mi_b87232f7:
@@ -14770,8 +14770,8 @@ translate german epilogue_mi_d2de1f1d:
 translate german epilogue_mi_811b3088:
 
     # "Маша вся задрожала."
-    #"Masha trembled."
-    "Masha zitterte."
+    #"Mascha trembled."
+    "Mascha zitterte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3294
 translate german epilogue_mi_376a198b:
@@ -14840,8 +14840,8 @@ translate german epilogue_mi_3fd97b24:
 translate german epilogue_mi_e0d77cc3:
 
     # "Задыхаясь, крикнул я в сторону, где сидела Маша."
-    #"I shouted over to Masha, gasping for breath."
-    "Rief ich atemlos zu Masha."
+    #"I shouted over to Mascha, gasping for breath."
+    "Rief ich atemlos zu Mascha."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3310
 translate german epilogue_mi_b203e2e6:
@@ -14854,8 +14854,8 @@ translate german epilogue_mi_b203e2e6:
 translate german epilogue_mi_cbec9827:
 
     # "Я подбежал к Маше, наклонился и улыбнулся."
-    #"I ran over to Masha, bent down and smiled."
-    "Ich lief zu Masha, beugte mich vor und lächelte."
+    #"I ran over to Mascha, bent down and smiled."
+    "Ich lief zu Mascha, beugte mich vor und lächelte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3318
 translate german epilogue_mi_f977f9ea:
@@ -14910,8 +14910,8 @@ translate german epilogue_mi_e071baa4:
 translate german epilogue_mi_c391fe01:
 
     # my "Маша! Маша!"
-    #my "Masha! Masha!"
-    my "Masha! Masha!"
+    #my "Mascha! Mascha!"
+    my "Mascha! Mascha!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3338
 translate german epilogue_mi_80d8e32e:
@@ -14945,8 +14945,8 @@ translate german epilogue_mi_67aec98b:
 translate german epilogue_mi_2e95fbdc:
 
     # un "Что, Семён, заблудился?"
-    #un "What’s wrong Semyon, got lost?"
-    un "Was ist los Semyon? Hast du dich verlaufen?"
+    #un "What’s wrong Semjon, got lost?"
+    un "Was ist los Semjon? Hast du dich verlaufen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3354
 translate german epilogue_mi_b5c21e08:
@@ -14980,8 +14980,8 @@ translate german epilogue_mi_c256bf58:
 translate german epilogue_mi_2f54a629:
 
     # "Та же, что в домике Ольги Дмитриевны."
-    #"The same as in Olga Dmitrievna's cabin."
-    "Dieselbe wie in Olga Dmitrievnas Hütte."
+    #"The same as in Olga Dmitrijewna's cabin."
+    "Dieselbe wie in Olga Dmitrijewnas Hütte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3359
 translate german epilogue_mi_48cecf56:
@@ -14994,8 +14994,8 @@ translate german epilogue_mi_48cecf56:
 translate german epilogue_mi_363ad07d:
 
     # "Это существо больше напоминало мне тех «Ульян»…"
-    #"This creature was more like those 'Ulyanas'..."
-    "Diese Kreatur erinnerte einen eher an diese 'Ulyanas'.…"
+    #"This creature was more like those 'Uljanas'..."
+    "Diese Kreatur erinnerte einen eher an diese 'Uljanas'.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3361
 translate german epilogue_mi_cdd889d8:
@@ -15086,8 +15086,8 @@ translate german epilogue_mi_1346f417:
 translate german epilogue_mi_ba906862:
 
     # un "Сначала Славю! Она меня всегда раздражала! Мисс Непогрешимость прямо! Прилежная, старательная, всегда везде и за всех! Тьфу! А как она кричала, когда я отрывала ей руки, а? Жалко ты не видел!"
-    #un "Slavya was first! She was always so annoying! She was Ms. Reliability! Diligent, hard-working, always everywhere, agreeing with everyone! Yuck! Boy did she scream when I was tearing off her arms, huh? It's a pity you didn't get to see it all!"
-    un "Slavya war die Erste! Sie nervte mich schon immer! Diese Ms. Unfehlbar. Geradeaus! Zuverlässig, fleißig, immer überall und für jeden da! Igitt! Und wie sie geschrien hat, als ich ihr die Arme rausgerissen habe, hä? Ein Jammer, dass du das nicht mitbekommen hast!"
+    #un "Slawja was first! She was always so annoying! She was Ms. Reliability! Diligent, hard-working, always everywhere, agreeing with everyone! Yuck! Boy did she scream when I was tearing off her arms, huh? It's a pity you didn't get to see it all!"
+    un "Slawja war die Erste! Sie nervte mich schon immer! Diese Ms. Unfehlbar. Geradeaus! Zuverlässig, fleißig, immer überall und für jeden da! Igitt! Und wie sie geschrien hat, als ich ihr die Arme rausgerissen habe, hä? Ein Jammer, dass du das nicht mitbekommen hast!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3374
 translate german epilogue_mi_c255c3bb:
@@ -15142,8 +15142,8 @@ translate german epilogue_mi_604a0a8b:
 translate german epilogue_mi_3c2cd797:
 
     # un "Я не знаю, что это за хрень была в образе Ульянки… Да и остальных пионеров не я… Но разве это сейчас важно?"
-    #un "I don't know what that crap in the form of Ulyana was... Her and the other pioneers weren't killed by me... But does it really matter now?"
-    un "Ich habe keine Ahnung, was dieser Scheiß in Form von Ulyana sollte… Sie und die anderen Pioniere wurden nicht von mir getötet… Aber spielt das jetzt noch eine Rolle?"
+    #un "I don't know what that crap in the form of Uljana was... Her and the other pioneers weren't killed by me... But does it really matter now?"
+    un "Ich habe keine Ahnung, was dieser Scheiß in Form von Uljana sollte… Sie und die anderen Pioniere wurden nicht von mir getötet… Aber spielt das jetzt noch eine Rolle?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3390
 translate german epilogue_mi_9daeafd9:
@@ -15170,8 +15170,8 @@ translate german epilogue_mi_006d380a:
 translate german epilogue_mi_eb5af906:
 
     # "Значит, она пошла к Маше!"
-    #"That means she went after Masha!"
-    "Das bedeutete, sie ging zu Masha!"
+    #"That means she went after Mascha!"
+    "Das bedeutete, sie ging zu Mascha!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3394
 translate german epilogue_mi_6bbab6e5:
@@ -15275,15 +15275,15 @@ translate german epilogue_mi_58360f3f:
 translate german epilogue_mi_fc8120bd:
 
     # "Мне показалось, что прошло всего несколько секунд, прежде чем я оказался в комнате, где оставил Машу."
-    #"It seemed to me that only few seconds passed before I found myself in the room where I'd left Masha."
-    "Es kam mir so vor, als wären nur Sekunden vergangen, bis ich wieder in dem Raum stand, in dem ich Masha zurückgelassen hatte."
+    #"It seemed to me that only few seconds passed before I found myself in the room where I'd left Mascha."
+    "Es kam mir so vor, als wären nur Sekunden vergangen, bis ich wieder in dem Raum stand, in dem ich Mascha zurückgelassen hatte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3424
 translate german epilogue_mi_8c229ba9:
 
     # "Последняя спичка погасла, но я успел заметить Лену, которая уже занесла над ней тесак."
-    #"The last match went out, but I just had enough time to see Lena, raising her cleaver above Masha."
-    "Das letzte Streichholz brannte ab, aber es reichte noch, um zu erkennen, wie Lena mit dem Beil übe Masha stand."
+    #"The last match went out, but I just had enough time to see Lena, raising her cleaver above Mascha."
+    "Das letzte Streichholz brannte ab, aber es reichte noch, um zu erkennen, wie Lena mit dem Beil übe Mascha stand."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3425
 translate german epilogue_mi_9c2f56ee:
@@ -15317,8 +15317,8 @@ translate german epilogue_mi_3be834f5:
 translate german epilogue_mi_22b173a8:
 
     # my "Маша?.."
-    #my "Masha?"
-    my "Masha…?"
+    #my "Mascha?"
+    my "Mascha…?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3431
 translate german epilogue_mi_805bb83c:
@@ -15401,8 +15401,8 @@ translate german epilogue_mi_e3f3c64d:
 translate german epilogue_mi_f72c4a89:
 
     # "Маша подползла ко мне и схватила за ногу."
-    #"Masha crawled right over to me and grabbed my leg."
-    "Masha griff nach mir und erwischte mich am Bein."
+    #"Mascha crawled right over to me and grabbed my leg."
+    "Mascha griff nach mir und erwischte mich am Bein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3450
 translate german epilogue_mi_be4dbf99:
@@ -15443,8 +15443,8 @@ translate german epilogue_mi_e8f60892:
 translate german epilogue_mi_2046e79a:
 
     # "Но, посмотрев на Машу, я понял, что не смогу… просто не смогу…"
-    #"But when I looked at Masha I realised that I can't... I just can't..."
-    "Doch wenn ich Masha ansah, wurde mir klar, dass ich nicht… ich konnte einfach nicht… "
+    #"But when I looked at Mascha I realised that I can't... I just can't..."
+    "Doch wenn ich Mascha ansah, wurde mir klar, dass ich nicht… ich konnte einfach nicht… "
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3456
 translate german epilogue_mi_1c94cf88:
@@ -15478,8 +15478,8 @@ translate german epilogue_mi_92b62876:
 translate german epilogue_mi_44e2cc8f:
 
     # "Я вернулся к Маше, помог ей подняться, и мы вышли из комнаты, оставив Лену лежать без сознания."
-    #"I returned to Masha, helped her to get up and we left the room, leaving Lena lying unconscious."
-    "Ich kehrte zu Masha zurück, half ihr auf die Beine und wir verließen den Raum. Lena ließen wir bewusstlos zurück."
+    #"I returned to Mascha, helped her to get up and we left the room, leaving Lena lying unconscious."
+    "Ich kehrte zu Mascha zurück, half ihr auf die Beine und wir verließen den Raum. Lena ließen wir bewusstlos zurück."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3476
 translate german epilogue_mi_800c5a39:
@@ -15534,8 +15534,8 @@ translate german epilogue_mi_698a2bad:
 translate german epilogue_mi_9f24a4f9:
 
     # "Маша положила мне голову на плечо и дрожащей рукой показала на небо."
-    #"Masha rested her head on my shoulder and pointed up to the sky with a trembling hand."
-    "Masha legte ihren Kopf auf meine Schulter und zeigte mit zitternder Hand in den Himmel."
+    #"Mascha rested her head on my shoulder and pointed up to the sky with a trembling hand."
+    "Mascha legte ihren Kopf auf meine Schulter und zeigte mit zitternder Hand in den Himmel."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3493
 translate german epilogue_mi_58999707:
@@ -15548,8 +15548,8 @@ translate german epilogue_mi_58999707:
 translate german epilogue_mi_a7b77934:
 
     # "Хоть ы и выбрались из подземелья, ничего ещё не кончено – по лагерю бродят толпы Ульян-зомби, внизу валяется безумная Лена, и неизвестно, сколько ещё чертовщины нам здесь встретится."
-    #"Though we got out of dungeon, nothing is over – crowds of zombie Ulyanas are wandering through the camp, an insane Lena is lying underneath and heaven knows how much more devilry we will encounter here."
-    "Auch wenn wir diesem Dungeon entkommen sind, ist noch nichts vorbei – ganze Horden von Zombie Ulyanas laufen im Lager umher, eine durchgeknallte Lena liegt noch da unten und Gott weiß, was uns noch alles an Ausgeburten der Hölle erwarten wird."
+    #"Though we got out of dungeon, nothing is over – crowds of zombie Uljanas are wandering through the camp, an insane Lena is lying underneath and heaven knows how much more devilry we will encounter here."
+    "Auch wenn wir diesem Dungeon entkommen sind, ist noch nichts vorbei – ganze Horden von Zombie Uljanas laufen im Lager umher, eine durchgeknallte Lena liegt noch da unten und Gott weiß, was uns noch alles an Ausgeburten der Hölle erwarten wird."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3495
 translate german epilogue_mi_26d8a756:
@@ -15590,8 +15590,8 @@ translate german epilogue_mi_7956f114:
 translate german epilogue_mi_bc298dba:
 
     # "Я погладил Машу по голове."
-    #"I patted Masha's head."
-    "Ich streichelte Mashas Kopf."
+    #"I patted Mascha's head."
+    "Ich streichelte Maschas Kopf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3502
 translate german epilogue_mi_c4c2efec:
@@ -15618,8 +15618,8 @@ translate german epilogue_mi_5f9f4f73:
 translate german epilogue_mi_887f26c3:
 
     # "Маша улыбалась."
-    #"Masha was smiling."
-    "Masha lächelte."
+    #"Mascha was smiling."
+    "Mascha lächelte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3507
 translate german epilogue_mi_bc65e8e5:
@@ -15688,15 +15688,15 @@ translate german epilogue_mi_23661344:
 translate german epilogue_mi_f491b17d:
 
     # "Я лежал в тишине, и было слышно только дыхание Маши."
-    #"I was lying in silence and only the sound of Masha's breath could be heard."
-    "Ich lag schweigend dort und nur Mashas Atem war zu hören."
+    #"I was lying in silence and only the sound of Mascha's breath could be heard."
+    "Ich lag schweigend dort und nur Maschas Atem war zu hören."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3522
 translate german epilogue_mi_b2f531df:
 
     # "Не стрекотание кузнечиков – как будто они все наконец передохли, – а только ровное дыхание Маши."
-    #"Not the grasshoppers' chirping – like all of them had died at last – but only Masha's steady breathing."
-    "Kein Zirpen der Grillen – als wären sie nun endlich ausgestorben – nur der gleichmäßige Atem von Masha."
+    #"Not the grasshoppers' chirping – like all of them had died at last – but only Mascha's steady breathing."
+    "Kein Zirpen der Grillen – als wären sie nun endlich ausgestorben – nur der gleichmäßige Atem von Mascha."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3523
 translate german epilogue_mi_99fe2e9b:
@@ -15735,8 +15735,8 @@ translate german epilogue_mi_9af7bec5:
 translate german epilogue_mi_ea099931:
 
     # "Я посмотрел на Машу, которая мирно спала рядом, укрывшись моей рубашкой."
-    #"I looked at Masha who peacefully slept nearby, covered by my shirt."
-    "Ich schaute zu Masha hinüber, die friedlich neben mir schlief und sich mit meinem Hemd bedeckte."
+    #"I looked at Mascha who peacefully slept nearby, covered by my shirt."
+    "Ich schaute zu Mascha hinüber, die friedlich neben mir schlief und sich mit meinem Hemd bedeckte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3543
 translate german epilogue_mi_654b8602:
@@ -15756,15 +15756,15 @@ translate german epilogue_mi_38e7da2f:
 translate german epilogue_mi_846c7ecb:
 
     # "Пора спать идти, а то завтра Ольга Дмитриевна опять устроит…"
-    #"We'd better go to bed, or tomorrow Olga Dmitrievna will make us..."
-    "Wir sollten besser ins Bett gehen, sonst macht uns Olga Dmitrievna morgen…"
+    #"We'd better go to bed, or tomorrow Olga Dmitrijewna will make us..."
+    "Wir sollten besser ins Bett gehen, sonst macht uns Olga Dmitrijewna morgen…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3546
 translate german epilogue_mi_d3fe6684:
 
     # "Я уже было хотел разбудить Машу, как вдруг заметил рядом с ней раскрытый сценарий и валяющуюся рядом ручку."
-    #"I'd just decided to wake Masha up, but I suddenly noticed an opened script and a pen next to her."
-    "Ich wollte Masha gerade wecken, als ich neben ihr ein aufgeschlagenes Drehbuch und ein Stift entdeckte."
+    #"I'd just decided to wake Mascha up, but I suddenly noticed an opened script and a pen next to her."
+    "Ich wollte Mascha gerade wecken, als ich neben ihr ein aufgeschlagenes Drehbuch und ein Stift entdeckte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3547
 translate german epilogue_mi_6c272b09:
@@ -15784,7 +15784,7 @@ translate german epilogue_mi_bbc14d5c:
 translate german epilogue_mi_fb974fc0:
 
     # "Маша перевернулась на другой бок, открыла глаза и посмотрела на меня."
-    #"Masha rolled over, opened her eyes and looked at me."
+    #"Mascha rolled over, opened her eyes and looked at me."
     "Mascha drehte sich herum, öffnete die Augen und sah mich an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3551
@@ -15854,8 +15854,8 @@ translate german epilogue_mi_fed3ba60:
 translate german epilogue_mi_d6404691:
 
     # "Маша непонимающе посмотрела на меня."
-    #"Masha looked at me uncomprehendingly."
-    "Masha schaute mich verständnislos an."
+    #"Mascha looked at me uncomprehendingly."
+    "Mascha schaute mich verständnislos an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3563
 translate german epilogue_mi_75cc25f6:
@@ -15896,8 +15896,8 @@ translate german epilogue_mi_f60fe5df_1:
 translate german epilogue_mi_99462d82:
 
     # "Маша начала одеваться."
-    #"Masha started getting dressed."
-    "Masha fing an, sich anzuziehen."
+    #"Mascha started getting dressed."
+    "Mascha fing an, sich anzuziehen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3570
 translate german epilogue_mi_665516ab:
@@ -15931,8 +15931,8 @@ translate german epilogue_mi_2c25b971:
 translate german epilogue_mi_9dd5fe3e:
 
     # "На обратном пути Маша держала меня под руку и без умолку болтала обо всём подряд."
-    #"On our way back Masha held my hand and chattered about everything non-stop."
-    "Auf unserem Rückweg hielt Masha meine Hand und sie redete ununterbrochen."
+    #"On our way back Mascha held my hand and chattered about everything non-stop."
+    "Auf unserem Rückweg hielt Mascha meine Hand und sie redete ununterbrochen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:3582
 translate german epilogue_mi_b3e9120f:

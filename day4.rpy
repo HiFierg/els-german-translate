@@ -3728,7 +3728,7 @@ translate german day4_forest_bbfd297a:
 
     # "Тем более в кружке кибернетики! Там был его второй дом.{w} А может, даже и первый."
     #"Or in the cybernetics club! It was his second home.{w} Or, maybe even his first."
-    "Und erst recht im Kybernetiklub! Das war sein zweites Zuhause.{w} Oder vielleicht sogar sein erstes."
+    "Und erst recht im Kybernetik-Club! Das war sein zweites Zuhause.{w} Oder vielleicht sogar sein erstes."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1103
 translate german day4_forest_b2a1e220:
@@ -4845,7 +4845,7 @@ translate german day4_house_of_mt_432f59be:
 
     # "Она ушла, а я ещё некоторое время стоял и разглядывал кладовку кружка кибернетиков."
     #"She left but I was standing there for some time staring at the cybernetics club's closet."
-    "Sie ging hinaus, aber ich blieb noch für einige Zeit stehen und starrte die Schränke des Kybernetik-Klubs an."
+    "Sie ging hinaus, aber ich blieb noch für einige Zeit stehen und starrte die Schränke des Kybernetik-Clubs an."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1387
 translate german day4_house_of_mt_a20cefa7_2:
@@ -6124,7 +6124,7 @@ translate german day4_main2_a3a27538:
 
     # "Я задумался над исчезновением руководителя кибернетического кружка."
     #"The disappearance of the cybernetics club's leader made me think."
-    "Die Abwesenheit der Leitung des Kybernetik-Klubs machte mich nachdenklich."
+    "Die Abwesenheit der Leitung des Kybernetik-Clubs machte mich nachdenklich."
     
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1706
 translate german day4_main2_219aa2d9:
