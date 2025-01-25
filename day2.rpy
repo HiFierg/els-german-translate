@@ -4547,7 +4547,7 @@ translate german day2_pre_cards_abd41233:
 
     # dv "Какой же ты тупой!{w} Про карты, про что же ещё!"
     #dv "You're such a slowpoke! The cards, what else?"
-    dv "Du bist sö dämlich!{w} Von den Karten, wovon sonst?"
+    dv "Du bist so dämlich!{w} Von den Karten, wovon sonst?"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:1271
 translate german day2_pre_cards_2020ce91:
@@ -6059,7 +6059,7 @@ translate german demo_play_intro_8dd13e36:
 
     # "Электроник отошёл к столу со схемой, оставив Ульяну злиться в одиночестве."
     #"Elektronik went to the table with the diagram, leaving Uljana to smolder in solitude."
-    "Elektronik ging zum Turnierplan und ließ Uljana mit ihrem Ärger allein."       # So war es gemeint denke ich
+    "Elektronik ging zum Turnierplan und ließ Uljanka mit ihrem Ärger allein."       # So war es gemeint denke ich
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:1652
 translate german demo_play_intro_ce1458ea:
@@ -7435,7 +7435,7 @@ translate german day2_dv_620aa5dd:
 
     # "И тут бах!"
     #"All of a sudden, WHAM!"
-    "Und dann, BAM!"
+    "Und dann, BÄM!"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:2249
 translate german day2_dv_de055afa:
@@ -9098,7 +9098,7 @@ translate german day2_us_ff3859bd:
 
     # "Там было довольно много всякого музыкального оборудования: колонки, микрофонная стойка и даже пианино."
     #"So much varied musical equipment – loudspeakers, a microphone stand and even a piano."
-   "So viel verschiedene Ausrüstung: Lautsprecher, ein Mikrofonständer und sogar ein Klavier."
+    "So viel verschiedene Ausrüstung: Lautsprecher, ein Mikrofonständer und sogar ein Klavier."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:2655
 translate german day2_us_85b7add9:
@@ -9455,7 +9455,7 @@ translate german day2_us_bb143e3a:
 
     # th "Очередная идиотская выходка этой глупой девчонки."
     #th "Yep. One more childish trick from the silly girl."
-    us "Jup. Noch ein kindischer Streich des verrückten Mädchens."
+    th "Jup. Noch ein kindischer Streich des verrückten Mädchens."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:2744
 translate german day2_us_b40ec65c:
@@ -9476,7 +9476,7 @@ translate german day2_us_78ddfb9b:
 
     # "В очередной раз мысленно обругав Ульяну, я направился в сторону своего домика."
     #"After once again cursing Uljana in my mind, I headed towards my cabin."
-    "Nachdem ich Uljana in Gedanken noch einmal verflucht hatte, machte ich mich auf den Weg zu meiner Hütte."
+    "Nachdem ich Uljanka in Gedanken noch einmal verflucht hatte, machte ich mich auf den Weg zu meiner Hütte."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:2756
 translate german day2_main4_6f1dc765:
