@@ -1045,7 +1045,8 @@ translate german day3_breakfast_mz_198f044e:
 
     # mz "Сегодня! После обеда! В библиотеку! Понял, хунта проклятая?!"
     #mz "Today! After lunch! You! In the library! Got it, dunce?"
-    mz "Heute! Nach dem Mittagessen! Du! In der Bücherei! Verstanden, verfluchte Junta?"
+    mz "Heute! Nach dem Mittagessen! Du! In der Bücherei! Verstanden, verfluchte Junta?" 
+    # Vielleicht sollten wir Schenja anders fluchen lassen. Bei einer ersten Recherche kam ich auf folgende Aussage: "Diese Beispiele zeigen, dass das Fluchen auf die “Junta” im Kreml eine Form der Kritik und Ablehnung gegenüber der russischen Regierung und ihren Kriegshandlungen in der Ukraine ist." Das verweist aktuell zu sehr auf die Russland - Ukraine - Krise hin.
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:286
 translate german day3_breakfast_mz_a758b252:
@@ -1438,6 +1439,7 @@ translate german day3_main2_5a680cf2:
     # "Действительно, её навыкам маскировки позавидовал бы и опытный спецназовец."
     #"Surely, she's able to remain invisible like a skilled ninja."
     "Bestimmt wäre selbst ein ausgebildeter Spetsnaz auf ihre Tarnungsfähigkeiten neidisch."
+    # Vielleicht sollte hier eine Note eingefügt werden, was mit Spetznaz gemeint ist: https://de.wikipedia.org/wiki/GRU_Speznas
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:372
 translate german day3_main2_0dac54fc:
@@ -3086,7 +3088,8 @@ translate german day3_clubs_14c45b6b:
 
     # th "Прямо строчки из журнала «Техника-Молодёжи».{w} Наверное, и у меня на антресоли завалялась пара номеров."
     #th "Oh, yep! He sounds just like 'Popular Mechanics' magazine.{w} I've seen a couple of issues lying around my shelves too."
-    th "Er klingt geradezu wie ein Bericht aus 'Spektrum der Wissenschaft'.{w} Davon habe ich glaube ich auch noch ein paar Ausgaben herumliegen."
+    # th "Er klingt geradezu wie ein Bericht aus 'Spektrum der Wissenschaft'.{w} Davon habe ich glaube ich auch noch ein paar Ausgaben herumliegen."
+    th "Er klingt geradezu wie ein Bericht aus 'National Geographics'.{w} Davon habe ich glaube ich auch noch ein paar Ausgaben herumliegen." ## Ist vielleicht allgemein bekannter.
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:771
 translate german day3_clubs_855db9ee:
@@ -3290,7 +3293,7 @@ translate german day3_playground_us_6a412919:
 
     # "Я пригляделся к участникам и узнал Ульяну."
     #"I took a closer look at the players and recognised Uljana."
-    "Ich schaute mir die Spieler genauer an und entdeckte Uljana."
+    "Ich schaute mir die Spieler genauer an und entdeckte Uljanka."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:827
 translate german day3_playground_us_bb01375d:
@@ -3446,7 +3449,7 @@ translate german day3_playground_us_6f9f7610:
 
     # "Спустя какое-то время счёт стал уже равным, хотя в начале моя команда отставала на семь или восемь голов."
     #"Some time later, we tied it up, despite our team being seven or eight goals behind at the start."
-    "Nach einiger Zeit konnten wir den Rückstand aufholen, obwohl unsere Mannschaft sieben oder acht Tore im Rückstand war."
+    "Nach einiger Zeit konnten wir den Rückstand aufholen, obwohl unsere Mannschaft sieben oder acht Tore zurück lag."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:864
 translate german day3_playground_us_f50e5ca2:
@@ -4437,7 +4440,7 @@ translate german day3_main4_4cb70312:
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1093
 translate german day3_main4_7168ef23:
 
-    # "На входе, как Почётный караул у Вечного огня, стояла Ольга Дмитриевна."
+    # "На входе, как Почётный караул у Вечного огня, стояла Ольга Дмитриевна." # 1:1 Übersetzung: "Wie eine Ehrenwache an der Ewigen Flamme stand Olga Dmitrievna am Eingang."
     #"Olga Dmitrijewna was standing at the entrance, guarding it like a hawk."
     "Olga Dmitrijewna stand am Eingang wie die Ehrengarde an der Ewigen Flamme am Grab des unbekannten Soldaten in Moskau." # Vielleicht nur bis Ehrengarde an der ewigen Flamme und den Rest als Anm. d. Red. einblenden?
 
@@ -5097,7 +5100,7 @@ translate german day3_main4_ccad0a84:
 
     # "Она посмотрела на Ульяну таким взглядом, что мне стало жалко девочку."
     #"She looked at Uljana with such a burning gaze, that I felt bit sorry for the girl."
-    "Sie starrte Uljana mit einem so stechenden Blick an, dass mir das Mädchen geradezu leid tat."
+    "Sie starrte Uljanka mit einem so stechenden Blick an, dass mir das Mädchen geradezu leid tat."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1279
 translate german day3_main4_f438658b:
@@ -5231,7 +5234,7 @@ translate german day3_library_sl_1afa7cdc:
 
     # "Я выбежал на площадь."
     #"I ran off towards the square."
-    "Ich rannte Richtung großer Platz"
+    "Ich rannte Richtung großen Platz"
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1328
 translate german day3_library_sl_f44b49d9:
@@ -5763,7 +5766,7 @@ translate german day3_library_sl_eae58056:
 
     # sl "Ты не обижайся на Ульяну."
     #sl "Hey, don't hold a grudge against Uljana."
-    sl "Du, sei nicht mit Uljana beleidigt."
+    sl "Du, sei nicht mit Uljanka beleidigt."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1437
 translate german day3_library_sl_ec1593ec:
@@ -6330,7 +6333,7 @@ translate german day3_library_sl_418c13dd:
 
     # sl "Не ругайте его!{w} Семён мне помог в библиотеке."
     #sl "Don't blame him!{w} Semyon was helping me at the library."
-    sl "Schimpf ihn nicht aus!{w} Semyon hat mir in der Bücherei geholfen."
+    sl "Schimpfen sie ihn nicht aus!{w} Semyon hat mir in der Bücherei geholfen." # Eigentlich sollten Alle Pioniere Olga siezen. Auch Slawja.
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1564
 translate german day3_library_sl_38689622:
@@ -8767,7 +8770,7 @@ translate german day3_evening_sl_67912668:
 
     # "Не знаю, показалось ли мне, но я никак не мог отделаться от мысли, что нахальная девчонка на что-то намекает."
     #"Maybe I was seeing things, but I couldn't get rid of the thought that that insolent girl is trying to hint at something."
-    "Vielleicht interpretierte ich da zu viel hinein, aber ich ich konnte den Gedanken nicht loswerden, dass dieses unverschämte Mädchen mir Andeutungen machte."
+    "Vielleicht interpretierte ich da zu viel hinein, aber ich konnte den Gedanken nicht loswerden, dass dieses unverschämte Mädchen mir Andeutungen machte."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:2161
 translate german day3_evening_sl_1eafcf89:
@@ -9902,7 +9905,7 @@ translate german day3_evening_sl_335c00f5:
 
     # th "Вот так всегда и получается – пытаешься завести нормальный разговор с девушкой, а выходит  итоге чёрти что..."
     #th "That's how the things are. You try to have a casual chat with a girl and it turns into a complete flop."
-    th "So laufen nun mal die Dinge. Du willst nur Smalltalk mit einem Mädchen machen und dann verwandelt sich das in einen totalen Reinfall." # das Mädchen? ;)
+    th "So laufen nun mal die Dinge. Du willst nur Small Talk mit einem Mädchen machen und dann verwandelt sich das Ganze in einen totalen Reinfall."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:2368
 translate german day3_evening_sl_368a09ed:
@@ -10105,8 +10108,9 @@ translate german day3_evening_sl_4029c0f3:
     # "Само собой, мой организм быстро отозвался."
     #"My organ reacted as it should."
     #"Mein Organismus reagierte flott auf eigene Faust."
-    "Ich bekam augenblicklich eine Erektion." # Etwas stumpf formuliert hm? Das hier ist Prosa:
-    "Plötzlich begann das Blut in meinen Lenden, mit einer feurigen Leidenschaft zu kochen."
+    # "Ich bekam augenblicklich eine Erektion." # Etwas stumpf formuliert hm? Das hier ist Prosa:
+    # "Plötzlich begann das Blut in meinen Lenden, mit einer feurigen Leidenschaft zu kochen."
+    "Unnötig zu erwähnen, dass sich was bei mir regte." # Ist näher am Russischen original.
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:2430
 translate german day3_evening_sl_0ad798c3:
@@ -11186,7 +11190,8 @@ translate german day3_evening_un_fa0dd942:
     # "И юг я вспомнил только потому, что из всех пионерлагерей Советского Союза мне в голову пришёл именно «Артек»."
     #"And I thought about south just because the only pioneer camp of the Soviet Union I remembered was 'Artek'."
     "Ich dachte über den Süden nach, weil mir von allen Pionierlagern der Sowjetunion ausgerechnet 'Artek' in den Sinn gekommen war."   # Note: Das Allunions-Pionierlager Artek war das zentrale Pionierlager der Pionierorganisation Wladimir Iljitsch Lenin in der UdSSR. Die Einrichtung befindet sich bei der Stadt Hursuf auf der Halbinsel Krim.
-                                                                                                                                        # ist als note11 der translation.rpy hinzugefügt
+    # ist als note11 der translation.rpy hinzugefügt
+
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:2694
 translate german day3_evening_un_c81cda2f:
 
@@ -11711,6 +11716,7 @@ translate german day3_evening_un_964defe1:
     # "В эту секунду я сильно пожалел о том, что так и не забрал мобильник из домика вожатой."
     #"That moment I regretted that I still didn’t get my cell-phone from the leader's cabin."
     "In dem Moment bereute ich es, mein Handy in der Hütte der Lagerleiterin liegengelassen zu haben." # Handy in den Achtzigern? Und das findet niemand seltsam? Nicht, solange es niemand sieht!
+    # Bis zu dem Zeitpunkt hat er das handy noch niemandem Gezeigt. Das Taucht für Lena und Alisa erst am ende des ltzten Tages auf.
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:2783
 translate german day3_evening_un_4ee977cd:
@@ -13338,7 +13344,7 @@ translate german day3_evening_us_21221d76:
 
     # me "И что бы изменилось?{w} Она бы всё равно нас заставила."
     #me "What would have changed?{w} She'd make us do it anyway."
-    me "Was hätte das geändert?{w} Sie hätte uns das so oder so aufgetragen."
+    me "Was hätte das geändert?{w} Sie hätte uns das so oder so aufgebrummt."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3148
 translate german day3_evening_us_5a606f08:
@@ -13952,7 +13958,7 @@ translate german day3_evening_us_d6c3ca28:
 
     # us "Страшно?{w} Испугался?"
     #us "Are you scared?{w} Frightened?"
-    us "Gruselig?{w} Hast du dich erschrocken?"
+    us "Gruselig?{w} Hast du dich gefürchtet?"
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3297
 translate german day3_evening_us_6c2b1b7e:
@@ -14306,7 +14312,7 @@ translate german day3_evening_us_6b713cd4:
 
     # "Я закончил рассказ и посмотрел на Ульяну."
     #"I finished the story and looked at Uljana."
-    "Ich beendete meine Geschichte und schaute zu Uljana rüber."
+    "Ich beendete meine Geschichte und schaute zu Uljanka rüber."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3370
 translate german day3_evening_us_2c2388cc:
