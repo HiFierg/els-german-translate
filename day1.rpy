@@ -295,7 +295,7 @@ translate german day1_36f36703:
 
     # "Вдаль уносилась узкая дорога через поле.{w} Та самая, из моего сна."
     #"A narrow road ran through the field and far into the distance.{w} That exact same road from my dream."
-    "Ein schmale Straße führte durchs Feld und weit weg in die Ferne.{w} Dieselbe Straße wie in meinem Traum."
+    "Eine schmale Straße führte durchs Feld und weit weg in die Ferne.{w} Dieselbe Straße wie in meinem Traum."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:91
 translate german day1_21bd3c65:
@@ -1027,7 +1027,7 @@ translate german day1_31e75c3d:
 
     # th "Эх, не стоило вообще сюда возвращаться – лучше уж в леса, в поля..."
     #th "Bah, I shouldn't have returned here, the woods and fields seemed better..."
-    th "Eh, ich hätte nicht hierher zurückkommen sollen, die Wälder und Felder waren besser..."
+    th "Äh, ich hätte nicht hierher zurückkommen sollen, die Wälder und Felder waren besser..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:246
 translate german day1_c2c61eee:
@@ -1497,7 +1497,7 @@ translate german day1_d869f630:
 
     # "И представлял себе быт обычного пионерлагеря несколько по-другому: огромные бараки с рядами железных коек, подъём в шесть тра по сирене, одна минута на то, чтобы заправить кровать, затем построение на плацу..."
     #"I imagined the daily life of a typical pioneer camp a bit differently: huge barracks with long rows of metal bunks, wake-up call at six o'clock played by a siren, one minute to make your bed, then joining the formation at the drill square..."
-    "Ich stelle mir den den Alltag eines typischen Pioniers etwa so vor: Riesige Baracken mit langen Reihen von Metallkojen. Wecken um sechs Uhr mit einer Sirene, eine Minute um das Bett zu machen, dann Appell in Formation am Exerzierplatz..."
+    "Ich stelle mir den Alltag eines typischen Pioniers etwa so vor: Riesige Baracken mit langen Reihen von Metallkojen. Wecken um sechs Uhr mit einer Sirene, eine Minute um das Bett zu machen, dann Appell in Formation am Exerzierplatz..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:357
 translate german day1_3a1335b5:
@@ -4314,7 +4314,7 @@ translate german day1_6a05d51d:
 
     # me "Ну, я даже не знаю..."
     #me "Well, I don't really know..."
-    mw "Also, ich weiß es wirklich nicht..."
+    me "Also, ich weiß es wirklich nicht..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1093
 translate german day1_b12cf159:
@@ -5611,7 +5611,7 @@ translate german day1_a3857c58:
 
     # "«Не хочешь – заставим» – кажется, именно этим девизом планировала руководствоваться Ольга Дмитриевна."
     #"'If you don't want to, we'll have to make you' – this is the motto Olga Dmitrijewna was probably going to use."
-    "'Und bist du nicht willig, so brauch ich Gewalt'. Dieses Motto wollte Olga Dimitrievna wohl anwenden."
+    "'Und bist du nicht willig, so brauch ich Gewalt'. Dieses Motto wollte Olga Dimitrijewna wohl anwenden."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1360
 translate german day1_fe66fa24:
