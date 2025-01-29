@@ -5024,7 +5024,7 @@ translate german day6_after_map_cbafac0b:
 
     # th "Если раньше от меня ничего не зависело, однако всё хотя бы шло относительно безопасно, то теперь я, как и прежде, бессилен, но ситуация в корне изменилась."
     #th "If before nothing had really been up to me, but was going relatively smoothly, then now I was, as always, helpless, but the situation was totally different."
-    th "Wenn vorher nichts von mir abhing, aber alles zumindest recht reibungslos verlief, dann war ich jetzt nicht nur hilflos, sondern auch in einer völlig anderen Situation."
+    th "Wenn vorher nichts meinem Willen folgte, aber alles zumindest recht reibungslos verlief, dann war ich jetzt nicht nur hilflos, sondern auch in einer völlig anderen Situation."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1221
 translate german day6_after_map_a980985a:
@@ -5051,56 +5051,56 @@ translate german day6_after_map_f3fefe18:
 
     # "Время шло, солнце начало клониться к закату."
     #"Time passed and the sun began to fall."
-    "Die Zeit verging und es begann zu dämmern."
+    "Die Zeit verging und es begann, zu dämmern."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1237
 translate german day6_after_map_62739121:
 
     # th "Наверное, уже начался ужин."
     #th "Probably dinner has already started."
-    th "Vielleicht ist schon das Abendessen fertig."
+    th "Vermutlich ist das Abendessen bereits fertig."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1238
 translate german day6_after_map_3edce0f9:
 
     # th "Хотя какая разница, есть всё равно совершенно не хочется."
     #th "Although what's the difference, I still don't want to eat."
-    th "Obwohl, was solls, ich will trotzdem nichts essen."
+    th "Obwohl, was soll's, ich will trotzdem nichts essen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1239
 translate german day6_after_map_41cc0c56:
 
     # "Я встал и на ватных ногах поплёлся назад в лагерь."
     #"I stood up and trudged back to the camp on rubber legs."
-    "Ich stand auf und schleppte mich mit schlürfenden Schritten zurück ins Lager."
+    "Ich stand auf und schleppte mich mit schweren Schritten zurück ins Lager."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1241
 translate german day6_after_map_7b58f3a3:
 
     # th "Остаётся только ждать, как и всегда…"
     #th "As always, the only thing left is to wait."
-    th "Wie immer heißt es immer nur Warten."
+    th "Wie immer kann ich nichts tun, als warten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1248
 translate german day6_after_map_a4552563:
 
     # "Я решил сходить на пляж."
     #"I decided to go to the beach."
-    "Ich entschid mich zum Strand zu gehen."
+    "Ich entschied mich, zum Strand zu gehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1249
 translate german day6_after_map_a2ad895b:
 
     # th "Пока все на ужине, там можно спокойно посидеть и подумать."
     #th "While everybody was at dinner I could sit quietly and think there."
-    th "Weil jetzt jeder beim Abendessen ist, kann ich dort in ruhe sitzen und nach denken."
+    th "Weil jetzt alle beim Abendessen sind, kann ich dort in Ruhe sitzen und nachdenken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1250
 translate german day6_after_map_4bbcd690:
 
     # th "Хотя о чём ещё думать? Сколько можно?"
     #th "Though what could I think about? Enough maybe?"
-    th "Aber worüber sollte ich noch nachdenken? Was gibt es noch zu bedenken?"
+    th "Aber worüber? Was gibt es noch zu bedenken?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1251
 translate german day6_after_map_6de0d6ca:
@@ -5128,7 +5128,7 @@ translate german day6_after_map_47641ee9:
 
     # "Она внимательно посмотрела на меня из-под очков."
     #"She looked at me from behind her glasses."
-    "Sie schaute ich durch ihre Brille an."
+    "Sie schaute mich durch ihre Brille an."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1256
 translate german day6_after_map_43937691:
@@ -5198,7 +5198,7 @@ translate german day6_after_map_56d4e39c:
 
     # "Она громко рассмеялась."
     #"She laughed loudly."
-    "Sie lacht laut los."
+    "Sie lachte laut los."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1267
 translate german day6_after_map_cf3d96a9:
@@ -5212,7 +5212,7 @@ translate german day6_after_map_a4dfd52d:
 
     # mz "Это отдельный разговор…{w} Эти два брата-акробата на что угодно способны."
     #mz "That was a special case...{w} Those guys are two peas in a pod and you never know what to expect from them."
-    mz "Das war eine Ausnahme...{w} Die zwei sind einfach zu allem fähig."
+    mz "Das war eine Ausnahme...{w} Die Zwei sind einfach zu allem fähig."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1270
 translate german day6_after_map_6ebc2860:
@@ -5275,28 +5275,28 @@ translate german day6_after_map_82514e53:
 
     # "Я и сам не понимал – то ли защищаю Электроника, то ли просто поддерживаю разговор."
     #"Even to me it wasn't clear whether I’m defending Elektronik or just keeping the conversation going."
-    "Ich wusste selber nicht, ob ich Elektronik einfach nur verteidige oder ob ich das Gespräch am laufen halten wollte."
+    "Ich wusste selber nicht, ob ich Elektronik einfach nur verteidigen oder ob ich das Gespräch am Laufen halten wollte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1283
 translate german day6_after_map_16cd0044:
 
     # mz "А как ещё-то?"
     #mz "Then how else should I treat him?"
-    mz "Wie soll ich denn dann mit ihm um gehen?"
+    mz "Wie soll ich denn dann mit ihm umgehen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1284
 translate german day6_after_map_5f7ad39e:
 
     # me "Ну, дать ему шанс…{w} Всё же на такой поступок нужно немало смелости, знаешь ли."
     #me "Well, give him a chance...{w} You know, such an act requires lots of courage."
-    me "Nun... gib ihm eine Chance...{w} Du weißt schon, so was erfordert viel Mut."
+    me "Nun... gib ihm eine Chance...{w} Du weißt schon, sowas erfordert viel Mut."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1286
 translate german day6_after_map_b2adba60:
 
     # mz "Ты говоришь это так… как будто это что-то такое особенное, подвиг какой-то.{w} Сам бы не смог, что ли?"
     #mz "You say it... as if it is something special, some kind of achievement.{w} Would you be able to do that yourself?"
-    mz "Du sagst das... als wäre das was besonderes, irgend eine besondere Leistung.{w} Wärst du in der Lage, dies selber zu tun?"
+    mz "Du sagst das... als wäre das was besonderes, irgendeine besondere Leistung.{w} Wärst du fähig, dasselbe zu tun?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1287
 translate german day6_after_map_846fcae4:
@@ -5338,7 +5338,7 @@ translate german day6_after_map_e55707cf:
 
     # th "Действительно, Электроник смог, а смогу ли я?{w} Это вопрос, большой вопрос."
     #th "True that, Elektronik was able say it, but can I do the same thing?{w} That is the question, a big question."
-    th "Es stimmt, Elektronik schaffte es darüber zu reden, aber könnte ich das auch?{w} Das war die Frage, die große Frage."
+    th "Es stimmt. Elektronik schaffte es, darüber zu reden, aber könnte ich das auch?{w} Das ist die Frage, die große Frage."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1295
 translate german day6_after_map_182cea07:
@@ -5352,7 +5352,7 @@ translate german day6_after_map_df7d6c66:
 
     # th "Всегда легче рассуждать о чём-то эфемерном, подготовиться к десятку возможных вариантов, просчитать по ним развитие событий на много ходов вперёд..."
     #th "It's always easier to think about something ephemeral, to get ready for dozens of possible situations, to predict the following events for many steps ahead."
-    th "Es ist immer einfacher, über irgendwas Vergängliches zu reden, sich auf viele mögliche Situationen vor zu bereiten und die Ereignisse für viele weiter Schritte vorher zu sehen..."
+    th "Es ist immer einfacher, über irgendwas Vergängliches zu reden, sich auf viele mögliche Situationen vorzubereiten und die Ereignisse möglichst weit vorherzusagen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1297
 translate german day6_after_map_20124702:
@@ -5366,14 +5366,14 @@ translate german day6_after_map_7fad78b3:
 
     # th "Достаточно небольшой мелочи, чтобы порушить все твои планы."
     #th "Even a small event is enough to ruin all your plans."
-    th "Eine kleine Sache kann einem alle Pläne durcheinanderbringen."
+    th "Eine kleine Sache kann einem alle Pläne durchkreuzen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1299
 translate german day6_after_map_04ab0520:
 
     # th "И если ты не готов сделать {i}это{/i} вообще, всегда, при любых условиях, а только когда всё сойдётся именно так, как ты рассчитывал, то вряд ли получится что-то путное."
     #th "And if you're not ready to do {i}it{/i} at any time, whenever, under any circumstances, if you are ready only when everything is exactly as you had expected, it is unlikely you'd ever get anything worthwhile."
-    th "Und wenn du nicht bereit bist {i}etwas{/i} zu jeder Zeit, unter allen Umständen zu tun, wenn du nur dann bereit bist wenn alles so läuft, wie du es erwartes ist es unwarscheinlich, dass du jemals etwas Lohnenswertes erreichst."
+    th "Und wenn man nicht bereit ist, {i}so etwas{/i} zu jeder Zeit, unter allen Umständen zu tun, wenn man nur dann bereit ist, wenn alles so läuft, wie man es erwartet, dann ist es unwahrscheinlich, dass man jemals etwas Lohnenswertes erreicht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1300
 translate german day6_after_map_ab503b46:
@@ -5387,7 +5387,7 @@ translate german day6_after_map_60b33880:
 
     # th "Не однозначное, не безапелляционное, не осуждающее и не лишающее права выбора.{w} Просто «нет»."
     #th " Not an ambiguous, uncertain, half-hearted, or forced answer.{w} Just 'no'."
-    th "Keine zweideutige, ungenaue, halbherzig oder erzwungene Antwort.{w} Einfach 'Nein'."
+    th "Keine zweideutige, ungenaue, halbherzige oder erzwungene Antwort.{w} Einfach 'Nein'."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1302
 translate german day6_after_map_7889693d:
@@ -5408,7 +5408,7 @@ translate german day6_after_map_90e26c1c:
 
     # "Между двумя крайностями у меня существовало огромное количество «наверное», «может быть», «возможно, если» и прочих «не уверен, но постараюсь»…"
     #"Between these two extremes I always worked in a great number of different answers like “maybe”, “perhaps”, “probably if”, and “not sure but I will try”..."
-    "Zwischen diesen beiden Extremen suchte ich mir immer aus einer großen Auswahl von Antworten wie 'vielleicht', 'möglicherweise', 'Wahrscheinlich wenn' und 'weiß nicht, aber ich versuche es' heraus..."
+    "Zwischen diesen beiden Extremen suchte ich mir immer aus einer großen Auswahl von Antworten wie 'vielleicht', 'möglicherweise', 'wahrscheinlich, wenn' und 'weiß nicht, aber ich versuche es' heraus..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1310
 translate german day6_after_map_a20cefa7_2:
@@ -5422,14 +5422,14 @@ translate german day6_after_map_e51168a0:
 
     # "За этими мыслями я не заметил, как на лагерь спустилась ночь."
     #"I was so absorbed with my thoughts that I did not notice how the darkness stole across the camp."
-    "Ich war so mit meinen Gedanken beschäftigt, dass ich nicht merkte, wie die Dunkelheit das Lager vollends eingenommen hatte."
+    "Ich war so mit meinen Gedanken beschäftigt, dass ich nicht bemerkte, wie die Dunkelheit das Lager zügig einnahm."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1319
 translate german day6_after_map_3aa3c67c:
 
     # "При других обстоятельствах я бы сейчас пошёл спать…{w} Но и искать Лену ночью тоже идея не лучшая."
     #"Under other circumstances I would have gone to sleep now...{w} But looking for Lena at night was not a good idea."
-    "Unter anderen Umständen wäre ich jetzt schlafen gegangen...{w} Aber nachts nach Lena zu suchen war auch nicht die beste Idee."
+    "Unter anderen Umständen wäre ich jetzt schlafengegangen...{w} Aber nachts nach Lena zu suchen war auch nicht die beste Idee."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1321
 translate german day6_after_map_d8482e89:
@@ -5450,7 +5450,7 @@ translate german day6_after_map_97ec2962:
 
     # "Постояв с минуту, я уже собирался уходить, как вдруг услышал какие-то звуки."
     #"I stood there for a moment and was about to leave when I heard noises."
-    "Ich stand dort eine Weile rum und wollte gerade weiter gehen, als ich ein Geräusch hörte."
+    "Ich stand dort eine Weile herum und wollte gerade weitergehen, als ich ein Geräusch hörte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1330
 translate german day6_after_map_cfc15ee6:
@@ -5478,14 +5478,14 @@ translate german day6_after_map_550358a1:
 
     # "В голове было совершенно пусто, я просто смотрел на неё и испытывал чувство радости.{w} Радости, что она нашлась, радости, что снова вижу её."
     #"My head was completely empty, I just looked at her and felt a sense of joy.{w} Joy at finding her, joy at seeing her again."
-    "Mein Kopf war wie leer gefegt. Ich schaute sie einfach nur an und war glücklich.{w} Glücklich, sie gefunden zu haben, glücklich sie wieder zu sehen."
+    "Mein Kopf war wie leergefegt. Ich schaute sie einfach nur an und war glücklich.{w} Glücklich, sie gefunden zu haben, glücklich, sie wiederzusehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1338
 translate german day6_after_map_f86b9a25:
 
     # "Наконец я пришёл в себя и решил подойти…"
     #"Finally I came to my senses and decided to approach..."
-    "Schließlich bekam ich mich wieder ein und beschloss auf sie zu zugehen..."
+    "Schließlich kriegte ich mich wieder ein und beschloss, auf sie zuzugehen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1339
 translate german day6_after_map_d092d462:
@@ -5499,7 +5499,7 @@ translate german day6_after_map_cf3bc831:
 
     # th "А что ей сказать?{w} «Хорошо, что ты нашлась»?{w} «Где ты пропадала, я волновался»?"
     #th "And what do I say now?{w} “Glad I found you”?{w} “Where have you been, I was worried”?"
-    th "Und was soll ich jetzt sagen?{w} 'Schön, ich habe dich gefunden'?{w} 'Wo warst du, ich habe mir Sorgen gemacht'?"
+    th "Und was soll ich jetzt sagen?{w} 'Schön, dass du hier bist'?{w} 'Wo warst du, ich habe mir Sorgen gemacht'?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1341
 translate german day6_after_map_de715a93:
@@ -5513,21 +5513,21 @@ translate german day6_after_map_e0f727b2:
 
     # th "И если Лена спросит, почему я её искал?{w} Почему волновался?"
     #th "And what if Lena asked me why I was looking for her?{w} Why I was worrying?"
-    th "Und was, wenn Lena mich fragt, warum ich nach ihr suche?{w} Warum ich mich Sorgen gemacht habe?"
+    th "Und was, wenn Lena mich fragt, warum ich nach ihr suche?{w} Warum ich mir Sorgen gemacht habe?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1343
 translate german day6_after_map_4baf4e5a:
 
     # th "Я ведь и сам не знаю почему…{w} Наверное, потому что её долго не было."
     #th "I did not know why myself...{w} Probably it's because she was absent for too long."
-    th "Das weiß ich ja selber nicht...{w} Vielleicht weil sie so lange verschwunden war."
+    th "Das weiß ich ja selber nicht...{w} Vielleicht, weil sie so lange abwesend war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1344
 translate german day6_after_map_db5327a9:
 
     # th "Может быть, будь на её месте любой другой знакомый человек, я бы беспокоился точно так же."
     #th "Maybe if it wasn't her but some other person who I know I'd have been worried the same way."
-    th "Wenn es nicht sie gewesen wäre, sondern eine andere mir bekannte Person, hätte ich mir vielleicht genau solche Sorgen gemacht."
+    th "Wenn es nicht sie gewesen wäre, sondern eine andere mir bekannte Person, hätte ich mir vermutlich ebenso Sorgen gemacht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1345
 translate german day6_after_map_9e166d2c:
@@ -5541,7 +5541,7 @@ translate german day6_after_map_b1d2df25:
 
     # th "Не уверен, но постараюсь придумать что-нибудь адекватное…"
     #th "I'm not sure, but I'll try to come up with something adequate..."
-    th "Ich weiß nicht genau, aber ich werde mir was Passendes einfallen lassen..."
+    th "Ich weiß nicht genau, aber ich werde mir was passendes einfallen lassen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1347
 translate german day6_after_map_5c5017b8:
@@ -5562,14 +5562,14 @@ translate german day6_after_map_fac2cdca:
 
     # th "Опять и опять эти слова появляются в моей голове, в моей жизни…"
     #th "Again and again, these words appeared in my mind, in my life..."
-    th "Wieder und wieder tauchen diese Worte in meinem Kopf und meinem Leben auf..."
+    th "Wieder und wieder tauchen diese Worte in meinem Kopf und in meinem Leben auf..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1350
 translate german day6_after_map_ee8a9b71:
 
     # th "Неосознанно, без моей воли!"
     #th "Unconsciously, without my will!"
-    th "Unbewusst, ungewollt!"
+    th "Unbewusst, unwillentlich!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1351
 translate german day6_after_map_10d6f972:
@@ -5583,7 +5583,7 @@ translate german day6_after_map_6179f9a3:
 
     # th "Надо принять решение! Раз и навсегда!"
     #th "I have to make a decision! Once and for all!"
-    th "Ich muss eine Entscheidung treffen! Einmal und für immer!"
+    th "Ich muss eine Entscheidung treffen! Ein für alle Mal!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1353
 translate german day6_after_map_beab36a3:
@@ -5604,14 +5604,14 @@ translate german day6_after_map_40942432:
 
     # "Я вошёл на площадку, подошёл к Лене, улыбнулся и сказал:"
     #"I went to the court, approached Lena, smiled and said:"
-    "Ich ging auf das Spielfeld zu Lena lächelte und sagte:"
+    "Ich ging auf das Spielfeld zu Lena, lächelte und sagte:"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1356
 translate german day6_after_map_1a8f3935_1:
 
     # me "Привет!"
     #me "Hey!"
-    me "Hallo!"
+    me "Hey!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1358
 translate german day6_after_map_f0d43f46:
@@ -5639,7 +5639,7 @@ translate german day6_after_map_abad00d7:
 
     # un "Да… Я гуляла."
     #un "Yes... I was walking around."
-    un "Ja... Ich bin herumgelaufen."
+    un "Ja... Ich bin spazieren gewesen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1362
 translate german day6_after_map_158d2b03:
@@ -5667,7 +5667,7 @@ translate german day6_after_map_334f3921:
 
     # un "Не стоило."
     #un "You shouldn't have."
-    un "Das ist es nicht wert."
+    un "Das hättet ihr nicht tun sollen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1366
 translate german day6_after_map_696f7e51:
@@ -5681,7 +5681,7 @@ translate german day6_after_map_f1268435:
 
     # "Я попытался улыбнуться, чтобы мои слова не звучали как укор."
     #"I tried to smile to make my words not sound like a reproach."
-    "Ich versuchte zu lächeln, damit es nicht wie ein Vorwurf klingt."
+    "Ich versuchte, zu lächeln, damit es nicht wie ein Vorwurf klang."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1368
 translate german day6_after_map_608904a9:
@@ -5723,14 +5723,14 @@ translate german day6_after_map_d982cf8e:
 
     # "Как я ни старался быть до конца откровенным, на деле выходило не очень."
     #"No matter how I tried to be perfectly honest, it came out wrong."
-    "Egal wie sehr ich versucht habe, ernst zu sein, das kam völlig falsch rüber."
+    "Egal, wie sehr ich versucht habe, einfach ehrlich zu sein, das kam völlig falsch rüber."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1376
 translate german day6_after_map_4738c0dc:
 
     # un "А, вот как…{w} Хорошо, больше не буду."
     #un "Ah! I see...{w} Ok, I won’t do this again."
-    un "Ah! Ich verstehe...{w} Ok, Ich werde es nicht wieder machen."
+    un "Ah! Ich verstehe...{w} Ok, ich werde es nicht wieder tun."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1377
 translate german day6_after_map_0f363f3f:
@@ -5751,7 +5751,7 @@ translate german day6_after_map_615bc5a9:
 
     # "Я просто не знал, что ещё сказать, а Лене, кажется, было неплохо и в тишине."
     #"I just didn't know what else to say, and Lena seemed to be quite content with the silence."
-    "Ich wusste nicht, was ich noch sagen sollte, und Lena schien sich mit dem Schweigen ganz wohlzufühlen."
+    "Ich wusste nicht, was ich noch sagen sollte, und Lena schien sich in der Stille ganz wohlzufühlen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1380
 translate german day6_after_map_6215010e:
@@ -5821,7 +5821,7 @@ translate german day6_after_map_3b03af3a:
 
     # me "Да, конечно…"
     #me "Yes, of course..."
-    me "Ja, natürlich..."
+    me "Ja, gerne..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1394
 translate german day6_after_map_76efef38:
@@ -5842,35 +5842,35 @@ translate german day6_after_map_67f740f6:
 
     # "Множество маленьких огоньков – какие-то ярче, какие-то еле заметны – сияли надо мной."
     #"Lots of small lights shined above me. Some of them were brighter, some were barely visible."
-    "Viele kleine Lichter schienen auf mich herab. Einige waren heller, andere kaum noch zu sehen."
+    "Viele kleine Lichter schienen auf mich herab. Einige waren heller, andere kaum zu sehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1397
 translate german day6_after_map_e0e85a4c:
 
     # "Я никогда толком не понимал, что люди находят в том, чтобы вот так просто сидеть и смотреть на звёзды."
     #"I never really understood what people see in just sitting back and looking at the stars."
-    "Ich habe nie so richtig verstanden, was die Leute daran finden, einfach nur da zu sitzen und in die Sterne zu schauen."
+    "Ich habe nie so richtig verstanden, was die Leute daran finden, einfach nur dazusitzen und in die Sterne zu schauen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1398
 translate german day6_after_map_f99d691b:
 
     # "Ведь здесь, на Земле, это просто маленькие светящиеся точки, и вряд ли много кто знает, что это за неесные тела, каковы их размеры, на каком они расстоянии от нас."
     #"After all, here on Earth they're just small dots of light and it's unlikely that many people know what kind of celestial bodies they are, as well as their size and how far they are from us."
-    "Schließlich sind sie hier von der Erde betrachtet, nur kleine Lichtpunkte, und es ist unwahrscheinlich, dass die Leute genau wissen, was für Objekte es sind und ob sie ihre Größe kennen und wie weit sie entfernt sind."
+    "Schließlich sind sie von der Erde aus betrachtet nur kleine Lichtpunkte, und es ist unwahrscheinlich, dass die Leute genau wissen, was für Himmelskörper sie anschauen und dass sie ihre Größe kennen und wie weit sie entfernt sind."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1399
 translate german day6_after_map_543454aa:
 
     # "Просто наслаждаться светом далёких звёзд, конечно, романтично, но для меня это было сродни разглядыванию кирпичной стены – там тоже есть свои выбоины, неровности кладки, узоры на камне."
     #"Of course, it's so romantic to just enjoy the light of distant stars, but for me it was like staring at a brick wall. It also has its potholes, unevenness in the brickwork, patterns on the stone."
-    "Natürlich, es ist ja so romantisch, einfach nur die Lichter der entfernten Serne zu genießen, aber für mich es, als würde ich auf eine Ziegelsteinmauer schauen. Auch die hat ihre Kerben, Unebenheiten und Muster auf den Steinen."
+    "Natürlich, es ist ja so romantisch, einfach nur die Lichter der entfernten Sterne zu genießen, aber für mich ist es, als würde ich auf eine Ziegelsteinmauer schauen. Auch die hat ihre Kerben, Unebenheiten und Muster auf den Steinen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1400
 translate german day6_after_map_e767efc0:
 
     # "Звёздное небо в миниатюре."
     #"A stellar sky in miniature."
-    "Ein Ministernenhimmel"
+    "Ein Ministernenhimmel."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1401
 translate german day6_after_map_6ff78afb:
@@ -5891,7 +5891,7 @@ translate german day6_after_map_60e76402:
 
     # "Загадочно сказала она, не опуская головы."
     #"She said mysteriously with her head up."
-    "Sagte sie geheimnisvoll mit angehobenem Kopf."
+    "Sagte sie geheimnisvoll mit gehobenem Kopf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1404
 translate german day6_after_map_cdb6a705:
@@ -5905,7 +5905,7 @@ translate german day6_after_map_47fad4d7:
 
     # un "Не знаю…{w} Кажется, что они разговаривают со мной. Там же тоже есть люди, у них своя жизнь, наверное – куда лучше, чем у нас, и они тоже вот так вот смотрят на небо и видят Землю, меня, тебя."
     #un "I don't know...{w} It seems that they talk to me. There are other people there. They have their own life, probably much better than ours, and they too look at the sky and see the Earth, me and you."
-    un "Ich weiß nicht...{w} Es ist, als würde sie zu mir sprechen. Dort sind andere Menschen. Sie leben ihr Leben vielleicht sogar ein besseres als unseres, und sie sehen auch in den Himmel und sehen die Erde, mich und dich."
+    un "Ich weiß nicht...{w} Es ist, als würden sie zu mir sprechen. Dort sind andere Menschen. Sie leben ihre Leben, vermutlich viel bessere als wir, und sie sehen auch in den Himmel und sehen die Erde, mich und dich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1406
 translate german day6_after_map_b51220d8:
@@ -5919,7 +5919,7 @@ translate german day6_after_map_73da0b9c:
 
     # th "Где-то я уже это слышал."
     #th "I had already heard that somewhere else."
-    th "Das habe ich doch irgendwo schon einmal gehört."
+    th "Das habe ich doch irgendwo schon einmal gehört."   # Vermutlich ist der Anime "Voices of a Distant Star" gemeint, wollen wir eine Notiz einblenden?
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1408
 translate german day6_after_map_548f7ac2:
@@ -5954,14 +5954,14 @@ translate german day6_after_map_33f7f134:
 
     # "В тусклом лунном свете я заметил маленькую слезинку, катящуюся у неё по щеке.{w} Или мне просто показалось…"
     #"In the dim moonlight, I noticed a small tear rolling down her cheek.{w} Or at least I thought I did..."
-    "Im schwachen Mondlicht konnte ich sehen, wie ihr eine Träne über die Wange rollte.{w} Oder zumindest glaubte ich das zu sehen..."
+    "Im schwachen Mondlicht konnte ich sehen, wie ihr eine Träne über die Wange rollte.{w} Oder zumindest glaubte ich es..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1417
 translate german day6_after_map_92d22845:
 
     # me "Наверное, я просто более земной, что ли, человек."
     #me "I guess I'm just a more, let's say, practical person."
-    me "Ich denke ich bin eher ein Realist."
+    me "Ich denke, ich bin eher ein Realist."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1418
 translate german day6_after_map_15c1d9fb:
@@ -5975,7 +5975,7 @@ translate german day6_after_map_a6f3957e:
 
     # me "Но если подумать, то, конечно, бескрайнее межзвёздное пространство, миллионы планет, сотни галактик…{w} Это завораживает!"
     #me "But if you think about it, of course, there's endless interstellar space, millions of planets, hundreds of galaxies...{w} It's fascinating!"
-    me "Aber wenn man so darüber nach denkt, da ist natürlich endloser Weltraum, Millionen von Planeten, Hunderte Galaxien...{w} Das ist faszinierend!"
+    me "Aber wenn man so darüber nachdenkt, ist da natürlich ein endloser Weltraum, Millionen von Planeten, Hunderte Galaxien...{w} Das ist faszinierend!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1420
 translate german day6_after_map_94f87d77:
@@ -6010,14 +6010,14 @@ translate german day6_after_map_23571ed6:
 
     # me "Нет, просто звёзды – это действительно…{w} красиво…"
     #me "No, the stars are...{w} are really beautiful..."
-    me "Nein, die Sterne sind...{w} sie sind wirklich wunderbar..."
+    me "Nein, die Sterne sind...{w} sie sind wirklich wunderschön..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1425
 translate german day6_after_map_61cd4196:
 
     # un "Зачем ты пришёл?"
     #un "Why did you come?"
-    un "Warum bist du her gekommen?"
+    un "Warum bist du hergekommen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1426
 translate german day6_after_map_1ed10390:
@@ -6045,7 +6045,7 @@ translate german day6_after_map_9432886b:
 
     # me "Не знаю зачем! Просто искал!"
     #me "I don't know why! I just was!"
-    me "Ich weiß nicht warum! Ich habe es einfach getan!"
+    me "Ich weiß nicht, warum! Ich habe es einfach getan!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1430
 translate german day6_after_map_4cd400a2:
@@ -6087,28 +6087,28 @@ translate german day6_after_map_53406a5d:
 
     # un "Скажешь, что ни при чём?"
     #un "Are you trying to say that it’s not about her?"
-    un "Willst du etwar sagen, dass sie nichts damit zu tun hat?"
+    un "Willst du etwa sagen, dass sie nichts damit zu tun hat?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1436
 translate german day6_after_map_214e0fd5:
 
     # me "Да, скажу, что ни при чём! Зачем ты опять эту тему поднимаешь? Мне казалось, мы всё уже выяснили."
     #me "Yes, that is exactly what I am saying! Why did you bring this topic up again? I thought we already cleared everything up."
-    me "Ja, das ist genau das, was ich versuche zu sagen! Wieso kommst du jetzt wieder auf dieses Thema? Ich dachte, wir hätten das bereits geklärt."
+    me "Ja, das ist genau das, was ich versuche, zu sagen! Wieso kommst du jetzt wieder auf dieses Thema? Ich dachte, wir hätten das bereits geklärt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1437
 translate german day6_after_map_d2905358:
 
     # "Конечно же, мы ничегошеньки не выяснили.{w} Даже не начинали, если быть точным."
     #"Of course, we didn't clear anything up.{w} To be precise, we didn't even start to."
-    "Tatsächlich hatten wir noch gar nichts geklärt.{w} Um genau zu sein, haben wir nicht mal damit an gefangen."
+    "Tatsächlich hatten wir noch gar nichts geklärt.{w} Um genau zu sein, haben wir nicht mal damit angefangen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1438
 translate german day6_after_map_3fd16509:
 
     # "Правда, я совершенно не понимал, зачем всё это нужно."
     #"However, I don't understand why all this is necessary."
-    "Trotzdem verstehe ich nicht, warum das so wichtig ist."
+    "Trotzdem verstand ich nicht, warum das so wichtig war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1439
 translate german day6_after_map_a5ef42ee:
@@ -6150,7 +6150,7 @@ translate german day6_after_map_4fa9efef:
 
     # me "Что я и Алиса?{w} У мея с ней нет не то что каких-то там отношений… У нас вообще ничего общего нет!"
     #me "Me and Alisa what?{w} We don’t have a relationship… we don’t have anything at all!"
-    me "Ich und Alisa?{w} Wir haben keine Beziehung... nichts der gleichen ist der Fall!"
+    me "Ich und Alisa?{w} Wir haben keine Beziehung... nichts dergleichen ist der Fall!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1445
 translate german day6_after_map_bdc08ff0:
@@ -6164,14 +6164,14 @@ translate german day6_after_map_50c351a6:
 
     # "Тихо всхлипывая, Лена отвернулась."
     #"Lena turned away sobbing quietly."
-    "Lena drehte sich weg und schniefte leise."
+    "Lena drehte sich weg und schluchzte leise."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1447
 translate german day6_after_map_73766a33:
 
     # th "И почему ей так это важно?"
     #th "Why is this so important to her?"
-    th "Warum ist dir das so wichtig?"
+    th "Warum ist ihr das so wichtig?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1448
 translate german day6_after_map_dcecdc26:
@@ -6185,21 +6185,21 @@ translate german day6_after_map_6706f668:
 
     # un "Скажи правду!"
     #un "Tell me the truth!"
-    un "Erzähle mir die Warheit!"
+    un "Erzähl mir die Wahrheit!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1450
 translate german day6_after_map_61fa1f64:
 
     # me "Я уже сказал!"
     #me "I've already told you!"
-    me "Die habe ich dir doch gesagt!"
+    me "Die habe ich dir doch erzählt!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1451
 translate german day6_after_map_aa3b5bb0:
 
     # un "Тогда иди к ней!"
     #un "Then go to her!"
-    un "Dann geht zu ihr!"
+    un "Dann geh zu ihr!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1452
 translate german day6_after_map_0aa84a7b:
@@ -6234,7 +6234,7 @@ translate german day6_after_map_f59f13df:
 
     # me "Я искал тебя весь день, потому что волновался. Пришёл сюда, потому что ты здесь. Сижу тут, потому что хочу быть тут! Что непонятного-то?"
     #me "I've been looking for you for the entire day, because I was worried! I came here because you're here! I'm sitting here because I want to be here! What don't you understand?"
-    me "Ich habe den ganzen Tag nach dir gesucht, weil ich mir Sorgen gemacht habe! Ich kam hier her, weil du hier bist! Ich sitze hier, weil ich hier sein möchte! Was verstehst du daran nicht?"
+    me "Ich habe den ganzen Tag nach dir gesucht, weil ich mir Sorgen gemacht habe! Ich kam hierher, weil du hier bist! Ich sitze hier, weil ich hier sein möchte! Was verstehst du daran nicht?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1457
 translate german day6_after_map_70497417:
@@ -6248,7 +6248,7 @@ translate german day6_after_map_dd41c6da:
 
     # un "Это правда?"
     #un "Is that true?"
-    un "Ist das war?"
+    un "Ist das wahr?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1459
 translate german day6_after_map_771aa502:
@@ -6269,7 +6269,7 @@ translate german day6_after_map_97962bdb:
 
     # "Даже с учётом того, что я только что сказал, этот вопрос прозвучал для меня неожиданно."
     #"Even taking into account all the things I’ve just said, this question came at me unexpectedly."
-    "Selbst bei allem, was ich eben gesagt habe, kam diese Frage unerwartet."
+    "Selbst bei allem, was ich eben gesagt hatte, kam diese Frage unerwartet."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1462
 translate german day6_after_map_ea6d6d42:
@@ -6290,7 +6290,7 @@ translate german day6_after_map_2844b0b9:
 
     # "Вскрикнула она, встала и быстрым шагом направилась к выходу с площадки."
     #"She cried, got up and walked briskly towards the exit of the sports ground."
-    "Sie weinte wieder, stand auf und ging schnell Richtung Sportplatzausgang."
+    "Sie weinte wieder, stand auf und verließ zügig den Sportplatz."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1471
 translate german day6_after_map_9e8ba2ed:
@@ -6325,14 +6325,14 @@ translate german day6_after_map_c1e1344b:
 
     # "И нельзя сказать, что она была какой-то агрессивной, уверенной в себе или сверхволевой.{w} Просто она не сомневалась в том, что делает."
     #"And I couldn't say that she was aggressive, assertive or super strong-willed.{w} She just had no doubts about what she was doing."
-    "Und ich konnte nicht mal sagen, sie wäre aggressiv oder durchsetzungsfähig gewesen oder hätte einen starken Willen.{w} Sie zweifelte nur nicht an dem, was sie tat."
+    "Ich konnte nicht sagen, sie wäre aggressiv oder durchsetzungsstark gewesen oder hätte einen starken Willen.{w} Sie zweifelte nur einfach nicht an dem, was sie tat."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1476
 translate german day6_after_map_42af3d5b:
 
     # me "Подожди!{w} Что я такого сказал? Ведь всё это правда!"
     #me "Wait!{w} What did I say? That's all true!"
-    me "Warte!{w} Was habe ich den gesagt? Das ist alles war!"
+    me "Warte!{w} Was habe ich denn gesagt? Das ist alles wahr!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1477
 translate german day6_after_map_96759709:
@@ -6346,14 +6346,14 @@ translate german day6_after_map_78f10d19:
 
     # "Я ещё раз попытался остановить Лену, но она посмотрела на меня так, что спорить я не решился."
     #"I tried to stop Lena once again, but she glared at me so strongly that I did not dare to argue."
-    "Ich versuchte Lena erneut zu stoppen, aber sie schaute mich so durchdringlich an, dass ich mich traute, noch was zu sagen."
+    "Ich versuchte, Lena erneut zu stoppen, aber sie funkelte mich so derbe an, dass ich mich nicht traute, zu widersprechen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1480
 translate german day6_after_map_26abaae4:
 
     # me "А ты представь, каково мне!{w} Ты напридумывала каких-то глупостей, уверилась в них и теперь считаешь меня виноватым во всех смертных грехах!"
     #me "Just imagine how I feel!{w} You make up a bunch of stupid things, and now you think that I'm guilty of all mortal sins!"
-    me "Stell dir vor, wie ich mich fühle!{w} Du denkst dir einen Haufen blöder Sachen aus, und jetzt denkst du, dass ich an allem Bösen schuld bin!"
+    me "Stell dir vor, wie ich mich fühle!{w} Du denkst dir ein paar blöde Sachen aus und jetzt denkst du, ich wäre aller Todsünden schuldig!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1481
 translate german day6_after_map_3abf163e:
@@ -6374,42 +6374,42 @@ translate german day6_after_map_c2fbebf3:
 
     # "Она остановилась на секунду и пристально посмотрела на меня."
     #"She stopped for a moment and looked at me."
-    "Führ einen Moment blieb sie stehen und schaute mich an."
+    "Für einen Moment blieb sie stehen und schaute mich an."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1485
 translate german day6_after_map_3b50af60:
 
     # un "Всё это ложь!"
     #un "It's all lies!"
-    un "Das sind doch alles Lügen!"
+    un "Das sind alles Lügen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1486
 translate german day6_after_map_861f4d27:
 
     # "Я со злости ударился лбом о железный столб."
     #"In my anger I banged my forehead on an iron post."
-    "Vor Wut haute ich mir mit meiner Stirn vor einen Eisenpfosten."
+    "Vor Wut schluug ich meine Stirn vor einen Eisenpfosten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1487
 translate german day6_after_map_999750cd:
 
     # un "Можешь хоть расшибиться тут!"
     #un "You can just beat yourself up here!"
-    un "Hier kannst du dich wenigstens selber schlagen!"
+    un "Schlag dich halt bewusstlos!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1488
 translate german day6_after_map_8da3ba3c:
 
     # "Да, за последнее время я видел Лену какой угодно, но не безжалостной и безразличной."
     #"I had seen Lena be many things, but not ruthless and indifferent."
-    "Ich habe schon viele Seite von Lena gesehen, aber sie war noch nie rücksichtslos und gleichgültig."
+    "Ich habe schon viele Seiten von Lena gesehen, aber sie war noch nie rücksichtslos und gleichgültig."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1489
 translate german day6_after_map_1db6eb05:
 
     # me "Подожди, давай спокойно поговорим!"
     #me "Wait, let's talk calmly!"
-    me "Warte, lass uns in Ruhe weiter reden!"
+    me "Warte, lass uns in Ruhe reden!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1490
 translate german day6_after_map_019acfa8:
@@ -6423,7 +6423,7 @@ translate german day6_after_map_b44c2c2d:
 
     # "Она шла по футбольному полю, а я плёлся сзади, тщетно пытаясь уговорить её выслушать меня."
     #"She crossed the football ground and I trailed behind, trying in vain to persuade her to listen to me."
-    "Sie lief über das Fußballfeld und ich hinterher vergeblich, sie dazu zu bringen, mir zuzuhören."
+    "Sie lief über das Fußballfeld und ich hinterher, während ich sie vergeblich dazuzubringen versuchte, mir zuzuhören."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1493
 translate german day6_after_map_e6426ab5:
@@ -6437,7 +6437,7 @@ translate german day6_after_map_db9e6092:
 
     # th "Чтобы меня не понимали неправильно?{w} Чтобы выглядеть лучше в её глазах?"
     #th "So I won’t be misunderstood?{w} So I will look better in her eyes?"
-    th "Um nicht missverstanden zu werden?{w} Damit ich für sie besser da stehe?"
+    th "Um nicht missverstanden zu werden?{w} Damit ich für sie besser dastehe?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1495
 translate german day6_after_map_666d032c:
@@ -6465,7 +6465,7 @@ translate german day6_after_map_197a0325:
 
     # "Лена шла довольно быстро, я еле успевал за ней."
     #"Lena was pretty fast, I could barely keep up with her."
-    "Lena war wirklich schnell, ich konnte grade so mit halten."
+    "Lena war wirklich schnell, ich konnte gerade so mithalten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1505
 translate german day6_after_map_3cdd393e:
@@ -6507,7 +6507,7 @@ translate german day6_after_map_d175e20e:
 
     # me "Да прекратишь ты?!"
     #me "Will you stop it!?"
-    me "Könntest du bitte damit auf hören?!"
+    me "Könntest du bitte damit aufhören?!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1511
 translate german day6_after_map_ba080751_2:
@@ -6521,7 +6521,7 @@ translate german day6_after_map_a3922398:
 
     # me "Так весь лагерь перебудим!"
     #me "We’ll wake the whole camp!"
-    me "Also gut, laufen wir durchs ganze Lager!"
+    me "Wir wecken das ganze Lager auf!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1513
 translate german day6_after_map_b23d87cc:
@@ -6535,7 +6535,7 @@ translate german day6_after_map_e688e51e:
 
     # "Странно, но сейчас я больше волновался о приличиях, чем Лена."
     #"Strange, but at that moment I was more worried about our behavior than Lena."
-    "Seltsam, aber in diesem Moment ärgerte ich mich mehr über unser Verhalten als über Lena."
+    "Seltsam, aber in diesem Moment sorgte ich mich mehr um unser Auftreten als um Lena."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1516
 translate german day6_after_map_54f55e48:
@@ -6549,7 +6549,7 @@ translate german day6_after_map_673b1993:
 
     # un "Спасибо, что проводил, дальше я сама."
     #un "Thanks for accompanying me, I’ll go alone now."
-    un "Danke für deine Gesellschaft, ich werde alleine weiter gehen."
+    un "Danke für deine Gesellschaft, ich werde jetzt alleine weitergehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1519
 translate german day6_after_map_53d3d956:
@@ -6591,7 +6591,7 @@ translate german day6_after_map_a1a64448:
 
     # "Её голос звучал куда увереннее моего, а во взгляде не было ни тени сомнения."
     #"She sounded much more confident than me, there was no trace of doubt in her eyes."
-    "Sie hörte sich deutlich sicherer an als ich. In ihren Augen war nicht der geringste Zweifel zu erkennen."
+    "Sie hörte sich deutlich sicherer an als ich. In ihren Augen waren keine Zweifel zu erkennen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1526
 translate german day6_after_map_2f879a85:
@@ -6605,7 +6605,7 @@ translate german day6_after_map_ed3bf88e:
 
     # "Я начал рвать на себе волосы."
     #"I was ready to burst into tears."
-    "Ich war kurz davor in Tränen aus zu brechen."
+    "Ich war kurz davor, in Tränen auszubrechen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1528
 translate german day6_after_map_4b3132f4:
@@ -6619,7 +6619,7 @@ translate german day6_after_map_f6b5a1cc:
 
     # me "Не случилось?! Ещё как случилось!"
     #me "Nothing happened?! Something definitely happened!"
-    me "Nichts passiert?! Etwas ist deffinitiv passiert!"
+    me "Nichts passiert?! Etwas ist definitiv passiert!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1530
 translate german day6_after_map_488ea261:
@@ -6640,7 +6640,7 @@ translate german day6_after_map_de950caa:
 
     # un "Нет, серьёзно, зачем?{w} Есть много вариантов более приятного времяпрепровождения.{w} Да и мне, по правде говоря, это совсем не нужно."
     #un "No, seriously, why?{w} There are many pleasant activities you could choose to do.{w} Well, to be honest, I don't need it anyway."
-    un "Nein, ganz ehrlich, warum?{w} Es gibt hier so viele andere Dinge, die du machen kannst.{w} Nun, um ehrlich zu sein, ich brauche es auch nicht."
+    un "Nein, im Ernst, warum?{w} Es gibt hier so viele andere Dinge, die du machen kannst.{w} Und, um ehrlich zu sein, ich brauche das auch nicht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1533
 translate german day6_after_map_9f0f0f1e:
@@ -6675,7 +6675,7 @@ translate german day6_after_map_52a66644:
 
     # "Она смотрела на меня так, будто была готова убить."
     #"She looked at me as if she was ready to kill."
-    "Sie schaute mich an, als wolle sie jemanden töten."
+    "Sie schaute mich mich mit einem mörderischen Blick an."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1539
 translate german day6_after_map_6a9541dc:
@@ -6689,7 +6689,7 @@ translate german day6_after_map_17a396ba:
 
     # "Лена сорвалась на крик, её волосы растрепались, лицо покраснело, а глаза налились кровью."
     #"Lena started screaming, her hair disheveled, her face flushed and her eyes bloodshot."
-    "Lena fing an zu schreien, ihre Haare waren durcheinander, ihr Gesicht wurde Roth und ihre Augen blutunterlaufen."
+    "Lena fing an zu schreien, ihre Haare waren zerzaust, ihr Gesicht wurde rot und ihre Augen blutunterlaufen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1541
 translate german day6_after_map_d2b2d0c2:
@@ -6731,28 +6731,28 @@ translate german day6_after_map_10e07777:
 
     # "Я просто замер от неожиданности, не зная, что сказать."
     #"I just froze in surprise, not knowing what to say."
-    "Ich war vor Überraschung wie versteinert, unfähig, was zu sagen."
+    "Ich war vor Überraschung wie versteinert, unfähig, etwas zu sagen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1554
 translate german day6_after_map_41dceae9:
 
     # "Но Лена оказалась более сообразительной."
     #"But Lena was smarter."
-    "Aber Lena war cooler."
+    "Aber Lena war lässiger."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1555
 translate german day6_after_map_f335a36d:
 
     # un "Сдаю с рук на руки, принимай!"
     #un "Time to pass him on. Catch!"
-    un "Ich übergebe ihn. Übernimm du!"
+    un "Ich übergebe ihn. Hier, nimm!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1557
 translate german day6_after_map_e2e97404:
 
     # "Алиса выглядела удивлённой.{w} Немудрено, она же не слышала всего нашего разговора."
     #"Alisa looked surprised.{w} No wonder, she hadn't heard the entire conversation."
-    "Alisa Schaute überrascht.{w} Kein Wunder, hatte sie ja nicht die gesamte Unterhaltung mit bekommen."
+    "Alisa schaute überrascht.{w} Kein Wunder, hatte sie ja nicht die gesamte Unterhaltung mitbekommen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1558
 translate german day6_after_map_7cac8762:
@@ -6766,7 +6766,7 @@ translate german day6_after_map_cfaec870:
 
     # un "Принимай, говорю."
     #un "I said catch."
-    un "Ich sagte, übernimm."
+    un "Ich sagte, nimm."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1560
 translate german day6_after_map_32fc49d5:
@@ -6780,7 +6780,7 @@ translate german day6_after_map_20cf849d:
 
     # dv "Что принимать?"
     #dv "What should I catch?"
-    dv "Was soll ich übernehmen?"
+    dv "Was soll ich nehmen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1563
 translate german day6_after_map_0216fe85:
@@ -6822,7 +6822,7 @@ translate german day6_after_map_5135656c:
 
     # me "Да нет, всё совсем не так…{w} Лена просто пошутила."
     #me "No, that’s all wrong...{w} Lena is just joking."
-    me "Nein, das ist nicht war...{w} Lena macht nur einen Scherz."
+    me "Nein, das ist nicht wahr...{w} Lena macht nur einen Scherz."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1570
 translate german day6_after_map_d9758ca6:
@@ -6836,14 +6836,14 @@ translate german day6_after_map_9849559e:
 
     # un "Почему же? Всё именно так."
     #un "Why? That's exactly what’s happening."
-    un "Wie? Das ist doch genau das was los ist."
+    un "Wieso? Das ist doch genau, was gerade passiert."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1572
 translate german day6_after_map_6a9072d6:
 
     # me "Слушай, всему есть предел."
     #me "Listen, everything has its limits."
-    me "Hörzu, alles hat seine Grenzen."
+    me "Hör zu, alles hat seine Grenzen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1573
 translate german day6_after_map_f25c750f:
@@ -6864,7 +6864,7 @@ translate german day6_after_map_a94aa304:
 
     # un "Зачем? Я тебе давно предлагала идти к ней."
     #un "Why? I already suggested to you should go to her."
-    un "Wieso? Ich habe doch schon den Vorschlag gemacht, dass du zu ihr gehen sollst."
+    un "Warum? Ich habe doch schon den Vorschlag gemacht, dass du zu ihr gehen sollst."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1577
 translate german day6_after_map_0ece655b:
@@ -6878,21 +6878,21 @@ translate german day6_after_map_c981c313:
 
     # un "Не знаешь?.."
     #un "You don't know?"
-    un "Due weißt es nicht...?"
+    un "Du weißt es nicht...?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1580
 translate german day6_after_map_51cf0a90:
 
     # "Лена сказала это тихо, но в её голосе прозвучали нотки ярости."
     #"Lena said it softly, but her voice had a trace of rage in it."
-    "Sagte Lena sanft, aber es lag eine Spur von Raserei in ihrer Stimme."
+    "Fragte Lena sanft, aber es lag eine Spur von Raserei in ihrer Stimme."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1581
 translate german day6_after_map_73a43983:
 
     # un "Опять за своё?!"
     #un "The same thing again?!"
-    un "Das selbe wie immer?!"
+    un "Dasselbe wie immer?!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1583
 translate german day6_after_map_16082370:
@@ -6906,28 +6906,28 @@ translate german day6_after_map_e75b572c:
 
     # dv "Слушай, я понимаю, что ты это…{w} Но я, честно, ни словом, ни мыслью по отношению к нему! Клянусь!"
     #dv "Listen, I understand that you, well, mm...{w} But I don't know… Really… not a single word, not even a single thought about him! I swear!"
-    dv "Hörzu, Ich verstehe, dass du, also, ähm...{w} Ich verstehe es nicht... ich hege weder Worte noch Gedanken für ihn! Ich schwöre!"
+    dv "Hör zu, ich verstehe, dass du, also, ähm...{w} Aber ich weiß nicht... ich habe kein einziges Wort, keinen einzigen Gedanken auf ihn verwendet! Ich schwör's!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1587
 translate german day6_after_map_efca6f44:
 
     # un "Не знаешь?!"
     #un "You don't know?!"
-    un "Du verstehst es nicht?!"
+    un "Du weißt es nicht?!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1595
 translate german day6_after_map_75b8e738:
 
     # "Лена подскочила к ней и быстрее, чем я успел опомниться, влепила Алисе мощный хук справа."
     #"Lena jumped at her, and before I realised, smashed Alisa with a powerful right hook."
-    "Lena sprang auf sie zu, und kaum das ich es merkte, schlug sie sie mit einem harten rechten Harken."
+    "Lena sprang auf sie zu, und ehe ich mich versah, versetzte sie Alisa einen harten rechten Haken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1596
 translate german day6_after_map_c097944c:
 
     # "Нет, пощёчину я бы ещё понял, но таким ударом можно и челюсть сломать!"
     #"Well, I'd understand a simple slap, but such a blow could break someone's jaw!"
-    "Nun, eine einfache Ohrfeige hätte ich ja noch verstanden, aber so ein Schwinger hätte jemandem den Kiefer brechen können."
+    "Nun, eine einfache Ohrfeige hätte ich ja noch verstanden, aber so ein Schwinger hätte jemandem den Kiefer brechen können!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1597
 translate german day6_after_map_1bd51a91:
@@ -6941,7 +6941,7 @@ translate german day6_after_map_91c4ce70:
 
     # th "Как же поступить мне?"
     #th "What should I do?"
-    th "Was soll ich machen?"
+    th "Was soll ich tun?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1606
 translate german day6_after_map_660ef966:
@@ -6976,14 +6976,14 @@ translate german day6_after_map_dc606069:
 
     # "Я подбежал к лежащей девочке и попытался понять, жива ли она вообще."
     #"I ran over to the fallen girl and tried to figure out if she was alive at all."
-    "Ich rannte zu dem zusammengebrochenen Mädchen und versuchte vor allem raus zu bekommen, ob sie noch lebte."
+    "Ich rannte zu dem zusammengebrochenen Mädchen und versuchte festzustellen, ob sie überhaupt noch lebte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1618
 translate german day6_after_map_5e987c49:
 
     # me "Ты вообще из ума выжила? Если хочешь, чтобы я ушёл, замолчал, да что угодно – хорошо! Но это же уже просто дурдом какой-то! Может, тебя в смирительную рубашку надо, чтобы ещё кого не покалечила?!"
     #me "Are you completely out of your mind? If you want me to leave, to shut up, or to do anything else – fine! But this is turning into a complete madhouse! Maybe you need a straitjacket so nobody else will get injured?!"
-    me "Hast du jetzt völlig den Verstand verloren? Wenn du willst, dass ich gehe, die klappe halten soll oder was auch immer tun soll - gut! Aber das hier ist ein Fall für die Klapse! Vielleicht sollt man dich in eine Zwangsjacke stecken, damit nicht noch jemand verletzt wird?!"
+    me "Hast du jetzt völlig den Verstand verloren? Wenn du willst, dass ich gehe, die Klappe halte oder was auch immer - meinetwegen! Aber das hier ist ein Fall für die Klapse! Vielleicht sollt man dich in eine Zwangsjacke stecken, damit nicht noch jemand verletzt wird?!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1619
 translate german day6_after_map_0710111a:
@@ -6997,21 +6997,21 @@ translate german day6_after_map_246bc5b9:
 
     # "Да, таким ударом можно и себе руку сломать."
     #"You could even break your hand with such a blow."
-    "Mit solch einem Schlag könnte man sich sogar die Hand brechen."
+    "Mit solch einem Schlag könnte man sich sogar die eigene Hand brechen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1625
 translate german day6_after_map_8bf70748:
 
     # un "Ты… Ты…{w} Ты же ничего не понимаешь!"
     #un "You... You...{w} You don’t understand anything!"
-    un "Du... Du...{w} Du verstehst überhaupt nichts!"
+    un "Du... Du...{w} Du verstehst gar nichts!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1626
 translate german day6_after_map_8373e0fe:
 
     # "Слёзы хлынули ручьём из её глаз, и она бросилась прочь с площади."
     #"The tears welled up, flowing down her face and she fled from the square."
-    "Tränen quollen hervor und rannten über ihr Gesicht und sie lief weg vom großen Platz."
+    "Tränen quollen hervor und rannten über ihr Gesicht, und sie lief weg vom großen Platz."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1627
 translate german day6_after_map_3ccb1990:
@@ -7025,7 +7025,7 @@ translate german day6_after_map_b0111b39:
 
     # "Наконец она пришла в себя."
     #"Finally she came back to consciousness."
-    "Schließlich erlangte sie wieder ihr Bewusstsein."
+    "Schließlich kam sie wieder zu sich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1635
 translate german day6_after_map_605ea41f:
@@ -7039,7 +7039,7 @@ translate german day6_after_map_f537afe9:
 
     # "Алиса подвигала челюстью влево-вправо."
     #"Alisa moved her jaw from left to right."
-    "Alisa bewegte ihre Kiefer von links nach rechts."
+    "Alisa bewegte ihren Kiefer von links nach rechts."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1637
 translate german day6_after_map_898a6e8c:
@@ -7074,14 +7074,14 @@ translate german day6_after_map_93df0dc6:
 
     # dv "Да какой медпункт в такое время…{w} Отосплюсь, завтра схожу."
     #dv "It's too late for infirmary...{w} I'll have a good night's rest and in the morning I'll go there."
-    dv "Es ist zu spät für die Krankenstation...{w} Ich werde gut Schalfen und Morgen werde ich da hin gehen."
+    dv "Es ist zu spät für die Krankenstation...{w} Ich werde drüber schlafen und morgen früh hingehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1648
 translate german day6_after_map_3e4756aa:
 
     # me "Ладно, тогда я провожу тебя."
     #me "Okay, then I'll go with you."
-    me "Ok, dann werde ich dich begleiten."
+    me "Okay, dann werde ich dich begleiten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1650
 translate german day6_after_map_2807c5a8:
@@ -7095,7 +7095,7 @@ translate german day6_after_map_853a9bed:
 
     # "Ответила Алиса, силясь улыбнуться."
     #"Alisa said, trying to give me a smile."
-    "Sagte Alisa und versuchte mich anzulächeln."
+    "Sagte Alisa und versuchte, mich anzulächeln."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1658
 translate german day6_after_map_e82487ee:
@@ -7109,7 +7109,7 @@ translate german day6_after_map_705d46ac:
 
     # "Она, наверное, была не особо в состоянии говорить, а мне просто не приходило в голову, что сказать – всё это для меня стало настоящим потрясением."
     #"She was probably not really able to talk, and I couldn’t find the right words to say. All of this was a real shock for me."
-    "Vielleicht war sie nicht in der Lage, was zu sagen, und mir fielen nicht die richtigen Worte ein. Das alles war ein großer Schock für mich."
+    "Vielleicht war sie nicht in der Lage, groß zu sprechen, und mir fielen nicht die richtigen Worte ein. Das alles war ein großer Schock für mich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1660
 translate german day6_after_map_08c54854:
@@ -7123,7 +7123,7 @@ translate german day6_after_map_f6503a89:
 
     # "Когда за Алисой захлопнулась дверь, я ещё долго стоял и смотрел на её домик."
     #"After the door closed behind Alisa I stood for a long time and looked at her cabin."
-    "Nachdem Alisa die Türe hinter sich schloss, stand ich noch eine ganze Weile dort und betrachtete ihre Hütte."
+    "Nachdem Alisa die Tür hinter sich geschlossen hatte, stand ich noch eine ganze Weile dort und betrachtete ihre Hütte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1667
 translate german day6_after_map_7775e100:
@@ -7144,21 +7144,21 @@ translate german day6_after_map_f4e9f6bc:
 
     # th "В конце концов, Лена сейчас в таком состоянии, что вряд ли способна адекватно оценивать действительность."
     #th "I think Lena is now in a state in which she is unlikely to adequately assess reality."
-    th "Ich denke Lena hat einen Zustand erreicht, in dem sie jeden Sinn für Realität verloren hat."
+    th "Ich denke, Lena hat einen Zustand erreicht, in dem sie jeden Sinn für die Realität verloren hat."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1677
 translate german day6_after_map_0b692d89:
 
     # "Совершенно разбитый, я повалился на кровать и моментально заснул."
     #"Completely broken, I fell down onto the bed and drifted to sleep."
-    "Völlig fertig viel ich in mein Bett und schlief auf der Stelle ein."
+    "Völlig fertig fiel ich in mein Bett und schlief auf der Stelle ein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1692
 translate german day6_us_932d85c4:
 
     # "Не могу сказать, что утро моё было добрым.{w} Наоборот, просулся я совершенно разбитым."
     #"I can't say that my morning was good.{w} Instead, I woke up absolutely broken."
-    "Ich konnte nicht sagen, dass mein Morgen gut war.{w} Stadtessen, erwachte ich völlig ausgelaugt."
+    "Ich kann nicht sagen, dass mein Morgen gut war.{w} Stattdessen erwachte ich völlig ausgelaugt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1699
 translate german day6_us_44869d66:
@@ -7186,7 +7186,7 @@ translate german day6_us_ba99f4d8:
 
     # "Поход, глупая игра в привидения, заснувшая Ульянка и…"
     #"A trip, a silly ghost game, Uljana falling asleep and ..."
-    "Ein Ausflug, das dumme Geisterspiel, Uljana, die einschlief und..."
+    "Die Wanderung, das dumme Geisterspiel, Uljana, die einschlief und..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1711
 translate german day6_us_8eb6fcb7:
@@ -7200,28 +7200,28 @@ translate german day6_us_9ab1bc4f:
 
     # "Щёки загорелись.{w} Да, это было настолько неожиданно, что выбило меня из реальности на некоторое время."
     #"I blushed immediately.{w} It was so surprising that I'd been knocked out of reality for a while."
-    "Augenblicklich lief ich rot an.{w} Das kam so überraschend, dass es mich für einen Moment völlig aus der Realität geworfen hat."
+    "Ich errötete.{w} Das kam so überraschend, dass es mich für einen Moment völlig aus der Bahn warf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1713
 translate german day6_us_89d1c6c1:
 
     # th "Самое главное – как теперь вести себя с ней?{w} Вроде бы и ничего такого, но…"
     #th "The main problem is how should I treat her now?{w} At first glance nothing special had happened, but..."
-    th "Das Hauptproblem ist, wie ich nun mit ihr um gehe?{w} Auf den ersten Blick war da nichts besonders, aber..."
+    th "Das Hauptproblem ist, wie ich nun mit ihr umgehe?{w} Auf den ersten Blick war da nichts besonderes, aber..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1714
 translate german day6_us_b9f2d616:
 
     # th "К тому же Ульяна – последняя девочка в этом лагере, от которой можно было ожидать подобных действий."
     #th "Besides, she's the last girl in the whole camp from which one would expect such actions."
-    th "Nebenbei ist sie das letzte Mädchen im ganzen Lager, von der ich solch eine Aktion erwartet hätte."
+    th "Nebenbei bemerkt ist sie das letzte Mädchen im ganzen Lager, von dem ich so eine Aktion erwartet hätte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1715
 translate german day6_us_7b429d44:
 
     # "Она казалась мне в лучшем случае младшей сестрой, не более."
     #"She seemed to me at best to be a little sister, nothing more."
-    "Sie schien für mich im besten Fall wie eine jüngere Schwester zu sein, sonst nichts."
+    "Sie war für mich im besten Fall wie eine kleine Schwester, sonst nichts."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1716
 translate german day6_us_d11fbcdb:
@@ -7235,21 +7235,21 @@ translate german day6_us_b3cdc0ae:
 
     # "Хотя, возможно, я всё просто надумывал, и никакого скрытого смысла, глубинной подоплёки или намёков на далеко идущие выводы в этом поцелуе не было.{w} Просто жест благодарности?"
     #"Though perhaps I just imagined all that, and there was no hidden meaning, deep motives, or allusions to far-reaching conclusions in this kiss.{w} Just an expression of gratitude?"
-    "Vielleicht habe ich mir das aber auch nur eingebildet, und es gab keine versteckte Bedeutung, ein tieferes Motiv oder eine Anspielung auf weitere Schlussfolgerungen in dem Kuss.{w} Nur ein Ausdruck der Dankbarkeit?"
+    "Vielleicht habe ich mir das aber auch nur eingebildet, und es gab keine versteckte Bedeutung, ein tieferes Motiv oder eine weitere Anspielung in dem Kuss.{w} Nur einen Ausdruck ihrer Dankbarkeit?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1718
 translate german day6_us_22c8c3a5:
 
     # th "Да, Ульянка способна на неординарные поступки.{w} И простые вещи она может сделать сложными."
     #th "Uljana is definitely capable of extraordinary deeds.{w} And could easily turn simple things into complicated ones."
-    th "Uljana ist sicher zu Außergewöhnlichem fähig.{w} Und sie kann einfache Dinge verkomplizieren."
+    th "Uljana ist sicher zu Außergewöhnlichem fähig.{w} Sie kann definitiv einfache Dinge verkomplizieren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1719
 translate german day6_us_bd31a746:
 
     # "В общем, я решил отложить решение этого вопроса до личной встречи с ней."
     #"Finally I decided to put off the matter till the time I could meet her face-to-face."
-    "Schließlich beschloss ich, die Sache erst mal auf zu schieben, bis sich die Zeit findet, mit ihr zu reden."
+    "Schließlich beschloss ich, die Sache erst mal auf sich beruhen zu lassen, bis sich die Zeit findet, mit ihr unter vier Augen zu sprechen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1720
 translate german day6_us_b202d75c:
@@ -7270,7 +7270,7 @@ translate german day6_us_aca3d21b:
 
     # "Я взял пакетик с умывальнми принадлежностями и пошёл совершать утренний туалет."
     #"I took my bag of washing accessories and went to do my water procedures."
-    "Ich packte meinen Beutel mit dem Waschzubehör und machte mich auf dem Weg zu den Waschstellen."
+    "Ich nahm meinen Kulturbeutel und machte mich auf dem Weg zu den Waschstellen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1729
 translate german day6_us_3701bba9:
@@ -7284,14 +7284,14 @@ translate german day6_us_8ddbdf53:
 
     # th "Наверное, все пионеры заняты своими делами."
     #th "Probably all the pioneers are busy with their own things."
-    th "Vielleicht sind alle mit ihren Angelegenheiten beschäftigt."
+    th "Vielleicht sind alle mit ihren eigenen Angelegenheiten beschäftigt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1731
 translate german day6_us_a5a2f280:
 
     # "Возле умывальников было также пустынно."
     #"The place near the basins was deserted too."
-    "Bei den Waschstellen war es ebenfalls menschenleer."
+    "Bei den Waschbecken war es ebenfalls menschenleer."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1737
 translate german day6_us_9c48b593:
@@ -7305,7 +7305,7 @@ translate german day6_us_a5889f74:
 
     # "Ничего путного в голову не приходило, я сел в шезлонг и, возможно, смог бы так просидеть до самого обеда, если бы из транса меня не вывел знакомый голос."
     #"Nothing worthwhile having come to my head, I sat in the deck chair and possibly could have stayed there until lunch, but I was drawn from my trance by a familiar voice."
-    "Mir wollte nichts besonders in den Sinn kommen, ich setzte mich in den Liegestuhl und vielleicht konnte ich bis zum Mittag einfach hier liegen bleiben, doch dann wurde ich durch eine vertraute Stimme aus meiner Trance gerissen."
+    "Mir wollte nichts besonderes in den Sinn kommen, also setzte ich mich in den Liegestuhl und wartete. Vielleicht konnte ich bis zum Mittagessen einfach hier liegenbleiben, doch dann wurde ich durch eine vertraute Stimme aus meiner Trance gerissen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1740
 translate german day6_us_9104ac12:
@@ -7354,21 +7354,21 @@ translate german day6_us_472ae0f8:
 
     # me "Пожалуй… А ты куда идёшь?"
     #me "Perhaps... And where are you going?"
-    me "Schon möglich... Und wohin führt dich dein weg?"
+    me "Schon möglich... Und wohin führt dich dein Weg?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1749
 translate german day6_us_dd46fbd4:
 
     # "На самом деле, мне вряд и было действительно интересно, какие планы сегодня у Слави – просто хотелось поддержать разговор."
     #"Actually, I was not really interested in Slawja's agenda for today, but I wanted to keep the conversation going."
-    "Eigentlich interessierte mich Slawjas heute Tagesplanung gar nicht, aber ich wollte die Unterhaltung am Laufen halten."
+    "Eigentlich interessierte mich Slawjas Tagesplanung gar nicht, aber ich wollte die Unterhaltung am Laufen halten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1750
 translate german day6_us_619b2083:
 
     # sl "Да дела кое-какие."
     #sl "Well, I've got some things to do."
-    sl "Also, ich habe heute noch ein paar Dinge zu erledigen."
+    sl "Nun, ich habe noch ein paar Dinge zu erledigen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1751
 translate german day6_us_f2e007f0:
@@ -7382,7 +7382,7 @@ translate german day6_us_54d766e4:
 
     # "Наступило молчание.{w} Она уже собиралась уходить, как вдруг я сказал:"
     #"Silence followed.{w} She was about to leave when suddenly I said:"
-    "Es folgte Schweigen.{w} Sie war gerade dabei, weiter zu gehen, als ich plötzlich sagte:"
+    "Es folgte Schweigen.{w} Sie war gerade dabei, weiterzugehen, als ich plötzlich sagte:"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1753
 translate german day6_us_bdfd5ce1:
@@ -7410,7 +7410,7 @@ translate german day6_us_d1c22b75:
 
     # sl "Тебя что-то беспокоит?"
     #sl "Something's worrying you, isn't it?"
-    sl "Irgendwas macht dir Sorgen, nicht war?"
+    sl "Irgendwas macht dir Sorgen, nicht wahr?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1759
 translate german day6_us_78b966f1:
@@ -7431,7 +7431,7 @@ translate german day6_us_ca162b6d:
 
     # "Она тихо рассмеялась."
     #"She laughed softly."
-    "Sie lachte ein wenig."
+    "Sie lachte sanft."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1763
 translate german day6_us_a6ff12a6:
@@ -7445,14 +7445,14 @@ translate german day6_us_f22c4266:
 
     # "Хотя, наверное, Славя была права – что-то меня действительно беспокоило.{w} Очевидно, случай вчера ночью."
     #"Although probably Slawja was right – something really {i}was{/i} worrying me.{w} Obviously, I worried about last night's events."
-    "Wobei Slawja recht hatte - irgendetwas {i}hatte{/i} mich wirklich besorgt.{w} Offensichtlich machte ich mir Sorgen um das, was letzte Nacht passierte."
+    "Wobei Slawja recht hatte - irgendetwas {i}hatte{/i} mich wirklich besorgt.{w} Offensichtlich machte ich mir Sorgen um das, was letzte Nacht passiert war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1765
 translate german day6_us_60656899:
 
     # me "Слушай, а у тебя есть младшие братья, сёстры?"
     #me "Listen, do you have any little brothers or sisters?"
-    me "Sag mal hast du vielleicht einen kleinen Bruder oder eine Schwester?"
+    me "Sag mal, hast du eigentlich kleine Brüder oder Schwestern?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1767
 translate german day6_us_bb4d3f88:
@@ -7473,7 +7473,7 @@ translate german day6_us_85a61fa8:
 
     # sl "Нормальные."
     #sl "Pretty well."
-    sl "Sehr gut!"
+    sl "Ziemlich gut."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1771
 translate german day6_us_6d77584d:
@@ -7487,7 +7487,7 @@ translate german day6_us_9aed200b:
 
     # sl "А у тебя?"
     #sl "And you?"
-    sl "und du?"
+    sl "Und du?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1773
 translate german day6_us_5cb822ee:
@@ -7578,7 +7578,7 @@ translate german day6_us_257da516:
 
     # sl "Но разве тебе не было столько же лет, сколько им сейчас?"
     #sl "Weren’t you as old as them some time ago?"
-    sl "Warst du in dem Alter nicht genau so?"
+    sl "Warst du in dem Alter nicht genauso?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1789
 translate german day6_us_efd76d15:
@@ -7592,21 +7592,21 @@ translate german day6_us_80ee985d:
 
     # me "Было, конечно…"
     #me "Of course I was..."
-    me "Natürlich war ich..."
+    me "Natürlich war ich das..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1791
 translate german day6_us_de2e65e6:
 
     # "Тогда мне казалось, что было это очень давно.{w} А при взгляде на Ульянку это «давно» становилось целой пропастью лет."
     #"At that moment it seemed to me that it had been a very long time ago.{w} And when I looked at Uljana that time turned into a gulf of years."
-    "In diesem Moment schien es mir, als sei eine sehr lange Zeit vergangen.{w} Und wenn ich Uljana ansah, dann war diese Zeit wie eine tiefe Kluft aus Jahren."
+    "In diesem Moment schien es mir, als sei eine sehr lange Zeit seitdem vergangen.{w} Und wenn ich Uljana ansah, dann war diese Zeit wie eine tiefe Kluft aus Jahren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1793
 translate german day6_us_b77a46d6:
 
     # sl "Ну вот! Вспомни себя в то время."
     #sl "Well! Think of yourself at that time."
-    sl "Also! Denke darüber nach, wie du zu der Zeit warst."
+    sl "Also! Denk darüber nach, wie du zu der Zeit warst."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1794
 translate german day6_us_774a19b3:
@@ -7627,7 +7627,7 @@ translate german day6_us_457d02d4:
 
     # sl "Что ж, хорошо, если так!"
     #sl "If so, good for you!"
-    sl "Nun, dann war's shön!"
+    sl "Na, dann war's doch gut!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1798
 translate german day6_us_c63c3cdc:
@@ -7655,7 +7655,7 @@ translate german day6_us_79e03e6b:
 
     # me "Ну не знаю…{w} Лет четырнадцать, может…"
     #me "Well, let's say...{w} The age of fourteen for instance..."
-    me "Nun, sagen wir...{w} So im Alter von zum Beispiel vierzehn..."
+    me "Nun, sagen wir...{w} So im Alter von Vierzehn Jahren..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1804
 translate german day6_us_a25fc2aa:
@@ -7676,14 +7676,14 @@ translate german day6_us_0536f6a9:
 
     # me "Ладно, это всё замечательно, но всё равно ничего не понятно…"
     #me "Okay, that's nice, but it still doesn't make anything clear..."
-    me "Ok, das ist schön, aber es ergibt trotzdem keinen Sinn..."
+    me "Ok, das ist schön, aber es ergibt immernoch keinen Sinn..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1807
 translate german day6_us_d97a7610:
 
     # sl "Может, так и должно быть?"
     #sl "Maybe that’s the way it should be?"
-    sl "Vielleicht muss das so sein?"
+    sl "Vielleicht soll das so sein?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1808
 translate german day6_us_963937db:
@@ -7710,14 +7710,14 @@ translate german day6_us_c8a36022:
 
     # "Разбудила меня музыка, призывающая пионеров на обед."
     #"The sound of the bell calling the pioneers for lunch woke me up."
-    "Der Klang der Lautsprecher, die die Pioniere zum Mittagessenrufen, weckte mich auf."  # Laut duden ist 'Mittagessenrufen' richtig geschrieben (?)
-
+    "Der Klang der Melodie, die die Pioniere zum Mittagessen ruft, weckte mich auf."    # Laut duden ist 'Mittagessenrufen' richtig geschrieben (?)
+                                                                                        # Hausorthographie setzt sich darüber hinweg :D
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1828
 translate german day6_us_33663426:
 
     # "Хоть она была тихой и доносилась издалека, мой организм сработал как часы, и в назначенное время я уже стоял возле дверей столовой…"
     #"Although the sound was quiet and was coming from far away, my body worked like a clockwork automaton, and in due time I was standing near the door of the canteen."
-    "Obwohl das Geräusch nur leise und aus der Ferne zu hören war, funktionierte mein Körper automatisch wie ein Uhrwerk, und ich stand rechtzeitig vor der Türe der Kantine."
+    "Obwohl das Geräusch nur leise und aus der Ferne zu hören war, funktionierte mein Körper automatisch wie ein Uhrwerk, und ich stand rechtzeitig vor der Tür der Kantine."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1830
 translate german day6_us_c789b795:
@@ -7759,7 +7759,7 @@ translate german day6_us_33ab27ac:
 
     # "Я не стал её останавливать.{w} В конце концов, сказать было нечего."
     #"I didn't stop her.{w} After all, I had nothing to say to her."
-    "Ich hielt sie nicht auf.{w} Vor allem weil ich ihr nichts zu sagen hatte."
+    "Ich hielt sie nicht auf.{w} Vor allem, weil ich ihr nichts zu sagen hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1846
 translate german day6_us_ec659793:
@@ -7773,7 +7773,7 @@ translate german day6_us_04f58a0e:
 
     # dv "Садись-ка сюда!"
     #dv "Sit down right here!"
-    dv "Setz dich hier hin!"
+    dv "Setz dich hierhin!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1849
 translate german day6_us_f294c7bb:
@@ -7801,7 +7801,7 @@ translate german day6_us_cb7dcf26:
 
     # "Сказала она уже более мягким тоном."
     #"She said with a slightly softer tone."
-    "Sagte sie mit einen ruhigeren Tonfall."
+    "Sagte sie in einem ruhigeren Tonfall."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1853
 translate german day6_us_505d91ae:
@@ -7829,14 +7829,14 @@ translate german day6_us_c1a63ca7:
 
     # dv "Ты же вчера был там…{w} Когда она устроила это глупое представление с простынёй?"
     #dv "You were there yesterday...{w} When she played that dumb prank with a bedsheet?"
-    dv "Du warst gestern dabei...{w} Als sie sich diesen dummen Scherz mit dem Betuch erlaubt hat?"
+    dv "Du warst gestern dabei...{w} Als sie sich diesen dummen Scherz mit dem Betttuch erlaubt hat?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1857
 translate german day6_us_ae83cf7a:
 
     # th "Алисе, наверное, врать не стоит."
     #th "It was pointless to lie to Alisa."
-    th "Es macht gar keinen Sinn zu lügen."
+    th "Es macht gar keinen Sinn, zu lügen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1858
 translate german day6_us_627457bb:
@@ -7857,7 +7857,7 @@ translate german day6_us_56d4e39c:
 
     # "Она громко рассмеялась."
     #"She laughed out loud."
-    "Sie fing an, laut zu lachen."
+    "Sie fing an, laut loszulachen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1862
 translate german day6_us_bf0fda5f:
@@ -7885,7 +7885,7 @@ translate german day6_us_6153932c:
 
     # dv "Нет уж, раз у тебя спрашиваю, то и отвечай!"
     #dv "No, I'm asking you now, so you have to talk!"
-    dv "Nein, ich frage dich also red' schon!"
+    dv "Nein, ich frage dich, also red' schon!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1868
 translate german day6_us_fccc1215:
@@ -7920,7 +7920,7 @@ translate german day6_us_2552c9ac:
 
     # me "Думаю, ты знаешь…"
     #me "I think you know..."
-    me "Ich denke, dass weißt du..."
+    me "Ich denke, das weißt du..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1874
 translate german day6_us_84ea8c71:
@@ -7934,7 +7934,7 @@ translate german day6_us_a306c7bc:
 
     # dv "Ну, она просто не поняла, кто это был."
     #dv "Well, she just did not realise who it was."
-    dv "Also ich glaube, sie hat überhaupt nicht mit bekommen, wer es war."
+    dv "Also, ich glaube, sie hat überhaupt nicht mitbekommen, wer es war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1876
 translate german day6_us_65256f6f:
@@ -7948,7 +7948,7 @@ translate german day6_us_251f6e0f:
 
     # dv "И потом…{w} Это ты её принёс вечером?"
     #dv "And then...{w} It was you who brought her back last night?"
-    dv "Und dann...{w} warst du es, der sie gestern Nacht zurück gebracht hat?"
+    dv "Und dann...{w} Warst du es, der sie gestern Nacht zurückgebracht hat?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1878
 translate german day6_us_311e429f:
@@ -7962,7 +7962,7 @@ translate german day6_us_12b4f273:
 
     # "Издевательски сказал я."
     #"I said mockingly."
-    "Antwortete ich stichelnd."
+    "Stichelte ich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1880
 translate german day6_us_1e5bc39c:
@@ -7983,14 +7983,14 @@ translate german day6_us_2e06d203:
 
     # "Алиса уставилась в тарелку  принялась сосредоточенно есть."
     #"Alisa stared at her plate and started to eat with concentration."
-    "Alisa schaute auf ihr Tablet und begann dann zu essen."
+    "Alisa schaute auf ihr Tablett und begann, zu essen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1883
 translate german day6_us_6cc1bbe6:
 
     # dv "И потом…{w} Она ночью куда-то бегала и вернулась вся такая счастливая…"
     #dv "Also...{w} She ran off to somewhere during the night and came back in that happy mood..."
-    dv "Und dann...{w} rannte sie raus, irgendwohin in die Nacht und kam sehr glücklich zurück..."
+    dv "Und dann...{w} Rannte sie raus, irgendwohin in die Nacht und kam sehr glücklich zurück..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1884
 translate german day6_us_f95c9fc9:
@@ -8025,14 +8025,14 @@ translate german day6_us_304d61e3:
 
     # dv "Есть мне разница."
     #dv "Well, I do care."
-    dv "Nun, es geht mich etwas an"
+    dv "Nun, es geht mich etwas an."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1891
 translate german day6_us_3856e844:
 
     # th "Неужели и она умеет беспокоиться о ком-то, кроме себя?"
     #th "I would have never thought that she could be concerned about someone besides herself."
-    th "Ich hätte niemals gedacht, dass sie sich um jemand anders als um sich selber kümmert."
+    th "Ich hätte niemals gedacht, dass sie sich um jemand anderes als um sich selber kümmert."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1892
 translate german day6_us_df1ea57f:
@@ -8053,14 +8053,14 @@ translate german day6_us_6d91ce66:
 
     # "Коротко ответила Алиса, не поднимая на меня глаз."
     #"Alisa replied shortly without looking at me."
-    "Erwiderte Alisa knapp, ohne mich an zu sehen."
+    "Erwiderte Alisa knapp, ohne mich anzusehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1895
 translate german day6_us_9e028cbf:
 
     # "Похоже, зря я сам заговорил на эту тему."
     #"Probably it was a bad idea to bring up this subject."
-    "Es war wohl keine gute Idee, dieses Thema an zu schneiden."
+    "Es war wohl keine gute Idee, dieses Thema anzuschneiden."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1896
 translate german day6_us_4db446fd:
@@ -8095,35 +8095,35 @@ translate german day6_us_bb9ef712:
 
     # "Попытался отшутиться я."
     #"I tried to joke around to confuse her."
-    "Ich blödelte drum herum um sie zu verwirren."
+    "Ich blödelte herum in der Hoffnung, sie zu verwirren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1902
 translate german day6_us_93884669:
 
     # dv "Ладно… Смотри у меня! Я за тобой слежу."
     #dv "Hey... listen to me! I'm watching you."
-    dv "He... pass gut auf! Ich beobachte dich."
+    dv "Hey... pass gut auf! Ich hab dich im Auge."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1903
 translate german day6_us_465a1be8:
 
     # me "Очень страшно!"
     #me "Oh, I'm so so scared!"
-    me "Oh, ich habe ja solche Angst!"
+    me "Oh, ich hab ja solche Angst!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1904
 translate german day6_us_46433dd4:
 
     # "Грубо ответил я, взял поднос и встал из-за стола."
     #"I said roughly, took my tray and left the table."
-    "Sagte ich patzig, nahm mein Tablett und verließ den Tisch."
+    "Sagte ich trotzig, nahm mein Tablett und verließ den Tisch."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1906
 translate german day6_us_868ec380:
 
     # "Меня совершенно не пугали слова Алисы, пусть они даже и звучали как угроза."
     #"I definitely wasn't afraid of Alisa's words, even though they sounded like a threat."
-    "Was Alisa sagte, erfreute mich überhaupt nicht, auch weil es wie eine Drohung klangen."
+    "Was Alisa sagte, schüchterte mich nicht wirklich ein, obwohl es wie eine Drohung klang."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1907
 translate german day6_us_f2a61bc9:
@@ -8137,14 +8137,14 @@ translate german day6_us_3a2303e3:
 
     # "Из всех местных обитателей она была самой последней из тех, кто бы стал переживать за другого человека."
     #"Of all the local inhabitants, she was surely the last one you would expect to worry about another person."
-    "Von allen hier im Lager, war sie sicherlich die letzt, von der ich erwartet hätte, dass sie sich Sorgen um jemand anders macht."
+    "Von allen hier im Lager war sie sicherlich die Letzte, von der ich erwartet hätte, dass sie sich Sorgen um jemand anderes macht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1916
 translate german day6_us_523908a6:
 
     # "Я вышел из столовой и попал в самое пекло.{w} Солне жарило так беспощадно, что под его палящими лучами нельзя было долго находиться."
     #"I walked out of the canteen and into a real furnace.{w} The sun blazed so ruthlessly that nobody could stay under his scorching rays."
-    "Ich verließ die Kantine und lief direkt in einen Backofen.{w} Die Sonne brannte so gnadenlos, dass es niemand unter ihren Laserstrahlen aus hielt."
+    "Ich verließ die Kantine und lief direkt in einen Backofen.{w} Die Sonne brannte so gnadenlos, dass es niemand unter ihren Hitzestrahlen aushielt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1917
 translate german day6_us_5a8af8ba:
@@ -8165,7 +8165,7 @@ translate german day6_us_7ffbd155:
 
     # "Как ни странно, на пляже было немноголюдно."
     #"Oddly enough, the beach was not crowded."
-    "Seltsam genug, dass der Strand nicht völlig überfüllt war."
+    "Seltsamerweise war der Strand nicht völlig überfüllt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1927
 translate german day6_us_d78798fb:
@@ -8186,21 +8186,21 @@ translate german day6_us_aee79133:
 
     # "Никого из знакомых не было, и это показалось мне даже к лучшему, так как появилась возможность спокойно псидеть и подумать."
     #"There was no one I knew and it was better that way, as I had an opportunity to sit quietly and think."
-    "Es war niemand dabei, den ich kannte und das war auch besser so, so hatte ich die Gelegenheit in ruhe da zu sitzen und nach zu denken."
+    "Es war niemand dabei, den ich kannte und das war auch besser so; dadurch hatte ich die Gelegenheit, in Ruhe dazusitzen und nachzudenken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1930
 translate german day6_us_6339194e:
 
     # th "Прошло уже пять с половиной дней, как я тут, а что изменилось?"
     #th "Five and a half days have already passed since my arrival and what has changed?"
-    th "Fünfeinhalb Tage sind seit meiner Ankunft hier vergangen und was hat sich geändert?"
+    th "Fünfeinhalb Tage sind seit meiner Ankunft hier vergangen, und was hat sich seitdem verändert?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1931
 translate german day6_us_e1327ac0:
 
     # th "Парочка необъяснимых, но совершенно не опасных событий, а в остальном – обычный пионерлагерь."
     #th "There were a couple of unexplained but completely harmless events, but all in all, it was just a regular pioneer camp."
-    th "Es gab einige unerklärliche, aber sonst harmlose Ereignisse, aber alles in allem ist das einfache ein normales Pionier Lager."
+    th "Es gab einige unerklärliche, aber ansonsten harmlose Ereignisse, aber alles in allem ist das einfach ein normales Pionierlager."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1932
 translate german day6_us_becbdeab:
@@ -8221,7 +8221,7 @@ translate german day6_us_e2f93f20:
 
     # th "Ладно день, ладно неделя, а потом, когда смена закончится?{w} Мне ведь и возвращаться некуда."
     #th "Another day, another week, and what's going to happen after the session's over?{w} I've got nowhere to return to."
-    th "Ein weiterer Tag, eine weitere Woche und was ist, wenn das Lager zu Ende ist?{w} Ich habe nichts, wohin ich zurückkehren kann."
+    th "Ein weiterer Tag, eine weitere Woche; und was ist, wenn das Lager zu Ende ist?{w} Ich habe kein Zuhause, wohin ich zurückkehren kann."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1935
 translate german day6_us_efe9c612:
@@ -8235,14 +8235,14 @@ translate german day6_us_07aa477a:
 
     # "Пару минут поразмыслив над этим, я вернулся ко вчерашнему вечеру."
     #"After thinking all this over for a few minutes I went back to yesterday evening."
-    "Nachdem ich einige Minute darüber nachgedacht hatte, kehrte ich zum gestrigen Abend zurück."
+    "Nachdem ich einige Minuten darüber nachgedacht hatte, kehrte ich zum gestrigen Abend zurück."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1937
 translate german day6_us_b188d2fb:
 
     # "Странно, но он сейчас волновал меня куда больше, чем раньше."
     #"Strange, but I worried about it much more than before."
-    "Seltsam, aber ich machte mir viel mehr sorgen als vorher."
+    "Seltsam, aber ich machte mir jetzt viel mehr Sorgen als vorher."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1938
 translate german day6_us_5818c1ec:
@@ -8256,7 +8256,7 @@ translate german day6_us_d6d9a6e5:
 
     # "Я закрыл глаза и ненадолго задремал."
     #"I closed my eyes and dozed off for a while."
-    "Ich schloss meine Augen und döste für eine weile ein."
+    "Ich schloss meine Augen und döste für eine Weile ein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1945
 translate german day6_us_a20cefa7_1:
@@ -8269,7 +8269,7 @@ translate german day6_us_3615e0f8:
 
     # "Когда проснулся, увидел рядом Лену."
     #"When I woke up, I saw Lena by my side."
-    "Als ich auf wachte, sah ich Lena neben mir."
+    "Als ich aufwachte, sah ich Lena neben mir."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1954
 translate german day6_us_4be9f1c5:
@@ -8304,16 +8304,16 @@ translate german day6_us_ea63ce77:
 
     # me "Что-то случилось?"
     #me "Did something happen?"
-    me "Ist dir was passiert?"
+    me "Ist was passiert?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1959
 translate german day6_us_7d85bdfc:
 
     # "Не знаю почему, но я был уверен, что она хочет что-то сказать, но не решается."
     #"I don't know why but my sixth sense was telling me that she's eager to say something but doesn't dare."
-    "Ich wusste nicht genau, aber mein siebter Sinn sagte mir, dass sie mir dringend was erzählen wollte, sich aber nicht traute."
+    "Ich wusste es nicht genau, aber mein sechster Sinn sagte mir, dass sie mir dringend etwas erzählen wollte, sich aber nicht traute."
 
-# d:/renpy-6.99.12.4/scenario/day6.rpyc:1960
+# d:/renpy-6.99.12.4/scenario/day6.rpyc:1960    
 translate german day6_us_50dd705e:
 
     # un "Нет. А у тебя?"
@@ -8444,7 +8444,7 @@ translate german day6_us_2eb02c21:
 
     # me "В смысле?{w} А как тогда себя с ними вести?"
     #me "What do you mean?{w} How should I treat them then?"
-    me "Was meinst du damit?{w} Wie sollte ich mit ihnen um gehen?"
+    me "Was meinst du damit?{w} Wie sollte ich mit ihnen umgehen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1983
 translate german day6_us_c80e177b:
@@ -8465,7 +8465,7 @@ translate german day6_us_0263b300:
 
     # un "Чем больше будешь задумываться, тем больше будет сожаление в случае ошибки."
     #un "The more you think about it, the more you'll regret the mistake."
-    un "Um so mehr du darüber nach denkst, um so mehr wirst du deine Fehler bereuen."
+    un "Je mehr du darüber nachdenkst, desto mehr wirst du deine Fehler bereuen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1986
 translate german day6_us_c256f910:
@@ -8479,21 +8479,21 @@ translate german day6_us_f82ea479:
 
     # "Я был несколько удивлён столь глубокомысленным изречениям со стороны Лены."
     #"I was somewhat surprised by such profound words from Lena."
-    "Ich war erstaunt über so tiefgründige Worte von Lena zu hören."
+    "Ich war erstaunt, so tiefgründige Worte von Lena zu hören."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1988
 translate german day6_us_9437b7c4:
 
     # "Конечно, всё это она говорила как всегда, с застенчивостью и скромностью, да и в откровенность не пускалась, но всё же..."
     #"Of course, she said all that with a trace of shyness or modesty and  without inappropriate openness, but still..."
-    "Natürlich redet sie darüber ein wenig schüchtern oder Bescheiden und ohne unangebrachte Offenheit, aber trotzem..."
+    "Natürlich redet sie darüber mit bescheidener Schüchternheit und ohne unangebrachte Offenheit, aber trotzem..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1989
 translate german day6_us_5e0eb09d:
 
     # me "Делать то, что первым придёт в голову?"
     #me "You mean that I should follow the first idea I get off the top of my head?"
-    me "Du meinst ich sollte der ersten Idee folgen, die mir in den Sinn kommt?"
+    me "Du meinst, ich sollte der ersten Idee folgen, die mir in den Sinn kommt?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1990
 translate german day6_us_60bde9d8:
@@ -8505,9 +8505,9 @@ translate german day6_us_60bde9d8:
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1992
 translate german day6_us_61e40971:
 
-    # un "Первая мысль, как говорят, самая правильная."
+    # un "  ."
     #un "As the saying goes, your first thought is the right one."
-    un "Der erste Gedanke ist der richtige."
+    un "Der erste Gedanke ist der richtige, wie man so schön sagt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1993
 translate german day6_us_8500866b:
@@ -8535,7 +8535,7 @@ translate german day6_us_ccdf7460:
 
     # un "Ладно, мне пора."
     #un "Well, I've got to go."
-    un "Also, ich muss jetzt los."
+    un "Also, ich muss dann mal los."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:1998
 translate german day6_us_ce5c1ffe:
@@ -8570,55 +8570,55 @@ translate german day6_us_d79d6192:
 
     # th "Первая мысль – самая правильная, да?{w} А если бы мне в голову пришло поцеловать её в ответ?"
     #th "Your first thought is right, huh?{w} And what if my first thought was to kiss her back?"
-    th "Der erste Gedanke ist der richtige?{w} Und was, wenn mein erster Gedanke, der wäre, sie zurück zu küssen?"
+    th "Der erste Gedanke ist der richtige, hm?{w} Und was, wenn mein erster Gedanke wäre, sie zurückzuküssen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2005
 translate german day6_us_9d9f68a5:
 
     # th "Кстати, а что же мне тогда пришло в голову?"
     #th "By the way, what {i}was{/i} the first thought that came to me at that time?"
-    th "Im Übrigen, was {i}war{/i} denn der erste Gedanke, der mir zu der Zeit kam?"
+    th "Im Übrigen, was {i}war{/i} denn der erste Gedanke, der mir zu dieser Zeit kam?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2006
 translate german day6_us_e288f243:
 
     # "Я мучительно пытался вспомнить, но ничего не получалось.{w} Даже какого-то обрывка мысли не всплывало в мозгу."
     #"I tried painfully hard to remember, but nothing worked.{w} Not even scraps of thought surfaced in my brain."
-    "Ich versuchte mich mit aller Gewalt daran zu erinnern, aber es kam nichts zurück.{w} Nicht einmal Gedankensplitter."
+    "Ich versuchte, mich mit aller Kraft daran zu erinnern, aber es kam nichts zurück.{w} Nicht einmal Gedankensplitter."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2007
 translate german day6_us_7e684fb8:
 
     # "Впрочем, в той ситуации я мог действовать только согласно словам Лены, так как всё произошло слишком неожиданно."
     #"However, in that situation I could only follow Lena's advice, since it all happened so suddenly."
-    "In dieser Situation konnte ich nur Lenas Rat folgen, da ja alles so plötzlich passierte."
+    "In dieser Situation konnte ich nur Lenas Rat folgen, da ja alles so plötzlich passiert ist."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2008
 translate german day6_us_a20cefa7_2:
 
     # "..."
-    "…"
+    "..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2013
 translate german day6_us_28dd5f2a:
 
     # "Солнце медленно клонилось к закату, я встал и пошёл в сторону столовой, так как мой желудок напомнил, что даже участникам такой фантастической повести необходим регулярный приём пищи."
     #"The sun was setting slowly, so I rose and went towards the canteen, as my stomach told me that even the participants in such a fantastic story should have regular meals."
-    "Die Sonne ging langsam unter, also stand ich auf und ging Richtung Kantine, denn mein Magen erinnerte mich daran, dass auch die Teilnehmer einer solch fantastischen Geschichte regelmäßige Mahlzeiten brauchten."
+    "Die Sonne ging langsam unter, also stand ich auf und ging Richtung Kantine, denn mein Magen erinnerte mich daran, dass auch die Charaktere einer solch fantastischen Geschichte regelmäßige Mahlzeiten brauchten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2020
 translate german day6_us_793d9878:
 
     # "На площади меня кто-то окликнул."
     #"Somebody called to me at the square."
-    "Auf dem großen Platz rief mir jemand hinter her."
+    "Auf dem großen Platz rief mir jemand hinterher."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2022
 translate german day6_us_b4ae4166:
 
     # "Это был Электроник.{w} Он подбежал ко мне, отдышался и сказал:"
     #"It was Elektronik.{w} He ran up to me, caught his breath and said:"
-    "Es war Elektronik.{w} Er kam zu mir rüber gerannt, schnappte nach Luft und sagte:"
+    "Es war Elektronik.{w} Er kam zu mir rübergerannt, schnappte nach Luft und sagte:"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2023
 translate german day6_us_45391550:
@@ -8674,14 +8674,14 @@ translate german day6_us_9fd6666c:
 
     # el "Меня Ольга Дмитриевна попросила…{w} В общем, я сегодня уже туда не вернусь."
     #el "Olga Dmitrijewna asked me to...{w} Considering that I will not be returning there today."
-    el "Olga Dmitrijewna fragte mich das auch...{w} In Anbetracht dessen, dass ich heute nicht mehr dahin zurückkehren werde."
+    el "Olga Dmitrijewna bat mich um...{w} Wie auch immer, ich werde heute nicht mehr dorthin zurückkehren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2032
 translate german day6_us_64143d09:
 
     # me "Ну так отдай Шурику."
     #me "So give it to Schurik."
-    me "Dann gib ihm Schurik."
+    me "Dann gib ihn Schurik."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2033
 translate german day6_us_23cd6835:
@@ -8695,7 +8695,7 @@ translate german day6_us_483eac77:
 
     # me "Так возьми с собой."
     #me "So take it yourself."
-    me "Dann behalte ihn doch selber."
+    me "Dann behalt ihn doch selber."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2035
 translate german day6_us_74e85ae4:
@@ -8737,7 +8737,7 @@ translate german day6_us_17717ee8:
 
     # me "Слушай…"
     #me "Listen..."
-    me "Hörzu..."
+    me "Hör zu..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2042
 translate german day6_us_34709e3e:
@@ -8786,7 +8786,7 @@ translate german day6_us_cc81d257:
 
     # "Я сел в дальний угол на своё любимое место и принялся сосредоточенно крутить в руке зубочистку, не отвлекаясь ни на что."
     #"I took my favourite seat in the farthest corner and concentrated on playing with a toothpick."
-    "Ich setzte mich auf meinen Lieblingsplatz in der hintersten Ecke und begann konzentriert mit einem Zahnstocher zu spielen."
+    "Ich setzte mich auf meinen Lieblingsplatz in der hintersten Ecke und begann, konzentriert mit einem Zahnstocher zu spielen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2062
 translate german day6_us_2a72bf60:
@@ -8828,7 +8828,7 @@ translate german day6_us_acc07115:
 
     # mt "Знаешь, Семён…{w} Я всё, конечно, понимаю, но…"
     #mt "You know, Semjon...{w} Sure, I understand everything but..."
-    mt "Das weißt du, Semjon...{w} Sicher, Ich verstehe alles aber..."
+    mt "Weißt du, Semjon...{w} Sicher, ich verstehe alles, aber..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2069
 translate german day6_us_ad02f53a:
@@ -8849,21 +8849,21 @@ translate german day6_us_70193a9b:
 
     # mt "Думаешь, не знаю, что ты вчера ночью куда-то ходил?"
     #mt "Did you think I didn’t notice your absence last night?"
-    mt "Glaubst du wirklich, ich hätte gestern Abend nicht dein Verschwinden mit bekommen?"
+    mt "Glaubst du wirklich, ich hätte gestern Abend nicht dein Verschwinden mitbekommen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2072
 translate german day6_us_a96d8927:
 
     # th "«Ходил» – это громко сказано...{w} Так, вышел на минутку."
     #th "'Absence' is quite an overstatement...{w} I'd rather say I just went out for a moment."
-    th "'Verschwinden' ist einer wenig übertrieben...{w} Ich würde eher sagen, dass ich mal kurz vor der Türe war."
+    th "'Verschwinden' ist ein wenig übertrieben...{w} Ich würde eher sagen, dass ich mal kurz vor die Tür gegangen bin."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2073
 translate german day6_us_e7288eb6:
 
     # mt "Ну, так что?"
     #mt "Well, so what?"
-    mt "Ja, na und?"
+    mt "Gut, na und?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2074
 translate german day6_us_1e5bc39c_1:
@@ -8877,7 +8877,7 @@ translate german day6_us_421df7f4:
 
     # mt "Я сначала тоже думала, что ничего, но всё же решила выяснить."
     #mt "I thought that it was nothing too, but I was determined to check."
-    mt "Ich dachte auch erst, dass es nichts wäre, doch dann habe ich es nachgeprüft."
+    mt "Ich dachte auch erst, dass es nichts wäre, doch dann habe ich nachgeforscht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2076
 translate german day6_us_8782263a:
@@ -8891,7 +8891,7 @@ translate german day6_us_6100ad4b:
 
     # me "Выяснили?"
     #me "So, have you checked?"
-    me "Und was haben sie raus bekommen?"
+    me "Und was haben sie rausbekommen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2078
 translate german day6_us_27f521dd:
@@ -8905,7 +8905,7 @@ translate german day6_us_6b3e0c5d:
 
     # mt "Выяснила!{w} И знаешь что!{w} Для настоящего пионера это… это! Это просто неприемлемо! Позорно! Постыдно! Но ещё и с ней!"
     #mt "Yeah, I checked!{w} And you know what!{w} For a true pioneer it is... it is...! It's just unacceptable! It's shameful! It's disgraceful! Especially with her!"
-    mt "Ja, ich hab was rausgefunden!{w} Und weißt du, was!{w} Für einen richtigen Pionier ist das... es ist...! Das ist inakzeptabel! Es ist schändlich! Eine Schande! Besonders mit ihr!"
+    mt "Ja, ich hab was rausgefunden!{w} Und weißt du was!{w} Für einen richtigen Pionier ist das... es ist...! Es ist inakzeptabel! Es ist schändlich! Eine Schande! Besonders mit ihr!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2083
 translate german day6_us_7e6d6b00:
@@ -8933,7 +8933,7 @@ translate german day6_us_185a8790:
 
     # me "Так что случилось-то, вы мне объясните?"
     #me "So, what happened, would you care to explain?"
-    me "Worum geht es hier eigentlich, könnten sie das bitte mal erklären?"
+    me "Worum geht es hier eigentlich, könnten Sie das bitte mal erklären?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2087
 translate german day6_us_6ca85047:
@@ -8961,7 +8961,7 @@ translate german day6_us_262d7cae:
 
     # "Я начал заводиться."
     #"I started getting steamed up."
-    "Fing ich an mich aufzuregen."
+    "Fing ich an, mich aufzuregen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2091
 translate german day6_us_b3aa00a8:
@@ -8996,7 +8996,7 @@ translate german day6_us_7de2af8d:
 
     # me "Кто вам это сказал?"
     #me "Who told you that?"
-    me "Wer hat ihnen das erzählt?"
+    me "Wer hat Ihnen das erzählt?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2097
 translate german day6_us_da2aca8e:
@@ -9010,7 +9010,7 @@ translate german day6_us_231ed06e:
 
     # "Ульянка бы не стала, а если бы даже и решила в очередной раз надо мной прикольнуться, то сделала бы это гораздо раньше – за всё время, проведённое здесь, я уже неплохо её понял."
     #"Uljana would not do that. And if she had decided to once again play a trick on me, she would have done it much earlier. From the time spent here I'd begun to understand her well."
-    "Uljana würde das nicht tun. Und wenn sie sich doch entschieden hätte, mir einen Streich zu spielen, hätte sie das früher gemacht. Mit der Zeit, die ich hier verbrachte, habe ich sie gut verstehen gelernt."
+    "Uljana würde das nicht tun. Und wenn sie sich doch entschieden hätte, mir einen Streich zu spielen, hätte sie das früher gemacht. Mit der Zeit, die ich hier verbrachte, habe ich sie gut zu verstehen gelernt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2099
 translate german day6_us_83723d62:
@@ -9038,14 +9038,14 @@ translate german day6_us_e5fc00e7:
 
     # mt "Может быть, ты лучше объяснишь своё поведение?"
     #mt "Would you care to explain your behaviour then?"
-    mt "Würdest du mir bitte dann dein Verhalten erklären?"
+    mt "Würdest du mir dann bitte dein Verhalten erklären?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2105
 translate german day6_us_703eeb00:
 
     # "Ольга Дмитриевна несколько смутилась от моег напора."
     #"Olga Dmitrijewna seemed to be a little taken aback by my vehemence."
-    "Olga Dmitievna schien von meiner Gegenwehr doch ein wenig überrascht zu sein."
+    "Olga Dmitrijewna schien von meiner Gegenwehr doch ein wenig überrascht zu sein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2106
 translate german day6_us_3d718732:
@@ -9073,7 +9073,7 @@ translate german day6_us_653b8455:
 
     # "Услышал я вслед робкий лепет вожатой."
     #"I heard the camp leader's weak prattle behind me."
-    "Ich hörte schwach wie die Lagerleiterin hinter mir her plapperte."
+    "Ich hörte, wie die Lagerleiterin schwach hinter mir her plapperte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2112
 translate german day6_us_2080cf3d:
@@ -9101,7 +9101,7 @@ translate german day6_us_abec8829:
 
     # "Подумать только, я ведь даже начал считать её не таким плохим человеком!"
     #"Just thinking about it, I'd even started to consider her not such a bad person."
-    "Wenn man so darüber nach denkt, fing ich sogar an sie für eine gar nicht so schlechte Person zu halten."
+    "Wenn man so darüber nachdenkt, hatte ich sogar angefangen, sie für eine gar nicht so schlechte Person zu halten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2123
 translate german day6_us_412c8322:
@@ -9115,21 +9115,21 @@ translate german day6_us_c8aa9582:
 
     # me "Не знаешь, где Алиса?"
     #me "Do you know where Alisa is?"
-    me "Weißt du wo Alisa ist?"
+    me "Weißt du, wo Alisa ist?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2125
 translate german day6_us_b3c273bf:
 
     # sl "Знаю, а что?"
     #sl "Yes I do, what's the matter?"
-    sl "Ja, weiß ich, worum geht es denn?"
+    sl "Ja, weiß ich, worum geht's denn?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2126
 translate german day6_us_18c5db17:
 
     # me "Так скажи!"
     #me "Just tell me!"
-    me "Sags mir einfach!"
+    me "Sag's mir einfach!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2127
 translate german day6_us_5ac2d11c:
@@ -9164,7 +9164,7 @@ translate german day6_us_ba464770:
 
     # "Начал я с места в карьер."
     #"I didn't waste time on pleasantries."
-    "Ich verschwendete keine Zeit mit Freundlichkeiten."
+    "Ich verschwendete keine Zeit mit Höflichkeiten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2141
 translate german day6_us_a36d4b17:
@@ -9178,7 +9178,7 @@ translate german day6_us_01ffd8fc:
 
     # "Алиса мило улыбнулась."
     #"Alisa gave me a cute smile."
-    "Antwortete Alisa mit einrm frechen Grinsen."
+    "Antwortete Alisa mit einem frechen Grinsen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2144
 translate german day6_us_c01cc6ab:
@@ -9192,7 +9192,7 @@ translate german day6_us_90c9fd46:
 
     # mi "Ну, или можно что-нибудь из старого…"
     #mi "Or we can choose something old..."
-    mi "Oder wir suchen uns ein paar Alte..."
+    mi "Oder wir suchen uns ein paar alte..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2146
 translate german day6_us_6dae2579:
@@ -9206,7 +9206,7 @@ translate german day6_us_0259c598:
 
     # me "Ты не могла бы…"
     #me "Could you..."
-    me "Köntest du..."
+    me "Könntest du..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2149
 translate german day6_us_57d2c9aa:
@@ -9269,7 +9269,7 @@ translate german day6_us_0b01579b:
 
     # dv "Я не понимаю, о чём ты."
     #dv "I don’t understand what you mean."
-    dv "Ich verstehe nicht wovon du sprichst."
+    dv "Ich verstehe nicht, wovon du sprichst."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2162
 translate german day6_us_c11d0305:
@@ -9318,7 +9318,7 @@ translate german day6_us_27478259:
 
     # me "Эй, подожди."
     #me "Hey, not so fast!"
-    me "He, nicht so schnell!"
+    me "Hey, nicht so schnell!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2175
 translate german day6_us_97c863d3:
@@ -9332,14 +9332,14 @@ translate german day6_us_c644793a:
 
     # me "Я же тебя здесь убивать не собираюсь..."
     #me "I'm not here to kill you..."
-    me "Ich bin doch nicht hier, um dich um zu bringen..."
+    me "Ich bin nicht hier, um dich umzubringen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2178
 translate german day6_us_30c1f806:
 
     # "Мои слова прозучали как шутка, но Алиса вздрогнула."
     #"My words sounded like a joke but Alisa flinched."
-    "Meine Worte klangen wie ein Joke, doch Alisa zuckte zusammen."
+    "Meine Worte klangen wie ein Scherz, doch Alisa zuckte zusammen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2179
 translate german day6_us_ec416668:
@@ -9367,7 +9367,7 @@ translate german day6_us_c3effd86:
 
     # me "Мы с тобой об этом утром разговаривали, разве не так?"
     #me "We discussed it this morning, didn’t we?"
-    me "Wir haben heute morgen darüber gesprochen, oder?"
+    me "Wir haben heute Morgen darüber gesprochen, oder?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2183
 translate german day6_us_0d3c2df7:
@@ -9430,7 +9430,7 @@ translate german day6_us_09073ec6:
 
     # "Сурово спросил я."
     #"I asked harshly."
-    "Fragte ich forsch."
+    "Fragte ich barsch."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2193
 translate german day6_us_3a950d86:
@@ -9451,7 +9451,7 @@ translate german day6_us_b2d3e6d4:
 
     # th "Единственным верным решением будет ещё раз поговорить с Ольгой Дмитриевной."
     #th "Now the only true solution is to talk to Olga Dmitrijewna again."
-    th "Jetzt ist die einzige Möglichkeit, die Wahrheit raus zu bekommen, noch mal mit Olga Dmitrijewna zu reden."
+    th "Jetzt ist die einzige Möglichkeit, um die Wahrheit rauszubekommen, nochmal mit Olga Dmitrijewna zu reden."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2205
 translate german day6_us_7149be6f:
@@ -9493,7 +9493,7 @@ translate german day6_us_61a9bb1f:
 
     # me "С Двачевской я только что разгоаривал – это не она. Сама Ульянка не могла. Тогда кто?"
     #me "I’ve just spoken to Dwatschewskaja – it's not her. Uljana wouldn't do it herself. So who?"
-    me "Ich habe mit Dvachavskaya gesprochen - sie war es nicht. Uljana würde es von sich aus nicht tun. Also wer?"
+    me "Ich habe mit Dwatschewskaja gesprochen - sie war es nicht. Uljana würde es von sich aus nicht tun. Also wer?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2213
 translate german day6_us_373aadf9:
@@ -9542,14 +9542,14 @@ translate german day6_us_7d0924ac:
 
     # mt "Ну, да... Не из нашего лагеря, похоже."
     #mt "Well, yes... Not from our camp, it seemed."
-    mt "Also, ja... Sie schien nicht aus diesem Lager zu sein."
+    mt "Also, ja... Sie schien nicht aus unserem Lager zu sein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2221
 translate german day6_us_80770549:
 
     # me "И зачем ей вам об этом рассказывать?"
     #me "Why did she tell you about this?"
-    me "Warum sollte sie ihnen sowas erzählen?"
+    me "Warum sollte sie Ihnen sowas erzählen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2223
 translate german day6_us_336d97d4:
@@ -9584,7 +9584,7 @@ translate german day6_us_483b4ef7:
 
     # th "Хотя, может быть, она кого-то защищает?{w} Например...{w} Чёрт, не представляю!"
     #th "Although, maybe she is trying to protect somebody?{w} Let's say...{w} Damn, I cannot even imagine."
-    th "Obwohl, sie konnte vielleicht jemanden decken?{w} Zum Beispiel...{w} Verdammt, das kann ich mir nicht vorstellen."
+    th "Obwohl, sie könnte vielleicht jemanden decken?{w} Zum Beispiel...{w} Verdammt, das kann ich mir nicht vorstellen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2228
 translate german day6_us_4366e696:
@@ -9605,14 +9605,14 @@ translate german day6_us_25f025cf:
 
     # "Не было совершенно никакого желания дальше слушать глупое враньё Ольги Дмитриевны."
     #"I had absolutely no desire to continue listening to Olga Dmitrijewna's stupid lies."
-    "Ich hatte absolut kein Interesse, mir Olga Dmitrijewnas dummen Lügen an zu hören."
+    "Ich hatte absolut kein Interesse, mir Olga Dmitrijewnas dumme Lügen anzuhören."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2232
 translate german day6_us_e2e7f765:
 
     # th "А ещё вожатая называется..."
     #th "Our so-called “camp leader”..."
-    th "Unserer sogenannten 'Lagerleiterin'..."
+    th "Unsere sogenannte 'Lagerleiterin'..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2238
 translate german day6_us_b46ab80b:
@@ -9626,7 +9626,7 @@ translate german day6_us_390dbdba:
 
     # us "Чего стоим, кого ждём?"
     #us "Are you on guard duty?"
-    us "Suchst du was Besonderes?"
+    us "Suchst du was Bestimmtes?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2241
 translate german day6_us_16e9259d:
@@ -9654,35 +9654,35 @@ translate german day6_us_c6821b44:
 
     # "Похоже, установить информатора Ольги Дмитриевны всё же не удастся, да и вчерашний случай вроде бы кое-как замяли, так то я решил больше не думать об этом."
     #"Seems like there was no chance of finding out who Olga Dmitrijewna's informer was, and yesterday's incident was hushed up somehow, so I decided not to think about it."
-    "Es gab wahrscheinlich keine Chance herauszufinden, wer Olga Dmitrijewnas Spion war, und der Vorfall von gestern wurde irgendwie vertuscht. Daher dachte ich nicht weiter darüber nach."
+    "Es gab wahrscheinlich keine Chance, herauszufinden, wer Olga Dmitrijewnas Spion war, und der Vorfall von gestern wurde irgendwie vertuscht. Daher dachte ich nicht weiter darüber nach."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2248
 translate german day6_us_09d23ad2:
 
     # us "Какие планы на вечер?"
     #us "What do you have planned for the evening?"
-    us "Was hast du für heute Abend vor?"
+    us "Was hast du heute Abend vor?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2249
 translate german day6_us_5203c9d1:
 
     # me "Никаких…"
     #me "Nothing I guess..."
-    me "Ich denke nichts..."
+    me "Ich denke, nichts..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2250
 translate german day6_us_29fcfde5:
 
     # "После всех своих оголтелых попыток докопаться до правды я чувствовал какую-то необъяснимую вину перед Алисой и перед Ульяной."
     #"After all my frantic attempts to uncover the truth, I felt some inexplicable guilt before Alisa and Uljana."
-    "Nach all den vergeblichen Versuchen, die Wahrheit auf zu decken, fühlte ich eine unerklärliche Schuld gegenüber Alisa und Uljana."
+    "Nach all den vergeblichen Versuchen, die Wahrheit aufzudecken, fühlte ich eine unerklärliche Schuld gegenüber Alisa und Uljana."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2251
 translate german day6_us_8eec6359:
 
     # "Хотя, в чём именно она состояла перед последней, было совершенно непонятно."
     #"What exactly the guilt before Uljana was about was completely unclear though."
-    "Woher die Schuld gegenüber Uljana her rührte, war allerdings völlig unklar."
+    "Woher die Schuld gegenüber Uljanka rührte, war allerdings völlig unklar."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2253
 translate german day6_us_876ae211:
@@ -9710,7 +9710,7 @@ translate german day6_us_6d3b56e5:
 
     # "Её глаза заговорщически блеснули."
     #"Her eyes flashed conspiratorially."
-    "In ihren Augen blitze es verschwörerisch."
+    "Ihre Augen blitzten verschwörerisch."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2257
 translate german day6_us_f95c9fc9_1:
@@ -9724,7 +9724,7 @@ translate german day6_us_2b9ac9b1:
 
     # th "Вообще не знаю, когда в последний раз смотрел или слушал кассеты."
     #th "I couldn't even remember when the last time I had watched or heard something recorded on cassette was."
-    th "Ich konnte mich schon nicht mehr daran erinnern, wann ich das letzte Mal etwas von einer Kasettenaufnahme gesehen oder gehört habe."
+    th "Ich kann mich schon nicht mehr daran erinnern, wann ich das letzte Mal etwas auf Kassette gesehen oder gehört habe."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2260
 translate german day6_us_b54f9cfb:
@@ -9745,14 +9745,14 @@ translate german day6_us_9b9a6c28:
 
     # "Я вспомнил это слово из прошлого и решил заодно проерить, верны ли мои догадки про временной период, в котором я нахожусь."
     #"This word came to me from the past and I decided to test whether my guesses about which time period I had been placed in were right."
-    "An dieses Wort erinnerte ich mich aus meiner Vergangenheit, und gleichzeitig beschloss ich zu übersehen, dass meine Vermutungen über die Zeit, in der ich mich befinde, richtig sind."
+    "An dieses Wort erinnerte ich mich aus meiner Vergangenheit und ich entschied, meine Annahmen über das hiesige Zeitalter zu überprüfen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2263
 translate german day6_us_635b72e6:
 
     # us "Так в кружке кибернетики же!"
     #us "At the cybernetics club of course!"
-    us "Natürlich aus dem Cybernetikclub!"
+    us "Natürlich aus dem Kybernetik-Club!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2264
 translate german day6_us_4ce76f25:
@@ -9773,7 +9773,7 @@ translate german day6_us_6fdda8ad:
 
     # us "А в дальней комнате?"
     #us "What about in the back room?"
-    us "Und was ist im hinteren Raum?"
+    us "Und was ist im Hinterzimmer?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2268
 translate german day6_us_fc831b50:
@@ -9787,14 +9787,14 @@ translate german day6_us_2d3bdcfb:
 
     # me "Ну не знаю…{w} В любом случае уже поздно, наверное, всё закрыто."
     #me "Well maybe...{w} But anyway it's too late and everything is closed."
-    me "Kann schon sein...{w} Aber es ist schon spät und es ist bereits alles abgeschlossen."
+    me "Kann schon sein...{w} Aber es ist schon spät und alles ist bereits abgeschlossen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2270
 translate german day6_us_ba96048e:
 
     # "Непонятное чувство вины перед Ульяной не давало мне сразу отказаться."
     #"That strange feeling of guilt I felt in front of Uljana wasn’t giving me a chance to refuse immediately."
-    "Dieses seltsame Schuldgefühl gegenüber Uljana verhinderte, dass ich ihre Idee nicht gleich abweisen konnte."
+    "Dieses seltsame Schuldgefühl gegenüber Uljanka verhinderte, dass ich ihre Idee direkt abwies."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2272
 translate german day6_us_d82bc37c:
@@ -9850,7 +9850,7 @@ translate german day6_us_4e580acc:
 
     # me "Кстати, да! Ключ-то есть!"
     #me "Now that you mention it, yes! I've got a key!"
-    me "Jetzt, wo du davon sprichst, ja! Ich habe einen Schlüssel!"
+    me "Jetzt, wo du davon sprichst, ja! Ich hab einen Schlüssel!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2281
 translate german day6_us_001cfbf1:
@@ -9878,7 +9878,7 @@ translate german day6_us_983ee57d:
 
     # "Странно, что она совсем не удивилась, что ключ от кружка кибернетики таинственным образом оказался у меня в самое нужное время и в самом нужном месте."
     #"It's strange that she wasn't surprised that the key to the cybernetics club mysteriously happened to be in my pocket at the right place and time."
-    "Schon seltsam, dass es sie überhaupt nicht überraschte, dass der Schlüssel zum Cyberneticlub auf mysteriöse weise in meiner Tasche landete, genau zur richtigen Zeit und am richtigen Ort."
+    "Schon seltsam, dass es sie überhaupt nicht überraschte, dass der Schlüssel zum Kybernetik-Club auf mysteriöse Weise in meiner Tasche war, genau zur richtigen Zeit und am richtigen Ort."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2287
 translate german day6_us_b974419e:
@@ -9892,21 +9892,21 @@ translate german day6_us_d21cc0d2:
 
     # "Самым правильным и самым логичным было бы никуда с ней не ходить.{w} Но моё чувство вины…"
     #"The most right and logical thing would be to not go anywhere with her.{w} But my guilt got to me..."
-    "Das Richtigste und Logischste wäre, mit ihr nirgendwo hinzugehen.{w} Aber dann packte mich mein Schuldgefühl..."
+    "Das richtigste und logischste wäre gewesen, mit ihr nirgendwo hinzugehen.{w} Aber dann packte mich mein Schuldgefühl..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2289
 translate german day6_us_dddd87f0:
 
     # th "Да и ничего такого криминального в том, чтобы посмотреть с ней кино, вроде бы и нет."
     #th "Though it seems to me that there could be nothing criminal in watching a movie with her."
-    th "Ich denke nicht, dass es verboten ist, wenn ich mit ihr einen Film ansehe."
+    th "Ich denke nicht, dass es verboten ist, mit ihr einen Film anzusehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2290
 translate german day6_us_1b5d4998:
 
     # th "Но с другой стороны, даже самое безобидное занятие с Ульянкой может превратиться в цирк с медведями.{w} И это в лучшем случае."
     #th "But on the other hand, with Uljana even the most harmless things can turn into a three-ring circus.{w} At the very least."
-    th "Aber auf der anderen Seite können sich harmlose Aktionen mit Uljana schnell in eine Zirkusmanege verwandeln.{w] Im besten Fall."
+    th "Aber auf der anderen Seite können sich harmlose Aktionen mit Uljanka schnell in eine Zirkuseinlage verwandeln.{w] Im besten Fall."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2291
 translate german day6_us_f97a40c8:
@@ -9919,7 +9919,7 @@ translate german day6_us_f97a40c8:
 translate german day6_us_a20cefa7_3:
 
     # "..."
-    "…"
+    "..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2297
 translate german day6_us_1dc2a2a7:
@@ -9933,14 +9933,14 @@ translate german day6_us_bcf9c5aa:
 
     # us "Опять задумался?"
     #us "Having second thoughts?"
-    us "Hast du über was nach gedacht?"
+    us "Grübelst du schon wieder?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2300
 translate german day6_us_df7954e6:
 
     # "Посмотрев на Ульяну, я смутился."
     #"I looked at Uljana and felt a bit uncomfortable."
-    "Ich schaute Uljana an und fühlte mich nicht so wohl."
+    "Ich schaute Uljana an und fühlte mich etwas unwohl."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2301
 translate german day6_us_1c3f5164:
@@ -9954,7 +9954,7 @@ translate german day6_us_a4c1c729:
 
     # me "Слушай, ты же знаешь, что у тебя все идеи…{w} как бы это сказать…{w} не совсем безопасные."
     #me "Listen, you know, your ideas are...{w} let's say...{w} not entirely safe."
-    me "Hör mal, weißt du, deine Ideen sind...{w} sagen wir mal...{w} nicht immer ganz ungafährlich."
+    me "Hör mal, weißt du, deine Ideen sind...{w} sagen wir mal...{w} nicht immer ganz ungefährlich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2303
 translate german day6_us_e1f1e8c6:
@@ -10003,7 +10003,7 @@ translate german day6_us_359cc1c1:
 
     # th "Действительно, я забыл, что выгляжу лет на семнадцать."
     #th "Indeed, I forgot that I look seventeen at most."
-    th "Tatsächlich habe ich vergessen, dass ich wie ein siebzehnjähriger aussehe."
+    th "Tatsächlich habe ich vergessen, dass ich wie ein Siebzehnjähriger aussehe."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2312
 translate german day6_us_9a385a27:
@@ -10024,21 +10024,21 @@ translate german day6_us_0c18ac79:
 
     # "Ведь за всё время здесь я не проявлял ни особой рассудительности, ни жизненного опыта, ни холодной, взвешенной оценки ситуации."
     #"Thinking about it – the whole time I spent here I did not display any particular forethought, nor life experience, nor cold, balanced assessment of the situation."
-    "Wenn ich darüber nachdenke, während meiner gesamten Zeit hier zeigte ich keine besondere Voraussicht, keine Lebenserfahrung, keine logisch ausgewogene Einschätzung der Situation."
+    "Wenn ich so darüber nachdenke - während meiner gesamten Zeit dort zeigte ich keine besondere Voraussicht, keine Lebenserfahrung, keine logisch ausgewogene Einschätzung der Situation."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2315
 translate german day6_us_98eb7069:
 
     # "Другой вопрос – проявлял ли я их когда-нибудь в {i}той{/i} жизни?"
     #"Though the other question is – did I ever show those in {i}that{/i} life?"
-    "Wobei auch die andere Frage ist - habe ich dieses Verhalten in {i}diesem{/i} Leben gezeigt?"
+    "Wobei auch die andere Frage ist - habe ich dieses Verhalten jemals in {i}diesem{/i} Leben gezeigt?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2316
 translate german day6_us_242a5814:
 
     # th "И ведь даже если задуматься…{w} Какие-то примеры я, конечно, вспомню, но…"
     #th "And in fact, even if I think...{w} I would recall some examples of course, but..."
-    th "Und wenn ich tatsächlich darüber nach denke...{w} Ich würde mich natürlich an einige Beispiele erinnern, aber...."
+    th "Und wenn ich tatsächlich so darüber nachdenke...{w} Ein paar Beispiele würden mir natürlich einfallen, aber..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2317
 translate german day6_us_7a9e2886:
@@ -10066,7 +10066,7 @@ translate german day6_us_1998fdba:
 
     # us "Тот, кто умеет отвечать за свои поступки. Тот, кто не делает чего-то, не задумываясь о последствиях. Человек, способный взять на себя ответственность не только за себя, но и за других."
     #us "One who is responsible for his actions. One who does not do anything without thinking about the consequences. A person who is capable of taking good care not only of himself, but also of others."
-    us "Jemand der verantwortungsvoll handelt. Jemand, der nichts tut, ohne über die Konsequenzen nach zu denken. Jemand, der in der Lage ist, nicht nur für sich selber zu sorgen und all so was."
+    us "Jemand, der verantwortungsbewusst handelt. Jemand, der nichts tut, ohne über die Konsequenzen nachzudenken. Jemand, der in der Lage ist, nicht nur für sich selber zu sorgen und all sowas."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2322
 translate german day6_us_27bca7e1:
@@ -10080,7 +10080,7 @@ translate german day6_us_bb9ef712_1:
 
     # "Попытался отшутиться я."
     #"I tried to laugh it off."
-    "Ich versuchte darüber zu lachen."
+    "Ich versuchte, darüber zu lachen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2325
 translate german day6_us_c23eb093:
@@ -10108,14 +10108,14 @@ translate german day6_us_31f38e05:
 
     # "Но мне всегда казалось, что, если мне уже не семнадцать, то ничего больше и не нужно."
     #"But I always thought that not being seventeen is all that’s required."
-    "Und ich habe immer gedacht, dass es reicht, keine siebzehn mehr zu sein."
+    "Und ich habe immer gedacht, dass es reicht, keine Siebzehn mehr zu sein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2329
 translate german day6_us_35c738f1:
 
     # "Казалось, что я, в общем-то, ничем не отличаюсь от остальных людей и, если захочу, смогу быть точно таким же, как и они."
     #"It seems that, in general, there is no difference between me and other people, and if I wish I could be exactly like they are."
-    "Allgemein scheint es keinen Unterschied zwischen mir und anderen Menschen zu geben, auch wenn ich mir wünschte, so zu sein wie sie."
+    "Es scheint, dass ich mich im Grunde nicht wirklich von anderen Menschen unterscheide, und dass ich, wenn ich wollte, genauso sein könnte wie sie."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2330
 translate german day6_us_bd922584:
@@ -10129,14 +10129,14 @@ translate german day6_us_0a98cbd7:
 
     # "По факту – нет, ведь в этом лагере я старался вести себя максимально логично, правильно, рассудительно…{w} по-взрослому!"
     #"In fact – no, because in this camp I tried to behave in a most logical, sensible and proper way...{w} like an adult!"
-    "Tatsächlich nicht, denn in diesem Lager versuchte ich mich immer logisch, sensibel und richtig zu verhalten...{w} So wie ein Erwachsender."
+    "Tatsächlich nicht, denn in diesem Lager versuchte ich, mich immer logisch, sensibel und bedacht zu verhalten...{w} so wie ein Erwachsener!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2332
 translate german day6_us_53d1df42:
 
     # th "Но если даже Ульянка мне в этом отказывает…"
     #th "But if even Uljana says differently... "
-    th "Aber wenn selbst Uljana was anders sagt..."
+    th "Aber wenn selbst Uljana was anderes sagt..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2334
 translate german day6_us_bc130c9d:
@@ -10157,7 +10157,7 @@ translate german day6_us_ded0fd48:
 
     # us "Вуаля!"
     #us "Presto!"
-    us "et Voilà!"
+    us "Voilà!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2344
 translate german day6_us_5e0cd80f:
@@ -10178,7 +10178,7 @@ translate german day6_us_ad0cb0ae:
 
     # us "Ну! Хватит издеваться!"
     #us "Hey! Stop making fun of me!"
-    us "He! Hör auf dich über mich lustig zu machen!"
+    us "Hey! Hör auf, dich über mich lustig zu machen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2348
 translate german day6_us_e16a3b7b:
@@ -10192,7 +10192,7 @@ translate german day6_us_80d646aa:
 
     # me "Хорошо, и что дальше?"
     #me "Okay, what's next?"
-    me "Ok, wie gehts weiter?"
+    me "Okay, wie geht's weiter?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2351
 translate german day6_us_3671b8c0:
@@ -10213,35 +10213,35 @@ translate german day6_us_724ee48f:
 
     # "Внутри было довольно тесно; больше похоже, что это помещение использовали под кладовку."
     #"There wasn’t much space inside. Seems more like this room was used for storage."
-    "Dort war nicht viel Platz. Es war wohl eher als Lagerraum gedacht."
+    "Dort war nicht viel Platz. Er war wohl eher als Lagerraum gedacht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2362
 translate german day6_us_7c05bc4a:
 
     # "Коробки, громоздящиеся друг на друге, формировали некое подобие Альпийского хребта; различные приборы, раскиданные то тут, то там напоминали мне о хаосе мыслей, царящем в голове любого учёного; а стеллаж с книгами у дальней стены ясно давал понять, что это всё ж не просто склад никому не нужного барахла."
     #"Boxes piled on top of each other had formed some sort of Alps in miniature; various devices scattered here and there reminded me of the chaotic brainstorm raging in a head of a scientist; bookshelves on the far wall made it clear that this was not a simple storage for unused junk."
-    "Aufeinandergestapelte Kisten bildeten die Alpen in Miniaturformat ab; verschiedenste, überall verstreute Gerätschaften erinnerten mich an den chaotischen Geistesblitz im Kopf eines Wissenschaftlers; Bücherregale an der hinteren Wand zeigten, dass dies nicht einfach nur ein Ort für ungenutzten Krempel war."
+    "Aufeinandergestapelte Kisten bildeten die Alpen im Miniaturformat ab; Verschiedenste, überall verstreute Gerätschaften erinnerten mich an den chaotischen Geistesblitz im Kopf eines Wissenschaftlers; Bücherregale an der hinteren Wand zeigten, dass dies nicht einfach nur ein Ort für ungenutzten Krempel war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2363
 translate german day6_us_d39afe89:
 
     # "Справа от меня на тумбочке стоял телевизор, а рядом – видеомагнитофон."
     #"To my right there was a TV set with a video player sitting next to it."
-    "Rechts von mir Stand ein Fernseher und ein Videorekorder daneben."
+    "Rechts von mir stand ein Fernseher mit einem Videorekorder daneben."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2364
 translate german day6_us_a3c51985:
 
     # "Интересно, что они были не советскими, а самыми что ни на есть японскими.{w} По крайней мере с виду."
     #"Interestingly, they were not Soviet- I'd bet they were Japanese.{w} At least going by their appearance."
-    "Interessanterweise waren das keine sowjetischen Modelle. Ich hätte wetten können, dass es Japanisch war.{w} Zumindest dem Aussehen nach zu urteilen."
+    "Interessanterweise waren das keine sowjetischen Modelle. Ich hätte wetten können, dass sie Japanisch waren.{w} Zumindest dem Aussehen nach zu urteilen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2365
 translate german day6_us_62c4c780:
 
     # "Ну, что же, в те времена (точнее, для меня – в эти) тоже существовал импорт."
     #"Not very surprising, in those days (or more accurately for me – these days) imports already existed."
-    "Nicht sonderlich überraschend zu dieser Zeit (oder genauer gesagt für mich - zu dieser Zeit) gab es den Import bereits."
+    "Nicht sonderlich überraschend, denn zu jenen Zeiten (oder, genauer gesagt, für mich - zu dieser Zeit) gab es bereits Importware."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2367
 translate german day6_us_8bf0de68:
@@ -10255,21 +10255,21 @@ translate german day6_us_709cc631:
 
     # "Победоносно улыбнулась Ульянка."
     #"Uljana smiled triumphantly."
-    "Uljana lächelte triuphierend."
+    "Uljanka lächelte triumphierend."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2369
 translate german day6_us_ff471f9a:
 
     # me "Ну, да…"
     #me "Yeah, yeah..."
-    me "ja, ja..."
+    me "Ja, ja..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2370
 translate german day6_us_6c9f5d6f:
 
     # us "Видел когда-нибудь такое?"
     #us "Have you seen anything like that before?"
-    us "Hast du so was schon einmal gesehen?"
+    us "Hast du sowas schonmal gesehen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2371
 translate german day6_us_756a29e3:
@@ -10283,7 +10283,7 @@ translate german day6_us_46586735:
 
     # "Пожалуй, и у меня дома где-то на антресоли валяется видеомагнитофон."
     #"Perhaps I've got a VCR too. Probably it's lying somewhere on the mezzanine in my house."
-    "Vielleicht hatte ich auch noch einen Videorekorder. Der lag wahrscheinlich auf dem Dachboden meines Hauses."
+    "Vielleicht hatte ich irgendwo auch noch einen Videorekorder. Der lag wahrscheinlich auf dem Dachboden meines Hauses."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2374
 translate german day6_us_cd67e98a:
@@ -10304,7 +10304,7 @@ translate german day6_us_2c209cc5:
 
     # us "Импортный телевизор, видак! Как будо часто такое видишь!"
     #us "A Japanese TV set, a video player! You look like you often see such things!"
-    us "Ein japanischer Fernseher und Videospieler! Du schaust aus, als ob du so was schon oft gesehen hast!"
+    us "Ein japanischer Fernseher und Videospieler! Du schaust aus, als ob du sowas schon oft gesehen hast!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2378
 translate german day6_us_69f8f8a0:
@@ -10318,35 +10318,35 @@ translate german day6_us_78674bdc:
 
     # "Лениво согласился я."
     #"I agreed lazily."
-    "Gab ich zögernd zu."
+    "Gab ich gleichgültig zu."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2381
 translate german day6_us_7505e340:
 
     # us "Какой-то ты угрюмый…"
     #us "You are so gloomy..."
-    us "Du bist irgendwie launisch..."
+    us "Du bist immer so mürrisch..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2383
 translate german day6_us_469db7d9:
 
     # us "Впрочем, ладно! На!"
     #us "Nevertheless, okay! Take it!"
-    us "Wie auch immer, Ok! Nimm das!"
+    us "Wie auch immer, okay! Nimm das!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2384
 translate german day6_us_4e5aa691:
 
     # "Она протянула мне кассету.{w} Я повертел её в руках, но не увидел ни одной наклейки, ни одной надписи."
     #"She handed me a cassette.{w} I turned it over in my hands, but did not find any sticker or labels on it."
-    "Sie übergab mir eine Kassette.{w} Ich drehte sie um, aber ich fand keine Beschriftung oder einen Aufkleber darauf."
+    "Sie übergab mir eine Kassette.{w} Ich drehte sie um, aber ich fand keine Beschriftung oder Aufkleber darauf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2385
 translate german day6_us_fb03e6d3:
 
     # me "И что там?"
     #me "So what’s on it?"
-    me "Und was ist darauf?"
+    me "Und was ist drauf?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2387
 translate german day6_us_d23e2c34:
@@ -10367,14 +10367,14 @@ translate german day6_us_3bb74eea:
 
     # us "Но точно что-то интересное!"
     #us "But I'm sure it's something very interesting!"
-    us "Aber ich bin sicher, es ist was interessantes."
+    us "Aber ich bin sicher, es ist was interessantes!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2397
 translate german day6_us_4121ba2c:
 
     # "Вскоре на экране появилас заставка одной известной американской кинокомпании."
     #"Soon the logo of a well-known American film company appeared on the screen."
-    "Bald flimmerte das Logo einer allgemeinen amerikanischen Filmgesellschaft auf dem Bildschirm."
+    "Bald flimmerte das Logo einer wohlbekannten amerikanischen Filmgesellschaft auf dem Bildschirm."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2398
 translate german day6_us_7331bf96:
@@ -10388,21 +10388,21 @@ translate german day6_us_4653fbcc:
 
     # "Ульянка даже заёрзала на месте от нетерпения."
     #"Uljana even started fidgeting impatiently."
-    "Uljana fing an ungeduldig zu zappeln."
+    "Uljana fing an, ungeduldig zu zappeln."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2401
 translate german day6_us_1b32e37e:
 
     # me "Смотрю…"
     #me "I'm watching..."
-    me "Ich sehs doch..."
+    me "Ich seh's doch..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2403
 translate german day6_us_f7aa1f59:
 
     # "Через несколько минут я понял, что на кассете у неё записан один известный фильм восьмидесятых годов, где из будущего рислали робота, чтобы кого-то там убить, дабы через сколько-то там лет не родился какой-то герой…"
     #"A few minutes later, I realised that the tape contained a famous film from the eighties. It was about a robot from the future, sent to kill someone in the past, so in the years in between a hero wouldn’t be born... "
-    "Wenige Minuten später erkannte ich, dass dies ein hervorragender Film der Achtziger war. Es ging um einen Roboter aus der Zukunft, der geschickt wurde, um jemanden aus seiner Vergangenheit zu töten, bevor in der Zukunft zu einem Helden wird..."
+    "Wenige Minuten später erkannte ich, dass dies einer der großen Filme aus den Achtzigern war. Es ging um einen Roboter aus der Zukunft, der in die Vergangenheit geschickt wird, um jemanden umzubringen, damit ein Held in der Zukunft nicht geboren wird..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2404
 translate german day6_us_f027422b:
@@ -10437,21 +10437,21 @@ translate german day6_us_1a66e4d6:
 
     # "Ульяна укоризненно посмотрела на меня."
     #"Uljana looked at me reproachfully."
-    "Uljana schaut mich vorwurfsvoll an."
+    "Uljanka schaut mich vorwurfsvoll an."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2411
 translate german day6_us_3c5e2cfc:
 
     # me "Да нет, ничего."
     #me "Oh, no, nothing."
-    me "Oh, nein, nichts."
+    me "Oh nein, nichts."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2412
 translate german day6_us_b1a006e1:
 
     # us "Как будто фильм не нравится!"
     #us "Seems as if you don't like the movie!"
-    me "Ich glaube, du magst den Film nicht!"
+    us "Ich glaube, du magst den Film nicht!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2413
 translate german day6_us_731f7b7d:
@@ -10479,7 +10479,7 @@ translate german day6_us_78ab486a:
 
     # me "Ну…{w} Друг давал кассету."
     #me "Well...{w} My friend gave me a cassette."
-    me "Also...{w} Ich habe eine Kassette von einem Freund bekommen."
+    me "Nun...{w} Ich habe eine Kassette von einem Freund bekommen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2417
 translate german day6_us_6532261a:
@@ -10500,7 +10500,7 @@ translate german day6_us_a9137dac:
 
     # me "Ладно, не отвлекайся!"
     #me "Anyway, keep watching."
-    me "Ok, lass uns weiter schaun!"
+    me "Okay, lass uns weiter schaun!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2420
 translate german day6_us_e868da76:
@@ -10514,14 +10514,14 @@ translate german day6_us_993a1e1e:
 
     # "Когда фильм дошёл примерно до середины, я услышал, что кто-то пытается открыть входную дверь."
     #"When the film was about half way through, I heard someone trying to open the front door."
-    "Als der Film zur Hälfte rum war, hörte ich irgendwen vorne zur Türe rein kommen."
+    "Als der Film zur Hälfte rum war, hörte ich irgendwen vorne zur Tür herein kommen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2431
 translate german day6_us_a2f7bc76:
 
     # "Говорят, что когда у человека слабеет одно из чувств, остальные усиливаются.{w} Я был прилично подслеповат, зато слышал отменно."
     #"It is said that when a person has one of their senses weakened, the others are amplified.{w} I was quite blind, but could hear perfectly."
-    "Es heißt, dass wenn bei einem Menschen ein Sinn geschwächt ist, die anderen dafür umso stärker werden.{w} Ich bin fast blind, aber dafür kann ich umso besser hören."
+    "Es heißt, dass, wenn bei einem Menschen ein Sinn geschwächt ist, die anderen dafür umso stärker werden.{w} Ich bin fast blind, aber dafür kann ich umso besser hören."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2432
 translate german day6_us_0eebb0ce:
@@ -10549,7 +10549,7 @@ translate german day6_us_c18f0f1a:
 
     # me "Свет гаси!"
     #me "Turn off the lights!"
-    me "Schalte das Licht aus!"
+    me "Schalt das Licht aus!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2441
 translate german day6_us_39642f61:
@@ -10563,14 +10563,14 @@ translate german day6_us_955fefc7:
 
     # "В другой комнате послышались шаги, а под дверью замелькал луч фонаря."
     #"I heard footsteps in the other room and saw a flashlight flickering under the door."
-    "Ich hörte Schritte im Nebenraum und sah Taschenlampenlicht unter der Türe durch scheinen."
+    "Ich hörte Schritte im Nebenraum und sah Taschenlampenlicht unter der Tür hindurchscheinen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2445
 translate german day6_us_bf71caa2:
 
     # th "Интересно, кому понадобилось ночью прокрадываться в кружок кибернетики?"
     #th "I wonder who decided to sneak into the cybernetics club at night?"
-    th "Ich frage mich, wer in der Nacht im Cyberneticclub rum schleicht?"
+    th "Ich frage mich, wer in der Nacht im Kybernetik-Club rumschleicht?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2446
 translate german day6_us_de372b78:
@@ -10591,7 +10591,7 @@ translate german day6_us_9b04210e:
 
     # "Вскоре входная дверь захлопнулась, и я с облегчением вздохнул."
     #"Soon the front door slammed shut, and I sighed with relief."
-    "Schon bald schlug die Eingangstüre zu und ich atemte erleichtert auf."
+    "Schon bald schlug die Eingangstür wieder zu und ich atmete erleichtert auf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2454
 translate german day6_us_505772f4:
@@ -10619,7 +10619,7 @@ translate german day6_us_bd77af7a:
 
     # me "Ну а зачем она сюда ночью приходила?{w} Наверняка нас искала!"
     #me "Why else would she come here at night?{w} She's definitely searching for us!"
-    me "Warum sonst kommt sie in der Nacht hier her?{w} Sie sucht sicher nach uns!"
+    me "Warum sonst kommt sie in der Nacht hierher?{w} Sie sucht sicher nach uns!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2459
 translate german day6_us_2405d879:
@@ -10654,7 +10654,7 @@ translate german day6_us_10573fa6:
 
     # us "Так веселее же!"
     #us "It’s more fun this way!"
-    us "So macht es mehr Spaß!"
+    us "So macht's mehr Spaß!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2466
 translate german day6_us_08fab8ce:
@@ -10689,7 +10689,7 @@ translate german day6_us_43d44c0e:
 
     # us "Ты брюзжишь как старый дед!"
     #us "You grumble like a granny!"
-    us "Du motzt wie ein alter Opa!"
+    us "Du pöbelst wie ein alter Opa!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2473
 translate german day6_us_3db311fc:
@@ -10703,7 +10703,7 @@ translate german day6_us_23e36b36:
 
     # me "А кто недавно говорил, что меня нельзя назвать взрослым?"
     #me "And who said recently that I could not be called an adult?"
-    me "Und wer meinte noch vor kurzen, dass ich kein Erwachsener bin?"
+    me "Und wer meinte noch vor kurzem, dass ich kein Erwachsener bin?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2476
 translate german day6_us_cff7648a:
@@ -10724,42 +10724,42 @@ translate german day6_us_e7c03f19:
 
     # th "В конце концов, мы уже на счётчике у Ольги Дмитриевны, и часом позже, часом раньше – особого значения не имеет."
     #th "In the end, we are already on Olga Dmitrijewna's list, and an hour later, an hour earlier – does it really matter?"
-    th "Letztlich sind wihr eh schon auf Olga Dmitrijewnas überwachungsliste, eine Stunde früher oder später macht da auch nichts mehr aus."
+    th "Letztlich sind wir eh schon auf Olga Dmitrijewnas Liste, eine Stunde früher oder später macht da auch nichts mehr aus."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2489
 translate german day6_us_e487a8f7:
 
     # "На каждом напряжённом эпизоде Ульянка вскакивала, визжала и хатала меня за руку."
     #"At each scary scene Uljana jumped, screamed and grabbed me by the hand."
-    "Bei jeder unheimlichen Szene sprang Uljana auf, schrie und griff nach meiner Hand."
+    "Bei jeder unheimlichen Szene sprang Uljanka auf, schrie und griff nach meiner Hand."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2490
 translate german day6_us_0958d1fb:
 
     # "Я же не был настолько увлечён фильмом, но всё же делал вид, что мне тоже интересно."
     #"I was not so keen on the film, but still pretended that I was also interested."
-    "Mich riss der Film nicht so mit, tat aber dennoch, als würde ich mit gehen."
+    "Mich riss der Film nicht sonderlich mit, ich tat aber dennoch so, als würde ich mitfiebern."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2491
 translate german day6_us_12d2bbe0:
 
     # "Кроме злого робота, из будущего прислали также и доброго человека, чтобы помешать ему."
     #"Apart from the evil robot, there was a good man sent from the future to prevent his evil deeds."
-    "Neben dem bösen Roboter wurde auch noch ein guter Mann aus der Zukunft geschickt, um die Taten des Roboters zu verhindern."
+    "Neben dem bösen Roboter wurde auch noch ein guter Mann aus der Zukunft geschickt, um die Pläne des Roboters zu durchkreuzen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2492
 translate german day6_us_9a8a93f1:
 
     # th "Может быть, я как раз здесь не с целью стать беспощадной машиной-убйцей, а с целью, наоборот, что-то предотвратить, изменить?"
     #th "Maybe I'm not here with the goal of becoming a ruthless killing machine, but on the contrary, to change or prevent something?"
-    th "Vielleicht ist mein Ziel hier ja nicht zu töten, sondern im Gegenteil, etwas Schlimmes zu verhindern oder etwas zu verbessern?"
+    th "Vielleicht ist mein Ziel hier ja gar nicht, irgendwen zu töten, sondern, im Gegenteil, etwas zu verhindern oder zu verändern?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2493
 translate german day6_us_a140a31c:
 
     # th "Помешать свершиться какому-то событию, например, или удержать кого-то от неправильного поступка…"
     #th "To prevent some event, for example, or to stop someone from some wrongdoing..."
-    th "Zum Beispiel irgendein Ereignis zu verhindern oder jemanden davon ab zu halten, was Falsches zu tun..."
+    th "Zum Beispiel irgendein schlimmes Ereignis, oder jemanden davon abzuhalten, etwas Falsches zu tun..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2494
 translate german day6_us_2d270f7c:
@@ -10773,14 +10773,14 @@ translate german day6_us_dd48914d:
 
     # th "У меня в руках нет дробовика, я не закован в кожу, не разъезжаю на мотоцикле…"
     #th "I don't have a shotgun in my hands, I'm not wearing a leather jacket and I haven't got motorcycle to ride..."
-    th "Ich habe keine Pistole in der Hand, ich trage keine Lederjacke und ich fahre auch nicht auf einem Motorrad herum..."
+    th "Ich habe keine Schrotflinte in der Hand, ich trage keine Lederjacke und ich fahre auch nicht auf einem Motorrad herum..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2496
 translate german day6_us_30190641:
 
     # th "Да что там, у меня даже тёмных очков нет!"
     #th "I don't even have sunglasses!"
-    th "Und ich trage auch keine Sonnenbrille!"
+    th "Und leider habe ich auch keine Sonnenbrille!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2497
 translate german day6_us_8d2a1158:
@@ -10794,7 +10794,7 @@ translate german day6_us_e99c1fdf:
 
     # "На экране разворачивалась очередная погоня со стрельбой и уничтожением различной колёсной и пропеллерной техники."
     #"The next chase with shooting and the destruction of various types of wheeled and propellered vehicles was unfolding on a screen."
-    "Auf dem Bildschirm lief die nächste Vervolgungsjagd mit Schießereien und der Zerstörung von Straßen- und Luftfahrzeugen."
+    "Auf dem Bildschirm lief die nächste Verfolgungsjagd mit Schießereien und der Zerstörung von diversen Straßen- und Luftfahrzeugen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2499
 translate german day6_us_7d3685bb:
@@ -10829,7 +10829,7 @@ translate german day6_us_90e45f3b:
 
     # "Если учесть, что Ульянке часто удаются ё глупые затеи, то в значении слова «добро» можно серьёзно усомниться."
     #"If we consider that Uljana often succeeded in her silly ventures, the meaning of the word 'good' gets seriously twisted."
-    "Wenn man sich überlegt, wie oft Uljana mit ihren unsinnigen Aktionen durch kommt, bekommt das Wort 'gut' eine ganz andere Bedeutung."
+    "Wenn man sich überlegt, wie oft Uljanka mit ihren unsinnigen Aktionen durchkommt, kriegt das Wort 'gut' eine ganz andere Bedeutung."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2504
 translate german day6_us_3bc8c3ba:
@@ -10857,7 +10857,7 @@ translate german day6_us_8b49353c:
 
     # "На финальных сценах Ульянка бегала по комнате, стараясь получше рассмотреть всё происходившее на экране и ничего не упустить."
     #"During the final scenes Uljana ran around the room, trying to get a better view of everything happening on the screen without missing anything."
-    "Während der letzten Szenen lief Uljana im Raum herum und versuchte eine bessere Sicht auf das zu bekommen, was passierte, ohne etwas zu verpassen."
+    "Während der letzten Szenen lief Uljana im Raum herum und versuchte, eine bessere Sicht auf das zu bekommen, was passierte, ohne etwas zu verpassen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2515
 translate german day6_us_1c0e27c2:
@@ -10871,28 +10871,28 @@ translate german day6_us_80984763:
 
     # "С облегчением выдохнула она, когда пошли финальные титры."
     #"She gasped with relief when the ending credits started."
-    "Seufzte sie erleichtert, als der Nachspann begann."
+    "Seufzte sie erleichtert, als der Abspann begann."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2517
 translate german day6_us_c874b643:
 
     # me "Понравилось?"
     #me "Liked it?"
-    me "Hats dir gefallen?"
+    me "Hat's dir gefallen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2519
 translate german day6_us_ae076645:
 
     # us "Ты ещё спрашиваешь! Конечно!"
     #us "You need to ask?! Of course!"
-    us "Da fragst du noch?! Natürlich!"
+    us "Das fragst du noch?! Natürlich!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2520
 translate german day6_us_f2e007f0_1:
 
     # me "Ясно…"
     #me "That's good..."
-    me "Dann ist gut..."
+    me "Das ist gut..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2522
 translate german day6_us_8b59d260:
@@ -10927,7 +10927,7 @@ translate german day6_us_ed8eb672:
 
     # me "Ну…{w} Да, а что?"
     #me "Well...{w} Yeah, so what?"
-    me "Nun...{w} ja, na und?"
+    me "Nun...{w} Ja, na und?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2529
 translate german day6_us_565373fe:
@@ -10948,7 +10948,7 @@ translate german day6_us_46f6e5ee:
 
     # me "Пора спать идти, наверное."
     #me "It's probably time to go to sleep."
-    me "Vielleicht ist es so langsam Zeit ins Bett zu gehen."
+    me "Vielleicht ist es so langsam Zeit, ins Bett zu gehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2533
 translate german day6_us_b1586995:
@@ -10962,14 +10962,14 @@ translate german day6_us_b8e7bf20:
 
     # me "Как хочешь.{w} А я, пожалуй, пойду."
     #me "As you wish.{w} I'd better go then."
-    me "Wie du willst.{w} Ich gehe dann mal besser."
+    me "Wie du willst.{w} Ich geh dann mal besser."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2536
 translate german day6_us_ba7d98ab:
 
     # us "Эй, подожди!"
     #us "Hey, wait!"
-    us "He, warte!"
+    us "Hey, warte!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2537
 translate german day6_us_80abfaf2:
@@ -10990,7 +10990,7 @@ translate german day6_us_4cad9cd9:
 
     # me "Ну, хочешь, отнесу в домик?"
     #me "Well, if you want, should I carry you to your cabin?"
-    me "Also wenn du willst, könnte ich dich noch zu deiner Hütte begleiten?"
+    me "Also, wenn du willst, könnte ich dich noch zu deiner Hütte begleiten?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2540
 translate german day6_us_fefef18f:
@@ -11004,7 +11004,7 @@ translate german day6_us_3f9a7fc5:
 
     # "В конце концов, подобный опыт у меня уже был."
     #"In the end, I was already experienced at that."
-    "Schließlich hatte ich darin schon Erfahrung."
+    "Schließlich hatte ich darin schon Übung."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2543
 translate german day6_us_b1823081:
@@ -11018,7 +11018,7 @@ translate german day6_us_94133a62:
 
     # "Она порылась в рядом стоящей коробке и извлекла оттуда некое подобие одеяла и подушки."
     #"She rummaged in the box next to her and pulled out some sort of blankets and pillows."
-    "Sie wühlte in der Kiste und zog so was wie ein Kissen und eine Decke heraus."
+    "Sie wühlte in einer Kiste und zog sowas wie ein Kissen und eine Decke heraus."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2545
 translate german day6_us_4bff6f94:
@@ -11060,14 +11060,14 @@ translate german day6_us_fc9e5e8f:
 
     # me "Даже если и так, то тебе тоже попадёт!"
     #me "Even if that's so, then you’ll be caught too!"
-    me "Und selbst wenn dem so ist, dann werden sie dich auch erwischen!"
+    me "Selbst wenn dem so ist, dann werden sie dich auch erwischen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2553
 translate german day6_us_ff3c9f13:
 
     # us "С чего это ты взял?{w} А даже если так, то ничего страшного, мне не привыкать!"
     #us "What makes you say that?{w} And even if I do get caught, that's okay, I'm used to it!"
-    us "Wie kommst du darauf?{w} Und selbst wenn ich erwischt werde, das ist ok, ich bin das gewöhnt!"
+    us "Wie kommst du darauf?{w} Und selbst wenn ich erwischt werde, das ist okay, ich bin das gewöhnt!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2554
 translate german day6_us_7eb76897:
@@ -11081,21 +11081,21 @@ translate german day6_us_737dc545:
 
     # "К тому же по Ульяне нельзя было сказать, что она валилась с ног."
     #"As well as that, you couldn’t say that Uljana was completely exhausted."
-    "Auserdem konnte man nicht sagen, dass Uljana so erschöpft war."
+    "Außerdem konnte man nicht sagen, dass Uljana so erschöpft wirkte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2557
 translate german day6_us_4c76cf23:
 
     # us "Я устала!"
     #us "I'm so tired!"
-    us "Ich bin so Müde!"
+    us "Ich bin so müde!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2559
 translate german day6_us_3a4d70a0:
 
     # "Она закуталась в одеяло, отвернулась от меня и начала усердно изображать богатырский храп."
     #"She wrapped herself in a blanket, turned away from me and began to diligently fake loud snores."
-    "Sie wickelte sich in die Decke, drehte sich von mir weg und tat so, als würde sie schnarchen."
+    "Sie wickelte sich in die Decke, drehte sich von mir weg und tat mit viel Hingabe so, als würde sie schnarchen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2560
 translate german day6_us_6cacb19d:
@@ -11144,7 +11144,7 @@ translate german day6_us_2ba6c73f:
 
     # "Я совершенно не представлял, в чём логика её поступков, какой в них смысл, мотиация."
     #"I had no idea what the logic behind her actions was. What the meaning and motivation was."
-    "Ich hatte keine Ahnung, was für eine Logik hinter ihrer Aktion stand. Was sie damit bezwecken wollte oder was sie dazu motivierte."
+    "Ich hatte keine Ahnung, welcher Logik sie folgte. Was sie damit bezwecken wollte oder was sie dazu motivierte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2568
 translate german day6_us_0ffe8ded:
@@ -11158,7 +11158,7 @@ translate german day6_us_08b7211c:
 
     # "Меня что-то останавливало – то ли чувство долга, то ли жалость, то ли терпение, которое необходимо проявлять, общаясь с детьми."
     #"Something stopped me. Maybe a sense of duty, or pity, or the patience which must be shown when communicating with children."
-    "Irgendwas in mir hielt mich davon ab. Vielleicht ein wenig Pflichtgefühl oder Mitleid oder die Geduld, die man haben muss, wenn man mit Kindern redet."
+    "Irgendwas in mir hielt mich davon ab. Vielleicht eine Art Pflichtgefühl oder Mitleid oder die Geduld, die man haben muss, wenn man mit Kindern redet."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2570
 translate german day6_us_849cfae0:
@@ -11179,7 +11179,7 @@ translate german day6_us_9a9afc69:
 
     # "Кажется, где-то я уже это видел."
     #"Seems like I’ve seen it somewhere already."
-    "Es scheint so, als habe ich das schon irgendwo gesehen."
+    "Es scheint so, als habe ich das schonmal irgendwo gesehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2574
 translate german day6_us_b01cd732:
@@ -11193,7 +11193,7 @@ translate german day6_us_4645bec9:
 
     # "Я выключил свет и примостился сбоку."
     #"I turned off the light and nestled beside her."
-    "Ich machte das Licht aus und lehnte mich an ihre Seite."
+    "Ich machte das Licht aus und legte mich an ihre Seite."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2581
 translate german day6_us_ca6c74b8:
@@ -11207,7 +11207,7 @@ translate german day6_us_2ed1402b:
 
     # th "Про отсутствие матраса я вообще молчу."
     #th "The lack of a mattress is not even worth mentioning."
-    th "Nicht zu erwähnen, die fehlende Matratze."
+    th "Ganz zu schweigen von der fehlenden Matratze."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2583
 translate german day6_us_376cd472:
@@ -11235,21 +11235,21 @@ translate german day6_us_e8799476:
 
     # "На самом деле, я был полностью уверен, что Ульянка заснёт быстро, как всегда, и я смогу её отнести в домик."
     #"In fact, I was completely convinced that Uljana will fall asleep quickly, as always, and I will carry her to her cabin."
-    "Tatsächlich war ich völlig davon überzeugt, dass Uljana, wie immer schnell einschlafen würde und ich sie zu ihrer Hütte tragen könnte."
+    "Tatsächlich war ich völlig davon überzeugt, dass Uljanka wie immer schnell einschlafen würde und ich sie zu ihrer Hütte tragen könnte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2587
 translate german day6_us_7e1e0002:
 
     # th "В принципе, хороший план, хоть мне и предстоит опять послужить вьючным животным."
     #th "Basically, it's a good plan despite the fact that I will again serve as a beast of burden."
-    th "Grundsätzlich ist das ein guter Plan, auch wenn ich am Ende wieder der Lastesel sein werde."
+    th "Grundsätzlich ist das ein guter Plan, auch wenn ich am Ende wieder der Packesel sein werde."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2588
 translate german day6_us_08c4f608:
 
     # us "Эй, поговори со мной!"
     #us "Hey, talk to me!"
-    us "He, sprich mit mir!"
+    us "Hey, sprich mit mir!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2589
 translate german day6_us_b1158062:
@@ -11298,7 +11298,7 @@ translate german day6_us_97091cb6:
 
     # th "Даже если что-то и было, рассказывать ей – не самая лучшая идея."
     #th "Even if I had something, telling her was not the best idea."
-    th "Selbst wenn, ihr das zu erzählen wäre nicht die beste Idee."
+    th "Selbst wenn - ihr das zu erzählen, wäre nicht die beste Idee."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2596
 translate german day6_us_67eea6e1:
@@ -11333,7 +11333,7 @@ translate german day6_us_e0f7ef7d:
 
     # me "Бывает, поверь."
     #me "It can, trust me."
-    me "Ich kann nicht, vertrau mir."
+    me "Doch, glaub mir."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2601
 translate german day6_us_22602e79:
@@ -11354,14 +11354,14 @@ translate german day6_us_0e03ae69:
 
     # "Она помолчала некоторое время, а потом улыбнулась и сказала:"
     #"She was silent for a while, and then smiled and said:"
-    "Eine ganze Weile sagte sie nichts, dann lächelte sie und sagte:"
+    "Sie schwieg ein ganze Weile, dann lächelte sie und sagte:"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2604
 translate german day6_us_77b3d75b:
 
     # us "Зато здесь тебе было весело!"
     #us "But here you had fun!"
-    us "Aber hier hast du deinen Spaß!"
+    us "Aber hier hattest du deinen Spaß!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2605
 translate german day6_us_c10011a5:
@@ -11389,7 +11389,7 @@ translate german day6_us_601cfdfa:
 
     # th "Для начала надо отсюда выбраться."
     #th "First I need to get out of here."
-    th "Zunächst muss ich mal hier wegkommen."
+    th "Zunächst muss ich hier wegkommen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2609
 translate german day6_us_d06923c2:
@@ -11431,7 +11431,7 @@ translate german day6_us_93a0d0b4:
 
     # "Я говорил всё это совершенно ровным тоном и, по правде говоря, не особо вдумывался в смысл её вопросов."
     #"I said it all with an absolutely even tone and, to be honest, without really thinking about the meaning of her questions."
-    "Ich antwortete in einem absolut gleichmäßigen Tonfall und um ehrlich zu sein, ohne weiter über ihre Fragen nach zu denken."
+    "Ich antwortete in einem absolut gleichmäßigen Tonfall und, um ehrlich zu sein, ohne weiter über ihre Fragen nachzudenken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2615
 translate german day6_us_e73afb35:
@@ -11445,7 +11445,7 @@ translate german day6_us_a60d2254:
 
     # "Прошептала Ульяна."
     #"Whispered Uljana."
-    "Flüsterte Uljana."
+    "Flüsterte Uljanka."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2617
 translate german day6_us_3c6c3d52:
@@ -11459,7 +11459,7 @@ translate german day6_us_9f8d7b41:
 
     # me "Удобно?"
     #me "Comfortable?"
-    me "Baquem?"
+    me "Bequem?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2619
 translate german day6_us_0162dcba:
@@ -11507,14 +11507,14 @@ translate german day6_us_47e54bbf:
 translate german day6_us_a20cefa7_4:
 
     # "..."
-    "…"
+    "..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2629
 translate german day6_us_94caab83:
 
     # "Прошло, наверное, не больше пяти минут, прежде чем я решился проверить и слегка подёргал её плечо."
     #"Probably, no more than five minutes passed before I decided to check on her and lightly tugged on her shoulder."
-    "Nach vielleicht fünf Minuten wollte ich nach ihr sehen und zog leicht an ihrer schulter."
+    "Nach vielleicht fünf Minuten wollte ich nach ihr sehen und zog leicht an ihrer Schulter."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2630
 translate german day6_us_b7ef3111_2:
@@ -11528,7 +11528,7 @@ translate german day6_us_322c760e:
 
     # "Не поднимая головы, спросила она."
     #"She asked without looking up."
-    "Fragte sie ohne hochzusehen."
+    "Fragte sie, ohne hochzusehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2632
 translate german day6_us_16a426b8:
@@ -11555,7 +11555,7 @@ translate german day6_us_a63d8c58:
 translate german day6_us_a20cefa7_5:
 
     # "..."
-    "…"
+    "..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2642
 translate german day6_us_28e2eb35:
@@ -11569,7 +11569,7 @@ translate german day6_us_d499dbc6:
 
     # "Я решил подождать ещё хотя бы десять минут, прежде чем повторить проверку."
     #"I decided to wait at least another ten minutes before the next time I checked."
-    "Ich beschloss noch weitere zehn Minuten zu warten, bevor ich das Nächste mal nach ihr sehe."
+    "Ich beschloss, noch weitere zehn Minuten zu warten, bevor ich das nächste Mal nach ihr sehe."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2644
 translate german day6_us_8efc776c:
@@ -11583,14 +11583,14 @@ translate german day6_us_7d75fee5:
 
     # "Глаза начали медленно закрываться.{w} Я отчаянно боролся со сном."
     #"My eyes began to slowly close.{w} I struggled to stay awake."
-    "Meine Augen vielen langsam zu.{w} Ich kämpfte hart, um wach zu bleiben."
+    "Meine Augen fielen langsam zu.{w} Ich kämpfte hart, um wach zu bleiben."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2646
 translate german day6_us_d580dc80:
 
     # "Вот я моргнул н мгновение, и очнулся только тогда, когда понял, что очень уж сильно приблизился к бессознательному."
     #"I blinked for a moment and woke up, only to realise that my state was close to unconsciousness."
-    "Ich blinzelte einen Moment und wachte wieder auf, nur um festzustellen, dass ich nahe der Bewusstlosigkeit war."
+    "Ich blinzelte einen Moment und wachte wieder auf, nur um festzustellen, dass ich der Bewusstlosigkeit nahe war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2647
 translate german day6_us_f9df56b2:
@@ -11611,7 +11611,7 @@ translate german day6_us_b8b42840:
 
     # "И я моментально отключился..."
     #"And immediately I drifted off..."
-    "Und im selben Augenblick driftete ich ab..."
+    "Und im selben Augenblick driftete ich davon..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2664
 translate german day6_sl_662a5ccc:
@@ -11625,14 +11625,14 @@ translate german day6_sl_84b3863a:
 
     # "Я постоянно просыпался на пару минут, а потом снова отключался."
     #"I kept waking up for a minute or two and then dropping off again."
-    "Ich wurde für ein oder zwei Minuten wach und dämmerte dann wieder weg."
+    "Ich wurde immer wieder für ein oder zwei Minuten wach und dämmerte dann wieder weg."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2666
 translate german day6_sl_8076c467:
 
     # "Толком ничего мне и не приснилось, лишь какие-то гротескные картины, которые забылись к утру."
     #"I didn't dream much. Just some grotesque images, forgotten by morning."
-    "Ich habe nichts geträumt bis auf ein Paar groteske Bilder, die ich am Morgen vergessen hatte."
+    "Ich habe nichts geträumt bis auf ein paar groteske Bilder, die ich am Morgen vergessen hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2667
 translate german day6_sl_b893b471:
@@ -11688,7 +11688,7 @@ translate german day6_sl_e9440aad:
 
     # "Я послушно встал, взял пакет с зубным порошком и щёткой и вышел на улицу."
     #"I stood up obediently, took my toiletry bag, and went outside."
-    "Gehorsam stand ich auf, nahm meinen Kulturbeutel und ging raus."
+    "Folgsam stand ich auf, nahm meinen Kulturbeutel und ging raus."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2689
 translate german day6_sl_4a70bb48:
@@ -11702,7 +11702,7 @@ translate german day6_sl_f672dc60:
 
     # th "Понятно, что меня ждёт разбор полётов.{w} Причём суровый."
     #th "A lecture was clearly coming.{w} A hard one."
-    th "Sicherlich wird es noch eine Unterhaltung geben.{w} Eine ansteängende."
+    th "Sicherlich wird es noch eine Unterhaltung geben.{w} Eine anstrengende."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2691
 translate german day6_sl_1c2ef58a:
@@ -11723,7 +11723,7 @@ translate german day6_sl_36a0fcdc:
 
     # "Пытаясь не заснуть на ходу, я кое-как дошёл до умывальников.{w} Холодная вода несколько привела меня в чувство."
     #"Trying not to fall asleep on my feet, I somehow made it to the washbasins.{w} The cold water knocked some sense into me."
-    "Ich versuchte beim Laufen nicht ein zu schlafen, und irgendwie schaffte ich es bis zu den Waschstellen.{w} Das kalte Wasser ließ meine Sinne erwachen."
+    "Ich versuchte, beim Laufen nicht einzuschlafen, und irgendwie schaffte ich es bis zu den Waschstellen.{w} Das kalte Wasser ließ meine Sinne erwachen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2699
 translate german day6_sl_ae8a5bf9:
@@ -11758,7 +11758,7 @@ translate german day6_sl_8e04721c:
 
     # th "Просто опять попал в глупую ситуацию, где все факты против меня…"
     #th "Besides once againg getting myself into a silly situation where all the odds are against me..."
-    th "Übrigens bin ich wieder einmal in einer blöden Situation, in der alles gegen mich ist..."
+    th "Abgesehen davon, dass ich wieder einmal in einer blöden Situation gelandet bin, in der alles gegen mich ist..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2704
 translate german day6_sl_3d8cc6b9:
@@ -11779,42 +11779,42 @@ translate german day6_sl_efc1096d:
 
     # "Я сел на кровать и обхватил голову руками."
     #"I sat on the bed and dropped my face into my hands."
-    "Ich setzte mich aufs Bett und stützte meinen Kopf auf die Hände."
+    "Ich setzte mich aufs Bett und stützte meinen Kopf in die Hände."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2712
 translate german day6_sl_6a13efce:
 
     # th "Надо придумать оправдание.{w} Срочно.{w} Красивое и правдоподобное."
     #th "I need to come up with an excuse. Now. A nice and believable excuse."
-    th "Ich muss mir eine Ausrede einfallen lassen.{w} Dingend.{w} Eine gute und glaubwürdige."
+    th "Ich muss mir eine Ausrede einfallen lassen.{w} Dringend.{w} Eine gute und glaubwürdige."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2713
 translate german day6_sl_114a09ac:
 
     # th "Если она не хочет верить в правду.{w} Впрочем, ничего удивительного – на её месте вряд ли бы кто поверил…"
     #th "If she won't believe the truth.{w} Well, that's not surprising – if I was her, wouldn't have believed it either..."
-    th "Wenn sie mir schon die Wahrheit nicht abkauft.{w} Nun, das ist auch nicht überraschend - ich an ihrer Stelle würde das auch nicht glauben..."
+    th "Wenn sie mir die Wahrheit schon nicht abkauft.{w} Nun, das ist auch nicht überraschend - ich an ihrer Stelle würde das auch nicht glauben..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2714
 translate german day6_sl_e967e0d0:
 
     # "В голову не приходило ничего хоть сколько-нибудь стоящего."
     #"Nothing worthwhile was coming to me."
-    "Aber mir viel nichts Vernünftiges ein."
+    "Aber mir fiel nichts Vernünftiges ein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2715
 translate german day6_sl_ae02f020:
 
     # "Я просто сидел и смотрел в окно на восходящее солнце."
     #"I was just sitting there, gazing at the sunrise."
-    "Ich saß einfach nur da und schaute wie die Sonne ihre Bahn zog."
+    "Ich saß einfach nur da und schaute zu, wie die Sonne ihre Bahn zog."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2720
 translate german day6_sl_f25133e7:
 
     # "Тихо скрипнула дверь, и вошла вожатая."
     #"The door swung silently open, and the camp leader came into the room."
-    "Die Türe ging leise auf und die Lagerleiterin trat ein."
+    "Die Tür ging leise auf und die Lagerleiterin trat ein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2722
 translate german day6_sl_3a4485f1:
@@ -11849,7 +11849,7 @@ translate german day6_sl_91b3c16d:
 
     # me "То есть вы понимаете, что это совсем не так, как выглядело?!"
     #me "So you do understand it wasn't what it looked like?"
-    me "Also verstehen sie jetzt, dass es nicht das war wnonach es aussah?"
+    me "Also verstehen Sie jetzt, dass es nicht das war, wonach es aussah?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2728
 translate german day6_sl_6889d390:
@@ -11919,21 +11919,21 @@ translate german day6_sl_b71e2412:
 
     # mt "Конечно же нет."
     #mt "Of course not."
-    mt "Sicher nicht."
+    mt "Natürlich nicht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2745
 translate german day6_sl_7318b2da:
 
     # "Вожатая удивлённо посмотрела на меня, как будто такой вопрос был чем-то абсолютно неуместным."
     #"The camp leader looked at me with such surprise, as if my question was something completely inappropriate."
-    "Die Lagerleiterin schaute mich völlig überrascht an, als hätte ich was absolut Unangemessenes gefragt."
+    "Die Lagerleiterin schaute mich völlig überrascht an, als hätte ich etwas absolut unangemessenes gefragt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2746
 translate german day6_sl_c3fad59f:
 
     # mt "Я уже предупредила медсестру, чтобы тебя не пускали."
     #mt "I've already warned the nurse not to let you in."
-    mt "Ich habe die Krankenschwester angewiesen, dich nicht rein zu lassen."
+    mt "Ich habe die Krankenschwester angewiesen, dich nicht reinzulassen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2747
 translate german day6_sl_c2e10946:
@@ -11947,14 +11947,14 @@ translate german day6_sl_a809ce74:
 
     # mt "Похоже, Славя действительно заболела."
     #mt "Well, it looks like Slawja's actually sick."
-    mt "So wie es aussieht, ist sie noch krank."
+    mt "So wie es aussieht, ist sie tatsächlich krank."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2757
 translate german day6_sl_66a3dff1:
 
     # "Я не успел спросить, насколько серьёзно, потому что мы уже вышли на площадь."
     #"I didn't manage to ask how serious it was as we reached the square already."
-    "Ich schaffte nicht mehr zu fragen, wie ernst das gemeint war, als wir den großen Platz erreichten."
+    "Ich schaffte es nicht mehr, zu fragen, wie ernst das gemeint war, als wir den großen Platz erreichten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2759
 translate german day6_sl_90404e3b:
@@ -11975,7 +11975,7 @@ translate german day6_sl_4f3f853d:
 
     # el "Что вчера было?"
     #el "So, what happened yesterday?"
-    el "Und was war gestern Abend los?"
+    el "Und, was war gestern Abend los?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2764
 translate german day6_sl_ae5c7f77:
@@ -12010,7 +12010,7 @@ translate german day6_sl_ca0c06f1:
 
     # th "Вот ещё не хватало, чтобы весь лагерь узнал."
     #th "Telling everything to the entire camp was the last thing I wanted."
-    th "Das sich die Geschichte im ganzen Lager herumspricht, ist das letzte, was ich gebrauchen kann."
+    th "Dass sich die Geschichte im ganzen Lager herumspricht, ist das letzte, was ich gebrauchen kann."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2769
 translate german day6_sl_3490597b:
@@ -12024,7 +12024,7 @@ translate german day6_sl_b37413a9:
 
     # "Хотя я уже начинал думать, что, возможно, не всё так уж и {i}неправильно{/i}."
     #"Though I've already started to think that it's not entirely {i}wrong{i}."
-    "Obwohl ich anfing darüber nach zu denken, dass es nicht völlig {i}falsch{/i} war."
+    "Obwohl ich anfing, darüber nachzudenken, dass es nicht völlig {i}falsch{/i} war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2771
 translate german day6_sl_e6dd2114:
@@ -12045,14 +12045,14 @@ translate german day6_sl_ad482dd4:
 
     # "По правде говоря, есть совсем не хотелось."
     #"Frankly speaking, I wasn't in the mood for eating at all."
-    "Genaugenommen war ich gar nicht in der Stimmung, was zu essen."
+    "Genau genommen war ich gar nicht in der Stimmung, etwas zu essen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2779
 translate german day6_sl_09b5d477:
 
     # "Постояв у дверей столовой, я развернулся и направился прочь."
     #"After hanging around near the canteen doors for a while I turned around and headed away."
-    "Nachdem ich einige Momente vor der Kantienentür herum stand, drehte ich mich um und lief davon."
+    "Nachdem ich einige Momente vor der Kantinentür herumstand, drehte ich mich um und lief davon."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2785
 translate german day6_sl_39e8f495:
@@ -12066,21 +12066,21 @@ translate german day6_sl_1a778ee7:
 
     # "Похоже, сработал автопилот."
     #"Looks like my autopilot just kicked in."
-    "Anscheinend bin ich wie im Autopilot hier her gelaufen."
+    "Anscheinend bin ich wie auf Autopilot dorthin gelaufen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2787
 translate german day6_sl_770ba296:
 
     # "Я пристально уставился на дверь, стоя в нерешительности."
     #"I stared at the door, at a total loss."
-    "Völlig ratlos schaute ich zur Türe."
+    "Völlig ratlos schaute ich zur Tür."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2788
 translate german day6_sl_703f77b3:
 
     # th "Меня же не пустят…{w} Да и что остаётся?"
     #th "They won't let me in anyway...{w} What can I do now?"
-    th "Man wird mich wohl nicht rein lassen...{w} Was kann ich also tun?"
+    th "Man wird mich wohl nicht reinlassen...{w} Was kann ich also tun?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2789
 translate german day6_sl_bf506fe5:
@@ -12094,28 +12094,28 @@ translate german day6_sl_917651b4:
 
     # th "А это ещё хуже!{w} Насмешливые взгляды со всех сторон, отчуждение…"
     #th "And that's even worse!{w} Wicked glances from everywhere, the alienation..."
-    th "Und noch viel schlimmer!{w} Die bösen Blicke von allen, die Entfremdung..."
+    th "Und noch viel schlimmer!{w} Die verächtlichen Blicke von allen, die Entfremdung..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2791
 translate german day6_sl_45615f79:
 
     # "И ведь наверняка так оно и произойдёт."
     #"That is what will happen for sure."
-    "Das würde sicherlich kommen."
+    th "Das wird sicherlich kommen."        # Gedanke passt hier wieder gut zwischen den beiden anderen Gedanken
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2792
 translate german day6_sl_6a4721bc:
 
     # th "Нет, я вряд ли в чём-то провинился, но именно в данной ячейке этого фантастического социума такой проступок точно считается если не грехом, то серьёзной девиацией."
     #th "No, I haven't done anything wrong, but in the enclosed circle of this bizarre society such behavior would be treated, if not as a sin, then as a serious deviation for sure."
-    th "Nein, ich habe nichts Falsches getan, doch im Kreise dieser bizarren Gesellschaft würde ein solches Verhallten, wenn nicht als Sünde, dann zumindest als ernsthaftes Vergehen geahndet werden."
+    th "Nein, ich habe nichts Falsches getan, doch im Kreise dieser bizarren Gesellschaft würde ein solches Verhalten, wenn nicht als Sünde, dann zumindest als ernsthaftes Vergehen gehandelt werden."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2793
 translate german day6_sl_2f9f3e25:
 
     # th "А значит, терять мне уже нечего!"
     #th "And that means that I've already got nothing to lose!"
-    th "Und das bedeutet, ich habe nichts zu verlieren!"
+    th "Und das bedeutet, dass ich nichts zu verlieren habe!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2795
 translate german day6_sl_991e1a72:
@@ -12136,14 +12136,14 @@ translate german day6_sl_01d2073c:
 
     # "Я дёрнул ручку, но дверь не открылась."
     #"I pulled the doorknob, but the door wouldn't open."
-    "Ich drehte am Türknauf, die die Türe war verschlossen."
+    "Ich drehte am Türknauf, doch die Tür war verschlossen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2799
 translate german day6_sl_13207c20:
 
     # th "Заперто?"
     #th "Hmm, it's locked?"
-    th "Hmmm, abgeschlossen?"
+    th "Hmm, abgeschlossen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2804
 translate german day6_sl_e26ebd50:
@@ -12185,7 +12185,7 @@ translate german day6_sl_1654d9af:
 
     # me "Знаю, но…{w} Если бы вы…"
     #me "Well, I do...{w} But if you'd..."
-    me "Also, ich weiß...{w} Aber könnten sie..."
+    me "Also, ich weiß...{w} Aber könnten Sie..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2812
 translate german day6_sl_e5ee009f:
@@ -12206,7 +12206,7 @@ translate german day6_sl_a786531b:
 
     # cs "Приказ вожатой есть приказ.{w} Если ты спросишь лично меня, то я ничего плохого в твоём поведении не нахожу, но вот Ольга Дмитриевна…"
     #cs "A camp leader’s order is an order after all.{w} If you ask me, personally I don't find anything immoral in your behaviour, but Olga Dmitrijewna..."
-    cs "Die Anweisung der Lagerleiterin ist ein Befehl.{w} Wenn du mich fragst, ich finde nichts Schlimmes an dem, was du gemacht hast, aber Olga Dmitrijewna..."
+    cs "Ein Befehl der Lagerleiterin ist eben ein Befehl.{w} Wenn du mich fragst, ich finde nichts Schlimmes an dem, was du gemacht hast, aber Olga Dmitrijewna..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2815
 translate german day6_sl_8b820e8f:
@@ -12227,7 +12227,7 @@ translate german day6_sl_cb795a40:
 
     # "Я злобно посмотрел на её, развернулся и демонстративно медленно зашагал прочь от медпункта."
     #"I looked at her angrily, turned around and walked away with theatrical slowness."
-    "Ich schaute sie wütend an, drehte mich weg und lieft theatralisch langsam davon."
+    "Ich schaute sie wütend an, drehte mich weg und ging theatralisch langsam davon."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2820
 translate german day6_sl_34d50336:
@@ -12241,7 +12241,7 @@ translate german day6_sl_2e89c23b:
 
     # "Просто шёл вперёд, изредка колошматя кулаками встречные деревья."
     #"I just pressed on forward, punching the trees that stood in my way."
-    "Ich ging einfach nur geradeaus und schlug die Büsche zur Seite, die mir im Weg standen."
+    "Ich ging einfach nur geradeaus und drosch auf Bäume und Sträucher ein, die mir im Weg standen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2822
 translate german day6_sl_a20cefa7:
@@ -12261,21 +12261,21 @@ translate german day6_sl_1947d5ea:
 
     # "И самое интересное ведь, что вся эта фантастика с попаданием в непонятный пионерлагерь закончилась самой банальной жизненной ситуацией.{w} Такой же глупой, как и всё моё существование."
     #"And the most interesting thing is that all my unbelievable awakening in an unknown pioneer camp has turned into the most trivial life drama.{w} A drama as stupid as my entire existence."
-    "Das interessanteste ist, dass mein unglaubliches Erwachen in diesem unbekannten Pionierlager in ein triviales Liebesdrama gewandelt hat.{w} Ein Drama, das so dumm ist wie meine gesamte Existenz."
+    "Das interessanteste ist, dass sich mein unglaubliches Erwachen in diesem unbekannten Pionierlager in ein triviales Liebesdrama gewandelt hatte.{w} Ein Drama, das so dumm war wie meine gesamte Existenz."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2828
 translate german day6_sl_82da43b7:
 
     # "Я опять что-то не так сделал, где-то не подумал, а меня неправильно поняли…"
     #"Yet again I did something wrong, I thought something wrong, and they got it all wrong..."
-    "Und wieder einmal machte ich was falsch, hatte den falschen Gedanken, und sie haben alles falsch verstanden..."
+    "Und wieder einmal machte ich was falsch, hatte den falschen Gedanken, und alles wurde falsch verstanden..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2829
 translate german day6_sl_a51631b5:
 
     # th "Что же, пусть всё теперь идёт своим чередом…"
     #th "Fine then, just let everything be…"
-    th "Na toll, dann lass doch einfach alles bleiben..."
+    th "Ach, dann können wir's auch lassen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2835
 translate german day6_sl_c0292f4c:
@@ -12289,21 +12289,21 @@ translate german day6_sl_c23a417d:
 
     # "Я вздохнул с облегчением и сел в дальний угол, чтобы, не дай бог, меня никто не увидел."
     #"I sighed in relief and took a place in the farthest corner, hoping that nobody would see me."
-    "Ich seufzte erleichtert und setzte mich auf einen Platz in der hintersten Ecke, in der Hoffnung, dass mich hier niemand finden würde."
+    "Ich seufzte erleichtert und setzte mich auf einen Platz in der hintersten Ecke in der Hoffnung, dass mich hier niemand finden würde."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2844
 translate german day6_sl_ac6511c6:
 
     # "Кое-как запихнув в себя завтрак, я уже собирался уходить, как к моему столику подлетела Мику."
     #"Somehow stuffing my breakfast in, I was about to leave already when Miku dashed up to my table."
-    "Ich stopfte das Frühstück irgendwie in mich hinein und ich war fast fertig, als Miku ihr Tablett auf dem Tisch abstellte."
+    "Ich stopfte das Frühstück irgendwie in mich hinein und war fast fertig, als Miku ihr Tablett auf dem Tisch abstellte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2846
 translate german day6_sl_337999bd:
 
     # mi "Доброе утро, Семён! А я сегодня проспала что-то… Можно я тут с тобой посижу?"
     #mi "Oh, good morning, Semjon! I kind of overslept today... Can I take a place here next to you?"
-    mi "Oh guten Morgen Semjon! Ich habe ein wenig verschlafen... Kann ich mich zu dir setzen?"
+    mi "Oh, guten Morgen Semjon! Ich habe ein wenig verschlafen... Kann ich mich zu dir setzen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2847
 translate german day6_sl_705add58:
@@ -12324,7 +12324,7 @@ translate german day6_sl_579406ce:
 
     # mi "А правда, что у вас со Славей это… того? Ну, ты понял."
     #mi "Is it true that you and Slawja are... like that? Well, you know what I'm talking about."
-    mi "Stimmt es, dass bei dir und Slaiva diese... Sache läuft? Also, du weißt schon, was ich meine."
+    mi "Stimmt es, dass bei dir und Slawja diese... Sache läuft? Also, du weißt schon, was ich meine."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2851
 translate german day6_sl_5b30cd59:
@@ -12359,7 +12359,7 @@ translate german day6_sl_f4fd2d5d:
 
     # mi "Я от Жени услышала, а она вроде бы от Сыроежкина. А ему сказала Ольга Дмитриевна. Ты не подумай… Я не хочу лезть не в своё дело, просто… Нет, если не хочешь, не отвечай! Но если это не секрет…"
     #mi "I heard it from Schenja and she probably heard it from Cheesekov. He heard it from Olga Dmitrijewna. I don't want you to misunderstand me – it's not my business but... If you don't want to, then don't answer! But if it’s not a secret..."
-    mi "Ich habe es von Schenja und sie hat es von Cheesekov. Der hat es von Olga Dmitrijewna. Nicht, dass du mich falsch verstehst - es geht mich ja nichts an, aber... Wenn du nicht drüber reden willst, musst du ja nicht antworten! Aber falls es kein Geheimnis ist..."
+    mi "Ich habe es von Schenja und sie hat es von Russulak. Der hat es von Olga Dmitrijewna. Nicht, dass du mich falsch verstehst - es geht mich ja nichts an, aber... Wenn du nicht drüber reden willst, musst du ja nicht antworten! Aber falls es kein Geheimnis ist..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2856
 translate german day6_sl_a3ccfa9b:
@@ -12380,35 +12380,35 @@ translate german day6_sl_23fd5e58:
 
     # "День сегодня был жарким.{w} Это распаляло мою злость, ведь жару я не люблю."
     #"It was a hot day.{w} This amplified my anger, since I don't like the heat."
-    "Es war ein heißer Tag.{w} Das macht mich noch wütender, da ich doch solch eine Hitze nicht mag."
+    "Es war ein heißer Tag.{w} Das machte mich noch wütender, da ich ohnehin schon ein Problem mit der Hitze hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2866
 translate german day6_sl_57084d4c:
 
     # "Впрочем, сейчас что угодно могло вывести меня из себя.{w} Однако надо было решить, как вести себя дальше."
     #"Right now though, anything could drive me out of my wits.{w} But I had to make up my mind now on how to conduct myself."
-    "Allerdings könnte mich gerade alles in den Wahnsinn treiben.{w} Aber ich muss mich entscheiden wie ich mich verhalten soll."
+    "Allerdings könnte mich gerade alles in den Wahnsinn treiben.{w} Aber ich muss mich entscheiden, wie ich mich verhalten soll."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2867
 translate german day6_sl_50ccb861:
 
     # "Меньше всего мне хотелось с кем-то сталкиваться, поэтому я направился в лес, чтобы спокойно подумать."
     #"I didn't want to run into anyone, so I went into the forest where I could think calmly."
-    "Ich wollte gerade niemandem über den Weg laufen, also ging ich in den Wald, wo ich in ruhe nachdenken konnte."
+    "Ich wollte gerade niemandem über den Weg laufen, also ging ich in den Wald, wo ich in Ruhe nachdenken konnte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2875
 translate german day6_sl_1d5b76c1:
 
     # "Остановившись на полянке, я присел на пенёк, взял палочку и начал ковырять ей землю."
     #"Having stopped in a glade, I sat on a stump, took a stick and started to pick at the ground with it."
-    "An einer Lichtung machte ich halt, setzte mich auf einen Baumstumpf, nahm einen Stock und stocherte damit auf dem Boden rum."
+    "Auf einer Lichtung machte ich Halt, setzte mich auf einen Baumstumpf, nahm einen Stock und stocherte damit im Waldboden herum."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2876
 translate german day6_sl_4104b753:
 
     # th "Если от меня ничего больше не зависит, то и остаётся только ждать."
     #th "If there is nothing that's up to me, all I can do is to simply wait."
-    th "Wenn nichts von mir abhängt, kann ich nur warten."
+    th "Wenn nichts von mir abhängt, kann ich eigentlich nur abwarten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2877
 translate german day6_sl_8763d3f6:
@@ -12422,35 +12422,35 @@ translate german day6_sl_6c70ad8a:
 
     # th "С боем прорываться в медпункт?{w} Даже если и так, то что дальше?"
     #th "Assault the infirmary?{w} Even if I succeed, what comes next?"
-    th "Die Krankenstation stürmen?{w} Selbst wenn ich das schaffe, was dann?"
+    th "Die Krankenstation stürmen?{w} Selbst, wenn ich das schaffe, was dann?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2879
 translate german day6_sl_630e01c1:
 
     # th "Попытаться вразумить Ольгу Дмитриевну?{w} Вряд ли получится…"
     #th "Try to bring Olga Dmitrijewna to her senses?{w} Hardly possible..."
-    th "Versuchen Olga Dmitrijewna Vernunft bei zu bringen?{w} Kaum möglich..."
+    th "Versuchen, Olga Dmitrijewna Vernunft beizubringen?{w} Kaum möglich..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2880
 translate german day6_sl_3b57bdd9:
 
     # "Забавно, но вся фантастика вылилась в обычную бытовую ситуацию.{w} Если бы это происходило в моём мире, то и проблем бы никаких не было."
     #"Funnily enough, this whole enigma turned into a simple everyday situation.{w} If it was happening in my world, there would be no problems at all."
-    "Lustigerweise wandelt sich dieses Rätsel in eine gewöhnliche Alltagssituation.{w} Würde das in meiner Welt passieren, dann wären das kaum nennenswerte Probleme."
+    "Lustigerweise wandelte sich dieses Rätsel zu einer gewöhnlichen Alltagssituation.{w} Wäre das in meiner Welt passiert, dann hätte es kaum nennenswerte Probleme gegeben."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2881
 translate german day6_sl_115eb200:
 
     # "В самом деле, что такого – ну, спал я с девушкой, кого это волнует?"
     #"Come on, really, what's the problem – even if I did sleep with the girl, who cares?"
-    "Jetzt mal wirklich, wo liegt das Problem - selbst wenn ich mit dem Mädchen geschlafen hätte, wen interessiert es?"
+    "Ich mein, wirklich, wo liegt das Problem - selbst, wenn ich mit dem Mädchen geschlafen hätte, wen interessierte es?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2882
 translate german day6_sl_964f46c9:
 
     # "И даже если бы мне было семнадцать лет, то ничего страшного бы не произошло, было бы немного сложнее, но всё же…"
     #"Even if I was actually seventeen, even then nothing terrible would happen anyway... It would be slightly more awkward, but still tolerable..."
-    "Selbst, wenn ich tatsächlich noch siebzehn wäre, auch dann würde nichts schlimmes passieren... Es wäre wohl ein bisschen unangenehmer, aber noch immer erträglich..."
+    "Selbst, wenn ich tatsächlich noch Siebzehn gewesen wäre, auch dann wäre nichts schlimmes passiert... Es wäre wohl alles ein bisschen unbeholfener gewesen, aber noch immer erträglich..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2883
 translate german day6_sl_f32a5b64:
@@ -12464,14 +12464,14 @@ translate german day6_sl_46c5eccc:
 
     # "Впрочем, был ли я им вообще когда-либо?{w} Всё ли от меня зависело в моей собственной жизни?"
     #"Although, was I ever?{w} Is there anything at all that was up to me in my entire life?"
-    "War ich das überhaupt jemals?{w} Gab es jemals irgendetwas in meinem Leben, das in meiner Hand lag?"
+    "Aber war ich das jemals?{w} Gab es jemals irgendetwas in meinem Leben, das in meiner Hand lag?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2885
 translate german day6_sl_a9996173:
 
     # "Вряд ли я достиг хоть одной вершины, к которой стремился."
     #"Have I ever reached any peak that I was seeking?"
-    "Habe ich jemals irgendetwas erreicht, dass ich angestrebt habe?"
+    "Habe ich jemals irgendetwas erreicht, wonach ich gestrebt habe?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2886
 translate german day6_sl_b7175618:
@@ -12485,28 +12485,28 @@ translate german day6_sl_19ac515c:
 
     # th "Может быть, с самого начала я был всего лишь зрителем?{w} Моё попадание в этот лагерь, местные обитатели, все события, которые здесь со мной произошли…"
     #th "Maybe I was just a spectator from the very beginning?{w} My mystical appearance in this camp, all the local residents, all the events that happened to me..."
-    th "Vielleicht war ich von Beginn an nur Zuschauer?{w} Meine mystische Anreise in diesem Lager, all seine Bewohner, die ganzen Ereignisse, die mir widerfahren sind..."
+    th "Vielleicht war ich von Beginn an nur Zuschauer?{w} Meine mystische Ankunft in diesem Lager, all seine Bewohner, die ganzen Dinge, die mir widerfahren sind..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2888
 translate german day6_sl_ee7dab86:
 
     # th "Всё это не более чем причудливая игра, в которой я только лишь пешка?"
     #th "All that is just a weird game and I'm only a pawn."
-    th "All das ist nur ein seltsames Spiel, in dem ich ein Bauer bin."
+    th "All das ist nur ein seltsames Spiel, in welchem ich lediglich eine weitere Figur bin."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2889
 translate german day6_sl_4f0726c7:
 
     # th "Но если так, то свою роль стоит сыграть как можно лучше!"
     #th "Well, if that is so, I will still play out my role to my best!"
-    th "Nun, wenn dem so ist, dann will ich, so gut ich kann, meine Rolle nicht weiterspielen."
+    th "Nun, wenn dem so ist, dann will ich meine Rolle so gut ich kann weiterspielen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2890
 translate german day6_sl_8af8d5f1:
 
     # "Я встал и решительно направился назад в лагерь."
     #"I got up and headed to the camp, prepared to take no prisoners."
-    "Ich stand auf und ging entschlossen zurück zum Lager."
+    "Ich stand auf und ging mit neuer Entschlossenheit zurück zum Lager."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2891
 translate german day6_sl_e773fa2d:
@@ -12527,7 +12527,7 @@ translate german day6_sl_be72f150:
 
     # "Я начал рыться по шкафам и собрал в мешок спальник, свою зимнюю оджду, фонарик и кое-какие тёплые вещи, которые смог найти."
     #"I rummaged through the cabinets and packed up a sleeping bag, my winter clothes, a flashlight and some other garments I found."
-    "Ich wütete durch die Hütte und packte einen Schlafsack, meine Winterkleidung, eine Taschenlampe und einige andere Ausrüstungsgegenstände, die ich fand zusammen."
+    "Ich durchwühlte die Schränke und packte einen Schlafsack, meine Winterkleidung, eine Taschenlampe und einige andere Ausrüstungsgegenstände, die ich fand, zusammen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2905
 translate german day6_sl_e5172865:
@@ -12583,7 +12583,7 @@ translate german day6_sl_8c0459e9:
 
     # th "В конце концов, медсестра тоже человек, и на обед она наверняка пойдёт."
     #th "The nurse is a human too in the end, so eventually she will go to lunch."
-    th "Die Krankenschwester ist auch nur ein Mensch, also wird sie auch zum Mittagessen gehen."
+    th "Die Krankenschwester ist auch nur ein Mensch, also wird auch sie dzum Mittagessen gehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2919
 translate german day6_sl_c3cfebc5:
@@ -12603,7 +12603,7 @@ translate german day6_sl_32d9f799:
 
     # "Время летело быстро.{w} В голове всё прояснилось, решение моё было твёрдым."
     #"Time flew by fast.{w} My thoughts have settled and I had a firm decision."
-    "Die Zeit verging wie im Flug.{w} Ich hatte mich wieder beruhigt und eine feste Entscheidung getroffen."
+    "Die Zeit verging wie im Flug.{w} Ich hatte mich wieder beruhigt und einen festen Entschluss getroffen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2925
 translate german day6_sl_aa94e82e:
@@ -12617,7 +12617,7 @@ translate german day6_sl_5236e874:
 
     # th "Главное, что я действую именно так, как сам считаю нужным, а там дальше – будь, что будет."
     #th "The most important thing is that I act the way I think is appropriate and whatever happens next – let it happen."
-    th "Das Wichtigste ist doch, dass ich das mache, was ich für das Richtige halte und was immer danach passiert - soll halt passieren."
+    th "Das Wichtigste ist doch, dass ich das mache, was ich für richtig halte und was immer danach passiert - soll halt passieren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2928
 translate german day6_sl_15377a38:
@@ -12638,7 +12638,7 @@ translate german day6_sl_808818b1:
 
     # "Как только она скрылась за поворотом, я в несколько прыжков подскочил к окну и яростно забарабанил по стеклу."
     #"As she went around the corner I got to the window in a few bounds and started to hectically knock on it."
-    "Als sie hinter der nächsten Ecke verschwunden war, war ich blitzschnell am Fenster und fing an, hecktisch daran zu klopfen."
+    "Kaum war sie hinter der nächsten Ecke verschwunden, stand ich blitzschnell am Fenster und fing an, hektisch daran zu klopfen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2938
 translate german day6_sl_7d8aa336:
@@ -12715,14 +12715,14 @@ translate german day6_sl_44e59b45:
 
     # "Она некоторое время внимательно смотрела на меня, потом без возражений открыла окно."
     #"She looked at me closely for a while but then opened the window without further argument."
-    "Sie schaute mich einen Moment lang genau an, aber dann öffnete sie das Fenster ohne weitere Diskussion."
+    "Sie schaute mich einen Moment lang genau an, doch dann öffnete sie das Fenster ohne weitere Diskussion."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2953
 translate german day6_sl_c0792059:
 
     # "Я помог ей спрыгнуть на землю."
     #"I helped her to jump down to the ground."
-    "Ich half ihr heraus zu klettern."
+    "Ich half ihr, herauszuklettern."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2955
 translate german day6_sl_05a7a65b:
@@ -12764,21 +12764,21 @@ translate german day6_sl_70ae8bb8:
 
     # me "А что такого? Ты считаешь, что всё это правильно?"
     #me "What's wrong? Do you think that everything was right the way it was?"
-    me "Was nicht stimmt? Denkst du, dass alles richtig war, so wie es gelaufen ist?"
+    me "Was ist los? Denkst du, dass alles richtig war, so, wie es gelaufen ist?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2969
 translate german day6_sl_149bd1f8:
 
     # sl "Нет, но так будет только хуже."
     #sl "No, I don't, but it will be even worse this way."
-    sl "Nein, das denke ich nicht, aber so machen wir nur alles noch schlimmer."
+    sl "Nein, das denke ich nicht, aber so machen wir alles nur noch schlimmer."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2970
 translate german day6_sl_8c2bd012:
 
     # me "Почему же? Мы имеем право поступать, как считаем нужным!"
     #me "Why? We have a right to act the way we think is correct!"
-    me "Warum? Wir haben das Recht, den Weg zu gehen, von dem wir denken, dass er der Richtige ist!"
+    me "Warum? Wir haben das Recht, so zu handeln, wie wir es für richtig halten!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2971
 translate german day6_sl_9ee0cfcb:
@@ -12799,7 +12799,7 @@ translate german day6_sl_40898a23:
 
     # "Каждый этап моего плана пока что реализовывался весьма успешно, но просчитывать даже на ход вперёд совсем не хотелось."
     #"Every step in my plan had gone quite well until now, but I wasn't keen on thinking even one step ahead."
-    "Alle Schritte in meinem Plan verliefen bis hier her ohne Probleme, aber ich war überhaupt nicht darauf aus, auch nur einen Schritt im voraus zu planen."
+    "Alle Schritte meines Plans verliefen bis hierhin ohne Probleme, aber ich war überhaupt nicht scharf darauf gewesen, auch nur einen Schritt weiter zu denken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2974
 translate german day6_sl_6bf1e9fc:
@@ -12813,7 +12813,7 @@ translate german day6_sl_b46c28f2:
 
     # "Я открыл сумку и показал вещи, которые забрал из домика вожатой."
     #"I opened the bag and showed the things I took from the camp leader's cabin."
-    "Ich öffnete die Tasche und zeigte ihr die Sachen, die ich aus der Hütte der Lagerleiterin mit genommen hatte."
+    "Ich öffnete die Tasche und zeigte ihr die Sachen, die ich aus der Hütte der Lagerleiterin mitgenommen hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2977
 translate german day6_sl_e26abf96:
@@ -12834,7 +12834,7 @@ translate german day6_sl_ccf6bd0d:
 
     # me "Не знаю…{w} Отсидимся в лесу пока что…{w} Покажем, что с нами тоже надо считаться!"
     #me "I don't know…{w} We'll stay in the forest for a while…{w} Show them that our opinion matters!"
-    me "Ich weiß nicht...{w} Wir könnten eine Weile im Wald bleiben...{w} Um ihnen zu zeigen, dass wir es ernst meinen."
+    me "Ich weiß nicht...{w} Wir könnten eine Weile im Wald bleiben...{w} Um ihnen zu zeigen, dass wir es ernst meinen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2981
 translate german day6_sl_c23e3fba:
@@ -12862,21 +12862,21 @@ translate german day6_sl_eb5caabf:
 
     # sl "Я сделаю, как ты скажешь…"
     #sl "I'll do as you say..."
-    sl "Ich mache was du sagst..."
+    sl "Ich mache, was du sagst..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2986
 translate german day6_sl_ecece0fc:
 
     # "От этих слов у меня мурашки по коже побежали."
     #"These words gave me the creeps."
-    "Bei diesen Worten bekahm ich eine Gänsehaut."
+    "Bei diesen Worten bekam ich eine Gänsehaut."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2987
 translate german day6_sl_0834429f:
 
     # th "«Как ты скажешь»…"
     #th "'As you say'..."
-    th "'Wie du meinst'..."
+    th "'Was du sagst'..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2988
 translate german day6_sl_6428f6b8:
@@ -12890,7 +12890,7 @@ translate german day6_sl_c747ecee:
 
     # me "В любом случае…{w} Думаю, сейчас это самое лучшее решение!"
     #me "In any case…{w} I think this is the best decision for now!"
-    me "Auf alle Fälle...{w} Ich denke, das war die bisher beste Entscheidung!"
+    me "Jedenfalls...{w} Ich denke, das ist aktuell die beste Lösung!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2990
 translate german day6_sl_6f9aa3f1:
@@ -12904,14 +12904,14 @@ translate german day6_sl_ecfe56f5:
 
     # "Я расстелил спальный мешок на земле, и мы сели на него."
     #"I laid the sleeping bag on the ground and we sat on it."
-    "Ich rolle den Schlafsack aus und wir setzten uns darauf."
+    "Ich rollte den Schlafsack aus und wir setzten uns darauf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2996
 translate german day6_sl_032a8535:
 
     # sl "И что будем делать?"
     #sl "So what are we going to do?"
-    sl "Also was werden wir als nächstes tun?"
+    sl "Also, was werden wir als nächstes tun?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2997
 translate german day6_sl_7479b07e:
@@ -12925,14 +12925,14 @@ translate german day6_sl_83657023:
 
     # "Я был как никогда близок к провалу."
     #"I've never been so close to utter failure."
-    "Ich war so knapp davor zu scheitern."
+    "Ich war so knapp davor, zu scheitern."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:2999
 translate german day6_sl_6f0e498c:
 
     # "Нет, я не сомневался в своём решении, но что делать дальше, и правда не знал."
     #"No, I wasn't questioning my choice, but indeed – I had no idea what to do next."
-    "Nein, was ich bisher tat, stellte ich nicht infrage, aber tatsächlich - ich hatte keine Ahnung, was ich als Nächstes tun sollte."
+    "Nein, was ich bisher getan hatte, stellte ich nicht infrage, aber tatsächlich - ich hatte keine Ahnung, was ich als Nächstes tun sollte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3000
 translate german day6_sl_9d1d5c5c:
@@ -12946,7 +12946,7 @@ translate german day6_sl_8cefafd9:
 
     # sl "Поесть было бы неплохо…{w} Ты ничего с собой не захватил?"
     #sl "It would be nice to have something to eat…{w} Have you brought anything with you?"
-    sl "Es wäre schön etwas zu Essen zu haben...{w} Hast du was dabei?"
+    sl "Es wäre schön, etwas zu essen zu haben...{w} Hast du was dabei?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3002
 translate german day6_sl_a5ff15c9:
@@ -12974,7 +12974,7 @@ translate german day6_sl_6f9aa3f1_1:
 
     # sl "Ладно…"
     #sl "That's fine…"
-    sl "Na toll..."
+    sl "Na gut..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3006
 translate german day6_sl_0b938548:
@@ -12995,7 +12995,7 @@ translate german day6_sl_e870b5fc:
 
     # th "Но вот еда…{w} К вечеру и я есть захочу…"
     #th "But food…{w} By the evening I'll get hungry too…"
-    th "Aber Essen...{w} BIs zum Abend werde ich auch Hunger bekommen..."
+    th "Aber Essen...{w} Bis zum Abend werde auch ich Hunger bekommen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3009
 translate german day6_sl_55e17cab:
@@ -13016,7 +13016,7 @@ translate german day6_sl_b8a8c899:
 
     # me "За едой!"
     #me "To get some food!"
-    me "Was zu Essen besorgen!"
+    me "Essen besorgen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3012
 translate german day6_sl_a81ddd10:
@@ -13030,21 +13030,21 @@ translate german day6_sl_a428b9a5:
 
     # me "Не стоит… Я мигом!"
     #me "No… I'll be right back!"
-    me "Nein... ich bin bald zurück!"
+    me "Nein... ich bin gleich zurück!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3019
 translate german day6_sl_775467e0:
 
     # "Оставив Славю одну на полянке, я быстрыми шагами направился назад к лагерю."
     #"I headed back to the camp at a rapid pace, leaving Slawja alone in the glade."
-    "Schnell ging ich zum Lager zurück und ließ Slawja alleine auf der Lichtung zurück."
+    "Schnell ging ich zum Lager zurück und ließ Slawja auf der Lichtung alleine."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3020
 translate german day6_sl_bbc0779a:
 
     # "В том, что она никуда не уйдёт и дождётся меня, я был абсолюно уверен.{w} Хотелось бы также верить, что я запомнил дорогу..."
     #"I'm absolutely certain that she won't go anywhere and will wait for me.{w} I wish I was as certain that I'll remember the way back as well..."
-    "Ich war völlig davon überzeugt, dass sie nirgends hingehen und auf mich warten würde.{w} Ich wünschte, dass ich mich auch so sicher an den Rückweg erinnern könnte..."
+    "Ich war völlig davon überzeugt, dass sie nirgends hingehen und dass sie auf mich warten würde.{w} Ich wünschte, dass ich mich auch so sicher an den Rückweg hätte erinnern können..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3021
 translate german day6_sl_d8d6f4b9:
@@ -13065,14 +13065,14 @@ translate german day6_sl_90bcafae:
 
     # "И если добраться перебежками до столовой не составило особого труда, то, что делать дальше, я не знал."
     #"And while getting to the canteen in few sprints was not hard at all, I had no idea what to do next."
-    "Und wenn es auch gar nicht so schwer war, die Kantine in einigen Sprints zu erreichen, hatte ich doch keine Ahnung, was ich als Nächstes tun sollte."
+    "Und wenn es auch gar nicht so schwierig war, die Kantine in einigen Sprints zu erreichen, hatte ich doch keine Ahnung, was ich als Nächstes tun sollte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3031
 translate german day6_sl_566963d3:
 
     # th "Не могу же я вот просто так взять и войти туда…"
     #th "I can't just walk in there like nothing happened…"
-    th "Ich kann nicht einfach da rein spazieren, als sei nichts gewesen..."
+    th "Ich kann nicht einfach da reinspazieren, als sei nichts gewesen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3034
 translate german day6_sl_4a1751e3:
@@ -13114,21 +13114,21 @@ translate german day6_sl_9ba98794:
 
     # us "Ну, чего молчишь?"
     #us "Come on, why so quiet?"
-    us "He, wieso sagst du nichts?"
+    us "Hey, wieso sagst du nichts?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3042
 translate german day6_sl_d6658e34:
 
     # "Я на секунду потерял дар речи, поэтому ответить не смог."
     #"I was tongue-tied for a moment and couldn't think of an answer."
-    "Für einen Moment, war sich sprachlos und konnte nicht antworten."
+    "Für einen Moment war ich sprachlos und konnte nicht antworten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3044
 translate german day6_sl_961f4581:
 
     # us "Так зачем пришёл?"
     #us "So why have you come?"
-    us "Also warum bist du hier?"
+    us "Also, warum bist du hier?"
 
 ## awnser Uljana ###
 
@@ -13214,7 +13214,7 @@ translate german day6_sl_945c59bc:
 
     # "Она хитро улыбнулась."
     #"She smiled slyly."
-    "Sie grinst verwegen."
+    "Sie grinste verwegen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3069
 translate german day6_sl_83d1e252:
@@ -13228,7 +13228,7 @@ translate german day6_sl_233fc538:
 
     # "Ульянка помахала рукой и убежала."
     #"Uljana waved good-bye and ran away."
-    "Uljana winkte zum Abschied und rannte davon."
+    "Uljanka winkte zum Abschied und rannte davon."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3074
 translate german day6_sl_f6f60dcb:
@@ -13242,21 +13242,21 @@ translate german day6_sl_2ae59a66:
 
     # "Вообще, это не похоже на Ульянку, но я был ей благодарен."
     #"It was completely unlike Uljana but, frankly speaking, I was thankful to her."
-    "Das war so untypisch für Uljana, aber ehrlich gesagt, war ich ihr dankbar dafür."
+    "Das war so untypisch für Uljanka, aber ehrlich gesagt war ich ihr dankbar dafür."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3082
 translate german day6_sl_a3e91759:
 
     # "В конце концов, одному мне бы вряд ли удалось днём достать еду без приключений…"
     #"In the end I couldn't get food by myself during the day without getting myself into trouble…"
-    "Letztlich hätte ich unter tags nicht selber was zu Essen besorgen können ohne in Schwierigkeiten zu kommen..."
+    "Letztlich hätte ich tagsüber nicht selber etwas zu essen besorgen können, ohne in Schwierigkeiten zu geraten..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3084
 translate german day6_sl_f703ec01:
 
     # "Вернувшись на полянку, я обнаружил там Славю, всё в той же позе сидевшую на спальнике."
     #"Upon getting back to the glade I found Slawja sitting on the sleeping bag in the exact same pose."
-    "Als ich die Lichtung erreichte, saß Slawja noch genau so auf dem Schlafsack wie zu dem Zeitpunkt, als ich sie verließ."
+    "Als ich die Lichtung erreichte, saß Slawja noch genau so auf dem Schlafsack wie zu dem Zeitpunkt, als ich sie verlassen hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3085
 translate german day6_sl_482db2cf:
@@ -13354,14 +13354,14 @@ translate german day6_sl_1210502c:
 
     # sl "Насчёт чего?"
     #sl "About what?"
-    sl "Worüber denn?"
+    sl "Bezüglich was?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3106
 translate german day6_sl_6a46b67c:
 
     # me "Ну, хотя бы как договориться с вожатой."
     #me "Well, at least about how to deal with the camp leader."
-    me "Nun zumindest darüber, wie wir mit der Lagerleiterin weiter verfahren."
+    me "Nun, zumindest dafür, wie wir weiter mit der Lagerleiterin verfahren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3107
 translate german day6_sl_29040378:
@@ -13389,7 +13389,7 @@ translate german day6_sl_ccf4cd89:
 
     # me "В конце концов, это акт протеста!{w} Пусть она знает, что нельзя мной…"
     #me "This is an act of protest after all!{w} She must be aware that she can't order me…"
-    me "Das ist vor allem eine Art Protest!{w} Sie muss sich klar werden, dass sie mich nicht rumkommandieren kann..."
+    me "Das ist vor allem eine Art Protest!{w} Ihr muss klar werden, dass sie mich nicht rumkommandieren kann..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3111
 translate german day6_sl_2a7a8a3b:
@@ -13403,21 +13403,21 @@ translate german day6_sl_704441dd:
 
     # me "… нами помыкать!"
     #me "… order us around!"
-    me "... uns rumkommandieren kann!"
+    me "... uns nicht rumkommandieren kann!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3113
 translate german day6_sl_4d7af59e:
 
     # "Похоже, сказал глупость."
     #"I feel like I've said something stupid."
-    "Das hörte sich irgendwie dumm an."
+    "Das hörte sich irgendwie blöd an."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3114
 translate german day6_sl_97d14a00:
 
     # "Если я для Ольги Дмитриевны точно был мальчиком на побегушках, то Славя…"
     #"Even if I was indeed Olga Dmitrijewna's errand boy, Slawja was..."
-    "Wenn ich Olga Dmitrijewnas Laufbursche war, dann war Slawja..."
+    "Auch wenn ich Olga Dmitrijewnas Laufbursche war, dann war Slawja..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3116
 translate german day6_sl_f9d7b013:
@@ -13438,7 +13438,7 @@ translate german day6_sl_ee9341f5:
 
     # sl "Можно же было просто подойти к ней и поговорить.{w} Но раз ты хочешь сидеть здесь и ждать, то я согласна."
     #sl "We could just go and talk with her.{w} But if you want to sit here and wait, I'm fine with it."
-    sl "Wir könnten einfach los und mit ihr reden.{w} Aber wenn du hier sitzen bleiben und warten willst, ist das für mich auch ok."
+    sl "Wir könnten einfach los und mit ihr reden.{w} Aber wenn du hier sitzenbleiben und warten willst, ist das für mich auch okay."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3120
 translate german day6_sl_6c4c506e:
@@ -13459,7 +13459,7 @@ translate german day6_sl_32522388:
 
     # th "А как надо?"
     #th "What is the right way?"
-    th "Was meint sie mit richtig gemacht?"
+    th "Was meint sie mit 'richtig gemacht'?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3124
 translate german day6_sl_002325fc:
@@ -13480,14 +13480,14 @@ translate german day6_sl_28d5f3e2:
 
     # "Возможно, если бы знал, как надо вести себя в подобных ситуациях, всё было бы по-другому."
     #"I bet if I knew how to deal with such cases, things would go another way."
-    "Ich würde wetten, sobald ich wüsste, wie ich das schaffe, würde sich alles ändern."
+    "Ich würde wetten, dass alles anders gelaufen wäre, wennn ich gewusst hätte, wie ich mit solchen Situationen umgehen muss."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3127
 translate german day6_sl_6650b9b5:
 
     # "Конечно, я сам боялся, чувствовал себя виноватым – откуда же взяться уверенности…"
     #"Of course, since I was afraid and blaming myself there was no chance to be confident…"
-    "Natürlich hatte ich Angst, ich fühlte mich schuldig - wie konnte ich mir da sicher sein..."
+    "Natürlich hatte ich Angst und ich fühlte mich schuldig - wie konnte ich mir da sicher sein..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3128
 translate german day6_sl_7479b07e_1:
@@ -13501,7 +13501,7 @@ translate german day6_sl_c954d69f:
 
     # "Славя рассмеялась."
     #"Slawja burst into laughter."
-    "Slawja fing an, laut zu lachen."
+    "Slawja fing an, laut loszulachen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3131
 translate german day6_sl_3d342d5a:
@@ -13515,7 +13515,7 @@ translate german day6_sl_31892cbe:
 
     # sl "Ничего…{w} Просто я сейчас похожа на принцессу, которую прекрасный принц охитил из замка злой колдуньи."
     #sl "Nothing…{w} I just feel like a princess who was saved from the evil witch's castle by Prince Charming."
-    sl "Nichts...{w} Ich fühle mich nur wie eine Prinzessin, die vom Prinz Charmin aus dem Schloss des Bösen befreit wurde."
+    sl "Nichts...{w} Ich fühle mich nur wie eine Prinzessin, die vom edlen Prinzen aus dem Schloss der bösen Zauberin befreit wurde."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3133
 translate german day6_sl_8f838576:
@@ -13529,14 +13529,14 @@ translate german day6_sl_e89f228b:
 
     # "Хоть звучало и романтично, но мне показалась, что сейчас Славя сказала глупость."
     #"While all this sounded quite romantic, I thought that what Slawja had just said was absolute nonsense."
-    "Auch wenn sich all dies sehr romantisch anhörte, dachte ich mir, dass das, was Slawja sagte, völliger Unsinn sei."
+    "Auch wenn sich all das sehr romantisch anhörte, dachte ich mir, dass das, was Slawja eben gesagt hatte, völliger Unsinn ist."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3135
 translate german day6_sl_97cde972:
 
     # th "Но вообще, Ольга Дмитриевна – злая колдунья…{w} Здесь что-то определённо есть!"
     #th "But generally, Olga Dmitrijewna as an evil witch…{w} It makes some sense!"
-    th "Aber allgemein ist Olga Dmitrijewna die böse Hexe...{w} Das macht irgendwo Sinn!"
+    th "Aber allgemein ist Olga Dmitrijewna die böse Zauberin...{w} Das macht irgendwo Sinn!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3136
 translate german day6_sl_88e6b2de:
@@ -13578,21 +13578,21 @@ translate german day6_sl_e89a598d:
 
     # th "Это у меня нет никакого выбора – только сидеть и ждать, что я чудесным образом вернусь в свою реальность."
     #th "It's me who has no choice here – just sit and wait until I get back to my reality by some miraculous chance."
-    th "Ich bin es doch der, der keine Wahl hat - ich sitze nur rum und warte darauf, auf wundersame Weise in meine Realität zurückzukehren."
+    th "Ich bin es doch, der keine Wahl hat - ich sitze nur rum und warte darauf, dass ich auf wundersame Weise in meine Realität zurückkehren kann."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3143
 translate german day6_sl_63017633:
 
     # th "Разве Славя такая же?{w} Примерный пионер, умница, красавица."
     #th "Does Slawja have anything in common with me?{w} She is a role model pioneer, hard-working and beautiful."
-    th "Was hat Slawja mit mir gemeinsam?{w} Sie ist eine vorzeige Pionierin, sie arbeitet hart und ist wunderschön."
+    th "Was hat Slawja mit mir gemeinsam?{w} Sie ist eine Vorzeigepionierin, sie arbeitet hart und ist wunderschön."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3144
 translate german day6_sl_c7da1f43:
 
     # "Да у неё сотни, если не тысячи выборов!"
     #"She has hundreds if not thousands of options!"
-    "Sie hat Hunderte wenn nicht sogar Tausende von Möglichkeiten!"
+    "Sie hat Hunderte, wenn nicht sogar Tausende von Möglichkeiten!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3145
 translate german day6_sl_db88a5ef:
@@ -13641,14 +13641,14 @@ translate german day6_sl_d1c57701:
 
     # "И далеко не только потому что находился чёрт знает где и когда."
     #"And not even because of the fact that heaven only knows where and in what time I was."
-    "Und das nicht nur, weil ich weiß Gott, wo und in welcher Zeit ich stecke."
+    "Und das nicht nur, weil ich weiß Gott wo und in welcher Zeit stecke."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3152
 translate german day6_sl_cedefdcf:
 
     # me "Знаешь, возможно, я был не прав."
     #me "You know, I could be wrong."
-    me "Weißt du, ich könnte falschliegen."
+    me "Weißt du, ich könnte falsch liegen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3154
 translate german day6_sl_0fa153ce_1:
@@ -13704,7 +13704,7 @@ translate german day6_sl_7b0b0261:
 
     # "Сказала она злобно."
     #"She said angrily."
-    "Sagte sie wütend."
+    "Begrüßte sie uns wütend."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3175
 translate german day6_sl_bee8d492:
@@ -13725,21 +13725,21 @@ translate german day6_sl_ccda0fcf:
     # Awnser: We have no reason to justify ourselves!
     # "Ответил я вызывающе."
     #"I replied obnoxiously."
-    "Antwortete ich trozig."
+    "Antwortete ich trotzig."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3183
 translate german day6_sl_7f368bf8:
 
     # mt "Да?{w} Ну ладно. То есть ты считаешь всё это нормальным? Хорошо…"
     #mt "Oh, really?{w} Ok then. So you think all of this is normal? Fine…"
-    mt "Ja?{w} Okay. Du denkst also das alles hier ist normal? Na gut..."
+    mt "Ja?{w} Okay. Du denkst also, dass das alles hier normal ist? Nun gut..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3184
 translate german day6_sl_7ab0fbc2:
 
     # "Она остановилась на пару секунд и перевела взгляд на Славю."
     #"She paused for a few moments and turned to Slawja."
-    "Sie hielt für einige Sekunden inne und wand sich dann an Slawja."
+    "Sie hielt für einige Sekunden inne und wandte sich dann an Slawja."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3185
 translate german day6_sl_b7ba9ce3:
@@ -13767,7 +13767,7 @@ translate german day6_sl_da106b03:
 
     # me "Как видите, она не хочет."
     #me "As you can see, she doesn’t want to."
-    me "Wie sie sehen können, will sie nicht."
+    me "Wie Sie sehen können, will sie nicht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3191
 translate german day6_sl_c53ecc7f:
@@ -13795,7 +13795,7 @@ translate german day6_sl_57062f56:
 
     # me "Почему вы считаете, что мы сделали что-то неправильное?{w} И вообще! Ничего мы и не делали."
     #me "Why do you think we've done something wrong?{w} We haven't done anything! At all!"
-    me "Wieso glauben sie, haben wir was Falsches getan?{w} Wie auch immer. Wir haben nichts getan!"
+    me "Wieso glauben Sie, dass wir was Falsches getan haben?{w} Wie auch immer. Wir haben nichts getan!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3196
 translate german day6_sl_9b7d56c6:
@@ -13816,14 +13816,14 @@ translate german day6_sl_dcebf1f8:
 
     # me "И что же вы видели?"
     #me "So what have you seen?"
-    me "Was haben sie gesehen?"
+    me "Was haben Sie gesehen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3200
 translate german day6_sl_a5f17bb1:
 
     # "Она замялась, но очти сразу ответила тем же тоном:"
     #"She paused, but continued a second later in the same tone:"
-    "Sie zögerte, antwortete aber dann im gleichen Tonfall:"
+    "Sie zögerte, antwortete dann aber im gleichen Tonfall:"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3201
 translate german day6_sl_17e9592b:
@@ -13837,7 +13837,7 @@ translate german day6_sl_d3772757:
 
     # me "Хорошо же вы выводы делаете. Вам бы в НКВД работать."
     #me "Wow, you are so good at drawing conclusions! Getting a job in the secret police?"
-    me "Ihre Schlussfolgerungen sind ja brillant. Sie sollten bei KGB arbeiten."
+    me "Ihre Schlussfolgerungen sind ja brillant. Sie sollten beim KGB anfangen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3204
 translate german day6_sl_4e67b316:
@@ -13851,42 +13851,42 @@ translate german day6_sl_5f44af84:
 
     # me "И не собирался даже."
     #me "I didn’t even think of starting it."
-    me "Ich habe noch nicht mal daran gedacht, unverschämt zu sein."
+    me "Ich habe gar nicht daran gedacht, unverschämt zu sein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3206
 translate german day6_sl_d808c8a3:
 
     # "Ехидно ответл я."
     #"I said sarcastically."
-    "Antwortete ich sakastisch."
+    "Antwortete ich sarkastisch."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3208
 translate german day6_sl_3e824ff1:
 
     # mt "В общем, я не желаю дальше вести бессмысленные споры. Ты наказан до конца смены."
     #mt "Okay, your time is up and I'm not willing to continue this pointless argument. You're grounded till the end of the session."
-    mt "Jetzt reicht es, ich bin nicht weiter bereit, mir so etwas Bieten zu lassen. Du hast Arrest bis zum Ende des Lagers."
+    mt "Jetzt reicht es, ich bin nicht weiter bereit, mir so etwas bieten zu lassen. Du hast Hausarrest bis zum Ende des Lagers."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3209
 translate german day6_sl_34787a27:
 
     # me "О, правда? И как же?"
     #me "Oh, really? And how are you going to manage that?"
-    me "Oh wirklich? Und wie glauben sie soll das aussehen?"
+    me "Oh, wirklich? Und wie glauben Sie soll das aussehen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3210
 translate german day6_sl_e8cb9456:
 
     # mt "Будешь сидеть под замком!"
     #mt "I'll lock you down in the cabin!"
-    mt "Ich werde dich in der Hütte einschließen!"
+    mt "Ich werd' dich in der Hütte einschließen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3211
 translate german day6_sl_9f712cc6:
 
     # me "А если я не соглашусь?"
     #me "And what if I object?"
-    me "Und, was, wenn ich was dagegen habe?"
+    me "Und was, wenn ich etwas dagegen habe?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3213
 translate german day6_sl_af66aeeb:
@@ -13914,7 +13914,7 @@ translate german day6_sl_46cac45a:
 
     # mt "Что значит «не соглашусь»?"
     #mt "What do you mean by 'object'?"
-    mt "Was meinst du mit 'was dagegen haben'?"
+    mt "Was meinst du mit 'etwas dagegen haben'?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3218
 translate german day6_sl_e7f3c77f:
@@ -13942,14 +13942,14 @@ translate german day6_sl_2f21154b:
 
     # me "Значит, я фальшивый!"
     #me "Well, that means I'm a false one!"
-    me "Also, ich bin kein wahrer Pionier!"
+    me "Tja, dann bin ich wohl ein Falscher!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3222
 translate german day6_sl_680ddca2:
 
     # "Ольга Дмитриевна замолчала, словно собираясь с силами."
     #"Olga Dmitrijewna paused as if she was pulling herself together."
-    "Olga Dmitrijewna machte eine Pause, als wolle sie neue Kraft schöpfen."
+    "Olga Dmitrijewna machte eine Pause, als wollte sie neue Kraft schöpfen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3224
 translate german day6_sl_08cd4a35:
@@ -13977,7 +13977,7 @@ translate german day6_sl_b2ab1d1c:
 
     # th "Если не брать во внимание всякие потусторонние силы, о которых я сейчас думал в последнюю очередь, то средств принуждения у вожатой действительно не было никаких."
     #th "Ignoring the various mystical forces that I was least concerned about right now, the camp leader indeed had absolutely no idea about enforcing anything."
-    th "Wenn man von den verschiedenen mystischen Mächten absieht, um die ich mir im Augenblick am wenigsten Gedanken mache, hat die Lagerleiterin überhaupt keine Ahnung davon, irgendetwas durch zu setzen."
+    th "Wenn man von den verschiedenen mystischen Mächten absieht, um die ich mir im Augenblick am wenigsten Gedanken mache, hat die Lagerleiterin überhaupt keine Ahnung davon, irgendetwas durchzusetzen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3229
 translate german day6_sl_25d8873c:
@@ -14005,21 +14005,21 @@ translate german day6_sl_91d81026:
 
     # mt "Я…{w} Я…{w} По месту учёбы на тебя характеристику пошлю! Да тебя в комсомол не примут! В партию не возьмут!"
     #mt "I...{w} I...{w} I'll send a report to your school! You won't be accepted to the Komsomol! You won't be able to join the Party!"
-    mt "Ich...{w} Ich...{w} Ich werde deiner Schule eine Nachricht schicken! Du wirst keine Zulassung für das Komsomol bekommen! Die Party findet ohne dich statt!"
+    mt "Ich...{w} Ich...{w} Ich werde deiner Schule eine Beschwerde schicken! Du wirst keine Zulassung für das Komsomol bekommen! Die Party findet ohne dich statt!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3235
 translate german day6_sl_4a0430d0:
 
     # "На такие страшные угрозы я даже не нашёлся, что ответить."
     #"I had no way to respond against such serious threats."
-    "Auf solch eine schreckliche Bedrohung wusste ich nichts zu erwidern."
+    "Auf solch eine schreckliche Drohung wusste ich nichts zu erwidern."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3236
 translate german day6_sl_32847c55:
 
     # mt "Короче говоря, у тебя всё равно выбора нет!"
     #mt "Accept it, you have no choice anyway!"
-    mt "Akzeptiere es, du hast keine Wahl!"
+    mt "Akzeptier es, du hast keine Wahl!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3237
 translate german day6_sl_4f1d9777:
@@ -14033,14 +14033,14 @@ translate german day6_sl_0fbed59a:
 
     # sl "А почему вы изначально правы, Ольга Дмитриевна? Что, Семён всегда во всём виноват? Что такого произошло? Что он… что мы сделали не так? Вы хоть сами знаете, в чём нас обвиняете?"
     #sl "Olga Dmitrijewna, why do you assume you're right from the start? Why is Semjon always to blame for everything? What's so special about what has happened? What has he… what have we done wrong? Are you even sure of what you are blaming us for?"
-    sl "Olga Dimtrievna, wieso gehen sie immer davon aus, recht zu haben? Wieso soll Semjon immer für alles verantwortlich sein? Was hat er... Was haben wir falsch gemacht? Sind sie sich überhaupt sicher? Was werfen sie uns vor?"
+    sl "Olga Dimtrievna, wieso gehen Sie immer davon aus, recht zu haben? Wieso soll Semjon immer für alles verantwortlich sein? Was hat er... Was haben wir falsch gemacht? Sind Sie sich überhaupt sicher? Was werfen Sie uns vor?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3240
 translate german day6_sl_63d41120:
 
     # sl "А если бы на моём месте была бы другая, вы бы вели себя точно так же?"
     #sl "And if it was anyone other than me standing here, would you act the same way?"
-    sl "Und würde jemand anders hier stehen als ich, würden sie dann genau so handeln?"
+    sl "Und würde jemand anderes hier stehen als ich, würden Sie dann genauso handeln?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3242
 translate german day6_sl_d6544d57:
@@ -14054,14 +14054,14 @@ translate german day6_sl_133f5bcb:
 
     # sl "В том-то и дело, что я знаю! Знаю вас, знаю, что Семён ни в чём не виноват. Знаю, что у вас к нему предвзятое отношение. Не понятно почему, кстати. А ведь он старается!"
     #sl "That's the point, I know everything! I know you, I know that Semjon hasn't done anything wrong. I know you are prejudiced against him. Without any clear reason by the way. Even though he is trying his best!"
-    sl "Das ist der Punkt, ich weiß alles! Ich kenne sie, ich weiß, dass Semjon nichts gemacht hat. Ich weiß, dass sie ihm gegenüber voreingenommen sind. Im Übrigen ohne einen ersichtlichen Grund. Obwohl er sein Bestes gibt."
+    sl "Das ist der Punkt, ich weiß alles! Ich kenne Sie, ich weiß, dass Semjon nichts gemacht hat. Ich weiß, dass Sie ihm gegenüber voreingenommen sind. Im Übrigen ohne einen ersichtlichen Grund. Obwohl er sein Bestes gibt!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3244
 translate german day6_sl_e25671be:
 
     # sl "Да, это иногда выглядит немного неуклюже, но я знаю, что он вкладывает все силы и всю душу. Что же тогда, вы будете его винить просто за то, что он такой?"
     #sl "Yes, it looks awkward at times, but I know he puts all his energy and his heart into it. And you’re going to blame him just because he is the way he is?"
-    sl "Ja, es wirkt manchmal etwas unangenehm, aber ich weiß, dass er all seine Energie und sein Herz aufwendet. Und sie schieben ihm die Schuld zu, nur weil er ist, wie er ist?"
+    sl "Ja, es wirkt manchmal etwas unbeholfen, aber ich weiß, dass er all seine Energie und sein Herz aufwendet. Und Sie schieben ihm die Schuld zu, nur, weil er ist, wie er ist?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3245
 translate german day6_sl_9a7a49a4:
@@ -14082,7 +14082,7 @@ translate german day6_sl_c51c54a3:
 
     # "Мне достаточно было слышать мелодию её голоса, которая завораживала, уносила отсюда – от этой больной вожатой и дурного пионерлагеря, – успокаивала и залечивала душевные раны."
     #"Just the melody of her voice was enough for me – it hypnotized and carried me away from this sick woman and stupid pioneer camp while calming and healing the wounds in my soul."
-    "Allein der Klang ihrer Stimme reichte für mich aus - sie hypnotisierte mich, brachte mich fort von dieser kranken Lagerleiterin und dem dummen Pionierlager - linderte und heilte die Wunden meiner Seele."
+    "Allein der Klang ihrer Stimme reichte für mich aus - sie hypnotisierte mich, brachte mich fort von dieser kranken Lagerleiterin und dem dummen Pionierlager - linderte und heilte die Wunden meiner geschundenen Seele."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3249
 translate german day6_sl_90afe97b:
@@ -14103,7 +14103,7 @@ translate german day6_sl_8d10714b:
 
     # mt "Но не думайте, что я одобряю ваше поведение!"
     #mt "But don't think that I approve of your behaviour!"
-    mt "Aber glaubt nicht, dass ich euer Verhalten gut heiße!"
+    mt "Aber glaubt nicht, dass ich euer Verhalten gutheiße!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3253
 translate german day6_sl_60c09bca:
@@ -14117,14 +14117,14 @@ translate german day6_sl_64e8ffbe:
 
     # "Я начал ждать оглушительных аплодисментов, как в американских фильмах, но толпа, посмотрев зрелище, начала быстро расходиться."
     #"I expected a storm of applause like in American movies but crowd started to dissolve quickly as the show came to its end."
-    "Ich erwartete einen tobenden Applaus wie in einem amerikanischen Film, aber die Menge, die sich das Spektakel ansah, zerstreute sich, als alles zu diesem Ende kam."
+    "Ich erwartete einen tobenden Applaus wie in einem amerikanischen Film, aber die Menge, die sich das Spektakel ansah, zerstreute sich, sobald die Vorstellung geendet hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3259
 translate german day6_sl_b164096b:
 
     # "Лишь Ульянка хитро подмигнула мне."
     #"And Uljana just winked at me slyly."
-    "Und Uljana zwinkerte mir nur verschmitzt zu."
+    "Und Uljanka zwinkerte mir nur verschmitzt zu."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3261
 translate german day6_sl_3e600926:
@@ -14152,14 +14152,14 @@ translate german day6_sl_a441fb1c:
 
     # sl "Да ладно тебе…"
     #sl "Oh, come on…"
-    sl "Ach, jetzt komme schon..."
+    sl "Ach, jetzt komm schon..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3266
 translate german day6_sl_d3368ac8:
 
     # me "Что ладно? Это чистая правда, ни капли лжи, ни капли комплиментов!"
     #me "What? That's the simple truth, not a trace of lies or flattery!"
-    me "Was denn? Das ist die Wahrheit, ohne Lüge oder Schmeichelei!"
+    me "Was denn? Das ist die Wahrheit, ganz ohne Lügen oder Schmeicheleien!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3268
 translate german day6_sl_092ec533:
@@ -14173,7 +14173,7 @@ translate german day6_sl_28b09c2f:
 
     # sl "А я сказала просто первое, что в голову пришло, а вышло вот как."
     #sl "I just said first thing that came to my mind, and this is how it turned out."
-    sl "Ich habe einfach nur gesagt, was mir als Erstes in den Sinn kam und das kam dabei heraus."
+    sl "Ich habe einfach nur gesagt, was mir als Erstes einfiel und das kam dabei raus."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3270
 translate german day6_sl_2266dea3:
@@ -14201,7 +14201,7 @@ translate german day6_sl_cc04a8ea:
 
     # "Несколько смутившись, я попытался освободить свою, но Славя не дала.{w} От этого меня пробил на секунду холодный пот."
     #"After feeling a bit awkward I tried to pull my hand free but Slawja didn't let me.{w} This gave me the chills for a second."
-    "Ein wenig verlegen versuchte ich meine Hand zu befreien, aber Slawja ließ das nicht zu.{w} Das ließ mich für eine Sekunde erschaudern."
+    "Ein wenig verlegen versuchte ich, meine Hand zu befreien, aber Slawja ließ das nicht zu.{w} Für eine Sekunde erschauderte ich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3275
 translate german day6_sl_0b0dc7e3:
@@ -14222,7 +14222,7 @@ translate german day6_sl_e59ccd54:
 
     # me "А что ты скажешь, если я предложу вернуться в лес?"
     #me "What would you say if I suggested we return to the forest?"
-    me "Was hälst du von dem Vorschlag, wieder in den Wald zurückzugehen?"
+    me "Was hältst du von dem Vorschlag, wieder in den Wald zurückzugehen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3279
 translate german day6_sl_21f85f08:
@@ -14236,7 +14236,7 @@ translate german day6_sl_54f96f7f:
 
     # me "Ну, понимаешь, просто иногда…"
     #me "Well, you know, it's just sometimes..."
-    me "Also, weißt du, es ist nur manchmal so...."
+    me "Also, weißt du, es ist nur manchmal so..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3282
 translate german day6_sl_05b93dff:
@@ -14257,42 +14257,42 @@ translate german day6_sl_d574deca:
 
     # "А хотел я сказать, что иногда бывает такое – хочется уехать куда-нибудь из привычных мест.{w} Хотя бы ненадолго, хотя бы на пару часов."
     #"I was just going to tell her about a feeling I get sometimes – when you want to go somewhere outside of your comfort zone.{w} At least for a while, at least for a couple of hours."
-    "Ich wollte ihr gerade von den Gefühlen erzählen, die man hat, wenn man etwas Unangenehmes vor hat.{w} Zumindest für einen Moment, für ein paar Sekunden."
+    "Ich wollte ihr gerade von den Gefühlen erzählen, die ich habe, wenn ich mich aus meiner Komfortzone bewege.{w} Zumindest für einen Moment, für ein paar Sekunden."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3285
 translate german day6_sl_59c2b914:
 
     # "Раньше я часто так делал – катался по незнакомым районам или даже соседним городам."
     #"I used to do this before quite often – visiting foreign districts or even neighbouring cities."
-    "Früher habe ich das oft gemacht - ich bin durch unbekannte Stadtteile oder Nachbarstädte gefahren."
+    "Früher habe ich das oft gemacht - ich bin durch unbekannte Stadtteile oder sogar Nachbarstädte gelaufen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3286
 translate german day6_sl_abd50e2b:
 
     # "Новые места и новые пейзажи успокаивают мою душу и позволяют понять, что мир не ограничивается четырьмя стенами квартиры, дорогой до института или работ."
     #"New places and sceneries calm my heart and help to realise that the world is not limited by my apartment walls, or the daily route to university or the workplace."
-    "Neue Orte und Landschaften beruhigten mein Herz und halfen mir zu realisieren, dass die Welt nicht nur aus den vier Wänden meines Apartments besteht oder dem täglichen Weg zur Uni oder zur Arbeit."
+    "Neue Orte und Landschaften beruhigten mein Herz und halfen mir, zu realisieren, dass die Welt nicht nur aus den vier Wänden meines Apartments besteht oder aus dem täglichen Weg zur Uni oder zum Arbeitsplatz."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3287
 translate german day6_sl_e1e86b71:
 
     # "А если это так, то в нём есть люди, которым живётся лучше или хуже."
     #"And thus there are people who are doing better or worse than me."
-    "Und das es Menschen gibt, denen es besser oder schlechter geht als mir."
+    "Und dass es Menschen gibt, denen es besser oder schlechter geht als mir."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3288
 translate german day6_sl_0d93e329:
 
     # "А значит, мои среднестатистические проблемы не столь трагичны, как кажется."
     #"And so my typical problems are not as bad as they appear to be."
-    "Und das meine üblichen Probleme gar nicht so schlimm sind, wie sie auf mich wirken."
+    "Und dass meine alltäglichen Probleme gar nicht so schlimm sind, wie sie auf mich wirken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3289
 translate german day6_sl_b18f3f5e:
 
     # "Я невольно усмехнулся."
     #"I suddenly smiled."
-    "Plötzlich musste ich leise lachen."
+    "Ich musste unwillkürlich grinsen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3291
 translate german day6_sl_e07c37b3:
@@ -14306,21 +14306,21 @@ translate german day6_sl_41274eff:
 
     # me "Ничего, просто я тут вспоминал…{w} Ну да неважно! Пойдём!"
     #me "Nothing, I just remembered…{w} Never mind! Let's go!"
-    me "Nichts, ich erinnerte mich nur grade an...{w} Egal! Lass uns gehen!"
+    me "Nichts, ich erinnerte mich nur gerade an...{w} Egal! Lass uns gehen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3294
 translate german day6_sl_3529c624:
 
     # "Держась за руки, мы направились в лес."
     #"We headed to the forest, still holding hands."
-    "Händchen haltend liefen wir in den Wald."
+    "Händchenhaltend liefen wir in den Wald."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3301
 translate german day6_sl_359460da:
 
     # "Вскоре мы вышли на полянку, возможно ту же самую, где сидели час назад, а может на совсем другую, я разобрать не мог."
     #"Eventually we came to a glade, probably the one where we sat an hour ago. Or it could be a different one, as I couldn't distinguish one from another."
-    "Schließlich erreichten wir eine Lichtung, vielleicht war es die, vor der wir vor einer Stunde saßen. Oder es war eine andere, die ich nicht kannte."
+    "Schließlich erreichten wir eine Lichtung, vielleicht war es die, auf der wir vor einer Stunde saßen. Oder es war eine andere, die ich nicht kannte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3303
 translate german day6_sl_817547ad:
@@ -14341,7 +14341,7 @@ translate german day6_sl_e4bedbb9:
 
     # me "Нет, давай пойдём дальше."
     #me "No, let's go further."
-    me "Nein, lass uns weiter gehen."
+    me "Nein, lass uns noch ein Stück weiter gehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3307
 translate german day6_sl_af1d965e:
@@ -14369,7 +14369,7 @@ translate german day6_sl_9bb4b00c:
 
     # sl "Это точно…"
     #sl "You're right..."
-    sl "Da hast du Recht..."
+    sl "Da hast du recht..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3316
 translate german day6_sl_3605a2b3:
@@ -14432,7 +14432,7 @@ translate german day6_sl_2e80f38f:
 
     # th "Опять мне приходится принимать решения.{w} А ведь я совершенно не знаю, чем можно заняться."
     #th "I had to make a decision once again.{w} While I had absolutely no idea what could we do."
-    th "Wieder einmal muss ich einen Entscheidung treffen.{w} Und ich habe absolut keine Ahnung, was ich tun soll."
+    th "Wieder einmal muss ich eine Entscheidung treffen.{w} Und ich habe absolut keine Ahnung, was ich tun soll."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3326
 translate german day6_sl_d3c3f841:
@@ -14460,28 +14460,28 @@ translate german day6_sl_66f97779:
 
     # me "Я совсем не…"
     #me "I'm not…"
-    me "Mache ich mir nicht..."
+    me "Mach ich gar nicht..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3332
 translate german day6_sl_033b4661:
 
     # sl "Я же вижу!"
     #sl "I can see you are!"
-    sl "Ich sehe, dass du das tust."
+    sl "Ich sehe, dass du das tust!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3333
 translate german day6_sl_a63fa39d:
 
     # me "Ну просто потому что…"
     #me "Well, it's just because…"
-    me "Also, es ist nur weil..."
+    me "Also, es ist nur, weil..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3334
 translate german day6_sl_7bf46dbb:
 
     # sl "Всё в порядке."
     #sl "It's fine."
-    sl "Alles ist Ok."
+    sl "Alles ist gut."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3335
 translate german day6_sl_0fa7e23d:
@@ -14509,7 +14509,7 @@ translate german day6_sl_59929532:
 
     # me "Да и нечего, в общем..."
     #me "Well, there is nothing really to talk about…"
-    me "Ja, da gibt es nicht viel zu erzählen..."
+    me "Hm, da gibt es nicht viel zu erzählen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3341
 translate german day6_sl_ac0560c7:
@@ -14558,7 +14558,7 @@ translate german day6_sl_762cefe1:
 
     # sl "Не знаю…{w} Скрываешь от меня что-нибудь?"
     #sl "I don't know…{w} Like, you’re hiding something from me?"
-    sl "Ich weiß es nicht...{w} Weil du was vor mir verbirgst?"
+    sl "Ich weiß es nicht...{w} Vielleicht, weil du was vor mir verheimlichst?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3349
 translate german day6_sl_869dccdf:
@@ -14614,7 +14614,7 @@ translate german day6_sl_ee707346:
 
     # "Уверен, что если бы на её месте был бы кто-нибудь другой, он бы не вёл себя настолько спокойно."
     #"I'm sure that anyone but her would not be so calm here."
-    "Ich bin mir sicher, jemand anders an ihrer Stelle, wäre nicht so ruhig geblieben."
+    "Ich bin mir sicher, jemand anderes wäre an ihrer Stelle nicht so ruhig geblieben."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3359
 translate german day6_sl_2d42f5c8:
@@ -14628,7 +14628,7 @@ translate german day6_sl_50dc5f53:
 
     # sl "Ну, расскажи про себя. Какие-нибудь интересные случаи из жизни!"
     #sl "Well, tell me about yourself. Anything interesting that happened in your life!"
-    sl "Also erzähl mir von dir. Irgendetwas, dass dir in deinem Leben passiert ist!"
+    sl "Erzähl mir von dir. Irgendetwas, dass dir in deinem Leben passiert ist!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3362
 translate german day6_sl_e9233663:
@@ -14656,14 +14656,14 @@ translate german day6_sl_40e09782:
 
     # me "Когда был маленький – лет 5-6, наверное, – у меня на даче был шалашик."
     #me "When I was a kid – like 5 or 6 years old I guess – there was a small hut near my family's country house."
-    me "Als ich noch ein Kind war - so 5 - 6 Jahre alt - gab es da eine kleine Hütte in der Nähe der Datscha meiner Eltern."  # Info for developer: Add note18
+    me "Als ich noch ein Kind war - so 5, 6 Jahre alt - gab es da eine kleine Hütte in der Nähe der Datscha meiner Eltern."  # Info for developer: Add note21
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3366
 translate german day6_sl_6642f6b7:
 
     # me "Крепкий такой, из досок, на крыше рубероид, в общем, в случае войны послужил бы бомбоубежищем."
     #me "A solid one, made from wooden boards, with tar paper roof, so it could be used as a bombshelter in case of war."
-    me "Sie war sehr stabil aus Holzbretter gebaut mit einem Dach aus Teerpappe. Man hätte sie im Krieg fast als Luftschutzbunker nutzen können."
+    me "Sie war echt stabil, aus Holzbrettern gebaut mit einem Dach aus Teerpappe. Man hätte sie im Krieg sicher als Luftschutzbunker nutzen können."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3367
 translate german day6_sl_23e95695:
@@ -14677,14 +14677,14 @@ translate german day6_sl_4ea8163e:
 
     # me "А за ним были грядки с клубникой."
     #me "And there were beds of strawberries behind it."
-    me "Und unten waren ganze Beete von Erdbeeren."
+    me "Und unten waren weitläufige Erdbeerbeete."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3369
 translate german day6_sl_78f3b806:
 
     # me "И все те доли секунды, что я летел до них, думал, что всё – вот она, костлявая с клюкой пришла, а перед глазами пронеслась вся жизнь, всего за 6 лет, но всё же…"
     #me "And during those split seconds that I was falling I thought – that's it, the grim reaper had come for me, and my entire life ran through my head. A life just six years long, but still…"
-    me "Und während der Sekundenbruchteile, die ich hinunter fiel, dachte ich - das wars, der Sensenmann kommt mich holen und mein gesamtes Leben ging an meinem Auge vorbei. Ein Leben von sechs Jahren, aber noch immer..."
+    me "Und während dieser Sekundenbruchteile, in denen ich hinunter fiel, dachte ich - das wars, der Sensenmann kommt mich holen und mein gesamtes Leben zog vor meinen Augen vorbei. Ein Leben von gerade sechs Jahren, aber dennoch..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3370
 translate german day6_sl_a269facd:
@@ -14733,7 +14733,7 @@ translate german day6_sl_851543b3:
 
     # me "Не знаю…{w} Наверное…"
     #me "I don't know…{w} I guess it is…"
-    me "Ich weiß nicht...{w} Ich glaube es ist dumm..."
+    me "Ich weiß nicht...{w} Ich schätze es ist dumm..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3380
 translate german day6_sl_3aa2017b:
@@ -14761,7 +14761,7 @@ translate german day6_sl_1cc1d82f:
 
     # me "Эх…"
     #me "Eh…"
-    me "Ähm..."
+    me "Ähem..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3385
 translate german day6_sl_384065ad:
@@ -14775,14 +14775,14 @@ translate german day6_sl_d9e5ad4e:
 
     # me "Ещё я как-то с мостика упал в пруд и чуть не утонул."
     #me "Also, I once fell into a pond from a bridge and almost drowned."
-    me "Ich bin einmal von der Brücke in den Teich gefallen und fast ertrunken."
+    me "Ich bin einmal von einer Brücke in einen Teich gefallen und fast ertrunken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3388
 translate german day6_sl_745d222d:
 
     # sl "У тебя все истории какие-то…"
     #sl "Your stories are all…"
-    sl "Deine Geschichten sind alle..."
+    sl "Deine Geschichten sind alle so..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3389
 translate german day6_sl_75767d26:
@@ -14824,14 +14824,14 @@ translate german day6_sl_fcde635e:
 
     # me "Да я как-то не любитель особо.{w} Да и не в чем."
     #me "I'm not really fond of that.{w} I don't even have anything to swim in."
-    me "Das mag ich nicht so.{w} Ich habe nicht mal Schwimmsachen dabei."
+    me "Ich bin kein großer Freund davon.{w} Ich habe nicht einmal Schwimmsachen dabei."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3397
 translate german day6_sl_81cd01eb:
 
     # sl "Да ладно тебе!"
     #sl "Oh, come on!"
-    sl "Jetzt komm schon!"
+    sl "Ach komm schon!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3398
 translate german day6_sl_6db70b0c:
@@ -14859,35 +14859,35 @@ translate german day6_sl_72436a13:
 
     # sl "Давай-давай!"
     #sl "Oh, come on!"
-    sl "Jetzt komm schon!"
+    sl "Ach komm schon!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3404
 translate german day6_sl_41c34d45:
 
     # "Славя весело засмеялась и побежала к озеру, по дороге расстёгивая рубашку."
     #"Slawja laughed and ran off to the lake, unbuttoning her shirt on the way."
-    "Slawja lachte und rannte zum See, während sie sich auf dem Weg dahin das Hemd aus zog."
+    "Slawja lachte und rannte zum See, wobei sie ihr Hemd aufzuknöpfen begann."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3405
 translate german day6_sl_a62eafb3:
 
     # me "Ну… эээ…"
     #me "Well… Hmm…"
-    me "Also.. Hmmm..."
+    me "Also... Hmmm..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3406
 translate german day6_sl_5b6dae07:
 
     # "Я встал со спальника и медленно направился за ней."
     #"I stood up from the sleeping bag and slowly headed her way."
-    "Ich stand von dem Schlafsack auf und folgte ihr gemütlich."
+    "Ich stand vom Schlafsack auf und folgte ihr gemächlich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3411
 translate german day6_sl_e09166ac:
 
     # "Когда я подошёл, Славя уже весело плескалась в озере, а вокруг валялась раскиданная одежда."
     #"When I came closer, Slawja was already splashing in the lake, with all her clothes left lying around."
-    "Als ich näher kam, planschte Slawja bereits im See, ihre Kleidung lag überall verstreut herum."
+    "Als ich näher kam, planschte Slawja bereits im See, und ihre Kleidung lag überall verstreut herum."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3412
 translate german day6_sl_87701f3c:
@@ -14943,28 +14943,28 @@ translate german day6_sl_a7e3e304:
 
     # th "Да и не главное это сейчас!"
     #th "But that isn't the most important thing now!"
-    th "Aber das ist nicht das wichtigste!"
+    th "Aber das ist jetzt nicht so wichtig!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3420
 translate german day6_sl_4fe83cce:
 
     # me "Я плавки не взял..."
     #me "I didn’t bring my swimming trunks…"
-    me "Ich habe keine Badehose mit genommen..."
+    me "Ich habe keine Badehose mitgenommen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3421
 translate german day6_sl_96942526:
 
     # "Наверное, не самая уместная отговорка при данных обстоятельствах."
     #"I guess that wasn't the most suitable excuse at the moment."
-    "Ich denke, das war die in dem Moment nicht geeignetste Ausrede."
+    "Ich denke, das war die in dem Moment am wenigsten geeignete Ausrede."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3422
 translate german day6_sl_cbfa9c42:
 
     # sl "Ну так и я..."
     #sl "So? Neither did I…"
-    sl "Ach? ich auch nicht..."
+    sl "Ach? Ich auch nicht..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3423
 translate german day6_sl_475bb393:
@@ -14985,7 +14985,7 @@ translate german day6_sl_8cac9455:
 
     # me "Я и не боюсь! Чего тут бояться..."
     #me "I’m not! There's nothing to be afraid of…"
-    me "Hab ich nicht! Es gibt nichts, wovor man sich fürchten muss..."
+    me "Hab ich nicht! Es gibt nichts, wovor ich mich fürchten muss..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3426
 translate german day6_sl_6dfc8e2e:
@@ -15006,7 +15006,7 @@ translate german day6_sl_1a6a0ccb:
 
     # "Наверное, и хотелось согласиться – но чтобы всё это было не так.{w} Не так спонанно и беспричинно."
     #"I probably wanted to comply – but with everything happening some other way.{w} Not in a such spontaneous and random manner."
-    "Ich wollte wohl zustimmen - aber alles läuft anders ab.{w} Weniger spontan und grundlos."
+    "Ich wollte wohl zustimmen - aber unter anderen Umständen.{w} Weniger spontan und grundlos."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3429
 translate german day6_sl_3ef72e17:
@@ -15041,14 +15041,14 @@ translate german day6_sl_7332342b:
 
     # me "Зачем?"
     #me "What for?"
-    me "Wozu?"
+    me "Warum?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3434
 translate german day6_sl_936f6483:
 
     # sl "Затем!{w} Вот я выйду – надо будет высохнуть!"
     #sl "Because!{w} When I'll get out – I'll need a way to dry myself!"
-    sl "Deswegen!{w} Wenn ich raus komme, brauche ich was, womit ich mich Trockenen kann!"
+    sl "Darum!{w} Wenn ich rauskomme, brauche ich etwas, um mich trocknen zu können!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3435
 translate german day6_sl_6829db90:
@@ -15090,7 +15090,7 @@ translate german day6_sl_e5ff5614:
 
     # "Я медленно начал одной веточкой сверлить дырку в другой."
     #"I started to drill one stick into another slowly."
-    "Langsam begann ich mit einem Stock ein Loch in einen anderen zu bohren."
+    "Langsam begann ich, mit einem Stock ein Loch in einen anderen zu bohren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3447
 translate german day6_sl_2723a1cb:
@@ -15118,35 +15118,35 @@ translate german day6_sl_75c51157:
 
     # "Мне понадобилось ещё минут 20 мучений, но наконец перед спальником горел небольшой костёрчик."
     #"It took me another twenty minutes of suffering, but in the end I had a small fire burning next to the sleeping bag."
-    "Es kostete mich noch weitere zwanzig Minuten des Leidens, aber letztlich brannte dann doch ein kleines Feuer neben dem Schlafsack."
+    "Es kostete mich noch weitere zwanzig Minuten Schwerstarbeit, aber letztlich brannte dann doch ein kleines Feuer neben dem Schlafsack."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3453
 translate german day6_sl_b893bafe:
 
     # "Я лениво подкидывал туда ветки."
     #"I was throwing more sticks into it lazily."
-    "Gelangweilt warf ich weitere Äste hinein."
+    "Gelangweilt warf ich ein paar weitere Äste hinein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3454
 translate german day6_sl_b50189b8:
 
     # "Однако вот оно как получатся – человек ко всему приспосабливается, и даже я, возможно, смог бы выжить в тайге."
     #"This is how it turns out – man can adapt to anything and so I could probably even survive in a snowy forest."
-    "So stellt sich heraus - man kann sich an alles anpassen und so könnte ich vielleicht sogar in der Taiga überleben."
+    "Es stellte sich heraus - man kann sich an alles anpassen, und so hätte ich vielleicht sogar in der Taiga überleben können."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3455
 translate german day6_sl_2545e174:
 
     # "Из мыслей о выживании меня вывела Славя, которая нависла надо мной."
     #"My survivalist thoughts were interrupted by Slawja who suddenly appeared right above me."
-    "Slawja, die plötzlich über mir stand, riss mich aus meinen Gedanken der Überlebenskunst."
+    "Slawja, die plötzlich über mir stand, riss mich aus meinen Gedanken zur Überlebenskunst."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3456
 translate german day6_sl_14c08f52:
 
     # sl "Какой ты молодец."
     #sl "Wow! You’re good."
-    sl "Boa! Du bist echt gut."
+    sl "Boah! Du bist echt gut."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3457
 translate german day6_sl_ad95378a:
@@ -15223,7 +15223,7 @@ translate german day6_sl_d43342bf:
 
     # sl "Расскажи ещё что-нибудь!"
     #sl "Tell me something else!"
-    sl "Erzähl mir noch mehr!"
+    sl "Erzähl mir noch was!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3472
 translate german day6_sl_77005469:
@@ -15272,7 +15272,7 @@ translate german day6_sl_10e70ee5:
 
     # "Животные инстинкты затуманивали разум."
     #"Animal instincts were clouding my mind."
-    "Tierische Instinkte fingen an, meinen Geist zu benebeln."
+    "Animalische Instinkte fingen an, meinen Verstand zu benebeln."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3479
 translate german day6_sl_e909c247:
@@ -15356,7 +15356,7 @@ translate german day6_sl_75404f9d:
 
     # sl "Может, и не стоит сдерживаться?"
     #sl "Maybe we shouldn't hold back?"
-    sl "Vielleicht solltest du dich weniger zurück halten?"
+    sl "Vielleicht sollten wir uns nicht weiter zurückhalten?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3491
 translate german day6_sl_b31684a0:
@@ -15377,7 +15377,7 @@ translate german day6_sl_618577b1:
 
     # "Между нами случилось нечто прекрасное, такое, о чём еще шесть днй назад я не мог и мечтать."
     #"Something wonderful happened between us, something that I couldn't even dream of six days ago."
-    "Etwas Wundervolles passierte mit uns etwas, dass ich mir vor sechs Tagen nie hätte träumen lassen."
+    "Etwas Wundervolles passierte zwischen uns, etwas, was ich mir vor sechs Tagen nicht hätte träumen lassen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3511
 translate german day6_sl_f6734dd5:
@@ -15398,7 +15398,7 @@ translate german day6_sl_9513cd87:
 
     # me "Да…"
     #me "Yeah..."
-    sl "Ja..."
+    me "Ja..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3521
 translate german day6_sl_a2d3eaed:
@@ -15454,21 +15454,21 @@ translate german day6_sl_755c0af5:
 
     # "Вскоре она размеренно задышала."
     #"Soon her breathing became deep and steady."
-    "Schon bald wurde ihr Atem ruhig und stetig."
+    "Schon bald wurde ihr Atem ruhig und gleichmäßig."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3530
 translate german day6_sl_3634f3f3:
 
     # "Вокруг ветер тихо шевелил листья на деревьях, совсем рядом колыхалась трава, а над лицом летали мелкие назойливые мошки."
     #"The wind quietly rustled the leaves on the trees around us, the grass was swaying next to us, and tiny bugs buzzed annoyingly overhead."
-    "Der wind rauschte leise in den Blättern der Bäume. Das Gras neben uns raschelte und kleine nervige Mücken flogen über mein Gesicht."
+    "Der Wind rauschte leise in den Blättern der Bäume. Das Gras um uns herum raschelte sanft und kleine nervige Mücken flogen über mein Gesicht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3531
 translate german day6_sl_0ece9306:
 
     # "Мне вдруг показалось, что это самое лучшее место, виденное мной за всю жизнь."
     #"Suddenly I realised this was the best place I have ever seen in my life."
-    "Dann kam es mir auf einmal so vor, als wäre dies der beste Ort, an dem ich jemals gewesen bin."
+    "Plötzlich wurde mir klar, dass dieser Ort das Beste war, das ich jemals zu Gesicht bekommen hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3533
 translate german day6_sl_b249ce58:
@@ -15481,7 +15481,7 @@ translate german day6_sl_b249ce58:
 translate german day6_sl_ce617998:
 
     # "…"
-    "…"
+    "..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3539
 translate german day6_sl_a20cefa7_2:
@@ -15494,14 +15494,14 @@ translate german day6_sl_dcbe279a:
 
     # "Я открыл глаза и увидел над собой бушующую крону дуба."
     #"I opened my eyes and saw the top of an oak roaring above."
-    "Ich öffnete meine Augen und sah, wie ein starker Wind durch die Eiche über mir rauschte."
+    "Ich öffnete meine Augen und sah, wie der Wind durch die Eiche über mir rauschte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3548
 translate german day6_sl_4ec20237:
 
     # "Поднялся сильный ветер, пронизывающий до костей."
     #"A strong wind had risen, chilling me to the bone."
-    "Ein starker Wind war aufgekommen und er kühlte mich bis auf die Knochen aus."
+    "Ja, ein starker Wind war aufgekommen und ging mir durch Mark und Bein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3549
 translate german day6_sl_35f2530a:
@@ -15550,7 +15550,7 @@ translate german day6_sl_1829982a:
 
     # th "Мы же не рядом с Чернобылем всё-таки."
     #th "We're not around Chernobyl or anything."
-    th "Wir sind hier nicht in der Nähe von Tschernobyl oder so."
+    th "Wir sind hier nicht in der Nähe von Tschornobyl oder so."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3561
 translate german day6_sl_fab822c4:
@@ -15564,28 +15564,28 @@ translate german day6_sl_45db8adc:
 
     # "Я зачерпнул воды и с жадностью опустил лиц в ладони."
     #"I scooped up some water and eagerly dipped my face into my hands."
-    "Ich nahm etwas Wasser mit den Händen auf und spülte es über mein Gesicht."
+    "Ich schöpfte etwas Wasser auf und senkte mein Gesicht gierig in meine Handflächen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3564
 translate german day6_sl_c60407cd:
 
     # "Мне показалось, что это не озеро, а самый настоящий родник, настолько вода была вкусная."
     #"The water tasted so good that it felt like it came from a spring, not a lake."
-    "Das Wasser war so gut, dass es sich anfühlte, als käme es von einer Quelle und nicht aus einem See."
+    "Das Wasser war so gut, dass es sich anfühlte, als käme es direkt von einer Quelle und nicht aus einem See."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3565
 translate german day6_sl_1f3eb0be:
 
     # "Снизу на меня смотрело моё отражение, подёрнутое разводами и лунным блеском."
     #"My reflection stared at me, blurred in the water and touched by the moonlight."
-    "Mein Spiegelbild schaute mich an, verschwamm und wurde vom Mondlicht überlagert."
+    "Mein Spiegelbild schaute mich an, verschwommen und vom Mondlicht überlagert."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3566
 translate german day6_sl_023f70e4:
 
     # "Похоже, оно улыбалось."
     #"It seemed to be smiling."
-    "Er schien zu lächeln."
+    "Es schien zu lächeln."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3567
 translate german day6_sl_342dc487:
@@ -15599,7 +15599,7 @@ translate german day6_sl_0a38142d:
 
     # "В приподнятом настроении духа я направился назад с твёрдым намерением проспать до утра..."
     #"Overjoyed, I headed back, fully intending to sleep till morning..."
-    "Sehr glücklich ging ich zurück mit der Absicht, bis zum Morgen durch zu schlafen..."
+    "Überglücklich spazierte ich zurück zum Schlafsack mit der Absicht, bis zum Morgen durchzuschlafen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3570
 translate german day6_sl_855eb22e:
@@ -15613,7 +15613,7 @@ translate german day6_sl_f17137d4:
 
     # "Я обернулся на шум и увидел, что за деревом кто-то стоит."
     #"I turned to see what made the noise and saw someone behind a tree."
-    "Ich drehte mich um, um zu sehen, was das war und entdeckte jemanden hinter einem Baum."
+    "Ich drehte mich zur Geräuschquelle um und entdeckte jemanden hinter einem Baum."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3572
 translate german day6_sl_1d2d3e1b:
@@ -15634,7 +15634,7 @@ translate german day6_sl_3a866645:
 
     # FIXME_voice "Не надо так орать."
     #FIXME_voice "There's no need to scream like that."
-    FIXME_voice "Es gibt keinen Grund, sich zu fürchten."
+    FIXME_voice "Es gibt keinen Grund, so zu schreien."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3575
 translate german day6_sl_c555bb93:
@@ -15648,7 +15648,7 @@ translate german day6_sl_7ccaacb2:
 
     # "Я подошёл ближе и увидел Лену."
     #"I came closer and saw Lena."
-    "Ich ging näher hin und entdeckte Lena."
+    "Ich kam etwas näher und entdeckte Lena."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3578
 translate german day6_sl_2821e6eb:
@@ -15697,21 +15697,21 @@ translate german day6_sl_2d954428:
 
     # th "Она наверняка здесь не просто так."
     #th "She's definitely here for a reason."
-    th "Das sie hier ist, hat sicher einen Grund."
+    th "Dass sie hier ist, hat sicher einen Grund."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3587
 translate german day6_sl_a5f26668:
 
     # th "Да что оворить – мы сюда еле дошли, а уж «гуляя» к этому озеру точно не выйдешь."
     #th "Besides, we barely made it here. You can't reach this lake on a 'walk'!"
-    th "Wir brauchten hier her schon sehr lange. Diesen See erreicht man nicht bei einem normalen 'Spaziergang'."
+    th "Wir brauchten hierher schon ziemlich lange. Diesen See erreicht man nicht bei einem normalen 'Spaziergang'."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3588
 translate german day6_sl_9c114242:
 
     # th "И даже ночью можно увидеть в паре десятков шагов отсюда спящую Славю..."
     #th "And even at night, Slawja sleeping a dozen steps away was in a clear view..."
-    th "Und selbst nachts konnte man Slawja, die einige Meter von hier schlief, noch sehen..."
+    th "Und selbst jetzt kann man Slawja, die nur einige Meter von hier schläft, noch sehen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3589
 translate german day6_sl_f95c9fc9:
@@ -15767,7 +15767,7 @@ translate german day6_sl_4ae58fde:
 
     # un "Ну, не так уж…"
     #un "Well, not that long..."
-    un "Also, nich nicht so lange..."
+    un "Nun, noch nicht so lange..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3599
 translate german day6_sl_8b16db24:
@@ -15781,21 +15781,21 @@ translate german day6_sl_dc72cd9c:
 
     # un "Это не много!"
     #un "Not long!"
-    un "Nicht lange!"
+    un "Nicht lang!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3601
 translate german day6_sl_2406c221:
 
     # "Отрезала Лена."
     #"Lena snapped."
-    "Sagte sie knapp."
+    "Unterbrach mich Lena."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3602
 translate german day6_sl_93ecd6c4:
 
     # me "Ладно…{w} И всё?"
     #me "Alright...{w} Is that all?"
-    me "Also gut...{w} Wars das?"
+    me "Also gut...{w} War's das?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3603
 translate german day6_sl_0da946d4:
@@ -15816,7 +15816,7 @@ translate german day6_sl_1350bc39:
 
     # un "Тебе, наверное, пора возвращаться, а то Славя замёрзнет."
     #un "You should probably get back. Slawja will get cold."
-    un "Du solltest vielleicht zurück. Sonst fängt Slawja an zu frieren."
+    un "Du solltest vielleicht zurückgehen. Slawja fängt an zu frieren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3606
 translate german day6_sl_65796b62:
@@ -15844,14 +15844,14 @@ translate german day6_sl_17b466c5:
 
     # un "А что я должна думать, а?{w} По-моему, тут всё предельно понятно."
     #un "Well what am I supposed to think, huh?{w} Seems as clear as day."
-    un "Also, was soll ich denken, hm?{w} Es scheint doch glasklar zu sein."
+    un "Was soll ich denn denken, hm?{w} Es scheint alles glasklar zu sein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3612
 translate german day6_sl_8c370f90:
 
     # me "Да, наверное…{w} То есть ничего не скажешь?"
     #me "I guess...{w} So you're not going to say anything?"
-    me "Ich dachte...{w} du bist nicht hier her gekommen, um was zu sagen?"
+    me "Ich dachte...{w} du bist nicht hierher gekommen, um was zu sagen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3613
 translate german day6_sl_1ab636d8:
@@ -15914,7 +15914,7 @@ translate german day6_sl_30f3651c:
 
     # un "Ну вот Славя – раз, и вы уже тут.{w} А потом второй, третий, потом тебе надоест.{w} Возможно, надоест."
     #un "Well, like Slawja. Bam, this time it's magical. And then you do it another time, and another, and then you get tired of it.{w} Maybe."
-    un "Nun nehmen wir mal Slawja. Das erste Mal ist es wie Magie. Dann machst du es wieder und wieder. Und irgendwann wird es dir langweilig.{w} Möglicherweise."
+    un "Nehmen wir mal Slawja. Das erste Mal ist magisch. Dann macht ihr es wieder und wieder. Und irgendwann wird es dir langweilig.{w} Möglicherweise."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3622
 translate german day6_sl_f14d3856:
@@ -15928,14 +15928,14 @@ translate german day6_sl_9e6298f4:
 
     # un "Поэтому я и говорю – тебе надо дорожить тем, что имеешь, пусть это и достаётся без особого труда."
     #un "That's what I'm saying – you need to cherish what you have, even if you don't put much effort into getting it."
-    un "Deswegen sage ich, du musst schätzen, was du hast, auch wenn du keine Mühe aufwenden musst, um es zu bekommen."
+    un "Ich sagte es bereits - du musst wertschätzen, was du hast, auch wenn du keine große Mühe aufwenden musstest, um es zu bekommen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3624
 translate german day6_sl_6d7c4722:
 
     # me "Если ты считаешь, что я к этому отношусь как к игре, то ты сильно ошибаешься."
     #me "If you think I'm treating this like a game, you are totally wrong."
-    me "Wenn du glaubst, ich spiele hier nur ein Spiel, dann liegst du völlig falsch."
+    me "Wenn du glaubst, dass das alles hier nur ein Spiel für mich ist, dann liegst du völlig falsch."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3625
 translate german day6_sl_44fccd69:
@@ -15949,7 +15949,7 @@ translate german day6_sl_2b60d758:
 
     # me "И вообще!{w} Может быть, не стоит лезть не в своё дело?"
     #me "Besides!{w} How about staying out of the things that are none of your business?"
-    me "Wie auch immer!{w} Vielleicht solltest du dich einfach nur nicht in Dinge einmischen, die dich nichts an gehen."
+    me "Wie auch immer!{w} Vielleicht solltest du dich einfach nicht in Dinge einmischen, die dich nichts angehen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3628
 translate german day6_sl_356d8152:
@@ -15970,7 +15970,7 @@ translate german day6_sl_7967d505:
 
     # un "Кажется, тебе стоит больше думать о том, что ты делаешь и собираешься сделать, чтобы потом не было мучительно больно."
     #un "I think you should pay more attention to what you're doing and planning to do, so you don't feel any torturing regrets later on."
-    un "Es scheint, als solltest du mehr darauf achten, was du tust und wie du es planst, damit du es nicht später schmerzlich bereust."
+    un "Es scheint, als solltest du mehr darauf achten, was du tust und zu tun gedenkst, damit du es nicht später schmerzlich bereust."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3632
 translate german day6_sl_54eac6ad:
@@ -15991,7 +15991,7 @@ translate german day6_sl_5361e5b6:
 
     # un "Может и так…"
     #un "Well, maybe so..."
-    un "Na ja, vielleicht ist es das..."
+    un "Hmm, vielleicht tut es das..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3636
 translate german day6_sl_71411d8c:
@@ -16012,7 +16012,7 @@ translate german day6_sl_cad298e3:
 
     # un "Нет, совсем нет, что ты…"
     #un "No, not at all..."
-    un "Nein, ganz und gar nicht."
+    un "Nein, ganz und gar nicht..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3639
 translate german day6_sl_d8b4d5a6:
@@ -16047,7 +16047,7 @@ translate german day6_sl_a4493a46:
 
     # "Когда она уже почти совсем скрылась из виду, я заметил, что у неё в руке что-то блеснуло в лунном свете."
     #"When she was almost gone from sight, I noticed something in her hand blinking in the moonlight."
-    "Als sie fast nicht mehr zu sehen war, bemerkte ich, wie etwas in ihrer Hand im Mondlicht auf blitzte."
+    "Als sie schon fast nicht mehr zu sehen war, bemerkte ich, wie etwas in ihrer Hand im Mondlicht aufblitzte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3647
 translate german day6_sl_77992443:
@@ -16075,7 +16075,7 @@ translate german day6_sl_8fbd4ba7:
 
     # "Надеюсь, что так же я согревал и Славю…"
     #"I hope I was keeping Slawja warm as well..."
-    "Ich hoffte, dass ich Slawja auch warm hielt..."
+    "Ich hoffe, dass ich Slawja auch warm hielt..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3672
 translate german day6_dv_c15cbee2:
@@ -16089,21 +16089,21 @@ translate german day6_dv_4f2d9d90:
 
     # "Да и чувствовал себя я на удивление сносно, хотя после всех вчерашних приключений должен был, по идее, проспать весь день."
     #"I felt surprisingly okay, although I should have slept through the day after what happened the night before."
-    "Ja, ich fühlte mich erstaunlich gut, dabei hätte ich den ganzen Tag schlafen müssen, nach all dem, was ich in der Nacht zuvor erlabt habe."
+    "Ja, ich fühlte mich erstaunlich gut, dabei hätte ich den ganzen Tag schlafen müssen, nach allem, was ich in der Nacht zuvor erlebt hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3674
 translate german day6_dv_2702e092:
 
     # "Тихо, чтобы не будить вожатую, взял пакет с умывальными принадлежностями и вышел из домика."
     #"Quietly, so as not to wake the camp leader, I took the bag with my washing-up stuff and went outside."
-    "Leiese, ohne die Lagerleiterin zu wecken, nahm ich meinen Beutel mit den Waschsachen und ging raus."
+    "Leise, ohne die Lagerleiterin zu wecken, nahm ich meinen Kulturbeutel und ging raus."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3683
 translate german day6_dv_0cbfa63c:
 
     # "Я забыл посмотреть на часы, но, похоже, было шесть или семь утра."
     #"I forgot to look at the clock but it seemed like six or seven in the morning."
-    "Ich vergas noch auf die Uhr zu sehen, aber es wird so sechs oder sieben gewesen sein."
+    "Ich vergaß, auf die Uhr zu sehen, aber es wird so sechs oder sieben gewesen sein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3684
 translate german day6_dv_1e1204ff:
@@ -16124,28 +16124,28 @@ translate german day6_dv_62f242c5:
 
     # "Я вдохнул полной грудью вкусный прохладный воздух и подумал, что даже для меня, совы, иногда очень полезно и приятно просыпаться в такую рань."
     #"I took a deep breath of the tasty cold air and thought that even a night owl like me can enjoy waking up this early sometimes."
-    "Ich atmete die kühle Morgenluft tief ein und dachte mir, dass selbst eine Nachteule, wie ich es eine bin, es manchmal genießen kann, früh auf zu stehen."
+    "Ich atmete die kühle Morgenluft tief ein und dachte mir, dass es selbst eine Nachteule wie ich manchmal genießen kann, früh aufzustehen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3687
 translate german day6_dv_1fc263e9:
 
     # "Само собой, на «улицах» пионерлагеря было пустынно."
     #"The 'streets' of the camp were empty of course."
-    "Die Wege des Pionierlagers waren natürlich noch leer."
+    "Die 'Straßen' des Lagers waren natürlich noch leer."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3693
 translate german day6_dv_6b08ba9d:
 
     # "Вода здесь обычно была ледяной, но тогда она казалась просто-таки добытой из недр Антарктиды.{w} Даже руки от неё сводило…"
     #"The water here has always been cold but today it seems like they got it from the Antarctic depths.{w} Even my hands went numb from it..."
-    "Das Wasser hier war schon immer kalt, aber heute schien es, als käme es aus den Tiefen des Atlantiks.{w} Meine Hände wurden sogar davon taub..."
+    "Das Wasser hier war immer schon kalt, aber heute schien es, als käme es aus den Tiefen der Antarktis.{w} Meine Hände wurden sogar taub davon..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3699
 translate german day6_dv_07d87721:
 
     # "Закончив гигиенические процедуры, я решил немного пройтись по лагерю."
     #"Finishing with my hygiene, I decided to walk around the camp a bit."
-    "Als ich mit meiner Morgenwäsche fertig war, beschloss ich noch ein wenig im Lager herum zu laufen."
+    "Als ich mit meiner Morgenwäsche fertig war, beschloss ich, noch ein wenig im Lager herumzulaufen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3700
 translate german day6_dv_c8815fd4:
@@ -16173,21 +16173,21 @@ translate german day6_dv_4b83221f:
 
     # "Улыбнувшись про себя удачной шутке, я направился в сторону лодочной станции."
     #"I smiled at my successful joke and headed to the boat shed."
-    "Ich lächelte über meinem gelungenen Witz und lief weiter zum Bootshaus."
+    "Ich lächelte über meinen gelungenen Witz und lief weiter zum Bootshaus."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3714
 translate german day6_dv_714f4f97:
 
     # "Шёл, напевая какую-то старую песенку, в полной уверенности, что не сплю здесь один."
     #"As I walked I hummed some song, absolutely sure I was the only one awake here."
-    "Während ich lief, summte ich ein Lied vor mich hin, sicher, dass ich der Einzige war, der hier wach ist."
+    "Ich summte im Laufen ein Lied vor mich hin, sicher, dass ich der Einzige war, der hier wach ist."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3722
 translate german day6_dv_24dad558:
 
     # "Тем больше было моё удивление, когда я увидел, что на пристани кто-то сидит, свесив ноги в воду."
     #"To my great surprise I saw someone sitting at the pier, hanging her feet in the water."
-    "Zu meiner Überraschung sah ich jemanden auf dem Steg sitzen, dessen Füße im Wasser hingen."
+    "Zu meiner Überraschung sah ich auf dem Steg jemanden sitzen, dessen Füße im Wasser hingen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3724
 translate german day6_dv_b284c8b7:
@@ -16201,7 +16201,7 @@ translate german day6_dv_b3358970:
 
     # "Я подошёл и остановился в нерешительности, не зная, что сказать."
     #"I came closer and stopped, not sure what to say."
-    "Ich ging näher hin und hielt an. Ich wusste nicht, was ich sagen sollte."
+    "Ich kam etwas näher und hielt an, verunsichert darüber, was ich sagen sollte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3728
 translate german day6_dv_31a54a49:
@@ -16292,14 +16292,14 @@ translate german day6_dv_5a2cc2c6:
 
     # dv "Тьфу!"
     #dv "Oh for God's sake!"
-    dv "Oh man!"
+    dv "Ach Herr im Himmel!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3745
 translate german day6_dv_0239f53c:
 
     # th "Кажется, мой ответ не засчитан."
     #th "My answer didn't seem to go down well."
-    th "Diese Antwort zählt wohl nicht."
+    th "Diese Antwort zählte wohl nicht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3746
 translate german day6_dv_f6787280:
@@ -16334,7 +16334,7 @@ translate german day6_dv_114bfae2:
 
     # dv "Тогда на вечер у меня на тебя планы!"
     #dv "In that case I have plans for you tonight!"
-    dv "In diesem Fall habe ich heute Abend etwas mit dir vor!"
+    dv "In diesem Fall hab ich heute Abend etwas vor mit dir!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3752
 translate german day6_dv_0b273a12:
@@ -16355,7 +16355,7 @@ translate german day6_dv_0ba7958b:
 
     # me "Ну, если я в них участвую…"
     #me "Well, since I'm a part of them..."
-    me "Also, ich bin ein Tail davon..."
+    me "Also, ich bin ein Teil davon..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3756
 translate german day6_dv_0ac4aace:
@@ -16390,21 +16390,21 @@ translate german day6_dv_7c3046d7:
 
     # "Я несколько испугался и уступил ей дорогу."
     #"A bit scared, I cleared the way."
-    "Ein wenig verängstigt, machte ich den Weg frei."
+    "Ein wenig verängstigt machte ich den Weg frei."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3763
 translate german day6_dv_225e8e60:
 
     # dv "Не делай никаких глупостей!"
     #dv "Don't do anything stupid!"
-    dv "Mach nichts dummes!"
+    dv "Mach keine Dummheiten!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3764
 translate german day6_dv_3af4c20c:
 
     # "Бросила Алиса, удаляясь от лодочной станции."
     #"Alisa said, moving away from the boat shed."
-    "Sagte Alisa, als sie vom Bootshaus wegging."
+    "Sagte Alisa, während sie sich vom Bootshaus entfernte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3766
 translate german day6_dv_f1425e57:
@@ -16418,14 +16418,14 @@ translate german day6_dv_544d6ac4:
 
     # "Я совершенно не имел никакого желания становиться участником какого-нибудь террористического акта по подрыву памятников или чего-то в тако духе…"
     #"I had no wish to become a part of some terrorist act against a monument or anything..."
-    "Ich hatte kein Verlangen danach an einem Terrorakt teilzuhaben, bei dem Denkmäler oder Ähnliches in die Luft gesprengt werden..."
+    "Ich hatte kein Verlangen danach, an einem Terroranschlag teilzunehmen, bei dem Denkmäler oder Ähnliches in die Luft gesprengt werden..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3768
 translate german day6_dv_9ede4c1b:
 
     # "К тому же меня до сих пор мучали мысли о вчерашнем разговоре с Леной на острове."
     #"Besides, I was still haunted by yesterday's talk with Lena on the island."
-    "Außerdem verfolgte mich noch immer das Gespräch mit Lena, gestern Abend auf der Insel."
+    "Außerdem verfolgte mich noch immer das Gespräch mit Lena gestern Abend auf der Insel."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3769
 translate german day6_dv_8241f1ad:
@@ -16446,7 +16446,7 @@ translate german day6_dv_0566e7d0:
 
     # "Я чувствовал себя виноватым во всём произошедшем, но понять, в чём моя вина состояла конкретно, не мог."
     #"I felt guilty about everything that had happened but I couldn't figure out what exactly I was guilty of."
-    "Ich fühlte mich an all dem, was gestern passierte, schuldig, aber ich konnte nicht sagen, woran ich schuld bin."
+    "Ich fühlte mich schuldig für all das, was gestern passiert war, aber ich konnte nicht sagen, woran genau ich denn schuld bin."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3773
 translate german day6_dv_7ea39484:
@@ -16467,7 +16467,7 @@ translate german day6_dv_c58fe4ea:
 
     # th "В конце концов, в кои-то веки буду первым!"
     #th "At least I'd be the first one there for once!"
-    th "So bin ich wenigstens der Erste!"
+    th "So bin ich wenigstens ausnahmsweise mal der Erste!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3783
 translate german day6_dv_25d2dc92:
@@ -16530,7 +16530,7 @@ translate german day6_dv_f6ff66c7:
 
     # "Перед глазами сразу пронеслись все события минувшей ночи."
     #"All of last night’s events flashed before my eyes."
-    "Die Ereignisse der vergangenen Nacht liefen vor meinem geistigen Auge noch einmal ab."
+    "Die Ereignisse der vergangenen Nacht kamen mir wieder in den Sinn."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3794
 translate german day6_dv_17717ee8:
@@ -16586,7 +16586,7 @@ translate german day6_dv_96b90470:
 
     # un "А ничего сложного нет!"
     #un "There's nothing complicated about this!"
-    un "Daran ist nicht kompliziert!"
+    un "Daran ist nichts kompliziert!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3806
 translate german day6_dv_1a20f786:
@@ -16621,7 +16621,7 @@ translate german day6_dv_025de025:
 
     # me "Понятно…{w} Но в данной ситуации это всё произошло из-за меня."
     #me "I see...{w} But in this case, it happened because of me."
-    me "Ich weiß...{w} Aber in diesem Fall geht es um mich."
+    me "Verstehe...{w} Aber in diesem Fall ging es um mich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3812
 translate german day6_dv_a9702184:
@@ -16649,21 +16649,21 @@ translate german day6_dv_99d1db6f:
 
     # me "Может быть, я действительно виноват…{w} Нет, точнее, я не пытаюсь сказать, что я не виноват, просто…"
     #me "Perhaps I really am to blame...{w} Or rather, I'm not trying to say that I'm not to blame, but..."
-    me "Vielleicht bin ich schuld...{w} Oder besser, ich versuche nicht zu sagen, dass ich nicht schuld bin, nur..."
+    me "Vielleicht bin ich schuld...{w} Oder besser, ich versuche nicht zu sagen, dass ich unschuldig wäre, nur..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3816
 translate german day6_dv_5d2a7a44:
 
     # "Я оправдывался, как нашкодивший пятиклассник."
     #"I was trying to explain myself like a fifth-grader to a teacher."
-    "Ich versuchte mich zu erklären, wie ein Fünftklässler seinem Lehrer."
+    "Ich versuchte, mich zu erklären wie ein Fünftklässler seinem Lehrer."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3817
 translate german day6_dv_b0c06763:
 
     # un "Ладно, не надо!{w} Я же говорю, ничего не произошло такого!"
     #un "Okay, don't!{w} As I said, nothing serious happened!"
-    un "Na gut, dann halt nicht!{w} Wie gesagt, es ist nichts ersnts passiert!"
+    un "Schon gut, lass es sein!{w} Wie gesagt, es ist nichts ernstes passiert!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3818
 translate german day6_dv_bd04f9b5:
@@ -16677,7 +16677,7 @@ translate german day6_dv_bd742d8d:
 
     # un "Просто теперь тебе стоит задуматься о том, как вести себя дальше…"
     #un "You should just think about how to act from now on..."
-    un "Du solltest nur darüber nach denken, wie du dich von jetzt an verhallten, solltest..."
+    un "Du solltest nur darüber nachdenken, wie du dich von jetzt an verhalten wirst..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3820
 translate german day6_dv_dc477843:
@@ -16691,7 +16691,7 @@ translate german day6_dv_9b902801:
 
     # "Я закрыл лицо руками, явно давая понять, что абсолютно не представляю, что здесь происходит, и что всё это мне, мягко говоря, неприятно."
     #"I covered my face with my hands, clearly showing that I have absolutely no idea what's going on here and that everything, to put it mildly, is very unpleasant for me."
-    "Ich bedecke mein Gesicht mit meinen Händen und zeige klar, dass ich absolut keine Ahnung habe, was hier passiert, und dass mir das alles unangenehm ist, gelinde gesagt."
+    "Ich schlug die Hände vors Gesicht, um zu zeigen, dass ich absolut keine Ahnung hatte, was los war, und dass mir das alles, gelinde gesagt, ziemlich unangenehm war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3822
 translate german day6_dv_bc39bcd1:
@@ -16719,7 +16719,7 @@ translate german day6_dv_ebf71d2d:
 
     # me "Слушай, если я не понимаю, в чём виноват, то и не могу исправиться!{w} Правильно «вести себя дальше», как ты выражаешься."
     #me "Look, if I don't know what I did wrong I can't do better!{w} I can't decide on how to 'act' as you say."
-    me "Sieh mal, wenn ich nicht weiß, was ich falsch gemacht habe, dann kann ich mich nicht bessern!{w} Ich kann keine Entscheidung über mein 'Handeln' treffen, wie du es auszudrücken vermagst."
+    me "Sieh mal, wenn ich nicht weiß, was ich falsch gemacht habe, dann kann ich mich nicht bessern!{w} Ich kann keine Entscheidung über mein 'Verhalten' treffen, wie du es sagtest."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3828
 translate german day6_dv_f2f9031f:
@@ -16740,35 +16740,35 @@ translate german day6_dv_27475010:
 
     # "Неожиданно дверь в столовую распахнулась, и оттуда вышла Ольга Дмитриевна."
     #"The canteen door suddenly flew open, and Olga Dmitrijewna came out."
-    "Die Kantinentüre öffnete sich plötzlich und Olga Dmitrijewna kam heraus."
+    "Die Kantinentür öffnete sich plötzlich und Olga Dmitrijewna kam heraus."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3838
 translate german day6_dv_03906774:
 
     # mt "С утра пораньше уже голодные сидите?"
     #mt "Sitting around hungry this early?"
-    mt "Sitzt ihr schon den ganzen Morgen hier hungrig herum?"
+    mt "Sitzt ihr hier schon den ganzen Morgen hungrig herum?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3839
 translate german day6_dv_759d5254:
 
     # "Задорно сказала она."
     #"She said playfully."
-    "Sagte sie fröhlich."
+    "Scherzte sie heiter."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3840
 translate german day6_dv_5567bace:
 
     # un "Доброе утро!"
     #un "Good morning!"
-    un "Guten morgen!"
+    un "Guten Morgen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3841
 translate german day6_dv_4fb197ff:
 
     # "Весело ответила Лена, встала и направилась внутрь."
     #"Lena said merrily. She got up and headed inside."
-    "Sagte Lena fröhlich. Sie stand auf und ging hinein."
+    "Sagte Lena fröhlich. Sie stand auf und ging in die Kantine."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3843
 translate german day6_dv_35698e3a:
@@ -16789,21 +16789,21 @@ translate german day6_dv_d2b198a7:
 
     # "Наш разговор не был закончен, но вдруг, откуда ни возьмись, набежали пионеры, и, когда я взял завтрак, Лена уже сидела в окружении Мику, Жени и Слави, и, как это ни прискорбно, места за их столом не сталось."
     #"We were not done talking, but pioneers appeared out of nowhere and flooded the place. By the time I got my breakfast Lena was already sitting, surrounded by Miku, Schenja and Slawja. Sadly, there were no more free chairs at their table."
-    "Wir waren mit unserem Gespräch noch nicht zu Ende, aber plötzlich kamen von überall her Pioniere angelaufen und füllten die Kantine. Als ich mein Frühstück hatte, saß Lena bereits mit Miku, Schenja und Slawja an einem Tisch. Leider war dort kein Platz mehr frei."
+    "Wir waren mit unserem Gespräch noch nicht fertig, aber plötzlich kamen von überall her Pioniere angelaufen und füllten die Kantine. Als ich mein Frühstück hatte, saß Lena bereits mit Miku, Schenja und Slawja an einem Tisch. Leider war dort kein Platz mehr frei."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3853
 translate german day6_dv_b59dc367:
 
     # "Я в расстроенных чувствах, демонстративно ни с кем не здороваясь, направился в дальний угол столовой на своё любимое место."
     #"Feeling down and deliberately not saying “hi” to anybody, I headed to my favourite place in the far corner of the canteen."
-    "Frustriert und absichtlich ohne jemanden zu grüßen, ging ich in die hinterste Ecke der Kantine zu meinem Lieblingsplatz."
+    "Frustriert grüßte ich demonstrativ keine von ihnen und ging in die hinterste Ecke der Kantine zu meinem Lieblingsplatz."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3854
 translate german day6_dv_64b85b7a:
 
     # "Быстро прожевав овсянку (а консистенция у неё сегодня была как раз жевательная) и запив холодным чаем, я принялся расматривать окружающих."
     #"I chewed my oatmeal (it really was chewy today) and washed it down with some cold tea. Then I began to watch the others."
-    "Ich kaute auf meinen Haferflocken (und, die waren heute wirklich zäh) und spülte sie mit etwas Eistee herunter. Dann begann ich die anderen zu beobachten."
+    "Ich kaute auf meinen Haferflocken (und die waren heute wirklich zäh) und spülte sie mit etwas Eistee herunter. Dann begann ich, die anderen zu beobachten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3855
 translate german day6_dv_9224c445:
@@ -16817,14 +16817,14 @@ translate german day6_dv_4b50e0bf:
 
     # "Кто-то весело болтал, кто-то, как Электроник с Шуриком, сосредоточенно ел, а кто-то, как и я, считал ворон."
     #"Some were chatting, some, like Elektronik and Schurik, were immersed in chewing, and some were gawping around, like me."
-    "Einige redeten miteinander, andere wie Elektronik und Schurik, kauten vor sich hin, und wieder andere wie ich, schauten Löcher in die Luft."
+    "Einige redeten miteinander, andere kauten wie Elektronik und Schurik vor sich hin, und wieder andere starrten Löcher in die Luft, so wie ich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3858
 translate german day6_dv_3ddb5562:
 
     # "Я уже собирался уходить, как к моему столу подскочила Ульянка с подносом, доверху забитым разными яствами."
     #"I was just about to leave when Uljana jumped over to my table, with her tray heaped with food."
-    "Ich wollte gerade gehen, als Uljana angesprungen kam, mit einem Tablett, dass übervoll mit Essen war."
+    "Ich wollte gerade gehen, als Uljanka angesprungen kam mit einem Tablett, das prall gefüllt mit Essen war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3859
 translate german day6_dv_0a9f12c1:
@@ -16859,14 +16859,14 @@ translate german day6_dv_93b62c6f:
 
     # us "Растущему организму нужно много калорий!"
     #us "A growing body requires a lot of calories!"
-    us "Ein Körper im Wachstum braucht viel Kalorien."
+    us "Ein Körper im Wachstum braucht viele Kalorien!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3865
 translate german day6_dv_3c9d580c:
 
     # me "Да, тебе бы подрасти не мешало…"
     #me "Yeah, you really should grow up a bit..."
-    me "Ja wäre nicht schlecht, wenn du erwachsener würdest..."
+    me "Ja, du solltest wirklich erwachsener werden..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3866
 translate german day6_dv_9db6b90d:
@@ -16887,7 +16887,7 @@ translate german day6_dv_19ce3442:
 
     # "Кажется, она не услышала."
     #"I didn't think she heard me."
-    "Ich glubte nicht, dass sie mich verstanden hat."
+    "Ich glaubte nicht, dass sie mich verstanden hatte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3870
 translate german day6_dv_84662d7a:
@@ -16922,28 +16922,28 @@ translate german day6_dv_2f41a894:
 
     # "Надо было занести пакет с умывальными принадлежностями – не болтаться же с ним по лагерю весь день."
     #"I should have taken the washing-up stuff back in. I don't want to carry it around all day."
-    "Ich sollte mein Waschzeug wieder zurückbringen. Ich will das nicht den ganzen Tag mit mir herumschleppen."
+    th "Ich sollte mein Waschzeug wieder zurückbringen. Ich will das nicht den ganzen Tag mit mir herumschleppen."      # hier klingt der Satz als Nacherzählung wieder merkwürdig und sollte als Gedanke formuliert werden
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3883
 translate german day6_dv_8dc289f1:
 
     # th "Да и что я сегодня намереваюсь делать?"
     #th "Besides, what am I going to do today?"
-    th "Und was will ich heute tun?"
+    th "Und überhaupt, was will ich heute tun?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3884
 translate german day6_dv_ae9fb3ad:
 
     # "Ничего решительно не приходило в голову."
     #"Nothing at all came to mind."
-    "Mir viel nichts ein."
+    "Mir fiel nichts ein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3885
 translate german day6_dv_409f5623:
 
     # "И настроение было такое, что, кажется, сейчас кто-то подбежит и пригласит в какое-нибудь увлекательное путешествие."
     #"I was in such a mood that it seemed like someone was going to show up and invite me on a journey."
-    "Ich fühlte mich, als ob jemand kommen und mich auf eine aufregende Reise mit nehmen würde."
+    "Ich fühlte mich, als ob jeden Moment jemand kommen und mich auf eine aufregende Reise mitnehmen würde."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3897
 translate german day6_dv_f321b160:
@@ -16971,7 +16971,7 @@ translate german day6_dv_8543a313:
 
     # sl "Ты занят?"
     #sl "Busy?"
-    sl "Hats du was zu tun?"
+    sl "Hast du was zu tun?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3902
 translate german day6_dv_5cb822ee_1:
@@ -17006,21 +17006,21 @@ translate german day6_dv_32de2538:
 
     # th "В конце концов, плюс-минус пара десятков часов вряд ли как-то изменят моё положение."
     #th "A couple dozen hours wouldn't change my situation after all."
-    th "Es ist doch unwahrscheinlich, dass plus minus ein paar Stunden irgendwas an meiner Situation ändern."
+    th "Es ist doch unwahrscheinlich, dass ein paar Stunden mehr oder weniger irgendetwas an meiner Situation ändern."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3907
 translate german day6_dv_3eeb5def:
 
     # me "Что такое?"
     #me "What is it?"
-    me "Was gibts?"
+    me "Was gibt es?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3908
 translate german day6_dv_ac32d9f9:
 
     # sl "Надо зайти в кружок кибернетики и…{w} Я и сама точно не знаю, они тебе там всё объяснят."
     #sl "You should stop by the Cybernetics club...{w} I don't know why exactly, they'll tell you everything."
-    sl "Du sollst beim Cybernetik Club vorbei schaun...{w} Worum es genau geht, weiß ich auch nicht, sie erklähren dir alles."
+    sl "Du sollst beim Kybernetik-Club vorbeischaun...{w} Worum es genau geht, weiß ich auch nicht, sie werden dir alles erklären."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3909
 translate german day6_dv_6954719a:
@@ -17048,7 +17048,7 @@ translate german day6_dv_0167daaa:
 
     # "Она мило улыбнулась и убежала."
     #"She gave me a nice smile and ran off."
-    "Sie lächelte süß und lief davon."
+    "Sie schenkte mir ein süßes Lächeln und lief davon."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3915
 translate german day6_dv_dd9995b4:
@@ -17062,7 +17062,7 @@ translate german day6_dv_1ad8199f:
 
     # "Я решительно толкнул дверь и вошёл внутрь."
     #"I pushed the door firmly and entered."
-    "Ich öffnete die Türe schwungvoll und ging rein."
+    "Ich öffnete die Tür schwungvoll und ging rein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3932
 translate german day6_dv_45391550:
@@ -17076,7 +17076,7 @@ translate german day6_dv_1d3a15b7:
 
     # "Несколько зловеще сказал Электроник, оторвавшись от какого-то приспособления, которое он ковырял отвёрткой."
     #"Elektronik said a bit ominously, glancing up from some contraption he had been poking with a screwdriver."
-    "Sagte Elektronik ein wenig bedrohlich und schaute von einem Gerät auf, dass er mit einem Schraubendreher anstieß."
+    "Sagte Elektronik ein wenig ominös und schaute von einem Gerät auf, dass er mit einem Schraubendreher anstieß."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3934
 translate german day6_dv_81505d19:
@@ -17111,7 +17111,7 @@ translate german day6_dv_7c46f700:
 
     # "В это время вторая дверь открылась, и вошёл Шурик."
     #"The second door opened, and Schurik came in."
-    "Die andere Türe öffnete sich und Schurik kam rein."
+    "Die andere Tür öffnete sich und Schurik trat ein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3940
 translate german day6_dv_839ded9e:
@@ -17125,14 +17125,14 @@ translate german day6_dv_cf64a48c:
 
     # "Таким же тоном, как и Электроник, поприветствовал он меня."
     #"He greeted me in the same tone Elektronik had."
-    "Er begrüßte mich in dem selben Tonfall wie Elektronik."
+    "Er begrüßte mich in demselben Tonfall wie Elektronik."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3942
 translate german day6_dv_1e1be213:
 
     # me "С утра был…"
     #me "Well, I was last time I checked..."
-    me "Das bin ich den ganzen Morgen schon..."
+    me "Der bin ich schon den ganzen Morgen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3943
 translate german day6_dv_27c62366:
@@ -17167,14 +17167,14 @@ translate german day6_dv_74f9f6cb:
 
     # sh "Дело в том, что к нам вчера заходила медсестра."
     #sh "The nurse came by yesterday."
-    sh "Also die Krankenschwester war gestern hier."
+    sh "Also - die Krankenschwester war gestern hier."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3950
 translate german day6_dv_c8c1467c:
 
     # "Он остановился, словно не собирался дальше продолжать."
     #"He stopped, as if he wasn't going to continue."
-    "Er unterbrach, als wollte er nicht weiter reden."
+    "Er hielt inne, als wollte er nicht weiterreden."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3951
 translate german day6_dv_f95c9fc9_1:
@@ -17272,7 +17272,7 @@ translate german day6_dv_0031a3ab:
 
     # me "Ладно, хорошо…"
     #me "Alright, fine..."
-    me "Also gut, Okay..."
+    me "Also gut, meinetwegen..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3968
 translate german day6_dv_1888335c:
@@ -17286,14 +17286,14 @@ translate german day6_dv_3a378445:
 
     # sh "Сейчас."
     #sh "Hold on."
-    sh "Warte einen Moment."
+    sh "Warte kurz."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3976
 translate german day6_dv_4ef4398f:
 
     # "Шурик скрылся за дверью и вернулся через секунду, держа в руках бумажный свёрток."
     #"Schurik disappeared through the door and soon came back holding something wrapped in paper."
-    "Schurik verschwand hinter der Türe und kam kurz darauf mit Etwas in Papier Gewickeltem zurück."
+    "Schurik verschwand hinter der Tür und kam kurz darauf mit etwas in Papier gewickeltem zurück."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3978
 translate german day6_dv_b9fafe93:
@@ -17314,7 +17314,7 @@ translate german day6_dv_abb01373:
 
     # "Я взял у него свёрток и заметил, что пионеры смотрели на меня так, как будто вручают мне если и не ключи от рая, то точно передают эстафету олимпийского огня."
     #"I took the package. If the pioneers weren't passing me the key to the Pearly Gates, it still looked like they were at least giving me the Olympic Torch."
-    "Ich nahm das Päckchen und wenn es schon nicht wirkte, als wollen sie mir den Schlüssel zum Paradis geben, dann sah es zumindest so aus, als übergäben sie mir die Olympische Fackel."
+    "Ich nahm das Päckchen an mich. Auch wenn die Pioniere mir nicht die Schlüssel zum Paradies überreichten, dann doch zumindest die olympische Fackel."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3981
 translate german day6_dv_c3714a4b:
@@ -17356,14 +17356,14 @@ translate german day6_dv_9dd454a1:
 
     # "Я вышел на улицу и внимательно оглядел свёрток."
     #"Outside, I took a good look at the package."
-    "Draußen betrachtete ich mir das Päckchen genauer."
+    "Draußen betrachtete ich das Päckchen genauer."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3995
 translate german day6_dv_e18730b6:
 
     # "Они не говорили мне не смотреть, что там, значит, вполне можно было и развернуть его."
     #"They never told me not to open it."
-    "Sie haben nichts davon gesagt, dass ich es nicht öffnen durfte."
+    "Sie hatten nichts davon gesagt, dass ich es nicht öffnen durfte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3996
 translate german day6_dv_2c50bd85:
@@ -17391,42 +17391,42 @@ translate german day6_dv_76fdd246:
 
     # th "Интересно.{w} Что в нём такого?{w} Почему он для них так важен?{w} Почему сами не могли отнести?"
     #th "I wonder.{w} What's in it?{w} Why is it so important for them?{w} Why couldn't they take it themselves?"
-    th "Interessant.{w} Was da wohl drinne ist?{w} Warum das für sie wohl so wichtig ist?{w} Und warum können sie es nicht selber rüber bringen?"
+    th "Interessant.{w} Was da wohl drin ist?{w} Warum ist das für sie so wichtig?{w} Und warum können sie es nicht selber vorbeibringen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4012
 translate german day6_dv_b468a82a:
 
     # "Вопросов было много."
     #"I had a lot of questions."
-    "Viele Fragen."
+    "Fragen über Fragen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4015
 translate german day6_dv_fb32ffc9:
 
     # "Я развернул его и увидел бутылку водки «Столичная»…"
     #"I opened the package and saw a bottle of 'Stolichnaya' vodka."
-    "Ich öffnete das Päckchen und sah eine Flasche 'Stolichnaya' Wodka."
+    "Ich öffnete das Päckchen und sah eine Flasche 'Stolichnaya'-Wodka."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4016
 translate german day6_dv_420166b4:
 
     # th "Да, чего такого…{w} Пионеры несут водку медсестре.{w} Точнее, я несу за них.{w} Обыденное дело…"
     #th "Well, so what?{w} Pioneers bringing a bottle of vodka to the nurse.{w} Or rather, I'm doing it for them.{w} Happens every day."
-    th "Ja, was ist hier denn los...{w} Pioniere bringen eine Flasche Wodka zur Krankenschwester.{w} Oder genauer, ich mache das für sie.{w} Völlig normal..."
+    th "Ja, was ist hier denn los...{w} Pioniere bringen eine Flasche Wodka zur Krankenschwester.{w} Oder eher, ich mache das für sie.{w} Völlig normal..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4017
 translate german day6_dv_87a11b40:
 
     # "Я вновь завернул бутылку и почесал затылок."
     #"I wrapped the bottle back up and scratched my head."
-    "Ich wickelte die Flasche wieder ein und kratzte mir am Kopf."
+    "Ich wickelte die Flasche wieder ein und kratzte mich am Kopf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4018
 translate german day6_dv_d78595da:
 
     # th "Это уже не странно, это попросту глупо."
     #th "This isn't weird anymore, this is just stupid."
-    th "Das ist nicht mehr seltsam, nur noch dumm."
+    th "Das ist nicht mehr seltsam, das ist nur noch dumm."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4019
 translate german day6_dv_72e21fc3:
@@ -17447,49 +17447,49 @@ translate german day6_dv_521a35e9:
 
     # "Слава богу, Ольги Дмитриевны не было, и я, вороватым шагом зайдя внутрь, начал рыться в столе."
     #"Thank God, Olga Dmitrijewna was not there. I snuck inside and began to rifle through the contents of the table drawer."
-    "Gott sei dank, Olga Dmitrijewna war nicht hier. Ich schlich mich hinein und begann die Tischschublade zu durchsuchen."
+    "Gott sei Dank, Olga Dmitrijewna war nicht hier. Ich schlich mich hinein und begann, die Tischschublade zu durchsuchen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4027
 translate german day6_dv_e0aa3f01:
 
     # "Вскоре водка была перелита в пустую бутылку из-под Дюшеса, а её место заняла протухшая вода для поливки цветов."
     #"Soon, the vodka was in a soda bottle, while in its place was some water for the plants."
-    "Bald schon war der Wodka in eine Wasserflasche umgefüllt und durch Blumenwasser ersetzt."
+    "Schon bald war der Wodka in eine Wasserflasche umgefüllt und durch Blumenwasser ersetzt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4033
 translate german day6_dv_089fc8e9:
 
     # "Довольный своим хитрым планом, я вышел на улицу и вприпрыжку направился в медпункт."
     #"Happy with my clever plan, I went out and skipped along the way to the infirmary."
-    "Zufrieden mit meinem Plan ging ich raus und lief zur Krankenstation rüber."
+    "Zufrieden mit meinem gewieften Plan ging ich raus und joggte zur Krankenstation."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4041
 translate german day6_dv_1e5e0588:
 
     # th "Нет, ведь правда, что такого?{w} Они, можно сказать, меня подставили!{w} А если бы меня увидела вожатая..."
     #th "Seriously, what is so wrong about that?{w} They almost got me into a trap!{w} If the camp leader had seen me..."
-    th "Mal ehrlich, was ist so falsch daran?{w} Die haben mich fast in eine Falle laufen lassen!{w} Wenn mich die Lagerleiterin gesehen hätte..."
+    th "Mal ehrlich, was ist so falsch daran?{w} Die haben mich fast ins Messer laufen lassen!{w} Wenn mich die Lagerleiterin gesehen hätte..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4042
 translate german day6_dv_ef0f0a3b:
 
     # th "Если бы ещё кто?"
     #th "If anyone else had?"
-    th "Oder jemand anders?"
+    th "Oder jemand anderes?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4043
 translate german day6_dv_2fc32561:
 
     # th "Да, в конце концов, могли и сами…"
     #th "I could have managed myself..."
-    th "Ja, das hätten sie auch selber erledigen können..."
+    th "Ja, das hätten sie wirklich selber erledigen können..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4044
 translate german day6_dv_cc444139:
 
     # th "Так что ничего такого ровным счётом!"
     #th "So it was absolutely nothing!"
-    th "Da ist überhaupt nichts dabei!"
+    th "Da ist also überhaupt nichts dabei!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4049
 translate german day6_dv_c8139598:
@@ -17503,14 +17503,14 @@ translate german day6_dv_5d7721f0:
 
     # cs "Привет…{w} пионер!"
     #cs "Hello... pioneer!"
-    cs "Hallo... Pionier!"
+    cs "Hallo...{w} Pionier!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4061
 translate german day6_dv_99266ac9:
 
     # me "Здравствуйте!{w} А у меня для вас посылка, принёс бутылку для вашего мальчика…{w} То есть принёс посылку для вашего шкафчика."
     #me "Hello! I have a package for you – a bottle for your armpit... I mean a package for your cabinet."
-    me "Hallo!{w} Ich habe ein Päckchen für sie - eine Flasche für ihre Jungs...{w} Ich meine ein Päckchen zum wegschließen."
+    me "Hallo!{w} Ich habe ein Päckchen für Sie - eine Flasche für Ihre Jungs...{w} Ich meine - ein Päckchen zum wegschließen." # ...wat?
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4062
 translate german day6_dv_a2debb84:
@@ -17552,7 +17552,7 @@ translate german day6_dv_b68868ff:
 
     # "Медсестра убрала его в стол, не разворачивая."
     #"The nurse stuffed it into the desk drawer without looking."
-    "Ohne es sich weiter zu betrachten, verstaute sie es in der Schreibtischschublade."
+    "Ohne es sich weiter anzusehen, verstaute sie es in der Schreibtischschublade."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4068
 translate german day6_dv_bda69ee6:
@@ -17601,49 +17601,49 @@ translate german day6_dv_4aaea0be:
 
     # "Закрыв за собой дверь, я вздохнул."
     #"I closed the door behind me and let out a sigh."
-    "Ich schloss die Türe hinter mir und seufzt hörbar."
+    "Ich schloss die Tür hinter mir und seufzte hörbar."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4083
 translate german day6_dv_23623d22:
 
     # th "Если что, всегда можно всё свалить на безумных изобретателей, а в моей ситуации даже самые примитивные средства снятия стресса пригодятся!"
     #th "I could always pin this on the crazy inventors, and in my situation I could really use even the most basic form of stress relief!"
-    th "Das konnte ich den verrückten Erfindern in die Schuhe schieben, und in meiner Situation konnte ich selbst die einfachste Art der Stressbewätltigung gut gebrauchen!"
+    th "Das konnte ich den verrückten Erfindern in die Schuhe schieben, und in meiner Situation konnte ich jede Form der Stressbewältigung gut gebrauchen!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4089
 translate german day6_dv_0cd6a776:
 
     # "Я вышел на площадь.{w} На часах был полдень, а значит, до обеда оставалось всего ничего."
     #"I came to the square.{w} The clock showed noon. That meant dinner was coming."
-    "Ich erreichte den großen Platz.{w} Die Uhr zeigte Mittag, was bedeutete, es gab bald Essen."
+    "Ich erreichte den großen Platz.{w} Die Uhr zeigte Mittag, was bedeutete, dass es bald Essen gab."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4090
 translate german day6_dv_e4fa05b8:
 
     # "Я сел на лавочку с твёрдым намерением не сходить с этого места, пока не заиграет музыка, означающая, что время трапезничать настало."
     #"I sat on the bench with the solid intention of not moving from here until the come-and-get-it bell sound comes."
-    "Ich setzte mich auf eine Bank mit dem festen Vorhaben, mich nicht wegzubewegen, bis der Essenruf durch die Lautsprecher tönte."
+    "Ich setzte mich auf eine Bank mit dem festen Vorsatz, mich nicht von dort wegzubewegen, bis der Gong zum Essen durch die Lautsprecher tönte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4091
 translate german day6_dv_c6cc3d58:
 
     # "Мимо пробегали пионеры.{w} Они смеялись, весело кричали."
     #"Pioneers were running by.{w} They were smiling and shouting merrily."
-    "Pioniere rannten vorbei.{w} Sie lachten und schienen fröhlich."
+    "Pioniere rannten vorbei.{w} Sie lachten und schienen guter Dinge zu sein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4092
 translate german day6_dv_94906696:
 
     # th "Да, сегодня определённо замечательный день."
     #th "Yes, the day was definitely a wonderful one."
-    th "Ja, das ist ein absolut wundervoller Tag."
+    th "Ja, das ist wahrlich ein wundervoller Tag."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4093
 translate german day6_dv_cdd7919b:
 
     # "Окинув взглядом площадь, я увидел Лену, приближающуюся ко мне."
     #"I glanced over the square and saw Lena approaching."
-    "Ich schaute über den Platz und sah Lena zu mir herüber kommen."
+    "Ich schaute über den Platz und sah Lena zu mir herüberkommen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4097
 translate german day6_dv_f3d744ae:
@@ -17671,7 +17671,7 @@ translate german day6_dv_2c5438ac:
 
     # un "Хороший день?"
     #un "Nice day, huh?"
-    un "Toller Tag, nicht war?"
+    un "Toller Tag, nicht wahr?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4101
 translate german day6_dv_31663314:
@@ -17685,14 +17685,14 @@ translate german day6_dv_fde4d309:
 
     # "Меня несколько смутило, что Лена сегодня казалась совсем не такой как всегда – ничего не стеснялась, не краснела, говорила уверенно."
     #"It was a bit awkward. Lena seemed different. She was not embarrassed, her face was not red, she was confident."
-    "Es war irgednwie seltsam. Lena war so anders. Sie schämte sich nicht, ihr Gesicht war nicht rot und sie war selbstbewusst."
+    "Es war irgendwie seltsam. Lena war so anders. Sie schämte sich nicht, ihr Gesicht war nicht rot und sie war selbstbewusst."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4103
 translate german day6_dv_c20baf86:
 
     # me "Насчёт тоо разговора…"
     #me "So about that conversation..."
-    me "Also wegen der Unterhaltung..."
+    me "Also, wegen der Unterhaltung..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4104
 translate german day6_dv_8891daf5:
@@ -17783,7 +17783,7 @@ translate german day6_dv_633b4e6d:
 
     # me "Конечно… Но как это связано?"
     #me "Well of course... But what does that have to do with it?"
-    me "Ja, natürlich... Nur wie hängt das Zusammenhang?"
+    me "Ja, natürlich... Aber wo ist da der Zusammenhang?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4118
 translate german day6_dv_a7c0899d:
@@ -17811,7 +17811,7 @@ translate german day6_dv_235d1b4e:
 
     # un "Та что?"
     #un "So what?"
-    un "Na und?"
+    un "Also was?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4123
 translate german day6_dv_e7450e08:
@@ -17825,7 +17825,7 @@ translate german day6_dv_2350d104:
 
     # "Тут я задумался."
     #"And again I started thinking."
-    "Ich begann nach zu denken."
+    "Ich begann, nachzudenken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4125
 translate german day6_dv_111d6d4f:
@@ -17839,7 +17839,7 @@ translate german day6_dv_d2293c40:
 
     # me "Ну, она…{w} Бывает наглой."
     #me "Well she...{w} She can be arrogant sometimes."
-    me "Also sie... {w} Sie kann manchmal arrogant sein."
+    me "Also sie...{w} Sie kann manchmal arrogant sein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4127
 translate german day6_dv_ab97ad5d:
@@ -17853,7 +17853,7 @@ translate german day6_dv_a0062ec1:
 
     # th "А что ещё сказать?{w} Если та разобраться, я совсем не знаю Алису.{w} Хотя её поведение меня частенько раздражает."
     #th "What else can I say?{w} Now that I think of it, I don't know Alisa at all.{w} The way she acts does annoy me sometimes."
-    th "Was kann ich noch über sie sagen?{w} Jetzt, wo ich darüber nach denke, kenne ich Alisa doch nicht so gut.{w} Ihre Art und Weise nerven mich manchmal."
+    th "Was kann ich noch über sie sagen?{w} Jetzt, wo ich so darüber nachdenke, kenne ich Alisa gar nicht so richtig.{w} Ihre Art nervt mich manchmal."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4129
 translate german day6_dv_c86c4e80:
@@ -17867,7 +17867,7 @@ translate german day6_dv_631a37e5:
 
     # me "Её, конечно, заносит, но у всех свои тараканы…"
     #me "I mean, she gets carried away, but everyone has their quirks..."
-    me "Ich meine, sie lässt sich schnell mit reißen, aber jeder hat so seine Macken..."
+    me "Ich meine, sie lässt sich schnell mitreißen, aber jeder hat so seine Macken..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4132
 translate german day6_dv_4c144815:
@@ -17902,7 +17902,7 @@ translate german day6_dv_544a3a75:
 
     # "Она вновь рассмеялась, и тут заиграла обеденная музыка."
     #"She laughed out loud one more time, just before the lunch bell sound came."
-    "Wieder einmal lachte sie laut los, genau als der Essensruf durch die Lautsprecher tönte."
+    "Wieder einmal lachte sie laut los, just, als der Essensruf durch die Lautsprecher tönte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4142
 translate german day6_dv_5aac5414:
@@ -17937,7 +17937,7 @@ translate german day6_dv_14e6034a:
 
     # "Свободных мест было немного, поэтому пришлось сесть рядом с Электроником и Шуриком."
     #"There were only few spots left, so I had to sit with Elektronik and Schurik."
-    "Die meisten Plätze warn bereits belegt, also musste ich mich zu Elektronik und Schurik setzen."
+    "Die meisten Plätze waren bereits belegt, also musste ich mich zu Elektronik und Schurik setzen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4159
 translate german day6_dv_497bae1a:
@@ -17965,21 +17965,21 @@ translate german day6_dv_807920a2:
 
     # el "Без происшествий?"
     #el "No incidents?"
-    el "Keine Vorkommnisse?"
+    el "Keine Komplikationen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4163
 translate german day6_dv_a0c4afad:
 
     # me "Да…{w} А что там было?"
     #me "No incidents...{w} What was in there anyway?"
-    me "Keine Vorfälle...{w} Was war da überhaupt drinnen?"
+    me "Keine Komplikationen...{w} Was war da überhaupt drin?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4165
 translate german day6_dv_01cfac1d:
 
     # el "Ты же не открывал?"
     #el "You didn't open it did you?"
-    el "Du hast es nicht geöffnet, oder?"
+    el "Du hast es doch nicht geöffnet, oder?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4166
 translate german day6_dv_2c5335a6:
@@ -18035,21 +18035,21 @@ translate german day6_dv_b85dfb0f:
 
     # "Летнее солнце жарило так, что, казалось, вскоре расплавит всю Землю вместе с её обитателями."
     #"It felt like the summer sun was going to melt the whole planet, together with all its inhabitants."
-    "Es war so heiß, dass man glauben konnte, die Sonne würde den gesamten Planeten samt Einwohner zusammen schmelzen."
+    "Es war so heiß, dass man glauben konnte, die Sonne würde den kompletten Planeten samt seinen Einwohnern zusammenschmelzen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4187
 translate german day6_dv_4e7b8856:
 
     # "Укрыться от него было просто невозможно – оно словно отражалось от любой поверхности, а взгляд на небо был чреват слепотой."
     #"There was nowhere to hide – the sunlight seemed to reflect from every surface. Looking up, you risked going blind."
-    "Es gibt keinen Ort, an dem man sich schützen kann - die Sonne reflektiert von jeder Oberfläche zurück. Wenn man nach oben schaut, riskiert man zu erblinden."
+    "Es gab keinen Ort, an dem man sicher war - die Sonne reflektierte von jeder Oberfläche zurück. Wenn man nach oben schaute, riskierte man, zu erblinden."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4195
 translate german day6_dv_4d2a4c1c:
 
     # "Я из последних сил дёрнул ручку двери, зашёл в комнату и повалился на кровать."
     #"Using my last bit of strength, I pulled the doorhandle, entered the room and fell onto the bed."
-    "Ich nahm meine letzte Kraft zusammen, drückte die Türklinke hinab, trat ein und fiel in mein Bett."
+    "Ich nahm mein letztes bisschen Kraft zusammen, drückte die Türklinke herunter, trat ein und fiel in mein Bett."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4196
 translate german day6_dv_aefac231:
@@ -18070,28 +18070,28 @@ translate german day6_dv_799e8d13:
 
     # "Как ни странно, спать расхотелось, и меня захватили мысли, беспорядочно кишащие в голове."
     #"Strangely, sleep deserted me. I was overwhelmed with thoughts, teeming in my head."
-    "Seltsamerweise konnte ich nicht schlafen. Mich überkamen Gedanken, die chaotisch in meinem Kopf herum wirbelten."
+    "Seltsamerweise konnte ich nicht schlafen. Mich überkamen Gedanken, die chaotisch in meinem Kopf herumwirbelten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4205
 translate german day6_dv_601d58f7:
 
     # "Вот очередная теория, разгадка того, как я сюда попал.{w} Вот объяснение происходящих здесь событий.{w} А вот истинный облик здешних обитателей."
     #"Here is another theory, a solution to the problem of how I got here.{w} Here is an explanation of what's going on here.{w} And here is the true form of all those inhabiting this place."
-    "Hier ist eine weitere Theorie ein Hinweis darauf, wie ich hier her gekommen bin.{w} Hier ist eine Erklärung dafür, was hier passiert.{w} Und hier findet sich die Wahrheit über alle Einwohner."
+    "Hier ist eine weitere Theorie, ein Hinweis darauf, wie ich hierher gekommen bin.{w} Da ist eine Erklärung dafür, was hier geschieht.{w} Und dort befindet sich die Wahrheit über die Natur der Lagereinwohner."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4206
 translate german day6_dv_8152340b:
 
     # "Я вспомнил слова Лены: «Что ты думаеь об Алисе?»"
     #"I remembered Lena saying, 'What do you think about Alisa?'"
-    "Ich erinnete mich an Lenas Worte: 'Was denkst du über Alisa?'"
+    "Ich erinnerte mich an Lenas Worte: 'Was denkst du über Alisa?'"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4207
 translate german day6_dv_baeb4f56:
 
     # th "Правда, что я о ней думаю?{w} Что я вообще могу думать о человеке, которого знаю всего несколько дней?{w} Могу ли огульно делать выводы по паре слов и поступков?"
     #th "Seriously, what do I think of her?{w} What can I think of a person I've only known for a few days?{w} Can I just draw conclusions based on a couple of words and deeds?"
-    th "Was denke ich tatsächlich über sie?{w} Was kann ich schon über eine Person denken, die ich nur ein paar Tage kenne?{w} Kann ich einfach so Schlüsse aus ein paar Worten und Handlungen ziehen?"
+    th "Mal ehrlich, was denke ich über sie?{w} Was kann ich schon über eine Person denken, die ich nur ein paar Tage kenne?{w} Kann ich einfach so Schlüsse aus ein paar Worten und Taten ziehen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4208
 translate german day6_dv_4881f3b0:
@@ -18112,14 +18112,14 @@ translate german day6_dv_5492f5b1:
 
     # "По взрыву памятника соответствующие органы сразу бы сделали нужные выводы."
     #"Any relevant organization would draw the right conclusion based on the monument bombing."
-    "Jede relevante Organisation würde aufgrund der Denkmalsprengung die richtigen Schlüsse ziehen."
+    "Jede zuständige Behörde hätte nach der Denkmalsprengung die richtigen Schlüsse gezogen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4211
 translate german day6_dv_27abcde7:
 
     # th "Но мне всё же…{w} всё равно?"
     #th "Still though, I...{w} don't care?"
-    th "Aber trozdem, ist es mir...{w} egal?"
+    th "Aber trotzdem; Ist es mir...{w} egal?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4212
 translate german day6_dv_e0e83cfe:
@@ -18133,7 +18133,7 @@ translate german day6_dv_79c3d71e:
 
     # th "Разве интересен человек, который не интересен?.."
     #th "Can one be interested in a person who's not interesting?"
-    th "Kann man an einer Person interessiert sein, über die man keine Meinung hat...?"
+    th "Kann man an einer Person interessiert sein, zu welcher man keine Meinung hat...?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4214
 translate german day6_dv_32ee260b:
@@ -18147,7 +18147,7 @@ translate german day6_dv_7e8c00bf:
 
     # "В дверь постучали."
     #"A knock on the door."
-    "Es klopfte an der Türe."
+    "Es klopfte an der Tür."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4227
 translate german day6_dv_6b33d385:
@@ -18161,7 +18161,7 @@ translate german day6_dv_d96562ca:
 
     # "Вставать было лениво, поэтому я лишь слегка приподнялся на кровати."
     #"I was too lazy to get up so I just sat up a little bit."
-    "Ich war zu faul, um auf zu stehen, also setzte ich mich nur ein wenig auf."
+    "Ich war zu faul, um aufzustehen, also setzte ich mich nur ein wenig auf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4233
 translate german day6_dv_cc6d016b:
@@ -18203,7 +18203,7 @@ translate german day6_dv_e2960fb5:
 
     # me "А что тогда?"
     #me "What's up then?"
-    me "Was gibts dann?"
+    me "Was gibt's dann?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4241
 translate german day6_dv_a09125aa:
@@ -18217,14 +18217,14 @@ translate german day6_dv_5e777c99:
 
     # "Её голос звучал спокойно и совсем не вызывающе."
     #"She sounded calm and not aggressive at all."
-    "Ihre Stimme war ruhig und kein bisschen aggressiv."
+    "Ihre Stimme klang ruhig und kein bisschen aggressiv."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4243
 translate german day6_dv_15c7a20d:
 
     # "Я поймал себя на мысли, что не боюсь её и не испытываю никаких опасений, когда она ведёт себя вот так – нормально."
     #"I caught myself, thinking I was not afraid of her and had no concerns when she behaved like that – normally."
-    "Ich erwischte mich bei dem Gedanken, dass ich keine Angst vor hatte und keine Bedenken, wenn sie sich so benahm - normalerweise."
+    "Ich ertappte mich bei dem Gedanken, dass ich weder Angst vor ihr noch Bedenken hatte, wenn sie sich so benahm - normalerweise."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4244
 translate german day6_dv_7332342b:
@@ -18315,35 +18315,35 @@ translate german day6_dv_6300bc11:
 
     # dv "Ты же понимаешь, что мне…{w} Что я в любой ситуации оказываюсь виноватой?"
     #dv "You do understand I...{w} I'm always assumed to be guilty whenever anything happens?"
-    dv "Verstehts du, dass ich...{w} das ich immer für alles schuldig gemacht werde?"
+    dv "Verstehts du, dass ich...{w} dass ich immer für alles verantwortlich gemacht werde?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4259
 translate german day6_dv_0288549d:
 
     # me "Потому что так и есть."
     #me "Well you always are guilty."
-    me "Weil es so ist."
+    me "Nun, weil es so ist."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4261
 translate german day6_dv_c41aa4a5:
 
     # "Неосторожно обронил я."
     #"I said thoughtlessly."
-    "Antwortete ich gedankenlos."
+    "Antwortete ich kopflos."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4263
 translate german day6_dv_69364372:
 
     # "В её глазах сверкнул огонёк, но продолжила Алиса так же спокойно:"
     #"A spark flashed in her eyes but she kept talking calmly:"
-    "Ein gefährliches Funkeln erhellte ihre Augen, aber sie sprach ruhig weiter:"
+    "Ein gefährliches Funkeln durchzuckte ihre Augen, aber sie sprach ruhig weiter:"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4264
 translate german day6_dv_f0c03665:
 
     # dv "Может и так…{w} Но в данной ситуации…{w} У нас с Леной всегда так – она ни при чём, даже если сама кашу заварит, а все шишки сыплются на меня!"
     #dv "Maybe...{w} But in this case...{w} Me and Lena, we're always like that – even if she starts something, she's all innocent and I take all the blame!"
-    dv "Vielleicht, ja...{w} Doch in diesem Fall...{w} Es ist bei Lena immer so - sie ist an nichts schuld, auch wenn sie es verbockt, und ich bin die Schuldige!"
+    dv "Ja, vielleicht...{w} Doch in diesem Fall...{w} Es ist bei Lena und mir immer so - sie spielt das Unschuldslamm, auch wenn sie es versaut, und ich bin der Sündenbock!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4265
 translate german day6_dv_63fdbbbc:
@@ -18357,7 +18357,7 @@ translate german day6_dv_60dc8a1d:
 
     # dv "Ты вечно ничего не понимаешь!"
     #dv "You never understand anything, do you!?"
-    dv "Du kapierst doch nie irgendwas, oder!?"
+    dv "Du kapierst auch nie irgendwas, oder!?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4268
 translate german day6_dv_d1fbe814:
@@ -18371,14 +18371,14 @@ translate german day6_dv_c727773e:
 
     # th "Странно, я бы себ не назвал недогадливым."
     #th "This is strange, I wouldn't call myself slow."
-    th "Komisch, für so dumm würde ich mich nicht ausgeben."
+    th "Das ist seltsam, ich würde mich nicht als schwer von Begriff bezeichnen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4270
 translate german day6_dv_3ce5fd8b:
 
     # me "Так объясни."
     #me "So explain."
-    me "Dann erkläre es."
+    me "Dann erklär es."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4271
 translate german day6_dv_25156efc:
@@ -18413,7 +18413,7 @@ translate german day6_dv_37a6038e:
 
     # dv "Ну, теперь знаешь…"
     #dv "Well, now you do..."
-    dv "Na dann weißt du es jetzt..."
+    dv "Na, dann weißt du es jetzt..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4277
 translate german day6_dv_9ecfc70c:
@@ -18427,7 +18427,7 @@ translate german day6_dv_ae829ad1:
 
     # "В комнате повисло тягостное молчание."
     #"An uncomfortable silence overtook the room."
-    "Eine unangenehme Stille lag im Raum."
+    "Eine unangenehme Stille machte sich breit."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4279
 translate german day6_dv_62543cf8:
@@ -18462,35 +18462,35 @@ translate german day6_dv_23eb34e0:
 
     # "Сейчас я слушал Алису и был сосредоточен только на ней, остальное же можно было обдумать потом."
     #"Right at the moment, I was listening to Alisa, I was focused only on her. I could think about the rest later."
-    "Jetzt hörte ich nur Alisa zu, ich konzentrierte mich auf sie. Über alles andere könnte ich später nachdenken."
+    "Jetzt hörte ich nur Alisa zu, ich konzentrierte mich ganz auf sie. Über alles andere konnte ich später nachdenken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4285
 translate german day6_dv_4b721f97:
 
     # dv "И она думает, что я тебя у неё уведу!{w} Она постоянно так думает, понимаешь? Хотя всегда всё совершенно наоборот! Все смотрят на неё, потому что она такой ангелочек, а на меня внимания не обращают!"
     #dv "And she thinks I'm gonna steal you away from her!{w} She thinks that all the time, understand? Even though it's always the other way around! Everyone looks at her cause she's such an angel, and nobody pays any attention to me!"
-    dv "Und sie glaubt, ich würde dich ihr wegnehmen!{w} Sie glaubt das die ganze Zeit, verstehst du? Es ist immer anders herum. Jeder schaut auf sie, weil sie so ein Engel ist, und mich beachtet niemand!"
+    dv "Und sie glaubt, ich würde dich ihr wegnehmen!{w} Sie glaubt das jedes Mal, verstehst du? Dabei ist es immer andersherum. Jeder schaut auf sie, weil sie so ein Engel ist, und mich beachtet niemand!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4287
 translate german day6_dv_61d7ee92:
 
     # dv "Если только поплакаться приходят…"
     #dv "To them I'm just a shoulder to cry on..."
-    dv "Für sie bin ich nur jemand, bei dem man sich ausheulen kann..."
+    dv "Ich bin höchstens jemand, bei dem man sich ausheulen kann..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4288
 translate german day6_dv_3bc3b19b:
 
     # "Алиса сорвалась на крик."
     #"Alisa started screaming."
-    "Alisa begann zu weinen."
+    "Alisa wurde laut."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4289
 translate german day6_dv_095c18d7:
 
     # me "Слушай, я…{w} Не надо так расстраиваться! Я, вот, так не считаю, например!"
     #me "Look, I...{w} Please don't get so upset! I don't think of you like that!"
-    me "Schau ich...{w} Sei bitte nicht traurig! So denke ich nicht über dich!"
+    me "Schau, ich...{w} Sei bitte nicht traurig! So denke ich nicht über dich!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4290
 translate german day6_dv_ecfa445c:
@@ -18504,28 +18504,28 @@ translate german day6_dv_c2c94b69:
 
     # "Я никак не мог понять, что вынудило её на такую откровенность.{w} К тому же не знал, как реагировать.{w} Более того, я совсем не был взволнован."
     #"I still had no idea what forced her to be so honest.{w} And I didn't know how to react.{w} Moreover, I was not worried at all."
-    "Ich verstand überhaupt nicht, was sie dazu brachte, so ehrlich zu sein.{w} Und ich hatte keine Ahnung, wie ich darauf reagieren sollte.{w} Außerdem, ich machte mir überhaupt keine Sorgen."
+    "Ich verstand überhaupt nicht, was sie dazu brachte, so ehrlich zu sein.{w} Und ich hatte keine Ahnung, wie ich darauf reagieren sollte.{w} Die Situation ließ mich völlig kalt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4292
 translate german day6_dv_c62c09a6:
 
     # "Как будто смотрел очередной эпизод какого-нибудь сериала, и происходящее в этой комнате было по ту сторону экрана."
     #"It was like I was watching another episode of some TV series, and what was going on in the room was on the other side of the screen."
-    "Es war, als würde ich eine Folge irgendeiner TV-Serie ansehen und alles, was hier im Raum passierte war, als würde es auf der anderen Seite des Bildschirmes passieren."
+    "Es war, als würde ich eine Folge von irgendeiner TV-Serie schauen und alles, was hier im Raum passierte, befand sich auf der anderen Seite des Bildschirms."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4293
 translate german day6_dv_ef389ffb:
 
     # me "Я понимаю, что стал причиной всего этого…{w} Но сегодня Лена говорила, что всё в порядке."
     #me "I understand, I was the reason for all of it...{w} But today Lena said it was okay."
-    me "Ich verstehe ja, dass ich der Grund für all dem bin...{w} Aber Lena sagte heute, dass alles Ok sei."
+    me "Ich verstehe ja, dass ich der Grund für all das bin...{w} Aber Lena sagte heute, dass alles okay sei."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4295
 translate german day6_dv_5eb2b915:
 
     # dv "Это очень похоже на неё! Ты же уже наверняка понял, что она не такая тихоня, какой хочет казаться!"
     #dv "That's just like her! You've probably realised that she's not as quiet as she wants to seem!"
-    dv "Genau so ist sie! Du hast vielleicht bemerkt, dass sie nicht so ist, wie sie immer vorgibt zu sein!"
+    dv "Das sieht ihr ähnlich! Du hast vielleicht bemerkt, dass sie nicht so ist, wie sie immer vorgibt zu sein!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4296
 translate german day6_dv_5b3e26db:
@@ -18560,7 +18560,7 @@ translate german day6_dv_8c4f1a22:
 
     # "В глубине души появилось смутное беспокойство, волнение.{w} Я уже не мог воспринимать этот разговор отстранённо."
     #"Some sort of worry stirred inside of me.{w} I could not treat this conversation like I was an outsider anymore."
-    "In mir kam eine Sorge auf.{w} Ich konnte dieses Gespräch nicht mehr führen, als wäre ich außen vor."
+    "In mir keimte Sorge auf.{w} Ich konnte dieses Gespräch nicht mehr führen, als wäre ich unbeteiligt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4302
 translate german day6_dv_c7e864ed:
@@ -18574,7 +18574,7 @@ translate german day6_dv_da3f2db4:
 
     # "Наверное, такого вопроса стоило ожидать, но я к нему оказался не готов."
     #"I guess I should have expected a question like that, but I just wasn't ready."
-    "Ich denke, ich hätte diese Frage erwarten müssen, aber ich war nicht bereit dafür."
+    "Ich schätze, ich hätte diese Frage erwarten müssen, aber ich war nicht bereit dafür."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4304
 translate german day6_dv_84e48168:
@@ -18609,28 +18609,28 @@ translate german day6_dv_9a3e6f7f:
 
     # "Если бы я мог сказать «нет», я бы сказал, не колеблясь…"
     #"If I could say no, I would have, at that very moment."
-    "Hätte ich Nein sagen können, hätte ich es in diesem Moment getan."
+    "Hätte ich 'Nein' sagen können, ich hätte es getan."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4309
 translate german day6_dv_73ec7242:
 
     # "Но и для другого ответа у меня был только один шанс."
     #"But I only had one chance for the other answer as well."
-    "Aber ich hatte auch nie eine Chance für eine andere Antwort."
+    "Aber ich hatte auch nur eine Chance für jede andere Antwort."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4310
 translate german day6_dv_56680e86:
 
     # "А как выбрать правильно, я пока не знал."
     #"And I didn't know what to choose."
-    "Und ich wusste nicht, wie ich antworten sollte."
+    "Und ich wusste nicht, was ich antworten sollte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4311
 translate german day6_dv_f673f8e3:
 
     # dv "Ты же хотел, чтобы эта ситуация разрешилась."
     #dv "You did want the situation to resolve itself."
-    dv "Du willst doch auch, dass diese Situation zu einem Ende kommt."
+    dv "Du willst doch auch, dass diese Situation sich löst."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4312
 translate german day6_dv_80322d80:
@@ -18651,7 +18651,7 @@ translate german day6_dv_3ea35b71:
 
     # me "Почему «опять»?"
     #me "Why 'again'?"
-    me "Wiso 'wieder'?"
+    me "Wieso 'wieder'?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4316
 translate german day6_dv_4c7ded3a:
@@ -18679,7 +18679,7 @@ translate german day6_dv_db0ec79f:
 
     # "Её лицо приняло обычное выражение наглости и надменности."
     #"Her face fell back into its usual bold arrogance."
-    "Ihr Ausdruck war jetzt wieder der üblich arrogante."
+    "Ihr Ausdruck war jetzt wieder der übliche arrogante."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4321
 translate german day6_dv_d1744488:
@@ -18700,42 +18700,42 @@ translate german day6_dv_b750f4ae:
 
     # "Алиса резко встала и направилась к выходу."
     #"Alisa stood up abruptly and headed out."
-    "Alisa stand plötzlich auf und ging raus."
+    "Alisa stand plötzlich auf und ging."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4325
 translate german day6_dv_5783bb1b:
 
     # dv "Не забудь, что на вечер у нас с тобой планы!"
     #dv "Don't forget we have plans for tonight!"
-    dv "Und vergiss nicht, wir haben für heute Abend was geplant!"
+    dv "Und vergiss nicht, dass wir heute Abend etwas vorhaben!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4326
 translate german day6_dv_70813d40:
 
     # "Улыбнувшись, сказала она с порога."
     #"She said on the threshold, smiling."
-    "Sagte sie, als sie lächelnd in der Türe stand."
+    "Sagte sie, als sie lächelnd in der Tür stand."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4330
 translate german day6_dv_d7d9b64d:
 
     # "Я не успел ничего ответить, как за ней закрылась дверь."
     #"The door closed behind her before I could say anything."
-    "Die Türe schloss sich hinter ihr noch bevor ich was antworten konnte."
+    "Die Tür schloss sich hinter ihr, noch bevor ich etwas antworten konnte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4331
 translate german day6_dv_94e61f1e:
 
     # th "Планы? Какие ещё планы?.."
     #th "Plans? What kind of plans?"
-    th "Geplant? Was sollen das für Pläne sein?"
+    th "Vorhaben? Was soll das für ein Vorhaben sein?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4333
 translate german day6_dv_76c05f84:
 
     # "Ощущение от разговора с Алисой осталось тяжёлое."
     #"The talk with Alisa left a heavy impression on me."
-    "Von der Unterhaltung mit Lena war ich schwer beeindruckt."
+    "Von der Unterhaltung mit Alisa war ich schwer beeindruckt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4334
 translate german day6_dv_37b565c4:
@@ -18749,14 +18749,14 @@ translate german day6_dv_0e2e48a7:
 
     # th "Одна эта новость уже могла ошарашить и ввести в ступор, так ещё меня поставили перед выбором, который сделать, мягко говоря, непросто, и любое моё решение будет для кого-то ошибочным."
     #th "On its own, the news could shock and startle. And I, above that, was also forced to make a choice. A difficult one, to put it mildly. And any choice I make would be a mistake for someone."
-    th "Alleine die Nachrichten hätte mich erschrecken müssen. Und darüber hinaus stand ich vor einer Wahl, die, um es milde auszudrücken, immer für jemanden falsch ist, egal wie ich mich Endscheide."
+    th "Allein diese Nachricht hätte mich aufschrecken lassen müssen. Und darüber hinaus stand ich vor einer schwierigen Entscheidung, die, um es milde auszudrücken, niemals für alle richtig sein konnte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4336
 translate german day6_dv_7e235707:
 
     # th "Если бы я мог отказать обеим…"
     #th "If only I could refuse them both..."
-    th "Wenn ich nur beide ablehnen könnte..."
+    th "Wenn ich doch nur beide ablehnen könnte..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4337
 translate german day6_dv_e7446732:
@@ -18770,84 +18770,84 @@ translate german day6_dv_92bca9c0:
 
     # th "Если бы я мог однозначно ответить «нет» на её вопрос, было бы проще."
     #th "If I could just answer her question with a 'no' it would be easier."
-    th "Es wäre so viel einfacher, wenn ich ihre Frage mit einem einfachen 'Nein' beantworten könnte."
+    th "Es wäre so viel einfacher, wenn ich ihre Frage mit einem einfachen 'Nein' beantwortet hätte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4339
 translate german day6_dv_4cf63875:
 
     # "Однако я понимал, что так не получится."
     #"But I knew it couldn't work like that."
-    "Aber ich wusste, dass würde so nicht funktionieren."
+    "Aber ich wusste, dass es so nicht funktionieren würde."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4340
 translate german day6_dv_1aaf9536:
 
     # th "После разговора с Алисой стало понятно, что всё уже никогда не будет таким, как прежде."
     #th "After I talked to Alisa, I realised nothing would ever be the same again."
-    th "Nach meinem Gespräch mit Alisa verstehe ich, dass nichts mehr sein wird, wie es einmal war."
+    th "Nach meinem Gespräch mit Alisa verstehe ich nun, dass nichts mehr sein wird, wie es war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4341
 translate german day6_dv_0b14c784:
 
     # "Просто не может быть при любом исходе.{w} И придётся что-то решать"
     #"It can't be, no matter what happens.{w} And I'll have to make a decision..."
-    "Es kann einfach nicht sein.{w} Und ich muss mich Endscheiden..."
+    th "Es kann einfach nicht anders kommen.{w} Und ich muss mich entscheiden..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4342
 translate german day6_dv_0fa075d4:
 
     # th "Раз я отмёл вариант с полным отказом, то надо выбрать положительное решение.{w} Если, конечно, оно будет приемлемо для меня."
     #th "Since I rejected the “no” scenario, I needed to pick a positive solution.{w} If, of course, I could live with it."
-    th "Da ich die völlige Ablehnung ausschließe, muss ich eine positive Lösung finden.{w} Vorausgesetzt, sie ist für mich akzeptabel."
+    th "Da ich die entschiedene Ablehnung von beiden ausschließe, muss ich eine positive Lösung finden.{w} Vorausgesetzt, sie ist für mich akzeptabel."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4343
 translate german day6_dv_66117c1c:
 
     # "Но я был уверен, что из всего множества исходов есть такой, который не просто устроит всех, а именно такой, к которому я сам буду стремиться!"
     #"But I was sure that out of all the possible outcomes, there's one that won't just satisfy everyone, but would also be one that I would want to strive for."
-    "Aber ich war mir sicher, dass es von allen möglichen Ergebnissen das eine gibt, das nicht nur für alle zufriedenstellend ist, sondern auch das ist, nach dem ich streben möchte."
+    "Aber ich war mir sicher, dass sich zwischen all diesen Möglichkeiten doch noch dieses eine Szenario verbirgt, welches nicht nur alle Beteiligten zufriedenstellt, sondern auch jenen Ausgang darstellt, nach welchem ich streben möchte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4344
 translate german day6_dv_0086716d:
 
     # "И выбор на первый взгляд очевиден: Лена.{w} Красивая, милая, добрая."
     #"And the choice seems obvious: Lena.{w} She's pretty, she's cute, she's kind."
-    "Und die Wahl schien auf den ersten Blick offensichtlich Lena zu sein.{w} Sie ist schön, süß und nett"
+    "Und die Wahl schien auf den ersten Blick offensichtlich: Lena.{w} Sie ist hübsch; sie ist süß; sie ist liebenswürdig."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4345
 translate german day6_dv_6cd9e693:
 
     # "Но, с другой стороны, в Алисе было что-то такое, что меня притягивало…"
     #"But then again, there was something about Alisa that attracted me."
-    "Doch andererseits gab es da etwas an Alisa, dass mich anzog..."
+    "Doch andererseits gab es da auch etwas an Alisa, was mich anzog..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4352
 translate german day6_dv_be0923e0:
 
     # "Внезапно дверь распахнулась и вошла Ольга Дмитриевна."
     #"Suddenly the door flew open, and Olga Dmitrijewna came in."
-    "Plötzlich öffnete sich die Türe und Olga Dmitrijewna trat ein."
+    "Plötzlich öffnete sich die Tür und Olga Dmitrijewna trat ein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4353
 translate german day6_dv_0bae5ad4:
 
     # mt "Опять бездельничаешь!"
     #mt "Lounging around again, huh."
-    mt "Liegst du wieder faul rum?"
+    mt "Liegst du schon wieder nur rum?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4354
 translate german day6_dv_fe458b8c:
 
     # me "Отдыхаю…{w} Там жара такая…"
     #me "Just resting...{w} It's so hot out there..."
-    me "Ich mach eine Pause...{w} Draußen ist es so heiß..."
+    me "Nur eine kurze Pause...{w} Draußen ist es so heiß..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4356
 translate german day6_dv_2ebe60a9:
 
     # mt "Иди помоги Славе. Она просила."
     #mt "Go and help Slawja. She was asking around."
-    mt "Geh und hilf Slawja. Sie fragt nach Leuten."
+    mt "Geh und hilf Slawja. Sie fragte nach Leuten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4357
 translate german day6_dv_25f7abbc:
@@ -18875,7 +18875,7 @@ translate german day6_dv_5c421508:
 
     # "Я нехотя встал и аправился к выходу."
     #"Reluctantly, I got up and headed out."
-    "Widerwillig stand ich auf und verließ den Raum."
+    "Widerwillig stand ich auf und verließ die Hütte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4361
 translate german day6_dv_ee607f36:
@@ -18910,7 +18910,7 @@ translate german day6_dv_bf8808dd:
 
     # me "Вы желали меня видеть?"
     #me "You require my assistance?"
-    me "Du brauchst meine Hilfe?"
+    me "Sie benötigen meine Hilfe?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4373
 translate german day6_dv_ecb3efc7:
@@ -18945,7 +18945,7 @@ translate german day6_dv_93bd5577:
 
     # sl "Просто ты там последнее время частенько бывал."
     #sl "Well you were there a lot recently."
-    sl "Es ist halt so, dass du in der letzten Zeit viel dort wars."
+    sl "Es ist nur so, dass du in der letzten Zeit häufig dort warst."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4379
 translate german day6_dv_ac1c31df:
@@ -19008,7 +19008,7 @@ translate german day6_dv_85cd4b82:
 
     # me "В общем, не знаю я."
     #me "I don't know, okay?"
-    me "Also ich hab keine Ahnung."
+    me "Also - ich hab keine Ahnung."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4389
 translate german day6_dv_35b300f9:
@@ -19029,14 +19029,14 @@ translate german day6_dv_52ec3723:
 
     # "Я направился назад к домику вожатой с твёрдым намерением всё же поспать."
     #"I headed to the camp leader's house, determined to get some sleep after all."
-    "Ich lief zur Hütte der Lagerleiterin fest Endschlossen noch etwas zu schalfen."
+    "Ich ging zur Hütte der Lagerleiterin zurück, fest entschlossen, noch etwas zu schlafen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4403
 translate german day6_dv_02ad66d4:
 
     # "Слава богу, Ольги Дмитриевны не было, поэтому я завалился на кровать и отключился."
     #"Olga Dmitrijewna wasn't there, thank God, so I fell on the bed and lost consciousness."
-    "Olga Dmitrijewna war nicht da, zum Glück also viel ich auf mein Bett und verlor das Bewusstsein."
+    "Olga Dmitrijewna war zum Glück nicht zuhause, also fiel ich in mein Bett und nur unwesentlich später in einen tiefen Schlaf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4408
 translate german day6_dv_a20cefa7:
@@ -19049,49 +19049,49 @@ translate german day6_dv_4df22cd5:
 
     # "Не помню точно, что мне снилось, но ощущения остались тяжёлые – так часто бывает с послеобеденным сном."
     #"I don't exactly remember what I dreamt of but it left a heavy impression, as afternoon naps often do."
-    "Ich weiß nicht genau, was ich träumte, aber es hinterließ einen starken Eindruck. Das passiert mir öfter bei einem Mittagsschlaf."
+    "Ich weiß nicht mehr genau, was ich träumte, aber es hinterließ einen starken Eindruck. Das passiert mir öfter nach einem Mittagsschlaf."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4417
 translate german day6_dv_ea3f5806:
 
     # "С трудом поднявшись с кровати, я посмотрел на часы.{w} Было уже начало восьмого."
     #"I put some effort into getting off the bed and looked at the clock.{w} It was just after seven."
-    "Ich erhob mich ein wenig vom Bett und schaute auf die Uhr.{w} Es war bereits nach sieben."
+    "Ich erhob mich mühselig vom Bett und schaute auf die Uhr.{w} Es war bereits nach sieben."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4418
 translate german day6_dv_53b55b1b:
 
     # th "Ничего удивительного, если разобраться – стоило ожидать, что просплю весь день."
     #th "Not surprising if you think about it – I should have expected to sleep through the day."
-    th "Kein Wunder, wenn ich mich so ansehe, hätte ich eigentlich den ganzen Tag schlafen müssen."
+    th "Kein Wunder eigentlich - wenn ich mich so ansehe, hätte ich eigentlich den ganzen Tag schlafen müssen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4419
 translate german day6_dv_23d4a9c7:
 
     # th "Однако, получается, что и ужин пропустил..."
     #th "Although, as it turns out, I missed dinner as well..."
-    th "Außerdem stellte sich heraus, dass ich auch noch das Abendessen verpasst habe."
+    th "Allerdings stellt sich heraus, dass ich auch noch das Abendessen verpasst habe."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4420
 translate german day6_dv_31e3afb8:
 
     # "От этой мысли стало как-то не по себе, и я решительным шагом направился к выходу."
     #"That thought made me uncomfortable, and I headed to the exit."
-    "Dieser Gedanke war mir unbehaglich und ich ging zur Türe."
+    "Dieser Gedanke war mir unbehaglich und ich ging zur Tür."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4428
 translate german day6_dv_ee3bcd9a:
 
     # "На пороге я остановился и задумался о том, что делать дальше."
     #"I stopped on the threshold and thought of what to do next."
-    "Vor der Türe blieb ich stehen und überlegte, was ich als Nächstes tun könnte."
+    "Vor der Tür blieb ich stehen und überlegte, was ich als nächstes tun könnte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4429
 translate german day6_dv_df471347:
 
     # "Не знаю, сколько бы так простоял – голова всё ещё бла тяжёлая после сна, – если бы кто-то меня не окликнул."
     #"I don't know how long I would have stood there – my head was still heavy after sleep – if someone hadn't called out to me."
-    "Ich weiß nicht, wie lange ich so da gestanden wäre - mein Kopf war nach dem Schlafen immer noch so schwer - wenn mich nicht jemand gerufen hätte."
+    "Ich weiß nicht, wie lange ich noch so da gestanden hätte - mein Kopf war immer noch echt schwer vom Schlafen - wenn nicht jemand meinen Namen gerufen hätte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4431
 translate german day6_dv_280c3ef3:
@@ -19119,7 +19119,7 @@ translate german day6_dv_fce6b834:
 
     # sl "Ты точно не брал ключей от медпункта?"
     #sl "Are you sure you don't have the infirmary key?"
-    sl "Bist du ganz sicher, dass du den Schlüssel der Krankenstation nicht hast?"
+    sl "Bist du ganz sicher, dass du den Schlüssel zur Krankenstation nicht hast?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4436
 translate german day6_dv_cafb72c1:
@@ -19182,7 +19182,7 @@ translate german day6_dv_eb5ac138:
 
     # th "Неужели из-за лекарств начался бы такой переполох?{w} Хотя…"
     #th "So all this disturbance was started because of some medicine?{w} Although..."
-    th "So viel Trubel wegen ein bischen Medizin?{w} Wobei..."
+    th "So viel Trubel wegen einem bisschen Medizin?{w} Wobei..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4448
 translate german day6_dv_89141735:
@@ -19196,14 +19196,14 @@ translate german day6_dv_19d82568:
 
     # th "Ведь у меня же в домике лежит бутылка…{w} Может, она её имела в виду?"
     #th "I mean, I have the bottle in my cabin...{w} Did she mean that?"
-    th "Also, ich habe diese Flasche in meiner Hütte...{w} Meint sie das?"
+    th "Also, ich habe diese Flasche in meiner Hütte...{w} Meint sie die?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4450
 translate german day6_dv_bbccfea0:
 
     # "Я постарался сохранить каменное лицо, ничем не выдавая себя."
     #"I tried to keep my face still as stone, without doing anything to give myself away."
-    "Ich versuchte mein Pokerface auf zu setzen, ohne mich zu verraten."
+    "Ich versuchte, mein Pokerface aufzusetzen, ohne mich zu verraten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4451
 translate german day6_dv_065dee42:
@@ -19237,29 +19237,29 @@ translate german day6_dv_e22d0105:
 translate german day6_dv_dffe083c:
 
     # th "С одной стороны, водку я действительно…{w} украл."
-    #th "On the one had, the vodka... I did...{w} steal it."
-    th "Auf der einen Seite, der Wodka... Ich habe ihn...{w} gestohlen."
+    #th "On the one hand, the vodka... I did...{w} steal it."
+    th "Einerseits, der Wodka... Ich habe ihn...{w} gestohlen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4458
 translate german day6_dv_935f06ca:
 
     # th "Но с другой – если она говорит «пропало», это значит, исчезло, испарилось – само по себе, без участия внешних сил."
     #th "Then again, she's saying it's 'gone', as in disappeared, all by itself, with no external influence."
-    th "Andererseits sagt sie 'weg' wie verschwunden, ganz von alleine, ohne Zutun von anderen."
+    th "Andererseits sagt sie, dass die Medizin weg ist, 'weg' wie verschwunden, ganz von alleine, ohne Zutun von anderen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4459
 translate german day6_dv_383cfe31:
 
     # th "Хотя вряд ли бы она сказала – из медпункта украли бутылку трофейной водки."
     #th "Although it’s highly unlikely that she would say that a bottle of trophy vodka was stolen from the infirmary."
-    th "Wobei sie wohl kaum gesagt hätte, dass eine Flasche Trophähenwodka aus der Krankenstation gestohlen wurde."
+    th "Wobei sie wohl kaum sagen würde, dass eine Flasche Trophäen-Wodka aus der Krankenstation gestohlen wurde."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4460
 translate german day6_dv_910fce4e:
 
     # th "Так что, с формулировками всё в порядке – проблема в другом."
     #th "So the way it was said was okay. The problem was different."
-    th "Also die Art, wie es gesagt wurde, war in Ordnung. Das Problem lag, wo anders."
+    th "Also war die Art, wie es gesagt wurde, in Ordnung. Das Problem lag anderswo."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4461
 translate german day6_dv_1072ee7f:
@@ -19273,28 +19273,28 @@ translate german day6_dv_73f94476:
 
     # th "А вдруг они узнают, что это я?"
     #th "What if they find out that was me?"
-    th "Was, wenn sie raus finden, dass ich das war?"
+    th "Was, wenn sie rausfinden, dass ich das war?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4463
 translate german day6_dv_65b4be16:
 
     # th "Да даже если не в бутылке дело, то пока будут искать, могут и её найти."
     #th "Even if it wasn't about the bottle, they'd still find it while looking for what was gone."
-    th "Ja, auch wenn es sich nicht um diese Flasche handelt, könnte sie gefunden werden, während sie, wonach auch immer suche."
+    th "Ja, auch wenn es sich nicht um diese Flasche handelt, könnte sie gefunden werden, während sie wonach auch immer suchen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4464
 translate german day6_dv_dea23e04:
 
     # "В общем, действовать надо было решительно!{w} И главное сейчас – избавиться от улик!"
     #"Basically, I had to get a move on!{w} And the main thing to do right now was to get rid of all the evidence!"
-    "Ich musste jetzt auf jeden Fall was unternehmen!{w} Und vor allem war das Wichtigste, die Beweise loszuwerden!"
+    "Ich musste jetzt auf jeden Fall etwas unternehmen!{w} Das Wichtigste war, die Beweise loszuwerden!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4469
 translate german day6_dv_bea31ad1:
 
     # "Я заскочил в домик, засунул бутылку под ремень и бросился в лес.{w} Самым верным решением было закопать её где-нибудь."
     #"I jumped into the cabin, shoved the bottle under my belt and raced to the forest.{w} Burying it somewhere was the best decision at the moment."
-    "Ich rannte in die Hütte, steckte die Flasche unter mein Hemd und rannte damit in den Wald.{w} Am besten wäre es, wenn ich sie irgendwo vergrabe."
+    "Ich rauschte in die Hütte, steckte die Flasche unter mein Hemd und rannte damit in den Wald.{w} Sie irgendwo zu vergraben schien mir die vorerst beste Entscheidung."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4478
 translate german day6_dv_27c88b77:
@@ -19315,35 +19315,35 @@ translate german day6_dv_93b5fc50:
 
     # dv "Эй!"
     #dv "Hey!"
-    dv "He!"
+    dv "Hey!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4481
 translate german day6_dv_66bf0ead:
 
     # "Я с трудом обернулся, стараясь придать своему лицу как можно более непринуждённое выражение."
     #"I struggled to turn back, making my face look as casual as possible."
-    "Schwerfällig drehte ich mich um und versuchte dabei einen möglichst normalen Gesichtsausdruck zu machen."
+    "Schwerfällig drehte ich mich um und versuchte, dabei einen möglichst normalen Gesichtsausdruck zu bewahren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4483
 translate german day6_dv_dbd3bc52:
 
     # dv "Что это мы тут делаем?"
     #dv "So. What's going on here?"
-    dv "Na was machen wir denn hier?"
+    dv "Naa, was machen wir denn hier?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4484
 translate german day6_dv_385b3fe9:
 
     # me "Да так, гуляю…"
     #me "Oh I'm just having a walk."
-    me "Ach, ich gehe nur spatzieren..."
+    me "Ach, ich gehe nur spazieren..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4485
 translate german day6_dv_405fbe4e:
 
     # "Хоть мой голос и прозвучал спокойно, я уже понимал, что обмануть Алису не получится."
     #"My voice sounded calm but I already understood – I couldn't fool Alisa."
-    "Obwohl meine Stimme ruhig klang, warm mir klar, dass ich Alisa nichts vor machen konnte."
+    "Obwohl meine Stimme ruhig klang, war mir klar, dass ich Alisa nichts vormachen konnte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4487
 translate german day6_dv_4529043a:
@@ -19434,7 +19434,7 @@ translate german day6_dv_afd1c304:
 
     # dv "Ничего не знаю! Пошли!"
     #dv "No I don't! Let's go!"
-    dv "Nein, tu ich nicht! Los jetzt!"
+    dv "Nein, tu' ich nicht! Los jetzt!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4504
 translate german day6_dv_d3dbfb33:
@@ -19448,7 +19448,7 @@ translate german day6_dv_2a3aebf5:
 
     # "Я решил, что спорить не имеет смысла – любое слово или поступок могут выдать меня."
     #"I thought there was no point in arguing – any word or action could give me away."
-    "Das war jetzt nicht der richtige Zeitpunkt, mit ihr zu diskutieren. Alles, was ich sagen oder tun könnte, könnte mich verraten."
+    "Das war jetzt nicht der richtige Zeitpunkt, mit ihr zu diskutieren. Alles, was ich sagen oder tun würde, könnte mich verraten."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4506
 translate german day6_dv_fe0a8a5c:
@@ -19476,7 +19476,7 @@ translate german day6_dv_4d608c0d:
 
     # "Пока шли, я был занят тем, что выбирал удобное место и время, чтобы выкинуть водку, но Алиса всё время держалась рядом, поэтому ничего не вышло."
     #"While we were walking, I was busy trying to find the best time and place to ditch the vodka, but Alisa stayed so close that I couldn’t manage anything."
-    "Während wir liefen, war ich die ganze Zeit damit beschäftigt, einen Platz zu finden, wo ich den Wodka ablegen könnte, doch das war nicht möglich ohne das Alisa, was merkt."
+    "Während wir liefen, war ich die ganze Zeit damit beschäftigt, einen Moment abzupassen, um den Wodka loszuwerden, doch das war nicht möglich, ohne, dass Alisa etwas merkte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4518
 translate german day6_dv_dbeba143:
@@ -19497,21 +19497,21 @@ translate german day6_dv_d6f22291:
 
     # me "Что ну?"
     #me "Well what?"
-    me "Was und?"
+    me "Und was?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4521
 translate german day6_dv_e3e21bbe:
 
     # "Волосы взмокли от пота – настолько сильно я нервничал."
     #"I was so nervous that my hair was wet with sweat."
-    "Meine Haare waren vor Angstschweiß klatsch nass."
+    "Meine Haare waren vor Angstschweiß klatschnass."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4522
 translate german day6_dv_2ffa378a:
 
     # "В тот момент меня волновало лишь одно – как бы поправить бутылку так, чтобы она не заметила."
     #"The only thing on my mind at the moment was how to adjust the bottle so she wouldn't notice."
-    "Das Einzige, woran ich denken konnte, war, wie ich die Flasche verschwinden lassen könnte, ohne das sie was davon mit bekommt."
+    "Das Einzige, woran ich denken konnte, war, wie ich die Flasche verschwinden lassen könnte, ohne, dass sie was davon mitkriegt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4523
 translate german day6_dv_988e7f2d:
@@ -19525,7 +19525,7 @@ translate german day6_dv_a4388070:
 
     # me "Насчёт чего?"
     #me "About what?"
-    me "Worüber?"
+    me "Wozu?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4525
 translate german day6_dv_3614794f:
@@ -19539,7 +19539,7 @@ translate german day6_dv_8c1b9d53:
 
     # dv "Ладно, наверное, ты прав – всё же я тебя сюда привела, значит, мне и решать."
     #dv "Okay, I guess you're right – I brought you here so I'm the one to decide."
-    dv "Okay, ich denke, du hast recht - ich bin diejenige, die dich hier her gebracht hat, also liegt es an mir."
+    dv "Okay, ich denke, du hast recht - ich bin diejenige, die dich hierher gebracht hat, also liegt es an mir."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4528
 translate german day6_dv_505d91ae:
@@ -19560,14 +19560,14 @@ translate german day6_dv_92e1ccd1:
 
     # dv "Сейчас-сейчас…"
     #dv "Hold on a minute..."
-    dv "Warte noch..."
+    dv "Warte kurz..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4533
 translate german day6_dv_cb6c3ebb:
 
     # "Она полезла под кровать и через несколько секунд достала оттуда…{w} ту самую бутылку «Столичной»!"
     #"She reached under the bed and in a few seconds...{w} pulled out the bottle of 'Stolichnaya' vodka!"
-    "Sie griff unter ihr Bett und im nächsten Moment...{w} holte sie die alt bekannte Flasche 'Stolichnaya' Wodka hervor!"
+    "Sie griff unter ihr Bett und im nächsten Moment...{w} holte sie die altbekannte Flasche 'Stolichnaya'-Wodka hervor!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4534
 translate german day6_dv_0ab734f4:
@@ -19588,7 +19588,7 @@ translate german day6_dv_36d2fce0:
 
     # th "Не то слово!{w} Но не водкой как таковой, а тем, что это явно та же самая бутылка, что я отнёс утром в медпункт."
     #th "Of course!{w} Not by the vodka itself though, but by the fact that it was the exact bottle I carried to the infirmary in the morning."
-    th "Natürlich!{w} Aber nicht wegen des Wodkas, sondern wegen der Tatsache, dass dies genau die Flasche war, die ich heute Morgen in die Krankenstation brachte."
+    th "Natürlich!{w} Aber nicht wegen des Wodkas, sondern wegen der Tatsache, dass das genau die Flasche ist, die ich heute Morgen in die Krankenstation gebracht habe."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4538
 translate german day6_dv_1d557f44:
@@ -19637,7 +19637,7 @@ translate german day6_dv_d54f3e81:
 
     # th "Ведь там просто протухшая вода, а настоящая водка – в бутылке, торчащей у меня за поясом."
     #th "What she had was just rotten water. The real vodka was in the bottle under my belt."
-    th "Sie hat doch nur das Schmutzwasser. Der echte Wodka ist in der Flasche unter meinem Hemd."
+    th "Sie hat doch nur abgestandenes Wasser. Der echte Wodka ist in der Flasche unter meinem Hemd."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4546
 translate german day6_dv_8d2027c8:
@@ -19651,7 +19651,7 @@ translate german day6_dv_77dfc065:
 
     # dv "Только не говори, что не пьёшь!"
     #dv "Don't tell me you don't drink!"
-    dv "Erzähl mich nicht, dass du nichts trinkst!"
+    dv "Erzähl mir nicht, dass du nicht trinkst!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4549
 translate german day6_dv_9859878b:
@@ -19679,7 +19679,7 @@ translate german day6_dv_f816894f:
 
     # "В мгновение ока на столе появились два стакана, и Алиса наполнила их до краёв."
     #"In just an instant Alisa got two glasses and filled them to the brim."
-    "In nur einer Sekunde, besorgte Alisa zwei Gläser und füllte sie bis zum Rand."
+    "Im Bruchteil einer Sekunde hatte Alisa zwei Gläser besorgt und füllte sie bis zum Rand."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4554
 translate german day6_dv_3a7f0ff5:
@@ -19714,7 +19714,7 @@ translate german day6_dv_17c04f77:
 
     # "Спустя мгновение к ней пришло осознание…"
     #"In a moment she realised..."
-    "Kurz darauf bemerkte sie was los war..."
+    "Kurz darauf bemerkte sie, was los war..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4561
 translate german day6_dv_1df814f8:
@@ -19728,21 +19728,21 @@ translate german day6_dv_e54a6b95:
 
     # "Алиса начала отплёвываться."
     #"She started spitting."
-    "Sie fing an zu spucken."
+    "Sie fing an, zu spucken."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4563
 translate german day6_dv_c73f3fec:
 
     # dv "И это вот они называют водкой?!"
     #dv "They call this vodka?!"
-    dv "Und das nenn die Wodka?!"
+    dv "Und das nennen die Wodka?!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4564
 translate german day6_dv_420183fc:
 
     # "Несмотря на своё незавидное положение я не смог удержаться и рассмеялся."
     #"Despite my difficulty, I couldn't help laughing."
-    "Trotz meiner unglücklichen Lage konnte ich nicht anders als laut loszulachen."
+    "Trotz meiner unglücklichen Lage konnte ich nicht anders, als laut loszulachen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4565
 translate german day6_dv_b2fde6e2:
@@ -19756,7 +19756,7 @@ translate german day6_dv_6858883c:
 
     # "Закричала раскрасневшаяся Алиса."
     #"Alisa shouted, red in the face."
-    "Schimpfte Alisa und bekam dabei ein ganz rotes Gesicht."
+    "Schimpfte Alisa und lief knallrot im Gesicht an."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4567
 translate german day6_dv_9ed6914d:
@@ -19784,7 +19784,7 @@ translate german day6_dv_2488dfae:
 
     # "У меня не было совершенно никакого желания пробовать тухлую воду, но, чтобы не наводить на себя подозрения, я спросил:"
     #"I had no desire to try the stale water, but just to avoid making her suspicious I asked:"
-    "Ich hatte keine Lust, von dem abgestanden Wasser zu probieren, aber um sie nicht misstrauisch zu machen, fragte ich:"
+    "Ich hatte keine Lust, das Brackwasser zu probieren, aber um sie nicht misstrauisch zu machen, fragte ich:"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4572
 translate german day6_dv_7150554e:
@@ -19805,14 +19805,14 @@ translate german day6_dv_e0350d8e:
 
     # "Расстроенно сказала Алиса."
     #"Alisa said, upset."
-    "Antwortete Alisa ärgerlich."
+    "Antwortete Alisa verärgert."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4576
 translate german day6_dv_8d978d04:
 
     # dv "Только собиралась немного расслабиться, культурно отдохнуть, так сказать, а тут…"
     #dv "I was just going to relax a bit, have a cultured time-out, and then it..."
-    dv "Ich wollte mich ein wenig entspannen, eine kultivierte Auszeit nehmen, und jetzt..."
+    dv "Ich wollte mich nur ein wenig entspannen, eine kultivierte Auszeit nehmen, und dann..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4577
 translate german day6_dv_84e0b485:
@@ -19833,7 +19833,7 @@ translate german day6_dv_43e1408d:
 
     # dv "Эй, прекрати!"
     #dv "Hey, stop it!"
-    dv "He, hör auf damit!"
+    dv "Hey, hör auf damit!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4581
 translate german day6_dv_df3fece3:
@@ -19847,21 +19847,21 @@ translate german day6_dv_5fb59874:
 
     # "Она пыталась о ли ударить, то ли покусать, то ли задавить авторитетом, но я схватил её за руки, и всё, что ей оставалось, это бессильно пыхтеть."
     #"She was trying to hit me, or bite me or something. Maybe her plan was to crush me to death with her authority. I just grabbed her hands, and all she could do was gasp in powerless anger."
-    "Sie versuchte mich zu schlagen oder zu beißen oder irgend so was. Vielleicht plante sie auch, mich mit ihrer Autorität zu erdrücken. Ich griff einfach nach ihren Händen und alles, was sie jetzt noch machen konnte, war kraftlos wütend nach Luft zu schnappen."
+    "Sie versuchte, mich zu schlagen oder zu beißen oder irgendsowas. Vielleicht plante sie auch, mich mit ihrer Autorität zu zerquetschen. Ich griff einfach nach ihren Händen und alles, was sie jetzt noch tun konnte, war, wütend nach Luft zu schnappen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4586
 translate german day6_dv_88ce415c:
 
     # "Всё бы хорошо, но ноги Алисы поехали, и она начала падать."
     #"All was going fine but then Alisa's legs slid and she began to fall."
-    "Alls war in Ordnung, doch dann rutschte Alisa aus und fiel hin."
+    "Alles war in Ordnung, doch dann rutschte Alisa aus und fiel hin."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4589
 translate german day6_dv_550fc70f:
 
     # "Я отпустил её руки, сразу же после чего она рухнула на меня, больно ударив лбом в нос."
     #"I let go of her hands, so she fell right on top of me, painfully headbutting me in the nose."
-    "Ich ließ ihre Hände los, und so fiel sie auf mich und ihre Stirn schlug schmerzhaft auf meine Nase."
+    "Ich ließ ihre Hände los, und so fiel sie direkt auf mich und ihre Stirn schlug schmerzhaft in meine Nase."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4590
 translate german day6_dv_3d629c43:
@@ -19875,14 +19875,14 @@ translate german day6_dv_bc81e122:
 
     # dv "А это у нас что?"
     #dv "What do we have here?"
-    dv "Was haben wir den hier?"
+    dv "Was haben wir denn hier?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4592
 translate german day6_dv_6d5303d4:
 
     # "Когда я понял, что она вынула бутылку у меня из-за пояса, вся боль мгновенно прошла."
     #"When I realised she had taken the bottle, all the pain disappeared."
-    "Als ich bemerke, dass sie meine Flasche hatte, waren die Schmerzen wie weggeweht."
+    "Als ich bemerkte, dass sie meine Flasche hatte, waren die Schmerzen wie weggeblasen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4593
 translate german day6_dv_679b46e1:
@@ -19896,7 +19896,7 @@ translate german day6_dv_7be7066b:
 
     # "Я попытался выхваить водку, но Алиса ловко вскочила с кровати и отбежала в дальний угол комнаты."
     #"I tried to get the bottle back but Alisa nimbly jumped off the bed and ran to the far corner of the room."
-    "Ich versuchte die Flasche zurückzubekommen, aber Alisa sprang geschickt vom Bett auf und rannte in die hinterste Ecke des Raumes."
+    "Ich versuchte, die Flasche zurückzubekommen, aber Alisa sprang geschickt vom Bett auf und rannte in die hinterste Ecke des Raumes."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4596
 translate german day6_dv_8e960ce3:
@@ -19917,7 +19917,7 @@ translate german day6_dv_652453a6:
 
     # "Через мгновение лицо Алисы покраснело, а глаза словно были готовы вылезти наружу."
     #"In a moment, her face went red and her eyes seemed to pop out of their sockets."
-    "Einen Moment später wurde ihr Gesicht knall rot und ihre Augen schienen aus dem Kopf zu springen."
+    "Einen Moment später wurde ihr Gesicht hellrot und ihre Augen schienen aus dem Kopf zu springen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4600
 translate german day6_dv_bc888301:
@@ -19938,7 +19938,7 @@ translate german day6_dv_a4a2a1fa:
 
     # me "Вот это как раз водка…"
     #me "That's the actual vodka."
-    me "Das ist der richtige Wodka."
+    me "Das ist der echte Wodka."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4603
 translate german day6_dv_2f3f0691:
@@ -19959,7 +19959,7 @@ translate german day6_dv_c5adf9aa:
 
     # me "Ты думала, что украла из медпункта нужную бутылку?"
     #me "You really thought you had stolen the right one from the infirmary?"
-    me "Dachtest du wirklich, dass du den aus der Krankenstation gestohlen hättest?"
+    me "Dachtest du wirklich, dass du den echten Wodka aus der Krankenstation gestohlen hättest?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4607
 translate german day6_dv_cac1539b:
@@ -20015,7 +20015,7 @@ translate german day6_dv_09bcc5f4:
 
     # th "Действительно, сейчас не время и не место."
     #th "Really, this is not the right time or place."
-    th "Tatsächlich ist das weder der richtige Ort noch die richtige Zeit dafür."
+    th "Tatsächlich ist das weder der richtige Ort, noch die richtige Zeit dafür."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4616
 translate german day6_dv_d7cfce4d:
@@ -20036,7 +20036,7 @@ translate german day6_dv_b144a585:
 
     # dv "Ну а водка-то у тебя!"
     #dv "Well, you have the vodka!"
-    dv "Na du hast doch den Vodka!"
+    dv "Na, du hast doch den Wodka!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4619
 translate german day6_dv_20df12ec:
@@ -20071,28 +20071,28 @@ translate german day6_dv_8e14b6e7:
 
     # th "Главное – избавиться от водки, а уж каким способом…"
     #th "What's important is to get rid of vodka, this was just one of the ways to do it..."
-    th "Wichtig ist doch nur, den Wodka loszuwerden. Auf welchem Weg man das tut..."
+    th "Wichtig ist doch nur, den Wodka loszuwerden. Auf welchem Weg man das nun tut..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4624
 translate german day6_dv_a1cabb40:
 
     # "Я выдохнул и резким движением опрокинул содержимое стакана в себя."
     #"I breathed out abruptly and swallowed the contents of the glass in one quick motion."
-    "Ich holte tief Luft und schüttete den Inhalt des Glases mit einmal in mich hinein."
+    "Ich holte tief Luft und schüttete den Inhalt des Glases mit einer Bewegung in mich hinein."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4625
 translate german day6_dv_a5f5245d:
 
     # "Через мгновение стало понятно, что это было не самым лучшим решением."
     #"A short moment after I regretted that."
-    "Gleich darauf wurde mir klar, dass dies keine gute Idee war.
+    "Gleich darauf wurde mir klar, dass das keine gute Idee war.
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4626
 translate german day6_dv_257940d2:
 
     # me "Есть… чем закусить?!"
     #me "Got any... food to chase this?"
-    me "Hast du... etwas zu Essen?"
+    me "Hast du... Snacks?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4627
 translate german day6_dv_4e45e644:
@@ -20127,14 +20127,14 @@ translate german day6_dv_9c8b084d:
 
     # dv "И как?"
     #dv "So how was it?"
-    dv "Und wie wars?"
+    dv "Und, wie war's?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4632
 translate german day6_dv_bdd0a304:
 
     # me "Как-как…{w} Не каждый день, знаешь ли, приходится пить штрафные!"
     #me "You’re asking...{w} It’s not like I have full-strength booze every day you know!"
-    me "Das fragst du noch...{w} Es ist ja nicht so, dass ich jeden Tag Alkohol trinke!"
+    me "Das fragst du noch...{w} Es ist ja nicht so, als ob ich jeden Tag Alkohol trinke!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4633
 translate german day6_dv_2919a3a5:
@@ -20148,28 +20148,28 @@ translate german day6_dv_9c8b084d_1:
 
     # dv "И как?"
     #dv "Well, how was it?"
-    dv "Und wie war es jetzt?"
+    dv "Okay, und wie war es jetzt?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4635
 translate german day6_dv_183e652e:
 
     # me "Да как-как…{w} Как Орбит «Палёная водка»!"
     #me "Like...{w} Like dubble bubble with vodka flavor!"
-    me "Wie...{w} Wie Kaugummi mit Wodkagemschmack!"
+    me "Wie...{w} Wie Kaugummi mit Wodkageschmack!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4636
 translate german day6_dv_e5ec287e:
 
     # dv "Ладно, тогда пора овторить!"
     #dv "Alright, time for another round then!"
-    dv "Also gut, dann ist es jetzt Zeit für die zweite Runde!"
+    dv "Also gut, dann ist es jetzt Zeit für die nächste Runde!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4637
 translate german day6_dv_ece6c281:
 
     # "Она вновь открыла бутылку и налила нам по полстакана."
     #"She opened the bottle again and poured us half a glass each."
-    "Sie öffnete die Flasche und goss unsere Gläser zu hälfte voll."
+    "Sie öffnete die Flasche und goss unsere Gläser zur Hälfte voll."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4638
 translate german day6_dv_947b745d:
@@ -20204,14 +20204,14 @@ translate german day6_dv_28cad17a:
 
     # "У Алисы опыта явно было куда меньше – второй стакан у неё пошёл значительно хуже."
     #"Alisa was definitely less experienced – she was having some trouble with her second glass."
-    "Alisa hatte offensichtlich viel weniger Erfahrung - sie hatte an dem zweiten Glas deutlich zu kämpfen."
+    "Alisa hatte offensichtlich viel weniger Erfahrung - sie hatte mit dem zweiten Glas schon deutlich zu kämpfen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4643
 translate german day6_dv_84399dec:
 
     # dv "Ох…{w} Как оно это…"
     #dv "Ugh...{w} How does it..."
-    dv "Uhh...{w} Wie ist das..."
+    dv "Uff...{w} Wie ist das..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4644
 translate german day6_dv_5f08e9f7:
@@ -20225,21 +20225,22 @@ translate german day6_dv_17750322:
 
     # me "Не умеешь – не берись!"
     #me "If you can't take the heat, stay out of the kitchen!"
-    me "Wenn man nichts verträgt, muss man es bleiben lassen!"
+    #me "Wenn man nichts verträgt, sollte man es bleiben lassen!"
+    me "Kannst du nicht mehr viel vertragen, solltest du den Rest vertagen!" # Wahnsinnig kreative Variante
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4646
 translate german day6_dv_3f99c8fe:
 
     # "Весело сказал я и налил себе ещё немного."
     #"I said merrily, pouring myself some more."
-    "Sagte ich glücklich und schenkte mir noch mal nach."
+    "Sagte ich fröhlich und schenkte mir nochmal nach."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4647
 translate german day6_dv_02260da3:
 
     # "Где-то в глубине сознания, конечно, мелькала мысль, что я разгоняюсь сверх меры, но патрон уже был в стволе, а курок – взведён."
     #"Somewhere deep inside I realised it was too much, but the gun was already loaded."
-    "Irgendwo, ganz tief in mir drinnen, wusste ich, dass dies alles zu schnell ging, aber die Pistole war geladen, und der Hahn war gespannt."
+    "Irgendwo, ganz tief in mir drinnen, wusste ich, dass das alles zu schnell ging, aber die Pistole war geladen, und der Hahn war gespannt."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4648
 translate german day6_dv_4ff95f61:
@@ -20260,7 +20261,7 @@ translate german day6_dv_5097c292:
 
     # me "Может, тебе хватит?"
     #me "Haven't you had enough?"
-    me "Hast du noch nicht genug?"
+    me "Hattest du noch nicht genug?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4651
 translate german day6_dv_a4506eb9:
@@ -20281,28 +20282,28 @@ translate german day6_dv_ea0035fe:
 
     # me "Эй!{w} Есть же стаканы!"
     #me "Hey!{w} We have glasses you know!"
-    me "He!{w} Du weißt schon, dass wir Gläser haben!"
+    me "Hey!{w} Du weißt schon, dass wir Gläser haben!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4654
 translate german day6_dv_99af8ac3:
 
     # dv "К чёрту!"
     #dv "Screw 'em!"
-    dv "Vergiss die!"
+    dv "Scheiß drauf!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4655
 translate german day6_dv_6dee2c25:
 
     # "Завопила она и закатилась смехом."
     #"She shouted and roared in laughter."
-    "Schrie sie und brach in Lache aus."
+    "Schrie sie und brach in Gelächter aus."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4656
 translate german day6_dv_b13a1ec7:
 
     # dv "А круто-то как!"
     #dv "This is so cool!"
-    dv "Wie cool!"
+    dv "Wie coool!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4657
 translate german day6_dv_f6dadb64:
@@ -20316,7 +20317,7 @@ translate german day6_dv_bddbfd2a:
 
     # me "Ничего, да."
     #me "Sure, it's not bad."
-    me "Ja klar."
+    me "Ja, nicht übel."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4659
 translate german day6_dv_49f40434:
@@ -20330,14 +20331,14 @@ translate german day6_dv_4fc941de:
 
     # "Состояние опьянения уже давало о себе знать вовсю, а Алисе, видимо, было ещё хуже."
     #"I was definitely drunk by that point, and Alisa seemed even worse."
-    "Zu dem Zeitpunkt war ich definitiv betrunken und Alisa war hacke dicht."
+    "Zu dem Zeitpunkt war ich definitiv betrunken und Alisa war hackendicht."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4661
 translate german day6_dv_c365b5cf:
 
     # th "Но, с другой стороны, осталось-то чуть-чуть!"
     #th "Then again, there was barely anything left!"
-    th "Andererseits ist ja kaum noch was übrig!"
+    th "Andererseits ist ja jetzt kaum noch was übrig!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4662
 translate german day6_dv_f1f22231:
@@ -20365,7 +20366,7 @@ translate german day6_dv_4037402e:
 
     # me "А если найдут?"
     #me "What if they find it?"
-    me "Was ist, wenn sie sie finden?"
+    me "Was ist, wenn sie die finden?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4666
 translate german day6_dv_31a41270:
@@ -20386,7 +20387,7 @@ translate german day6_dv_1e6410a5:
 
     # me "Ладно, за присутствующих здесь дам!"
     #me "Okay then. For all ladies present!"
-    me "Also auf die anwesende Dame!"
+    me "Also dann, auf die anwesende Dame!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4669
 translate german day6_dv_f9f12001:
@@ -20414,7 +20415,7 @@ translate german day6_dv_04ff19b4:
 
     # dv "Уф, что-то голова кружится…"
     #dv "I'm getting dizzy..."
-    dv "Ähm, bei mir dreht sich alles..."
+    dv "Hui, bei mir dreht sich alles..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4674
 translate german day6_dv_96ca161a:
@@ -20442,14 +20443,14 @@ translate german day6_dv_49ff7c76:
 
     # "В любом случае я не мог заставить себя оторвать от неё взгляд."
     #"Whichever it was, I could not force myself to look away."
-    "Wie auch immer, ich konnte es einfach nicht lassen, sie an zu starren."
+    "Wie auch immer, ich konnte es einfach nicht lassen, sie anzustarren."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4678
 translate german day6_dv_11513fad:
 
     # dv "Ты так дыру во мне просмотришь!"
     #dv "You're gonna stare a hole through me if you keep going like that!"
-    dv "Deine Blicke durchbohren mich noch, wenn du so weiter machst!"
+    dv "Deine Blicke durchbohren mich noch, wenn du so weitermachst!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4679
 translate german day6_dv_93c166ce:
@@ -20463,7 +20464,7 @@ translate german day6_dv_44b2f075:
 
     # me "Извини…"
     #me "Sorry..."
-    me "Schuldigung..."
+    me "Tschuldigung..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4681
 translate german day6_dv_e18f175c:
@@ -20484,14 +20485,14 @@ translate german day6_dv_06bac448:
 
     # "Я с трудом открыл один глаз и увидел, как она продолжает расстёгивать рубашку."
     #"With some effort, I opened an eye and saw her continuing to unbutton her shirt."
-    "Vorsichtig schaute ich auf und sah, wie sie ihr Hemd weiter auf knöpfte."
+    "Vorsichtig schaute ich auf und sah, wie sie ihr Hemd weiter aufknöpfte."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4685
 translate german day6_dv_f506e4ea:
 
     # "Слова словно застыли в горле.{w} Да и нужны ли были они в подобной ситуации?"
     #"No words could escape my mouth.{w} Besides, who needs words at a moment like this?"
-    "Ich brachte kein einziges Wort hervor.{w} Aber was soll man in solch einem Moment auch schon sagen?"
+    "Ich brachte kein einziges Wort hervor.{w} Aber was soll man in solch einem Moment auch sagen?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4698
 translate german day6_dv_a20cefa7_1:
@@ -20511,7 +20512,7 @@ translate german day6_dv_ec3e3dbf:
 
     # "О правильности своих действий в ту минуту задумываться я был не в состоянии."
     #"At the time I was unable to think of what was right to do."
-    "Zu dem Zeitpunkt war ich unfähig, darüber nach zu denken, was das Richtige war und was nicht."
+    "Zu dem Zeitpunkt war ich unfähig, darüber nachzudenken, was jetzt richtig oder falsch war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4705
 translate german day6_dv_3c562aeb:
@@ -20531,14 +20532,14 @@ translate german day6_dv_4d03f762:
 
     # "То ли перегорела лампочка, то ли кто-то из нас выключил свет, но комната погрузилась о мрак."
     #"The lightbulb burned out, or one of us turned off the light, but either way the room went dark."
-    "Entweder war die Lampe durchgebrannt, oder einer von uns hatte das Licht aus gemacht. Jedenfalls war der Raum dunkel."
+    "Entweder war die Birne durchgebrannt, oder einer von uns hatte das Licht ausgemacht. Jedenfalls wurde der Raum schlagartig dunkel."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4710
 translate german day6_dv_0a606dd1:
 
     # "Я оглядел её домик, и мне в голову пришла мысль."
     #"I looked around her cabin and thought of something."
-    "Ich schaute mich in ihrer Hütte um und fing an nachzudenken."
+    "Ich schaute mich in ihrer Hütte um und ein Gedanke traf mich."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4711
 translate german day6_dv_422a1788:
@@ -20552,14 +20553,14 @@ translate german day6_dv_126253a8:
 
     # dv "А что, боишься, что кто-то войдёт и увидит нас?"
     #dv "What, you're afraid someone will come in and see us?"
-    dv "Hast du schiss, dass jemand rein kommt und uns so sieht?"
+    dv "Hast du Schiss, dass jemand reinkommt und uns so sieht?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4713
 translate german day6_dv_2dc438e7:
 
     # "Беззлобно усмехнулась Алиса."
     #"She grinned warmly."
-    "Alisa grinste nett."
+    "Alisa grinste warmherzig."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4714
 translate german day6_dv_2d3ba9c4:
@@ -20580,7 +20581,7 @@ translate german day6_dv_4ff54a12:
 
     # me "Подожди, то есть ты…{w} всё заранее планировала?"
     #me "Wait, so you...{w} planned all this?"
-    me "Moment, also hast du...{w} ...das alles geplahnt?"
+    me "Moment, also hast du...{w} das alles geplant?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4717
 translate german day6_dv_8c03dbe0:
@@ -20601,25 +20602,25 @@ translate german day6_dv_c63ec5a4:
 
     # me "Да уж…"
     #me "Yeah..."
-    me "Ja klar..."
+    me "Ja, klar..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4720
 translate german day6_dv_6c190789:
 
     # "Я ещё некоторое время пялился в потолок и вскоре услышал тихое посапывание рядом – Алиса заснула."
     #"I stared at the ceiling for a while longer and soon heard quiet deep breathing – Alisa was asleep."
-    "Ich schaute noch eine ganze Weile gegen die Decke und schon bald hörte ich ein tiefes Atem - Alisa war eingeschlafen."
+    "Ich schaute noch eine ganze Weile an die Decke und schon bald hörte ich neben mir tiefes Atmen - Alisa war eingeschlafen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4721
 translate german day6_dv_1899453f:
 
     # "Внезапно ужасно заболела голова – похоже, хмель начинал выветриваться."
     #"My head ached suddenly – the alcohol seemed to be wearing off."
-    "Mein Kopf fing an wehzutun - der Alkohol fing wohl an nach zu lassen."
+    "Mein Kopf fing plötzlich an, wehzutun - der Alkohol ließ wohl langsam nach."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4723
 translate german day6_dv_8fbfda03:
 
     # "Лучший выход в такой ситуации – последовать её примеру и тоже поспать.{w}Не успев додумать мысль, я отключился."
     #"Best thing to do in this case is to follow her lead and get some sleep as well.{w} Before I finished the thought I was already fast asleep."
-    "Das Beste, was ich jetzt tun konnte, war, ihrem Beispiel zu folgen und erst mal zu schlafen.{w} Noch bevor ich diesen Gedanken zu Ende gedacht hatte, war ich auch schon eingeschlafen."
+    "Das Beste, was ich jetzt tun konnte, war, ihrem Beispiel zu folgen und erstmal zu schlafen.{w} Noch bevor ich diesen Gedanken zu Ende denken konnte, war ich auch schon eingeschlafen."
