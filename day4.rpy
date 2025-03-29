@@ -3568,7 +3568,9 @@ translate german day4_busstop_a0871d04:
 
     # "На самом деле, ничего сложного – надо было просто повторять одни и те же ноты."
     #"It wasn’t hard, in fact – just repeat the same notes over and over."
-    "Eigentlich war es nicht schwer - ich musste nur immer wieder dieselben Noten spielen."
+    # "Eigentlich war es nicht schwer - ich musste nur immer wieder dieselben Noten spielen."
+    "Eigentlich war es nicht schwer - ich musste nur immer wieder dieselben Akkorde spielen."  # Es steht im Original zwar Noten da, aber wenn man sich das Lied anhört, spielt die Gitarre Akkorde und nicht nur Melodie. Da übersetzt dann mein Musiker-Autist :-)
+
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1052
 translate german day4_busstop_621a4f25:
@@ -4218,7 +4220,8 @@ translate german day4_forest_c6ce9432:
     # "При всех странностях Электроника таких наклонностей я за ним не замечал."
     #"Out of all the eccentricities of Elektronik, the moment I just saw was the weirdest one."
     "Trotz aller exzentrischen Eigenschaften Elektroniks waren mir diese Neigungen bei ihm bisher nicht aufgefallen."   # Was ist so seltsam?? Die Nacktheit, das Kinderlied oder ist mir hier irgendwo eine schwule Anspielung entgangen?
-                                                                                                                        # Vermutlich letzteres (man denke an das "homoerotische" Bild von ihm mit offenem Hemd), aber die Szene ist eine der schwächsten Passagen mMn
+    # Vermutlich letzteres (man denke an das "homoerotische" Bild von ihm mit offenem Hemd), aber die Szene ist eine der schwächsten Passagen mMn
+
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1200
 translate german day4_forest_b530b3f7:
 
@@ -5222,7 +5225,7 @@ translate german day4_boathouse_76afe60b:
 
     # "Плакаты советских артистов, какие-то книжки на полках, всякая бытовая мелочёвка..."
     #"Posters of Soviet artists, some books on the shelves, various household items..."
-    "Poster von sowjetischen Künstlern, ein paar Bücher in den Regalen, verschiedene Haushaltsgegenstände...
+    "Poster von sowjetischen Künstlern, ein paar Bücher in den Regalen, verschiedene Haushaltsgegenstände..."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1490
 translate german day4_boathouse_76d3f20d:
@@ -8714,7 +8717,7 @@ translate german day4_main2_1da09f52:
 
     # "В толпе я увидел Ульяну и Алису.{w} Похоже, заметила их и вожатая."
     #"I noticed Uljana and Alisa in the crowd.{w} And it looks like our camp leader noticed them too."
-    "Ich bemerkte Uljana und Alisa in der Menge.{w} Und anscheinend hatte die Lagerleiterin sie auch bemerkt."
+    "Ich bemerkte Uljanka und Alisa in der Menge.{w} Und anscheinend hatte die Lagerleiterin sie auch bemerkt."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:2337
 translate german day4_main2_fdaff1c2:
@@ -15180,7 +15183,7 @@ translate german day4_dv_7514d7d5:
 
     # "Однако не успел я сделать и пары шагов, как почва у меня под ногами поехала, и я начал стремительно проваливаться вниз."
     #"However, I only managed to take a few steps before the ground yielded under my feet and before I knew it I was tumbling down."
-    "Ich schaffte es gerade noch so, einige wenige Schritte zu machen, bevor der Boden unter mir nachgab und ich ehe ich's mich versah in die Tiefe stürzte."
+    "Ich schaffte es gerade noch so, einige wenige Schritte zu machen, bevor der Boden unter mir nachgab und ich, ehe ich mich versah, in die Tiefe stürzte."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:3997
 translate german day4_dv_85879201:
@@ -17273,7 +17276,8 @@ translate german dv_mine_exit_e79963e5:
 
     # me "Не знаю, но там кто-то есть. Придётся бежать!"
     #me "I don't know, but it seems there is someone. We have to run!"
-    me "Ich habe keine Ahung, aber es scheint, da ist jemand. Wir sollten hinrennen und nachsehen!" # es wird sonst nirgendwo die Richtung deutlich (vom Geräusch weg/zum Geräusch hin)
+    # me "Ich habe keine Ahung, aber es scheint, da ist jemand. Wir sollten hinrennen und nachsehen!" # es wird sonst nirgendwo die Richtung deutlich (vom Geräusch weg/zum Geräusch hin)
+    me "Ich habe keine Ahnung, aber es scheint, da ist jemand. Wir sollten hier abhauen!" # Tatsächlich heißt es im Russischen, "Wir müssen weglaufen!"
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:4509
 translate german dv_mine_exit_ce36a4aa:
@@ -19688,7 +19692,7 @@ translate german day4_us_00a82683:
 
     # me "Ну да, конечно... Шурик предчувствовал ядерную войну и решил заранее спрятаться, так что ли?"
     #me "Oh, sure... Schurik predicted a nuclear war and decided to hide beforehand, did he?"
-     me "Ja klar... Schurik hat einen Atomkrieg vorhergesehen und beschlossen, vorher zu verschwinden, oder was?"
+    me "Ja klar... Schurik hat einen Atomkrieg vorhergesehen und beschlossen, vorher zu verschwinden, oder was?"
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:5073
 translate german day4_us_c399a64c:
@@ -19730,8 +19734,8 @@ translate german day4_us_9f4bfb7f:
 
     # "Наверное, разница в возрасте действительно сказывалась столь сильно?"
     #"It seems like the age difference between us really matters here."
-    th "Anscheinend macht sich der Altersunterschied zwischen uns bemerkbar."       # Ich finde es besser, diese Aussage zu einem Gedanken zu machen, weil der nachfolgende Gedanke ansonsten
-                                                                                    # ohne direkten Bezug wirkt - wer ist groß?
+    th "Anscheinend macht sich der Altersunterschied zwischen uns bemerkbar."       # Ich finde es besser, diese Aussage zu einem Gedanken zu machen, weil der nachfolgende Gedanke ansonsten ohne direkten Bezug wirkt - wer ist groß?
+
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:5080
 translate german day4_us_a51509b7:
 
@@ -21538,7 +21542,7 @@ translate german us_mine_exit_262beff1:
 
     # "Искать Шурика там, в подземельях, – занятие для настоящих диггеров.{w} Делать это вместе с Ульянкой – для дипломированных сумасшедших."
     #"Looking for Schurik in the dungeons was a job for search-and-rescue professionals.{w} Doing it with Uljana – for certified madmen."
-    "Nach Schurik in den unterirdischen Tunneln zu suchen war ein Job für ein professionelles Such- und Rettungsteam.{w} Das mit Uljana zu tun war etwas für ausgewiesene Verrückte."
+    "Nach Schurik in den unterirdischen Tunneln zu suchen war ein Job für ein professionelles Such- und Rettungsteam.{w} Das mit Uljanka zu tun war etwas für ausgewiesene Verrückte."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:5525
 translate german us_mine_exit_54005ff3:
@@ -22161,6 +22165,7 @@ translate german day4_un_d6e969ac:
     # "На лагерь опустиась ночь."  -- It already did that in l. 21616, but okay...
     #"Night fell on the camp."
     "Die Nacht lugte über dem Lager."      # das da oben ist ein valider Einwand, daher sollten wir das in unserer reflektierten Übersetzung berücksichtigen
+    # Im Russischen Original steht: "Die Nacht war über das Lager hereingebrochen." Vielleicht könnte man auch sowas wie "Die Nacht hüllte das Lager nun in völliger Dunkelheit ein." o.Ä. schreiben?
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:5661
 translate german day4_un_c621431e:
@@ -24632,7 +24637,7 @@ translate german un_mine_exit_db493765:
 
     # th "Но для этого сначала нужно встать, дойти до домика вожатой...{w} Нет, на такие подвиги я не готов."
     #th "But I'd have to stand up and walk to the leader's cabin...{w} I wasn't ready for that."
-    th "Aber dafür ich müsste erst einmal aufstehen und zur Hütte der Leiterin gehen...{w} Dazu bin ich nicht bereit."
+    th "Aber dafür müsste ich erst einmal aufstehen und zur Hütte der Leiterin gehen...{w} Dazu bin ich nicht bereit."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:6258
 translate german un_mine_exit_1dff0f5a:
@@ -25141,7 +25146,7 @@ translate german un_mine_exit_ac77630c:
 
     # "Всю дорогу я совершенно ни о чём не думал, просто шёл за ней и сам не заметил, как мы оказались возле домика Ольги Дмитриевны."
     #"I hadn't thought about anything all the way here, just followed her, and hadn't noticed that we'd come to Olga Dmitrijewna's cabin."
-    "Ich hatte auf dem gesamten Weg hierher an nichts gedacht, ich war ihr einfach nachgelaufen und hatte gar nicht nicht bemerkt, dass wir Olga Dmitrijewnas Hütte erreicht hatten."
+    "Ich hatte auf dem gesamten Weg hierher an nichts gedacht, ich war ihr einfach nachgelaufen und hatte gar nicht bemerkt, dass wir Olga Dmitrijewnas Hütte erreicht hatten."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:6365
 translate german un_mine_exit_9513cd87:
