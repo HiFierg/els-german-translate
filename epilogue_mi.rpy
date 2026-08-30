@@ -2247,7 +2247,7 @@ translate german epilogue_mi_f23678e8:
 
     # my "Пионерская резня бензопилой «Дружба», не иначе…"
     #my "The pioneer chainsaw massacre with a 'Druzhba', eh...?"
-    my "Nicht weniger, als ein 'Druzhba', Pionier Kettensägenmassaker, oder?"  # Note 14 in translation.rpy
+    my "Nicht weniger, als ein 'Druzhba', Pionier Kettensägenmassaker, oder?"  # note14 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:509
 translate german epilogue_mi_bced139f:
