@@ -3,7 +3,7 @@ translate german epilogue_main_7a98964b:
 
     # "Резкая боль сковала всё моё тело."
     #"A sharp pain throbbed through my entire body."
-    "Stechende Schmerzen fuhren mir durch den Körper."
+    "Stechende Schmerzen pulsierten durch meinen Körper."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:8
 translate german epilogue_main_7c0ecf1c:
@@ -17,14 +17,14 @@ translate german epilogue_main_28766e67:
 
     # "Они словно были готовы расколоться на тысячу маленьких кусочков, давая свободный доступ ветру в мою пустую голову."
     #"It feels like they're ready to shatter into a thousand little pieces, giving the wind free access to my empty head."
-    "Es fühlte sich an, als würden sie in tausen kleine Teile zerbrechen, um dem Wind in meinem Kopf freien Zugang zu geben."
+    "Es fühlte sich an, als würden sie in tausend kleine Stücke zerbrechen, um Luft in die Leere meines Kopfes zu lassen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:10
 translate german epilogue_main_1f5640c9:
 
     # "Наверное, я бы не выдержал и пяти минут такой пытки, если бы вовремя не открыл глаза."
     #"Probably I would not have been able to stand even five minutes of such torture if I hadn't opened my eyes in time."
-    "Wahrscheinlich hätte ich diese Folter kaum 5 Minuten ausgehalten, wenn ich nicht rechtzeitig meine Augen geöffnet hätte."
+    "Wahrscheinlich hätte ich diese Folter kaum für fünf Minuten ausgehalten, wenn ich nicht rechtzeitig meine Augen geöffnet hätte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:11
 translate german epilogue_main_4d647778:
@@ -45,14 +45,14 @@ translate german epilogue_main_0c4d877e:
 
     # "Это то время между сознательным и бессознательным, когда хорошо помнишь сны."
     #"The moment between the unconscious and conscious states when you vividly remember your dreams."
-    "Das ist der Moment zwischen Schlaf und wach sein, wenn man sich noch genau an seine Träume erinnert."
+    "Das ist der Moment zwischen Schlafen und Wachen, wenn man sich noch genau an seine Träume erinnert."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:18
 translate german epilogue_main_e050dc5d:
 
     # "Я ехал куда-то в каком-то автобусе и уже почти задремал, как ко мне подошла девочка и начала что-то быстро говорить."
     #"I was going somewhere by bus and was about to doze off when suddenly a girl came up to me and began to speak quickly."
-    "Ich wollte irgendwo mit dem Bus hinfahren und nickte ein, als plötzlich ein Mädchen auf mich zu kam und schnell auf mich einredete."
+    "Ich wollte irgendwo mit dem Bus hinfahren und nickte ein, als plötzlich ein Mädchen auf mich zu kam und hastig auf mich einredete."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:19
 translate german epilogue_main_5d58d05f:
@@ -66,14 +66,14 @@ translate german epilogue_main_6bdcd82e:
 
     # "Я никак не мог понять, что ей от меня надо."
     #"I failed to understand what she needed from me."
-    "Es war mir nicht möglich zu verstehen, was sie von mir wollte."
+    "Es war mir unmöglich, zu verstehen, was sie wollte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:21
 translate german epilogue_main_21564d96:
 
     # "Время шло, а она всё говорила и говорила без остановки."
     #"Time passed, and she kept talking on and on."
-    "Die Zeit verging und sie redete ununterbrochen."
+    "Die Zeit verging und sie redete ohne."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:22
 translate german epilogue_main_bb180213:
@@ -87,14 +87,14 @@ translate german epilogue_main_23d9757b:
 
     # "Я хотел попросить её помолчать или хотя бы умерить свой пыл, но ничего не вышло – то ли у меня не получилось ничего сказать, то ли слова не дошли до неё."
     #"I wanted to ask her to cut it out or at least calm down a bit, but I failed – either because I didn't manage to say anything or because my words didn't reach her."
-    "Ich wollte, dass sie leiser redet oder zumindest weniger emotional, aber es gelang mir nicht - entweder konnte ich nichts sagen oder meine Worte erreichten sie nicht."
+    "Ich wollte sie auffordern, etwas leiser oder zumindest weniger aufgewühlt zu reden, aber es gelang mir nicht - entweder konnte ich nichts sagen oder meine Worte erreichten sie nicht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:24
 translate german epilogue_main_14eb51b4:
 
     # "Лица её я разглядеть не смог.{w} Лишь смотрел и слушал, слушал и смотрел..."
     #"I couldn't even see her face. I was simply listening and staring, staring and listening..."
-    "Ich konnte ihr Gesicht nicht erkennen.{w} Ich habe nur zugehört und geschaut, geschaut und zugehört…"
+    "Ich konnte ihr Gesicht nicht erkennen.{w} Ich habe nur zugehört und geschaut, geschaut und zugehört..."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:25
 translate german epilogue_main_685c283d:
@@ -108,35 +108,35 @@ translate german epilogue_main_f176077d:
 
     # "Ведь вряд ли обычно запоминаешь, как выглядит назойливый комар, мешающий спать."
     #"Surely you would not try to remember what a mosquito disturbing your sleep looks like."
-    "Man würde sich ja auch nicht daran erinnern, wie eine lästige Mücke aussieht, die einem den Schlaf stört."
+    "Man würde sich ja auch nicht daran erinnern, wie eine lästige Mücke aussah, die einen beim Schlafen gestört hat."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:27
 translate german epilogue_main_79c81bc5:
 
     # "Вряд ли пото можешь вспомнить частоту взмаха его крыльев или угол наклона носика."
     #"Surely you wouldn’t manage to recall the frequency of its flapping wings or the inclination of its proboscis after that."
-    "Man würde sich sicherlich nicht an die Frequenz des Flügelsurrens oder an den Winkel des Rüssels erinnern."
+    "Man würde sich sicherlich nicht an die Frequenz ihres Flügelsurrens oder gar an die Neigung ihres Saugrüssels erinnern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:28
 translate german epilogue_main_065ff797:
 
     # "Так и эта девочка – один из миллиона голосов, которые мешают сосредоточиться, мешают думать, мешают спать…"
     #"And this girl is just one of millions of voices that disturb you from concentrating, from thinking, from falling asleep..."
-    "Und dieses Mädchen ist nur eine von Millionen Stimmen, die einem bei der Konzentration stören, beim Denken, beim Einschlafen…"
+    "Und dieses Mädchen ist nur eine von Millionen Stimmen, die einem die Konzentration rauben, beim Denken stören, am Einschlafen hindern…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:29
 translate german epilogue_main_66488078:
 
     # "Чем громче становились её слова, тем тяжелее они доходили до меня."
     #"The louder her voice grew, the harder it got for me to catch her words."
-    "Um so lauter ihre Stimme wurde, um so schwieriger wurde es für mich, ihre Worte zu verstehen."
+    "Je lauter ihre Stimme wurde, desto schwieriger fiel es mir, ihre Worte zu verstehen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:30
 translate german epilogue_main_829ffeb0:
 
     # "Салон автобуса, растерзанные временем кресла, бугристый пол, ржавый потолок, треснувшее стекло в кабине водителя – всё это уплывало вдаль.{w} Вместе с ней."
     #"The bus cabin, the seats worn by time, the uneven floor, the rusty ceiling, the cracked glass of the windscreen – everything was floating away.{w} Along with her."
-    "Der Innenraum des Busses, die mit der Zeit verschlissenen Bänke, der unebene Boden, die verrostete Decke, die gerissene Windschutzscheibe - all das ging dahin.{w} Zusammen mit ihr."
+    "Der Innenraum des Busses, die mit der Zeit verschlissenen Sitzreihen, der unebene Boden, das rostige Dach, die gerissene Windschutzscheibe - all das ging dahin.{w} Zusammen mit ihr."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:31
 translate german epilogue_main_1281b344:
@@ -150,35 +150,35 @@ translate german epilogue_main_de7746b8:
 
     # "Неважно, насколько реален был этот автобус и эта девочка – они для меня представлялись всего лишь навязчивой мошкой."
     #"It didn't matter how real the bus and the girl had been – it was nothing but a bug to me."
-    "Egal, wie realistisch der Bus und das Mädchen waren - für mich war es nicht mehr als eine Mücke."
+    "Egal, wie realistisch der Bus und das Mädchen waren - mich juckte es nicht mehr als eine Mücke." # vielleicht ist es so besser, um sowohl das Wortspiel bug -> belästigen, als auch die Mücke unter einen Hut zu bringen 
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:33
 translate german epilogue_main_6f529678:
 
     # "И вот я уже вишу в абсолютной пустоте и проваливаюсь в сон…"
     #"And here I am, hanging in total emptiness and falling inside a dream..."
-    "Und nun hänge ich in absoluter Leere und falle in einen tiefen Traum…"
+    "Und hier hänge ich nun in absoluter Leere und falle in einen tiefen Traum…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:40
 translate german epilogue_main_ed7f45f7:
 
     # "Бывает же, приснится такое…{w} Вроде бы и не кошмар, но явно что-то не особо нормальное."
     #"Wow, dreams can be really something...{w} Not quite a nightmare, yet definitely not something pleasant."
-    "Manchmal habe ich solche Träume…{w} Nicht unbedingt Albträume, aber definitiv etwas besonderes."
+    "Manchmal habe ich solche Träume…{w} Nicht unbedingt Albträume, aber definitiv unbehaglich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:41
 translate german epilogue_main_4ad85600:
 
     # "Я встал, потёр руками лицо, чтобы вернуться к реальноти, громко зевнул и собрался привести себя в порядок."
     #"I got up, rubbed my face to get back to reality, gave a loud yawn and prepared to clean myself up."
-    "Ich stand auf, rieb mir das Gesicht, um wach zu werden, gähnte laut und machte mich auf mich zu waschen."
+    "Ich stand auf, rieb mir das Gesicht, um wach zu werden, gähnte dann laut und schickte mich an, zum Waschen zu gehen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:42
 translate german epilogue_main_2ebebacc:
 
     # "Утро сегодня выдалось на редкость хмурым."
     #"It was a really grey morning."
-    "Dieser Morgen war extrem düster."
+    "Dieser Morgen war ungemein düster."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:43
 translate german epilogue_main_6695bb75:
@@ -213,7 +213,7 @@ translate german epilogue_main_602cb68c:
 
     # "И только выйдя на улицу, я понял, что ни в каком я не в пионерлагере!"
     #"It was only when I went outside that I suddenly understood that I'm not in a pioneer camp!"
-    "Erst als ich raus ging, wurde mir klar, dass ich mich nicht mehr in einem Pionierlager befand!"
+    "Erst als ich nach Draußen trat, wurde mir klar, dass ich mich nicht mehr in einem Pionierlager befand!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:52
 translate german epilogue_main_f8f2d3b4:
@@ -227,14 +227,14 @@ translate german epilogue_main_7132ec6d:
 
     # "И вышел я не на улицу, а в коридор!"
     #"And I've just come out of my room into a passageway, not out of the cabin!"
-    "Und ich bin gerade aus meinem Zimmer raus auf den Gang und nicht zur Hütte raus!"
+    "Und ich bin gerade aus meinem Zimmer raus auf den Gang und nicht auf den Weg zur Hütte!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:54
 translate german epilogue_main_d7d976c7:
 
     # "Удивление, смятение, страх, даже ужас охватили меня."
     #"I was overwhelmed with surprise, with dismay, with fear, even with terror."
-    "Ich war überwältigt vor Überraschung, Angst, sogar Entsetzen."
+    "Ich war überwältigt vor Überraschung, Angst, Entsetzen sogar."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:55
 translate german epilogue_main_f8f1fe90:
@@ -248,7 +248,7 @@ translate german epilogue_main_4b63500a:
 
     # "Я сел на кровать и закрыл лицо руками, пытаясь вспомнить события вчерашнего дня."
     #"I sat down on the bed and buried my face into my hands, trying to remember the chain of yesterday's events."
-    "Ich setzte mich auf mein Bett und verdeckte mein Gesicht mit den Händen. Ich versuchte mich an die Ereignisse des Vortages zu erinnern."
+    "Ich setzte mich auf mein Bett und vergrub mein Gesicht in meinen Händen. Ich versuchte, mich an die Ereignisse vom Vortag zu erinnern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:62
 translate german epilogue_main_c0692396:
@@ -262,35 +262,35 @@ translate german epilogue_main_28a24bd1:
 
     # "Да, я заснул…{w} и проснулся снова «дома»."
     #"Yeah, I fell asleep...{w} and woke up back 'home'."
-    "Ja, ich schlief ein…{w} und erwachte 'zu Hause'."
+    "Genau, ich schlief ein…{w} und erwachte 'zu Hause'."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:64
 translate german epilogue_main_e6a0051c:
 
     # "Ну, в общем, до определённой степени всё логично."
     #"Well, to some degree, it might even seem quite logical."
-    "Nun, bis zu einem gewissen Grad ist alles logisch."
+    "Nun, bis zu einem gewissen Grad ist das alles durchaus logisch."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:65
 translate german epilogue_main_9b3b626a:
 
     # "Наверное, основное удивление прошло в первые секунды."
     #"It seemed that the initial astonishment has worn off during the first few seconds."
-    "Anscheinend war die anfängliche Überraschung nach den ersten Sekunden verflogen."
+    "Anscheinend war die anfängliche Überraschung bereits nach den ersten Sekunden verflogen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:66
 translate german epilogue_main_2b7cb0bd:
 
     # "В конце концов, то, что я вернулся вот так после недельного отсутствия, не более странно, чем то, как я внезапно оказался в некоем пионерлагере восьмидесятых годов."
     #"After all, the fact that I came back like this after a week-long absence is no stranger than my sudden appearance at some pioneer camp of the eighties in the first place."
-    "Schließlich ist die Tatsache, dass ich nach einer Woche Abwesenheit so zurückgekehrt bin, nicht seltsamer als die, dass ich plötzlich in irgendeinem Pionierlager der Achtzigerjahre aufgetaucht bin."
+    "Schließlich ist die Tatsache, dass ich nach einer Woche Abwesenheit einfach so zurückgekehrt bin, nicht seltsamer als die, dass ich überhaupt in irgendeinem Pionierlager der Achtzigerjahre aufgetaucht bin."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:67
 translate german epilogue_main_94b8b09a:
 
     # "События последних двух дней за мгновение пронеслись у меня перед глазами."
     #"The events of the last two days flashed before my eyes in an instant."
-    "Die Ereignisse der letzten beiden Tage spielten sich sofort vor meinen Augen ab."
+    "Die Ereignisse der letzten beiden Tage spielten sich vor meinen Augen ab."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:68
 translate german epilogue_main_4cdec556:
@@ -332,35 +332,35 @@ translate german epilogue_main_d51d1680:
 
     # "Значит, я его нашёл, смог вырваться из замкнутого круга?{w} Но как?"
     #"Does that mean I found it, I managed to get out of the endless loop?{w} But how?"
-    "Heißt das, ich habe ihn gefunden, ich habe es geschafft, dem Teufelskreis zu entkommen?{w} Aber wie?"
+    "Heißt das, dass ich ihn gefunden habe, dass ich es geschafft habe, dem Teufelskreis zu entkommen?{w} Aber wie?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:74
 translate german epilogue_main_2d5435f1:
 
     # "К тому же теперь непонятно, радоваться мне или огорчаться – за последнюю неделю я так привык к изматывающему внутреннему монологу, поиску ответов и анализу всего и вся, что просто не мог принять этот факт, не выяснив, почему всё произошло именно так."
     #"Nevertheless, I wasn't sure whether I should rejoice or grieve – over the last week I'd kind of gotten used to the everlasting inner monologue, the search for answers and the in-depth analysis of everything, so I simply couldn't accept this fact as it was, without figuring out what exactly happened to me."
-    "Außerdem wusste ich nicht, ob ich mich freuen oder traurig sein sollte – in der vergangenen Woche gewöhnte ich mich so sehr an den anstrengenden inneren Monolog, an die Suche nach Antworten und an die Analyse von alles und jedem, dass ich die Tatsache nicht akzeptieren konnte, ohne herauszufinden, warum alles so passierte, wie es passierte."
+    "Außerdem wusste ich nicht, ob ich lachen oder weinen sollte – in der vergangenen Woche hatte ich mich so an den anstrengenden inneren Monolog gewöhnt, an die Suche nach Antworten und an die ständigen Analysen von alles und jedem, dass ich die Tatsache meiner Rückkehr nicht akzeptieren konnte, ohne herauszufinden, warum alles so passierte, wie es passiert ist."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:75
 translate german epilogue_main_797ee454:
 
     # "Да, он говорил, что я единственный, кто на первом витке узнал о существовании себе подобных, но что это меняет?"
     #"Sure, he told me that I'm the only one who has observed the existance of other guys like me during their very first loop, but does that mean anything?"
-    "Sicher, er hat mir erzählt, dass ich der Einzige bin, der die Existenz von anderen wie mich beim ersten Durchgang bereits wahrgenommen hat, doch was hat das schon zu bedeuten?"
+    "Sicher, er hat mir erzählt, dass ich der Einzige bin, der die Existenz von anderen Ichs beim ersten Durchgang bereits wahrgenommen hat, doch was hat das schon zu bedeuten?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:76
 translate german epilogue_main_6d0aec47:
 
     # "В лбом случае вся его теория, все его рассуждения вмиг рассыпались как карточный домик!"
     #"Anyway, all his theories and ideas instantly collapsed like a house of cards!"
-    "Jedenfalls brachen all seine Theorien und Ideen zusammen wie ein Kartenhaus!"
+    "Jedenfalls brachen jetzt all seine Theorien und Ideen in sich zusammen wie ein Kartenhaus!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:77
 translate german epilogue_main_117f74f8:
 
     # "Теперь предстояло решить, как на это реагировать."
     #"Now I had to decide how I should react."
-    "Jetzt lag es an mir zu entscheiden, wie ich damit umgehen sollte."
+    "Jetzt lag es an mir, zu entscheiden, wie ich damit umgehen sollte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:78
 translate german epilogue_main_f5b5600e:
@@ -402,7 +402,7 @@ translate german epilogue_main_e2ba07bf:
 
     # "Да и помню я во всех подробностях события целой недели."
     #"I still remember the events of the whole week in great detail."
-    "Ich konnte mich an alle Ereignisse dieser Woche in allen Details erinnern."
+    "Ich konnte mich an alle Ereignisse dieser Woche in vielen Details erinnern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:84
 translate german epilogue_main_b42bf578:
@@ -423,7 +423,7 @@ translate german epilogue_main_37cb3d33:
 
     # "Нет, это тоже не вариант."
     #"Nah, that's not an option either."
-    "Das ist auch keine Option."
+    "Nein, das ist auch keine Option."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:87
 translate german epilogue_main_59c846f5:
@@ -444,35 +444,35 @@ translate german epilogue_main_376c1a1c:
 
     # "Ведь я уже не надеялся выбраться – если не из лагеря, то из той реальности – и уже был готов к ещё одной неделе.{w} А потом ещё и ещё…"
     #"Indeed, I wasn’t hoping to get out – either from that camp or from that reality – and I was pretty much ready to another week.{w} And another, and another one..."
-    "Tatsächlich hatte ich schon die Hoffnung aufgegeben, dort raus zu kommen – weder aus dem Lager noch aus der Realität – und ich hatte mich schon auf eine weitere Woche eingestellt.{w} Und noch eine und noch eine…"
+    "Tatsächlich hatte ich schon die Hoffnung aufgegeben, dort rauszukommen – weder aus dem Lager, noch aus seiner Realität – und ich hatte mich schon auf eine weitere Woche eingestellt.{w} Und noch eine und noch eine…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:90
 translate german epilogue_main_bff86508:
 
     # "Я согласился со своей ролью, примирился с судьбой."
     #"I'd accepted my role, I'd reconciled with my destiny."
-    "Ich nahm meine Rolle an, ich hatte mich mit meinem Schicksal abgefunden."
+    "Ich nahm meine Rolle an, hatte mich mit meinem Schicksal abgefunden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:91
 translate german epilogue_main_4a86a5af:
 
     # "Да и что мне оставалось после всего случившегося?"
     #"And what was I supposed to do after all the stuff that happened?"
-    "Ja, was blieb mir auch nach all dem, was passiert ist, anderes übrig?"
+    "Ja, was blieb mir auch nach all dem, was passiert war, anderes übrig?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:92
 translate german epilogue_main_c6b1ea80:
 
     # "Я обречённо вздохнул, с трудом встал с кровати и подошёл к компьютеру."
     #"I heaved a doomed sigh, got up from my bed with considerable effort, and went to my computer."
-    "Ich seufzte wie zum Scheitern verurteilt, erhob mich mit erheblichem Kraftaufwand von meinem Bett und ging zum Computer."
+    "Ich seufzte wie zum Scheitern verurteilt, erhob mich unter erheblichem Kraftaufwand von meinem Bett und ging zum Computer."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:93
 translate german epilogue_main_0dba5f6f:
 
     # "Странно, но, если верить ему, с момента моего исчзновения прошла не неделя, а всего 14 часов."
     #"That's weird, but according to it, only 14 hours have passed since my disappearance from this world, not a whole week."
-    "Das ist seltsam, nach dem hier ist mein Verschwinden aus dieser Welt gerade mal 14 Stunden her und nicht eine ganze Woche."
+    "Das ist seltsam, der Anzeige nach ist mein Verschwinden aus dieser Welt gerade mal 14 Stunden her und nicht eine ganze Woche."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:99
 translate german epilogue_main_295da44b:
@@ -489,7 +489,7 @@ translate german epilogue_main_8ffdf5b6:
 
     # "{i}Привет, Семён! Классно вчера посидели! Ты нас не забывай, звони почаще!))){/i}"
     #"{i}Hi Semjon! Yesterday... It was legendary! CU L8R! :))){/i}"
-    "{i}Hallo Semjon! Die Zeit, die wir gestern verbracht habe, war echt toll! Vergiss uns nicht und ruf mal an! :))){/i}"
+    "{i}Hey Semjon! Gestern war echt toll! Vergiss uns nicht und meld dich mal! :))){/i}"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:102
 translate german epilogue_main_da755414:
@@ -503,7 +503,7 @@ translate german epilogue_main_6c9bac4f:
 
     # "И тут вдруг вернулось всё: боль, головокружение, а в комнате повис стойкий запах перегара."
     #"Suddenly, all my senses came back to me: the headache, the dizziness, all the symptoms of a hangover."
-    "Und dann plötzlich stellte ich es fest: Die Kopfschmerzen, das Schwindelgefühl und der penetrante Rauchgeruch, der im Raum hing."
+    "Und dann plötzlich stellte ich es fest: Die Kopfschmerzen, der Schwindel und der penetrante Alkoholgeruch, der noch im Raum hing."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:104
 translate german epilogue_main_393d03d9:
@@ -520,14 +520,14 @@ translate german epilogue_main_dc6e0b16:
     #nvl clear
     #"All of this was so incomprehensible that I became enraged. I began cursing foully, trying to tear my hair out and hammering on the keyboard with my fists. I didn't return to a normal state until there were no keys left on it."
     nvl clear
-    "Das war alles so unverständlich, dass ich sauer wurde. Ich fing an rum zu schreien, raufte mir die Haare und schlug mit den Fäusten auf die Tastatur ein. Erst als alle Knöpfe kaputt geschlagen waren, kam ich wieder zur Besinnung."
+    "Das war mir alles so unverständlich, dass ich sauer wurde. Ich begann, wild herumzufluchen, raufte mir die Haare und schlug mit den Fäusten auf die Tastatur ein. Erst, als alle Tasten gewaltsam entfernt worden waren, kam ich wieder zur Besinnung."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:107
 translate german epilogue_main_f36bf9ba:
 
     # "И зачем так переживать? Никто же не расстраивается от того, что заканчивается сон или галлюцинация. Наоборот, зачастую люди этому радуются. Неужели я настолько был готов остаться там, что возвращение в реальность оказалось для меня нежеланным?"
     #"Why should I care so much? Nobody worries when a dream or a hallucination ends. Moreover, people are usually glad that it happens. Was I really that prepared to stay there that my return to reality became so undesirable for me?"
-    "Warum mache ich mir Sorgen darüber? Niemand regt sich darüber auf, wenn ein Traum oder eine Halluzination endet. Im Gegenteil, man ist froh darüber, wenn sie endet. Hatte ich mich so sehr darauf eingestellt, dortzubleiben, dass ich mir eine Rückkehr in die Realität nicht wünschte?"
+    "Warum berührt mich das so sehr? Niemand regt sich ernsthaft darüber auf, wenn ein Traum oder eine Halluzination endet. Im Gegenteil, man ist froh darüber, wenn sie endet. Hatte ich mich so sehr darauf eingestellt, dort zu bleiben, dass ich mir eine Rückkehr in die Realität gar nicht mehr wünschte?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:108
 translate german epilogue_main_5f5b219a:
@@ -537,14 +537,14 @@ translate german epilogue_main_5f5b219a:
     #nvl clear
     #"And then a simple and obvious thought crossed my mind. Perhaps I'm just going insane..."
     nvl clear
-    "Und dann bekam ich den offensichtlichen Gedanken. Vielleicht fange ich an, verückt zu werden…"
+    "Dann kam mir ein einfacher Gedanke. Vielleicht fange ich an, verrückt zu werden…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:110
 translate german epilogue_main_2500664b:
 
     # "Ведь у психов часто бывают видения, которые они выдают за реальность. Да и все предпосылки у меня для этого есть: безвылазное сидение в четырёх стенах, отсутствие реального общения, куча психологических проблем. Что ж, это многое объясняет!"
     #"Indeed, madmen frequently have visions which they perceive as reality. Besides, I had all the symptons of insanity: I never leave the four walls of my prison, I never socialise, I have lots of psychological problems. Well, that explains a lot!"
-    "Schließlich haben Psychos oft Halluzinationen, die sie als Realität wahrnehmen. Und ich bringe die besten Voraussetzungen mit: Sich in den eigenen vier Wänden einsperren, keine wirkliche Kommunikation mit anderen eine Menge psychischer Probleme. Also, das erklärt einiges!"
+    "Schließlich haben Psychos oft Halluzinationen, die sie als real wahrnehmen. Und ich bringe die besten Voraussetzungen mit: Ich sperre mich in den eigenen vier Wänden ein, habe keine wirklichen sozialen Kontakte, dazu eine Menge psychischer Probleme. Nun, das erklärt einiges!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:111
 translate german epilogue_main_18e12dde:
@@ -554,14 +554,14 @@ translate german epilogue_main_18e12dde:
     #nvl clear
     #"My dark, nervous laughter echoed in the room."
     nvl clear
-    "Mein düsteres, nervöses Lachen hallte im Raum wieder."
+    "Mein düsteres, nervöses Lachen hallte im Raum wider."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:113
 translate german epilogue_main_92e8ada7:
 
     # "Тогда мне пора к психологу. Нет, уже к психиатру. Или сразу в жёлтый дом!"
     #"Guess it’s the right time for me to visit a therapist. Or rather a psychiatrist. Or should I just surrender myself at the asylum?"
-    "Ich denke, es war an der Zeit, einen Therapeuten aufzusuchen. Oder gleich einen Psychiater. Oder sollte ich mich gleich in die Klapse einweisen lassen?"
+    "Ich denke, es ist an der Zeit, einen Therapeuten aufzusuchen. Oder gleich einen Psychiater. Oder sollte ich mich gleich in die Klapse einweisen lassen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:114
 translate german epilogue_main_636725da:
@@ -575,7 +575,7 @@ translate german epilogue_main_5f0e3c02:
 
     # "Сквозь хохот заорал я что есть мочи."
     #"I cried at the top of my lungs between bouts of my manic laughter."
-    "Schrie ich aus vollen Lungen, unterbrochen von meinem irren Gelächter."
+    "Schrie ich aus vollen Lungen, unterbrochen nur von meinem irren Gelächter."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:116
 translate german epilogue_main_ecb4a2ab:
@@ -589,7 +589,7 @@ translate german epilogue_main_56059efa:
 
     # "Стук соседей по батарее кое-как меня успокоил."
     #"The racket my neighbours made on the wall calmed me down somehow."
-    "Das Klopfen der Nachbarn an die Wand brachte mich irgendwie wieder zur Ruhe."
+    "Das Klopfen der Nachbarn an die Wand brachte mich irgendwie wieder zur Besinnung."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:118
 translate german epilogue_main_5eb2202b:
@@ -612,14 +612,14 @@ translate german epilogue_main_258159ac:
 
     # "В прострации я просидел несколько часов. Ни о чём не думая, ничего не делая. Просто пялился в давно погасший монитор. Наконец я подёргал мышкой и открыл пару вкладок в браузере. Так, что нового? F5, F5!"
     #"I just sat completely freaked out for several hours. Doing nothing, thinking nothing, just staring at the monitor, long since gone into sleep mode. Finally I moved the mouse and opened a few tabs in the browser. So, what's new? F5, F5!"
-    "Völlig durchgeknallt saß ich für einige Stunden einfach nur da. Dachte an nichts, machte nichts, außer auf den Monitor zu starren, der schon längst in den Stromsparmodus geschaltet hatte. Schließlich bewegte ich die Maus. Was gibt es also Neues? F5, F5!"
+    "Völlig fertig saß ich für einige Stunden einfach nur da. Dachte an nichts, machte nichts, außer auf den Monitor zu starren, der schon längst in den Stromsparmodus gegangen war. Schließlich bewegte ich die Maus und öffnete meinen Browser. Was gibt es Neues? F5, F5!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:125
 translate german epilogue_main_81eac3b9:
 
     # "Как будто событий прошедшей недели и не было. Действительно, что горевать о галлюцинациях? Реально? Да. Много воспоминаний? Да. Кажется похожим на правду? Всенепременно! Доказательства? Нет."
     #"As if the events of the past week had never happened. Come on, do you have to grieve for a hallucination? Was it real? Sure. Lots of memories? Sure. Looks true enough? By all means, yes! Any proof? Nope."
-    "Es war, als hätte es die Ereignisse der vergangenen Woche nie gegeben. Also wirklich muss man Halluzinationen nach trauern? Waren sie echt? Sicher. Eine Menge Erinnerungen? Ja. Wirkte es real? Ganz sicher! Kann man was beweisen? Nein."
+    "Es ist, als wären die Ereignisse der vergangenen Woche nie passiert. Komm schon, musst du Halluzinationen wirklich nachtrauern? Waren sie echt? Sicher. Eine Menge Erinnerungen? Ja. Wirkte es real? Ganz sicher! Kann man irgendwas davon beweisen? Nein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:126
 translate german epilogue_main_6e5d6669:
@@ -629,7 +629,7 @@ translate german epilogue_main_6e5d6669:
     #nvl clear
     #"The verdict is clear, as is my future course. I have long suspected that my current lifestyle wasn't doing me any good. I wasn't ready for such an unusual event, but so what? I'll have to be more prepared for my next trip."
     nvl clear
-    "Das Urteil ist eindeutig genauso wie mein zukünftiger Kurs. Ich vermutete schon lange, dass mein derzeitiger Lebenswandel mir nicht guttut. Ich war auf ein so ungewöhnliches Ereignis nicht vorbereitet, aber was solls? Bei meiner nächsten Reise werde ich besser vorbereitet sein."
+    "Das Urteil ist so eindeutig wie mein zukünftiger Kurs. Ich vermutete schon lange, dass mein derzeitiger Lebenswandel mir nicht gut tut. Ich war auf ein so ungewöhnliches Ereignis nicht vorbereitet, aber was soll's? Bei meiner nächsten Reise werde ich besser vorbereitet sein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:128
 translate german epilogue_main_ce617998_1:
@@ -648,7 +648,7 @@ translate german epilogue_main_8e39de8c:
 
     # "Вечер. Вереница тредов и картинок несколько отвлекла меня от грустных мыслей и самокопания. Неожиданно выскочило окошко сообщений."
     #"Night. An endless stream of threads and images took my mind off my lamentations and considerations. An instant message window popped up most unexpectedly."
-    "Es wurde Nacht. Endlose Abläufe von Ereignissen und Bildern lenkten mich von meinem Wehleid und Überlegungen ab. Völlig unerwartet tauchte eine Chatnachricht in meinem Fenster auf."
+    "Es wurde Nacht. Endlose Ströme von Informationen und Bildern lenkten mich von meinen wehleidigen Grübeleien ab. Völlig unerwartet tauchte eine Chatnachricht in einem Fenster auf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:134
 translate german epilogue_main_b336ac6e:
@@ -662,7 +662,7 @@ translate german epilogue_main_e3463832:
 
     # "Ну да, крайне оригинально."
     #"Sure, quite an original way to start a conversation."
-    "Ja sehr originell."
+    "Na, sehr originell."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:136
 translate german epilogue_main_e7ce88cd:
@@ -676,7 +676,7 @@ translate german epilogue_main_931ab60c:
 
     # "В информации о контакте было совершенно пусто. Даже вместо ника стоял всего лишь девятизначный номер. Но по номеру же нельзя узнать, что за человек на другом конце сетевого кабеля, ведь так? Хотя, конечно, когда-нибудь всё будет по-другому. Унифицированные числовые идентификаторы вместо имён, набор символов в биографии, несколько байт характера и три с половиной бита чувств…"
     #"The contact's profile was completely empty. Not even a nickname – just a nine-digit number. You can't guess what kind of person is on the other end by just looking at a number, can you? Sure, someday it will be all different. Unified digital identifiers instead of names, a couple of symbols for a biography, several bytes of personality and three and a half bits of feelings..."
-    "Die Kontaktinformationen waren völlig leer. Nicht mal einen Nickname. Nur eine neunstellige Nummer. Aber man konnte an Hand der Nummer nicht erkennen, wer am anderen Ende der saß, oder? Sicherlich wird es eines Tages anders sein. Einheitliche Zahlenreihen anstelle von Namen, eine Handvoll Zeichen im Lebenslauf, ein paar Bytes führ Gefühle…"
+    "Die Kontaktinformationen waren völlig leer. Nicht mal ein Nickname. Nur eine neunstellige Nummer. Aber man kann anhand einer Nummer nicht erkennen, wer am anderen Ende der Leitung sitzt, oder? Sicherlich wird es eines Tages anders sein. Einheitliche ID-Nummern anstelle von Namen, eine Handvoll Zeichen im Lebenslauf, ein paar Bytes für die Persönlichkeit und dreieinhalb Bits Gefühle…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:138
 translate german epilogue_main_dd99d86f:
@@ -693,7 +693,7 @@ translate german epilogue_main_387fcb02:
 
     # "Наверное, кто-то из тех, с кем я был вчера."
     #"Probably someone from yesterday's party."
-    "Offensichtlich jemand von der Party gestern."
+    "Offenbar jemand von der Party gestern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:141
 translate german epilogue_main_830dea84:
@@ -738,14 +738,14 @@ translate german epilogue_main_998b1726:
 
     # "Плевать я хотел, кто это и с какой целью он мне пишет. Пока неизвестный абонент не напрягал, мне было совершенно параллельно его присутствие в моём контакт-листе."
     #"Honestly, I don't give a damn who this is and why he is messaging me. Until this unidentified individual starts harassing me, I could easily tolerate his presence in my contact list."
-    "Ehrlich gesagt ist es mir scheißegal, wer das ist und warum er mir eine Nachricht schickt. Solange diese nicht identifizierte Person nicht anfängt, mich zu belästigen, könnte ich ihn in meiner Kontaktliste problemlos tolerieren."
+    "Ehrlich gesagt ist es mir scheißegal, wer das ist und warum er mir eine Nachricht schickt. Solange diese unidentifizierte Person nicht damit anfängt, mich zu belästigen, könnte ich ihn in meiner Kontaktliste problemlos tolerieren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:148
 translate german epilogue_main_33de6e67:
 
     # message "Но это ничего. Мы ещё встретимся. Обязательно встретимся."
     #message "Well, that's ok. We'll meet again. We surely will."
-    message "Aber das ist okay. Wir werden uns wiedersehen. Wir werden uns sicher wiedersehen."
+    message "Aber das ist okay. Wir werden uns wiedersehen. Das werden wir sicher."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:149
 translate german epilogue_main_f5239078:
@@ -783,7 +783,7 @@ translate german epilogue_main_f8d54840:
 
     # "Этот непонятный, скомканный день подходил к концу. Ложась спать, я ещё раз быстро прокрутил в голове все события, которые мне казались реальными. Где же я проснусь завтра? Может быть, галлюцинации вновь вернутся? Нет, скорее всё забуду."
     #"This odd, screwed-up day at last was slowly coming to end. Going to bed, I yet again recalled in my head all the events that seemed so real for me. Where am I going to wake up tomorrow? Would these hallucinations return? Nah, I'll probably just forget everything."
-    "Dieser völlig vermurkste Tag neigte sich dem Ende zu. Als ich ins Bett ging, ging ich noch einmal alle Ereignisse durch, die mir real vor kamen. Wo würde ich morgen auf wachen? Würden die Halluzinationen wiederkommen? Nein, ich würde lieber alles vergessen."
+    "Dieser völlig vermurkste Tag neigte sich dem Ende zu. Als ich im Bett lag, ging ich noch einmal alle Ereignisse durch, die mir so real vorgekommen sind. Wo würde ich morgen aufwachen? Würden die Halluzinationen zurückkehren? Nee, ich würde vermutlich wieder alles vergessen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:155
 translate german epilogue_main_95611f9f:
@@ -793,7 +793,7 @@ translate german epilogue_main_95611f9f:
     #nvl clear
     #"Strange, but now I'm really feeling that everything happening now is real. {i}There{/i} was just a fiction, a game of deformed imagination, or really something fantastical, and {i}here{/i} is reality. Sometimes inconvenient, sometimes it unfolds differently from how you'd wish, surprises you like this, but it’s still reality! "
     nvl clear
-    "Seltsamerweise empfind ich alles, was jetzt passierte, als real. {i}Das{/i} war nur eine Fiktion, ein Spiel mit deformierter Fantasie oder tatsächlich etwas Fantastisches, und hier ist die Realität. Manchmal unbequem, manchmal läuft es anders, als man es gerne hätte oder sie überrascht einen, aber es ist immer noch die Realität."
+    "Seltsamerweise empfinde ich alles, was hier und jetzt passiert, als real. {i}Dort{/i} war nur eine Fiktion, ein Spiel mit deformierter Fantasie oder tatsächlich etwas Fantastisches, und hier ist es die Realität. Manchmal ist sie unbequem, manchmal läuft alles anders, als man es gerne hätte oder man wird überrascht, aber es ist immer noch die Realität."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:157
 translate german epilogue_main_fb80d3eb:
@@ -819,7 +819,7 @@ translate german epilogue_main_c07a412b:
 
     # "Постепенно жизнь вернулась в привычное русло, и я стал забывать о событиях той недели. В конце концов, ничего страшного и не произошло же. Даже если всё это было по-настоящему, то что с того? Семь дней в пионерлагере, не более. Меня не убили, не ставили надо мной опытов, не промывали мозги, и так ли уж важно теперь, что стало причиной?"
     #"Bit by bit, my life resumed its normal course, and I started to forget the events of that week. After all, nothing bad happened. Even if it was indeed real, who cares? That were only seven days in a pioneer camp. I wasn't killed, nobody kidnapped me to conduct experiments, I wasn't brainwashed, so why do I care now about the reason?"
-    "Stück für Stück kam mein Leben wieder in die normale Bahn und ich fing an, die Ereignisse dieser Woche zu vergessen. Vor allem passierte nichts weiter Schlimmes. Selbst wenn es wirklich real gewesen wäre, wen interessiert das noch? Das waren einfach nur sieben Tage in einem Pionierlager. Ich wurde nicht um gebracht, niemand hat mich entführt, um Experimente an mir durchzuführen, ich bekam keine Gehirnwäsche, also was kümmert mich das Ganze noch?"
+    "Stück für Stück fand mein Leben wieder in die gewohnten Bahnen und ich fing an, die Ereignisse jener Woche zu vergessen. Vor allem passierte nichts weiter Schlimmes. Selbst, wenn es wirklich real gewesen wäre - wen interessiert das noch? Das waren einfach nur sieben Tage in einem Pionierlager. Ich wurde nicht umgebracht, niemand hat mich entführt, um Experimente an mir durchzuführen, ich bekam keine Gehirnwäsche, was also kümmert mich das Ganze noch?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:167
 translate german epilogue_main_d7bc5196:
@@ -842,7 +842,7 @@ translate german epilogue_main_1c95a7cd:
 
     # "Я по-прежнему практически не выходил из дома. Компьютер и интернет оставались моими единственными друзьями, а клавиатура – единственным способом общения с внешним миром. Кнопка F5 вновь стала главной в моей жизни. Всё не так уж плохо, если вдуматься."
     #"I was still a shut-in. My computer and the internet were my only friends, and the keyboard was the only communication channel connecting me to the outside world. The F5 key became the main thing in my life again. Come to think of it, it really wasn't all that bad."
-    "Noch immer verließ ich kaum das Haus. Mein Computer und das Internet waren meine einzigen Freunde und die Tastatur war der einzige Kommunikationskanal nach draußen. Die F5 Taste spielte wieder eine Zentrale Rolle in meinem Leben. Wenn ich darüber nach dachte, war es alles gar nicht so schlimm."
+    "Noch immer verließ ich kaum das Haus. Mein Computer und das Internet waren meine einzigen Freunde und die Tastatur war der einzige Kommunikationskanal nach draußen. Die F5-Taste spielte wieder eine zentrale Rolle in meinem Leben. Wenn ich darüber nachdenke, war es alles gar nicht so schlimm."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:176
 translate german epilogue_main_76b2fe88_3:
@@ -855,7 +855,7 @@ translate german epilogue_main_88474bfc:
 
     # "Однажды на экране вновь высветился знакомый набор цифр – мне псал тот неизвестный контакт."
     #"Yet one day a familiar combination of digits popped up on the screen – that strange contact of mine had come online once again."
-    "Eines Tages erschien wieder diese vertraute Zahlenreihe auf meinem Bildschirm – dieser unbekannte Kontakt kam wieder einmal online."
+    "Eines Tages jedoch erschien wieder eine vertraute Zahlenreihe auf meinem Bildschirm – dieser unbekannte Kontakt kam wieder einmal online."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:179
 translate german epilogue_main_68c6e51f:
@@ -876,7 +876,7 @@ translate german epilogue_main_15fd667b:
 
     # message "Как поживаешь?"
     #message "How are you doing?"
-    message "Wie gehts es dir?"
+    message "Wie geht es dir so?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:182
 translate german epilogue_main_e7ce88cd_1:
@@ -899,7 +899,7 @@ translate german epilogue_main_fcdab43c:
     # message "Что нового?"
     nvl clear
     #message "Any news?"
-    message "Gibts was Neues?"
+    message "Gibt's was Neues?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:186
 translate german epilogue_main_dd5093d8:
@@ -913,7 +913,7 @@ translate german epilogue_main_d166e979:
 
     # message "Стабильность – признак класса?"
     #message "Stability is a sign of true class?"
-    message "Ist Stabilität ein Zeichen wahrer Klasse?"
+    message "Stabilität - ein Zeichen wahrer Klasse?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:188
 translate german epilogue_main_dd69c3a1:
@@ -951,14 +951,14 @@ translate german epilogue_main_8dd0767d:
 
     # me "Нет, а должно было?"
     #me "Nope. Should it have?"
-    me "Nein sollte es?"
+    me "Nein, sollte es?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:194
 translate german epilogue_main_6fa5b1d2:
 
     # message "Ну, всё-таки такое не каждый день происходит! И не с каждым…"
     #message "Well, it's not like you experience stuff like that on a day-to-day basis! Not everybody gets to experience it either..."
-    message "Nun, diese Erfahrungen macht man nicht jeden Tag! Und sie werden nicht jedem zu Teil…"
+    message "Nun, solche Erfahrungen machst du nicht jeden Tag! Und schon gar nicht jeder da draußen…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:195
 translate german epilogue_main_1084810b:
@@ -972,7 +972,7 @@ translate german epilogue_main_3c014c6c:
 
     # message "А ты сам не понимаешь?"
     #message "Don't you get it?"
-    message "Verstehst du nicht?"
+    message "Verstehst du's nicht?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:197
 translate german epilogue_main_67b3ef9f:
@@ -1003,7 +1003,7 @@ translate german epilogue_main_907853ad:
 
     # "Меня словно током ударило! Все события той недели мгновенно всплыли в мозгу. Руки задрожали, а по лицу потёк холодный пот. Я с ужасом оглянулся, ожидая увидеть там инопланетян, привидений или смерть с косой. Но моя квартира была, как всегда, пуста. Я выбежал в коридор, тщательно осмотрел кухню и ванную – никого. Наконец я вернулся к компьютеру. На экране всё так же спокойно мигало окно сообщений, словно его содержимое было совершенно обычным."
     #"It felt like an electric shock! All the events of that week immediately sprang up in my mind. My hands started to tremble, a cold sweat burst from my forehead. I turned around in horror, already imagining that I'd see aliens, ghosts, or the grim reaper. But there was nobody in my room except me, as always. I ran to the corridor, checked in the kitchen and in the bathroom – still nobody. At last, I returned to the computer. The same message window was still flashing steadily, as if it was a perfectly ordinary message."
-    "Es fühlte sich an wie ein elektrischer Schlag! Alle Ereignisse der Woche kamen mir auf einmal wieder in den Sinn. Meine Hände zitterten und kalter Schweiß floss mir über die Stirn. Ich schaute mich um und erwartete Aliens, Geister oder den Tod mit der Sense zu sehen. Aber der Raum war wie immer leer. Ich lief in den Flur, prüfte die Küche und das Badezimmer, aber es war niemand da. Schließlich kehrte ich zurück zu meinem Computer. Das Nachrichtenfenster war noch immer zu sehen, als wäre es das Normalste auf der Welt."
+    "Es fühlte sich an wie ein elektrischer Schlag! Alle Ereignisse jener Woche kamen mir auf einmal wieder in den Sinn. Meine Hände zitterten und kalter Schweiß brach mir über die Stirn. Ich schaute mich um und erwartete bereits, Aliens, Geister oder gar den Leibhaftigen zu sehen. Aber der Raum war wie immer leer. Ich lief in den Flur, prüfte die Küche und das Badezimmer, aber es war niemand da. Schließlich kehrte ich zurück zu meinem Computer. Das Nachrichtenfenster war noch immer zu sehen, als wäre es das Normalste auf der Welt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:202
 translate german epilogue_main_56c768f9:
@@ -1065,7 +1065,7 @@ translate german epilogue_main_a073eb1b:
 
     # "Смайлик в конце показался мне исчадием ада, разверзающим свою безобразную пасть, чтобы поглотить меня."
     #"That smiley at the end of the line looked like the devil himself, stretching its deformed jaws open to devour me."
-    "Der Smiley am Ende der Zeile sah aus wie der leibhaftige Teufel, der seinen deformierten Kiefer aufriss, um mich zu verschlingen."
+    "Der Smiley am Ende der Zeile sah aus wie der Teufel selbst, der seinen deformierten Kiefer aufriss, um mich zu verschlingen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:212
 translate german epilogue_main_e1d6b6aa:
@@ -1079,14 +1079,14 @@ translate german epilogue_main_d850b239:
 
     # "Я всё-таки решился задать вопрос."
     #"I finally made up my mind to ask that question."
-    "Ich Endschloss mich schließlich doch diese Frage zu stellen."
+    "Ich entschloss mich schließlich, doch diese Frage zu stellen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:214
 translate german epilogue_main_5e3cf096:
 
     # message "Ничего. Совершенно ничего. Ты живёшь своей обычной жизнью."
     #message "Nothing. Nothing at all. You’re just living your regular life."
-    message "Nichts. Absolut gar nichts. Du lebst dein normales Leben."
+    message "Nichts. Absolut gar nichts. Du lebst einfach dein normales Leben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:215
 translate german epilogue_main_39faba7a:
@@ -1114,7 +1114,7 @@ translate german epilogue_main_83608308:
 
     # message "Если для тебя это было реально, то, да, реально. Если нет, то нет. Всё просто же."
     #message "If it seemed real to you, then yes, it was real. If not, then it wasn’t. It's just that simple."
-    message "Wenn es dir real erschien, dann ja, war es real. Fall nicht, dann war es auch nicht real. So einfach ist das."
+    message "Wenn es dir real erschien, dann ja, es war real. Falls nicht, dann war es nicht real. So einfach ist das."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:219
 translate german epilogue_main_d1986394:
@@ -1124,7 +1124,7 @@ translate german epilogue_main_d1986394:
     #nvl clear
     #"That's not simple at all!"
     nvl clear
-    "So einfach war das sicher nicht!"
+    "So einfach ist das sicher nicht!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:221
 translate german epilogue_main_a87d627d:
@@ -1152,7 +1152,7 @@ translate german epilogue_main_7b4418d5:
 
     # "Похоже, оно действительно меня слышало и без всякого интернета. Ужас сковал всё тело, я закрыл глаза и сжался в комочек."
     #"It seems that it really heard me without the use of the internet. Terror chained my whole body, I closed my eyes and curled myself into a ball."
-    "Es schien, dass es mich auch ohne Internet hören konnte. Ich wurde von Entsetzen gepackt, ich schloss die Augen und kauerte mich wie eine Kugel zusammen."
+    "Es schien, dass es mich auch ohne Internet hören konnte. Ich wurde von Entsetzen gepackt, ich schloss die Augen und kauerte mich wie ein Embryo zusammen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:225
 translate german epilogue_main_dfa8be82:
@@ -1166,7 +1166,7 @@ translate german epilogue_main_4d3bcab6:
 
     # "Я начал бредить, слова сами вырывались изо рта. Бссвязный, бессмысленный набор слов."
     #"I started to lose it. Words were coming out of my mouth by themselves. Illogical, meaningless sets of words."
-    "Ich fing an, die Fassung zu verlieren. Die Worte Verliesen meinen Mund wie von selber. Unlogische, bedeutungslose Wortkombinationen."
+    "Ich fing an, die Fassung zu verlieren. Die Worte verließen meinen Mund wie von selbst. Unlogischer, bedeutungsloser Wortsalat."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:227
 translate german epilogue_main_9ee3c724:
@@ -1211,7 +1211,7 @@ translate german epilogue_main_a1f21fcf:
 
     # message "Скоро узнаешь! :)"
     #message "Oh, you'll see that soon enough! :)"
-    message "Das wirst du schon bald herausfinden! :)"
+    message "Das wirst du bald herausfinden! :)"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:234
 translate german epilogue_main_76b2fe88_4:
@@ -1224,7 +1224,7 @@ translate german epilogue_main_74902b45:
 
     # "В глазах начало темнеть, в ушах зашумело, и закружилась голова. Я почувствовал, что само моё естество вырывается из физической оболочки. События прошедших нескольких дней стали какими-то далёкими, словно всё это было не со мной. Затем из памяти начали истираться воспоминания о лагере, как будто кто-то ластиком тщательно вымарывал написанные карандашом слова. Через мгновение я уже ничего не чувствовал и не ощущал, словно погрузившись в неземное блаженство."
     #"Everything started fading to black in my eyes, noise filled my ears, and I started to feel dizzy. I felt that my very soul was escaping its physical shell. The events of the last few days became hazy, as if they'd all happened to someone other than me. Then the memories of the camp started to vanish, as if somebody was using an eraser to thoroughly rub out words written with a pencil. Moment later, I felt and sensed nothing, as though I was plunged into a state of cosmic bliss."
-    "Mir wurde langsam schwarz vor den Augen, ich bekam Ohrensausen und mir wurde schwindelig. Ich fühlte, wie mein Geist anfing, den Körper zu verlassen. Die Ereignisse der letzten Tage begannen zu verschwimmen, als wären sie von jemand anderem. Die Erinnerungen an das Lager verschwanden langsam, so als würden die Worte, die ich mit einem Bleistift schrieb, von jemandem wegradiert. Einen Moment später fühlte und spürte ich nichts mehr, als wäre ich in eine übernatürliche Glückseligkeit eingetaucht."
+    "Mir wurde langsam Schwarz vor Augen, ich bekam Ohrensausen und mir wurde schwindelig. Ich fühlte, wie mein Geist anfing, den Körper zu verlassen. Die Erlebnisse der letzten Tage begannen zu verschwimmen, als wären sie nicht meine eigenen. Die Erinnerungen an das Lager verschwanden langsam, fast so, als wären sie mit einem Bleistift geschrieben und nun langsam wegradiert. Einen Moment später fühlte und spürte ich nichts mehr, als wäre ich in einen Zustand übernatürlicher Glückseligkeit eingetaucht."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:240
 translate german epilogue_main_f7590cd3:
@@ -1251,14 +1251,14 @@ translate german epilogue_main_6f3ba371:
 
     # "Я отправил спамера в игнор, закрыл окно сообщений, развернул браузер и посмотрел на часы."
     #"I hit the report spam button, closed the window, switched to the browser and glanced at the clock."
-    "Ich ignorierte den Spammer, schloss das Fenster, wechselte den Browser und warf einen Blick auf die Uhr."
+    "Ich ignorierte den Spammer, schloss das Fenster, wechselte zum Browser und warf einen Blick auf die Uhr."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:251
 translate german epilogue_main_612c456e:
 
     # "Скоро выходить, иначе опоздаю..."
     #"Time to get going or I'm gonna be late..."
-    "Ich musste langsam los, sonst komme ich noch zu spät…"
+    "Ich muss langsam los, sonst komme ich noch zu spät…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:252
 translate german epilogue_main_a20cefa7_1:
@@ -1271,21 +1271,21 @@ translate german epilogue_un_bad_0da63856:
 
     # "Бывают моменты, когда реальность становится неважной, незначительной, недостойной внимания."
     #"There are moments when reality becomes unimportant, insignificant, unworthy of attention."
-    "Es gibt Momente, in der ist die Realität unwichtig, unbedeutend, der Aufmerksamkeit unwürdig."
+    "Es gibt Momente, in denen ist die Realität unwichtig, unbedeutend, der Aufmerksamkeit unwürdig."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:272
 translate german epilogue_un_bad_6693cd84:
 
     # "Бывают моменты, когда душевные переживания затмевают всё остальное."
     #"There are moments when your spiritual torment overshadows everything else."
-    "Es gibt Zeiten, in denen emotionale Ereignisse alles andere überschatten."
+    "Es gibt Zeiten, in denen der unruhige Geist alles andere überschattet."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:273
 translate german epilogue_un_bad_092e6505:
 
     # "И пусть хоть наступит конец света – ты не заметишь.{w} Проткни тебя ножом – ты не заметишь.{w} Даже долгая варка в котлах ада покажется лишь мелким неудобством."
     #"And even if the world ended – you would not notice.{w} If a knife were to pierce you – you would not notice.{w} Even boiling for eternity in the cauldrons of hell would seem like just a minor inconvenience."
-    "Und selbst wenn die Welt unterginge - man würde es nicht beachten.{w} Würde einen ein Messer durchbohren - man würde es nicht beachten.{w} Selbst, wenn man für immer in der Hölle schmoren würde, wäre das nur eine kleine Unannehmlichkeit."
+    "Und selbst wenn die Welt unterginge - man würde es nicht bemerken.{w} Würde einen ein Messer durchbohren - man würde es nicht bemerken.{w} Selbst, wenn man für immer in der Hölle schmoren würde, wäre das nur eine kleine Unannehmlichkeit."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:274
 translate german epilogue_un_bad_92427898:
@@ -1327,56 +1327,56 @@ translate german epilogue_un_bad_724c6d60:
 
     # "Как будто я целую неделю готовился к экзамену, а в последний момент всё феерически провалил."
     #"As if I'd spent a whole week preparing for an exam and, at the last minute, had spectacularly failed."
-    "Als hätte ich mich eine Woche lang auf eine Prüfung vorbereitet und wäre in letzter Minute spektakulär daran gescheitert."
+    "Als hätte ich mich eine Woche lang auf eine Prüfung vorbereitet und wäre in letzter Minute spektakulär gescheitert."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:292
 translate german epilogue_un_bad_c9575f91:
 
     # "И результатом этого неуда стало возвращение в реальный мир…"
     #"And the result of this failure was my return to the real world…"
-    "Und daraus resultierend kehrte ich in meine Realität zurück…"
+    "Und das direkte Resultat war meine Rückkehr in die Realität…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:293
 translate german epilogue_un_bad_95da6ae5:
 
     # "Впрочем, сейчас он казался мне не более реальным, чем пионерлагерь «Совёнок»."
     #"However, now it didn’t seem any more real to me than the Sowjonok pioneer camp."
-    "Allerdings kam es mir jetzt nicht realer vor als das Sowjonok Pionierlager."
+    "Allerdings kam es mir jetzt nicht realer vor als das Pionierlager Sowjonok."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:294
 translate german epilogue_un_bad_f7d76256:
 
     # "Ничего удивительного, ведь реальность – это то, что ты можешь слышать, чувствовать, потрогать руками, попробовать на вкус.{w} Всё это было там."
     #"No wonder. Reality is what you can hear, feel, touch and taste.{w} And all that was really there."
-    "Kein Wunder. Realität ist das, was man hören, fühlen und schmecken kann.{w} Und all das war gegeben."
+    "Kein Wunder. Die Realität ist das, was man hören, fühlen und schmecken kann.{w} Und all das war gegeben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:295
 translate german epilogue_un_bad_85abf9cd:
 
     # "Было до таких мельчайших подробностей, что иногда казалось, будто вымысел на самом деле – это моя прошлая жизнь."
     #"That world was real to the smallest detail. Sometimes it seemed more like it was my past life that was a fiction."
-    "Diese Welt war bis ins kleinste Detail real. Manchmal erschien es mir sogar so, als wäre mein bisheriges Leben eine Fiktion gewesen."
+    "Diese Welt war bis ins kleinste Detail real. Manchmal erschien es mir sogar, als wäre mein bisheriges Leben eine Fiktion gewesen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:296
 translate german epilogue_un_bad_f527260f:
 
     # "А теперь мне придётся вспомиать, как существовать здесь…"
     #"And now I have to remember how to exist here…"
-    "Und nun musste ich mich daran erinnern, wie ich hier lebe…"
+    "Und jetzt muss ich mich wieder daran erinnern, wie ich hier lebe…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:297
 translate german epilogue_un_bad_459b2ee7:
 
     # "Хотя зачем?{w} Я чувствовал себя человеком, которого на полном ходу выкинули из машины, а он этого даже не заметил."
     #"Though why?{w} I felt like a man who'd been thrown out of the car at full speed without even noticing it."
-    "Aber warum?{w} Ich fühlte mich wie jemand, der bei voller Fahrt aus einem Auto geschleudert wurde, ohne es wirklich wahr zu nehmen."
+    "Aber warum?{w} Ich fühlte mich wie jemand, der bei voller Fahrt aus einem Auto geschleudert wurde, ohne es wirklich wahrzunehmen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:298
 translate german epilogue_un_bad_fd341608:
 
     # "И остался лежать на обочине со сломанными руками и ногами, а машина скрылась в ночи, унося последние остатки надежды."
     #"And was left, lying on the roadside with broken arms and legs while the car disappeared into the night, taking with it the last traces of hope."
-    "Und blieb mit gebrochenen Armen und Beinen am Straßenrand liegen, während das Auto in der Nacht verschwand zusammen mit dem letzten Rest Hoffnung."
+    "Und blieb mit gebrochenen Armen und Beinen am Straßenrand liegen, während das Auto in der Nacht verschwand, zusammen mit dem letzten Rest Hoffnung."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:299
 translate german epilogue_un_bad_b99b2263:
@@ -1390,14 +1390,14 @@ translate german epilogue_un_bad_6f0311f7:
 
     # "Её образ настолько отчётливо всплыл в моём воспалённом мозгу, что нестерпимо захотелось плакать."
     #"Her image surfaced in my fevered brain so clearly that I wanted to cry unbearably."
-    "Ihr Bild tauchte so klar in meinem fiebrigen Gehirn auf, dass ich am liebsten laut losweinen wollte."
+    "Ihr Bild tauchte so klar in meinem fiebrigen Gehirn auf, dass ich am liebsten laut losheulen wollte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:301
 translate german epilogue_un_bad_ae8f3acd:
 
     # "Нет – рыдать, выдирая клочья волос, колошматя кулаками по стене и издавая нечеловеческие вопли."
     #"No – I wanted to shout, tearing out clumps of hair, smasing my fists on the wall while making inhuman screams."
-    "Nein - ich wollte weinen, mir die Haare ausreißen, mit den Fäusten gegen die Wand schlagen und animalisch schreien."
+    "Nein - ich wollte weinen, mir die Haare ausreißen, mit den Fäusten gegen die Wand schlagen und animalisch kreischen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:302
 translate german epilogue_un_bad_f7554966:
@@ -1411,14 +1411,14 @@ translate german epilogue_un_bad_c0d3b99f:
 
     # "Я тщетно пытался найти хотя бы отголоски боли, вины или жалости к ней, но ничего не выходило."
     #"I tried in vain to find at least the echoes of pain, guilt, or pity for her, but nothing came."
-    "Ich versuchte zumindest letzte Echos von Schmerz, Schuld oder Mitleid für sie zu finden, aber da war nichts."
+    "Ich versuchte, zumindest ein letztes Echo von Schmerz, Schuld oder Mitleid für sie zu finden, aber da war nichts."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:304
 translate german epilogue_un_bad_18791a54:
 
     # "Просто лежал и смотрел в потолок…"
     #"I was just lying here and staring at the ceiling..."
-    "Ich lag einfach nur da und starrte die Decke an…"
+    "Ich lag einfach nur da und starrte an die Decke…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:305
 translate german epilogue_un_bad_53f73d1e:
@@ -1432,49 +1432,49 @@ translate german epilogue_un_bad_5e02e068:
 
     # "В конце концов, кого будет волновать процесс продажи души дьяволу, все эти юридические формальности с договором, подписи, печати и штампы?"
     #"After all, who cares about the process of selling your soul to the devil, all the legal formalities of the contract, signatures, stamps and seals?"
-    "Wer kümmert sich schon darum, wie der Verkauf der Seele an den Teufel abläuft, all diese Formalitäten des Vertrages, Unterschriften, Stempel und siegel?"
+    "Wen kümmert es schon, wie genau der Verkauf der Seele an den Teufel abläuft, all diese Formalitäten des Vertrages, Unterschriften, Stempel und Siegel?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:307
 translate german epilogue_un_bad_db394f22:
 
     # "Куда важнее – результат.{w} И этого результата я добился."
     #"What is more important is the result.{w} And this is the result I got."
-    "Wichtiger ist, was dabei herauskommt.{w} Und das hier habe ich erreicht."
+    "Wichtiger ist, was dabei herauskommt.{w} Und das hier ist mein Ergebnis."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:308
 translate german epilogue_un_bad_5e75b8df:
 
     # "Нет, дело совсем не в том, что меня вернули в реальность!{w} Если бы я доехал на том автобусе до места назначени, вряд ли бы что-то для меня изменилось."
     #"No, it's not that I was sent back to reality!{w} If I had gotten to the destination on that bus, it would hardly have changed anything for me."
-    "Nein, es ist nicht so, dass ich in die Realität zurückgeschickt wurde!{w} Währe ich mit dem Bus bis zum Ende mitgefahren, hätte sich für mich auch nichts geändert."
+    "Nein, es ist nicht einmal, dass ich in die Realität zurückgeschickt wurde!{w} Wäre ich mit dem Bus bis zur Endstation gefahren, hätte sich für mich auch nichts geändert."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:309
 translate german epilogue_un_bad_53be3572:
 
     # "В данном случае результат – это то, что произошло с Леной.{w} А причина – мои действия.{w} Тут я был абсолютно уверен."
     #"In this case, the result is what happened to Lena.{w} And the reason is my actions.{w} I was absolutely sure about that."
-    "In diesem Fall war es das, was Lena passierte.{w} Und der Grund war das, was ich tat.{w} Da war ich mir absolut sicher."
+    "In diesem Fall war mein Ergebnis, was Lena zugestoßen war.{w} Und der Grund dafür war mein Verhalten.{w} Da war ich mir absolut sicher."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:310
 translate german epilogue_un_bad_a3b352cb:
 
     # "Ведь не могла же она вот так просто, без причины…{w} Нет, Лена совсем не такая!{w} А значит, во всём виноват я!"
     #"After all, she could not just do that for no reason...{w} No, Lena is not like that!{w} So it's all my fault!"
-    "Schließlich machte sie das nicht ohne einen Grund…{w} Nein, so ist Lena nicht!{w} Also ist alle meine Schuld!"
+    "Schließlich machte sie das nicht ohne einen Grund…{w} Nein, so ist Lena nicht!{w} Also ist alles meine Schuld!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:311
 translate german epilogue_un_bad_7f92c544:
 
     # "Тяжело жить, сознавая, что на твоей совести смерть другого человека."
     #"It is hard to live, knowing that you were the reason for someone else’s death."
-    "Es ist schwer, mit dem Gedanken zu leben, dass man am Tod eines anderen Menschen schuld ist."
+    "Es ist schwer, mit dem Gedanken zu leben, dass man den Tod eines anderen Menschen auf dem Gewissen hat."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:312
 translate german epilogue_un_bad_1b453803:
 
     # "Как будто я сам лично держал нож, хладнокровно и аккуратно резал ей вены, смотрел, как она умирает.{w} А потом просто убежал…"
     #"As if I personally held the knife, calmly and carefully slit open her wrists and watched her die.{w} And then just ran away..."
-    "Als hätte ich selber das Messer gehalten, ihr langsam und vorsichtig die Adern auf geschnitten und zugesehen, wie sie stirbt.{w} Und dann einfach wegzulaufen…"
+    "Als hätte ich selber das Messer gehalten, ihr langsam und vorsichtig die Adern aufgeschnitten und zugesehen, wie sie stirbt.{w} Und dann einfach wegzulaufen…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:313
 translate german epilogue_un_bad_bd552dae:
@@ -1488,49 +1488,49 @@ translate german epilogue_un_bad_1f993547:
 
     # "Нет, даже хуже…"
     #"No, even worse…"
-    "Nein viel schlimmer…"
+    "Nein, viel schlimmer…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:315
 translate german epilogue_un_bad_0c858154:
 
     # "Хотя так ли уж важно, какое именно определение подобрать моим действиям?"
     #"Although, does it really matter what the best definition of my actions is?"
-    "Aber ist es wirklich wichtig, wie meine Handlung am besten zu definieren ist?"
+    "Aber ist es wirklich wichtig, wie mein Verhalten am besten zu definieren ist?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:316
 translate german epilogue_un_bad_c763d1a6:
 
     # "Я проклинал себя за то, что в этой ситуации рассуждаю так спокойно."
     #"I cursed myself for remaining so calm while thinking about this situation."
-    "Ich verfluchte mich selber dafür, dass ich so ruhig geblieben bin, als ich über diese Situation nach dachte."
+    "Ich verfluchte mich selber dafür, dass ich so ruhig bleiben konnte, während ich über diese Situation nachdachte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:317
 translate german epilogue_un_bad_d14867bb:
 
     # "Ведь должен оплакивать Лену, винить себя…{w} Но сейчас от меня уже ничего не зависит.{w} Если я не смог тогда…"
     #"After all, I should be mourning Lena and blaming myself...{w} But now nothing is up to me.{w} If I was not able to back then... "
-    "Ich sollte um Lena trauern, mir selber die Schuld geben…{w} Aber jetzt lag nichts mehr an mir.{w} Wenn ich das nicht schaffte, dann…"
+    "Ich sollte um Lena trauern, mir selber die Schuld geben…{w} Aber jetzt lag nichts mehr an mir.{w} Wenn ich es damals schon nicht geschafft hatte, dann…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:318
 translate german epilogue_un_bad_f7620350:
 
     # "Меня начало знобить, всё тело затряслось мелкой дрожью, стало тяжело дышать."
     #"I started shivering, my body was trembling and it was getting hard to breathe."
-    "Ich begann am gesamten Körper zu zittern und das Atmen viel mir schwer."
+    "Ich begann, am gesamten Körper zu zittern und das Atmen fiel mir schwer."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:319
 translate german epilogue_un_bad_7a23b79f:
 
     # "На некоторое время инстинкт самосохранения возобладал над чувством вины, и я пошатываюейся походкой направился на кухню, чтобы выпить успокоительного."
     #"Self-preservation instincts overtook guilt for a while, and I staggered to the kitchen to drink a sedative."
-    "Eine Weile überwog mein Selbsterhaltungstrieb und ich torkelte in die Küche, um mir ein Beruhigungsmittel zu holen."
+    "Für eine Weile packte mich mein Selbsterhaltungstrieb und ich torkelte in die Küche, um mir ein Beruhigungsmittel zu holen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:320
 translate german epilogue_un_bad_8325eee3:
 
     # "Подобные средства всегда можно найти в аптечке каждого асоциального человека вроде меня."
     #"They can always be found in the cupboard of every antisocial person like me."
-    "Solche Mittel sind immer in der Hausapotheke eines Asozialen, wie mir zu finden."
+    "Solche Mittel sind immer in der Hausapotheke eines Asozialen wie mir zu finden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:321
 translate german epilogue_un_bad_06a8cbb9:
@@ -1544,35 +1544,35 @@ translate german epilogue_un_bad_561abd10:
 
     # "Я поставил первый попавшийся альбом и вскоре понял, что это, наверное, самая депрессивная музыка, что можно найти на моём жёстком диске."
     #"I played the first random song and soon realised that it was probably the most depressing piece of music I had on my hard drive."
-    "Ich spielte das erste Lied, das ich zufällig fand und stellt fest, dass dies wohl die deprimierenste Musik ist, die ich auf meinem Computer gespeichert hatte."
+    "Ich spielte das erste Lied, das ich zufällig fand und stellte fest, dass es wohl das deprimierendste Musikstück war, welches ich auf meinem Computer gespeichert hatte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:323
 translate german epilogue_un_bad_2233adb0:
 
     # "Впрочем, выключать не хотелось – посторонние шумы заглушали вой мыслей."
     #"However I didn't want to turn it off – the background noise helped dampen my thoughts."
-    "Dennoch wollte ich sie nicht ausschalten - die Hintergrundgeräusche dämpften meiner Gedanken."
+    "Dennoch wollte ich es nicht ausschalten - das Hintergrundrauschen dämpfte meine Gedanken."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:324
 translate german epilogue_un_bad_5fa296f2:
 
     # "Предстояло решить, как жить далше."
     #"I had to decide what to do with my life next."
-    "Ich musste entscheiden, wie ich weiter leben wollte."
+    "Ich musste entscheiden, wie ich weiterleben wollte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:325
 translate german epilogue_un_bad_d453809f:
 
     # "В одном я был уверен точно – все события в лагере, моё туда попадание, внезапное возвращение меня совершенно не волновали."
     #"I was sure about one thing – everything that happened in the camp, my appearance in it, my unexpected return, I didn't care about any of it."
-    "In einer Sache war ich mir sicher - alles, was in dem Lager passierte, meine Anreise dorthin, die unerwartete Rückkehr, all das war mir völlig egal."
+    "In einer Sache war ich mir sicher - alles, was in dem Lager passiert ist, meine Ankunft dort, die unerwartete Rückkehr, all das war mir völlig egal."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:326
 translate german epilogue_un_bad_a36af85e:
 
     # "Не волновали как сами по себе, так и в контексте причин, которыми они были вызваны."
     #"And not just that, I didn't care about the context or the reasons for those events either."
-    "Es war mir auch egal, ob das Ganze im Zusammenhang mit irgendwelchen Gründen stand."
+    "Es war mir auch egal, welche Zusammenhänge oder welche Gründe das Erlebte umgaben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:327
 translate german epilogue_un_bad_6fb09a75:
@@ -1600,7 +1600,7 @@ translate german epilogue_un_bad_810ea4a2:
 
     # "Но тогда и наш реальный мир можно посчитать чьим-то горячечным бредом."
     #"But then again, our real world could just be someone's raving delusion as well."
-    "Aber andererseits könnte unsere reale Welt auch nur die verrückte Vorstellung von jemand anderen sein."
+    "Aber andererseits könnte auch unsere reale Welt nur die Wahnvorstellung von jemand anderem sein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:331
 translate german epilogue_un_bad_0403a983:
@@ -1621,7 +1621,7 @@ translate german epilogue_un_bad_88638ccf:
 
     # "Чёрт возьми!{w} Для меня это не {i}была{/i} реальность, а {i}есть{/i} реальность."
     #"Damn it!{w} For me it's not that it {i}was{/i} reality, it still {i}is{/i} reality."
-    "Verdammt!{w} Für mich {i}war{/i} es nicht die Realität, sondern es {i}ist{/i} die Realität."
+    "Verdammt!{w} Für mich {i}war{/i} es nicht die Realität, sie {i}ist{/i} es noch immer."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:334
 translate german epilogue_un_bad_9dedbadc:
@@ -1642,7 +1642,7 @@ translate german epilogue_un_bad_e27cd146:
 
     # "Хотя, конечно, лучше бы мне привиделось…"
     #"Though it would be better if I'd dreamt that..."
-    "Obwohl es besser wäre, wenn ich das alles nur geträumt hätte…"
+    "Obwohl es besser wäre, wenn ich alles nur geträumt hätte…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:337
 translate german epilogue_un_bad_59ef3021:
@@ -1656,14 +1656,14 @@ translate german epilogue_un_bad_cb6f7baf:
 
     # "Неужели теперь всю жизнь придётся жить с чувством вины?{w} Нет, я просто этого не вынесу!"
     #"And now I have to live with this sense of guilt?{w} No, I won't take it!"
-    "Werde ich jetzt mein ganzes Leben mit der Schuld leben müssen?{w} Nein, das kann ich nicht ertragen!"
+    "Werde ich jetzt mein ganzes Leben mit dieser Schuld leben müssen?{w} Nein, das kann ich nicht ertragen!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:339
 translate german epilogue_un_bad_034f1df0:
 
     # "Моя психика и так была далеко не идеалом стабильности, но…{w} Такой удар и не каждый ментально здоровый человек выдержит."
     #"My mind wasn't exactly a paragon of stability, but...{w} Not even a man with a stable mind could withstand shocks like this."
-    "Meine Psyche war ohnehin schon nicht die stabilste, aber…{w} Nicht einmal jemand mit einer gesunden Psyche konnte mit einem solchen Schock umgehen."
+    "Meine Psyche war ohnehin schon nicht die stabilste, aber…{w} Nicht einmal jemand mit einer gesunden Psyche könnte mit einem solchen Schock umgehen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:340
 translate german epilogue_un_bad_167e249d:
@@ -1677,7 +1677,7 @@ translate german epilogue_un_bad_14cf330d:
 
     # "Я попытался как-то отогнать все эти мысли.{w} Нет, не забыть, а просто дать себе отдохнуть."
     #"I tried to suppress all these thoughts.{w} No, not to forget, just to give myself some rest."
-    "Ich versuchte all diese Gedanken bei Seite zu räumen.{w} Nein, nicht um sie zu vergessen, sondern um mir eine Pause zu gönnen."
+    "Ich versuchte, all diese Gedanken beiseite zu räumen.{w} Nein - nicht, um sie zu vergessen, sondern um mir eine Pause zu gönnen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:342
 translate german epilogue_un_bad_6ff084a7:
@@ -1691,21 +1691,21 @@ translate german epilogue_un_bad_41d75612:
 
     # "Но ничего не выходило – боль снова и снова колотила моё тело.{w} Она уже стала ощущатья физически.{w} Впрочем, физическая боль всегда легче душевной…"
     #"But it didn't work – pain wracked my body again and again.{w} I was already starting to feel it physically.{w} However, physical pain is always weaker than mental..."
-    "Doch es funktionierte nicht - der Schmerz packte mich immer und immer wieder.{w} Ich begann es sogar schon körperlich zu spüren.{w} Doch körperlicher Schmerz ist längst nicht so schlimm wie der seelische…"
+    "Doch es funktionierte nicht - der Schmerz schüttelte mich immer und immer wieder.{w} Ich begann, ihn sogar schon beim eigenen Leibe zu spüren.{w} Doch körperlicher Schmerz ist längst nicht so schlimm wie der seelische…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:344
 translate german epilogue_un_bad_04d0ffcc:
 
     # "Я упал на пол, обхватил колени руками и в такой позе начал кататься туда-сюда."
     #"I fell to the floor, clasped my knees and began rocking back and forth in a fetal position."
-    "Ich fiel zu Boden, umklammerte meine Beine mit den Armen und fing an, in der Fötusstellung auf dem Boden hin und her zu rollen."
+    "Ich fiel zu Boden, umklammerte meine Beine mit den Armen und fing an, in Embryonalstellung auf dem Boden hin und her zu rollen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:345
 translate german epilogue_un_bad_d629c94e:
 
     # "Кровь в голове стучала с такой силой, что, казалось, ещё немного и моя черепная коробка разлетится на куски."
     #"Blood pounded in my head so heavily that it felt like my skull could shatter any moment now."
-    "Blut schoss mir so stark in den Kopf, dass ich glaubte, mein Schädel würde mir jeden Moment zerplatzen."
+    "Blut pochte mir so stark durch den Kopf, dass ich glaubte, mein Schädel würde mir jeden Moment zerplatzen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:346
 translate german epilogue_un_bad_ddf2c20b:
@@ -1760,7 +1760,7 @@ translate german epilogue_un_bad_a54003ea:
 
     # "Боли не было – наверное, нервная система настолько истощена, что уже не в состоянии передавать мозгу импульсы."
     #"I felt no pain at all – probably my nervous system was so exhausted that it was unable to transmit the pain impulses to my brain."
-    "Ich spürte keinen Schmerz - mein Nervensystem war wohl so erschöpft, dass es keine Schmerzsignale mehr an das Gehirn weiter leitete."
+    "Ich spürte keinen Schmerz - mein Nervensystem war wohl so erschöpft, dass es keine Schmerzsignale mehr an das Gehirn weiterleitete."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:367
 translate german epilogue_un_bad_ef0a06ae:
@@ -1801,14 +1801,14 @@ translate german epilogue_un_bad_f97deac3:
 
     # "Да не только моя – жизнь любого человека."
     #"Not just mine – any person's life."
-    "Nicht nur meines - das Leben eines jeden Menschen."
+    "Nicht nur meins - das Leben eines jeden Menschen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:376
 translate german epilogue_un_bad_7d4f29f6:
 
     # "Всё, что нам отведено свыше, – это её полная длина."
     #"All that we have been given from above is its full length."
-    "Alles, was uns von oben mitgegeben wurde, ist die volle Länge."
+    "Alles, was uns von dort oben mitgegeben wurde, ist ihre volle Länge."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:377
 translate german epilogue_un_bad_a017ae8e:
@@ -1829,14 +1829,14 @@ translate german epilogue_un_bad_550851ec:
 
     # "Такие, как эта – по 3 рубля, потолще раза в два – по 7, огромные, напоминающие ручку от лопаты, – по 70."
     #"Such as this one – 9 cents; one twice as thick  20; and huge ones, as thick as the handle of a shovel – 1,85."
-    "Eine wie diese - 3 Rubel, eine in doppelter Dicke für 20 und eine riesige, sodass sie einem Schaufelgriff ähnelt, für 70 Rubel."
+    "Eine wie diese - 3 Rubel, eine in doppelter Dicke für 20 und eine riesige, die einem Schaufelgriff ähnelt, für 70 Rubel."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:380
 translate german epilogue_un_bad_986feabd:
 
     # "Интересно, свечка Лены погасла раньше времени или она была просто меньше?"
     #"I wonder, did Lena's candle burn out ahead of its time, or was it just smaller than the other ones?"
-    "Ich fragte mich, ob Lenas Kerze vor ihrer Zeit erlosch oder ob sie einfach nur kleiner als andere war?"
+    "Ich frage mich, ob Lenas Kerze vor ihrer Zeit erloschen ist oder ob sie einfach nur kleiner als andere war?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:381
 translate german epilogue_un_bad_d3c73c95:
@@ -1871,28 +1871,28 @@ translate german epilogue_un_bad_fe0373f7:
 
     # "Я бы с удовольствием отдал остатки своей Лене."
     #"I would love to give the remains of mine to Lena."
-    "Ich würde meinen Rest gerne für Lena hergeben."
+    "Ich würde den Rest meiner Kerze gerne für Lena hergeben."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:386
 translate german epilogue_un_bad_038be31f:
 
     # "Да в конце концов, кому-нибудь, кому это нужнее!"
     #"To anyone who needs it more than I do!"
-    "Ja an jeden, der es dringender braucht als ich!"
+    "Ja, an jeden, der es dringender braucht als ich!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:387
 translate german epilogue_un_bad_317fb567:
 
     # "Зачем она мне?{w} Я не чувствую боли от раскалённого воска, её пламя не согревает меня, она почти не освещает комнату."
     #"Why would I need it? I do not feel pain from the heated wax, its flame does not give me any warmth, it hardly illuminates the room."
-    "Wozu brauche ich es noch?{w} Ich fühle kein Schmerz vom heißen Wachs, die Flamme wärmt mich nicht und sie kann kaum diesen Raum beleuchten."
+    "Wozu brauche ich es noch?{w} Ich fühle keinen Schmerz vom heißen Wachs, die Flamme wärmt mich nicht und sie kann kaum diesen Raum beleuchten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:388
 translate german epilogue_un_bad_d887153f:
 
     # "В общем, пустая трата верёвок, воска и кислорода…"
     #"To put it bluntly, a waste of ropes, wax and oxygen..."
-    "Um genau zu sein, es ist nur eine Verschwendung von Seil, Wachs und Sauerstoff…"
+    "Um genau zu sein, ist sie nur eine Verschwendung von Seil, Wachs und Sauerstoff…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:395
 translate german epilogue_un_bad_7bf48038:
@@ -1906,7 +1906,7 @@ translate german epilogue_un_bad_87239164:
 
     # "Это действие не взвало у меня совершенно никаких эмоций."
     #"This action evoked absolutely no emotions in me."
-    "Dies löste in mir absolut keine Emotionen aus."
+    "Eine Handlung, welche in mir absolut keine Emotionen auslöste."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:397
 translate german epilogue_un_bad_aed890bf:
@@ -1926,7 +1926,7 @@ translate german epilogue_un_bad_a61ee024:
 
     # me "Вдоль, а не поперёк…{w} Все же поперёк режут, а ты – вдоль…"
     #me "Cut down the road, not across the street...{w} Everyone else cuts across, but you're going right down the..."
-    me "Längs nicht quer schneiden…{w} Jeder schneidet quer, nur du schneidest längs…"
+    me "Längs schneiden, nicht quer…{w} Jeder schneidet quer, nur du schneidest schnurstracks…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:405
 translate german epilogue_un_bad_50614f77:
@@ -1947,14 +1947,14 @@ translate german epilogue_un_bad_8c835c15:
 
     # me "Мы обязательно встретимся…{w} Прости…"
     #me "We'll definitely meet again...{w} I'm so sorry..."
-    me "Wir werden uns definitiv wieder sehen…{w} Es tut mir so leid…"
+    me "Wir werden uns definitiv wiedersehen…{w} Es tut mir so Leid…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:408
 translate german epilogue_un_bad_9ee997b0:
 
     # "Тёплая вода, полумрак и предсмертные галлюцинации наконец подарили мне покой."
     #"Warm water, shadows and dying dreams have finally brought me some peace."
-    "Warmes Wasser, Dämmerung und Nahtotträume gaben mir endlich etwas Frieden."
+    "Warmes Wasser, Zwielicht und Todesfantasien gaben mir endlich etwas Frieden."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:409
 translate german epilogue_un_bad_16861ec1:
@@ -2003,7 +2003,7 @@ translate german epilogue_un_bad_8c835c15_1:
 
     # me "Мы обязательно встретимся…{w} Прости…"
     #me "We will surely meet...{w} Forgive me... "
-    me "Wir werden uns auf jeden Fall treffen…{w} Es tut mir leid…"
+    me "Wir werden uns auf jeden Fall treffen…{w} Vergib mir…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:416
 translate german epilogue_un_bad_ce617998_3:
@@ -2023,21 +2023,21 @@ translate german epilogue_un_good_2e7081b6:
 
     # "Сознание начало медленно возвращаться ко мне."
     #"Consciousness slowly returned to me."
-    "Langsam kahm ich zu Bewusstsein."
+    "Langsam kam ich zu Bewusstsein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:437
 translate german epilogue_un_good_451af48e:
 
     # "Было ощущение, что я падаю вниз с высокой горы, а мимо пролетают облака."
     #"It's like I'm falling from a cliff so high that clouds are drifting nearby."
-    "Es war, als würde ich von einer Klippe stürzen, so hoch, dass ich Wolken an mir vorbeiziehen sah."
+    "Es war, als würde ich von einer Klippe stürzen, so hoch, dass ich die Wolken an mir vorbeiziehen sah."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:438
 translate german epilogue_un_good_6188d36b:
 
     # "Земля всё ближе, но я совершенно не боюсь того, что сейчас разобьюсь, моё падение замедляется, и тело плавно опускается в тёплый эфир…"
     #"The ground is coming closer, but I’m not afraid that I'll die. My fall slows down and my body is smoothly immersed into the warm ether..."
-    "Der Boden kommt näher, aber ich hatte keine Angst auf zu schlagen. Mein Sturz verlangsamte sich und mein Körper tauchte sanft in den warmen Äther…"
+    "Der Boden kommt näher, aber ich hatte keine Angst, aufzuschlagen. Mein Sturz verlangsamte sich und mein Körper tauchte sanft in den warmen Äther…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:444
 translate german epilogue_un_good_456fff17:
@@ -2072,7 +2072,7 @@ translate german epilogue_un_good_79937daa:
 
     # un "Куда?"
     #un "Where's “there”?"
-    un "Wo 'da'?"
+    un "Wo ist 'da'?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:449
 translate german epilogue_un_good_211eccb4:
@@ -2135,7 +2135,7 @@ translate german epilogue_un_good_5f6db029:
 
     # un "В каком ещё автобусе?"
     #un "On the bus?"
-    un "In welchen Bus?"
+    un "In welchem Bus?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:458
 translate german epilogue_un_good_ef4c9ffe:
@@ -2156,7 +2156,7 @@ translate german epilogue_un_good_18b26cc6:
 
     # me "Да, вчера! Вчера! Не помнишь?"
     #me "Yes, yesterday! Don't you remember?"
-    me "Ja gestern! Gestern! Erinnerst du dich nicht?"
+    me "Ja, gestern! Gestern! Erinnerst du dich nicht?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:461
 translate german epilogue_un_good_d6dd39b3:
@@ -2191,7 +2191,7 @@ translate german epilogue_un_good_54beb87a:
 
     # "Я попытался мыслить логически."
     #"I tried to think logically."
-    "Ich versuchte logisch zu denken."
+    "Ich versuchte, logisch zu denken."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:466
 translate german epilogue_un_good_b23cd5f9:
@@ -2219,7 +2219,7 @@ translate german epilogue_un_good_5d17104b:
 
     # me "Ни над кем я не прикалываюсь!"
     #me "I am not kidding anyone!"
-    me "Ich will gar niemanden verarschen!"
+    me "Ich will niemanden verarschen!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:470
 translate german epilogue_un_good_be6c71e6:
@@ -2240,14 +2240,14 @@ translate german epilogue_un_good_71c0ad20:
 
     # "Лена начала загибать пальцы."
     #"Lena started to count off on her fingers."
-    "Lena begann an ihren Fingern abzuzählen."
+    "Lena begann, an ihren Fingern abzuzählen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:473
 translate german epilogue_un_good_45719f1b:
 
     # un "Получается, семь дней."
     #un "Looks like... seven days."
-    un "Nun sieben Tage."
+    un "Nun, sieben Tage."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:474
 translate german epilogue_un_good_1163b74b:
@@ -2275,7 +2275,7 @@ translate german epilogue_un_good_90cfa1fe:
 
     # "Что же, ещё одна загадка добавилась к массивному списку тайн этого лагеря."
     #"Well, that's another riddle in the long list of this camp’s mysteries."
-    "Also noch ein weiteres Rätzel in der langen Liste der Mysterien dieses Lagers."
+    "Also noch ein weiteres Rätsel in der langen Liste der Mysterien dieses Lagers."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:478
 translate german epilogue_un_good_85181956:
@@ -2394,14 +2394,14 @@ translate german epilogue_un_good_97c2c800:
 
     # "По её лицу было видно, что ничего она не понимает."
     #"From the look she gave me, it was clear she didn't understand me at all."
-    "Aus ihrem Blick erkannte ich, dass sie mich nicht verstand."
+    "An ihrem Blick erkannte ich, dass sie mich nicht verstand."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:495
 translate german epilogue_un_good_1072a05d:
 
     # me "Я сюда попал случайно. И сам не знаю как."
     #me "I came here accidentally. Even I don’t know how."
-    me "Ich kam zufällig hier her. Ich weiß nichteinmal wie."
+    me "Ich kam zufällig hierher. Ich weiß nicht einmal wie."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:496
 translate german epilogue_un_good_7887dd77:
@@ -2436,7 +2436,7 @@ translate german epilogue_un_good_f2fa462b:
 
     # me "Ну, и вы летаете, если уж на то пошло.{w} Другое дело, что шибко далеко мы не продвинулись в этом направлении."
     #me "Well, if it comes to that, you have it as well.{w} However, we haven't made any great achievements in that field yet."
-    me "Also, wenn es darum geht, das geht jetzt auch schon.{w} Allerdings wurden auf diesem Gebiet keine größeren Erfolge erzielt."
+    me "Also, wenn es darum geht, dann geht das auch jetzt schon.{w} Allerdings wurden auf diesem Gebiet keine größeren Erfolge erzielt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:501
 translate german epilogue_un_good_6b84b606:
@@ -2520,7 +2520,7 @@ translate german epilogue_un_good_df776ecb:
 
     # un "И как же ты сюда попал?"
     #un "So how did you get here?"
-    un "Und wie bist du hier her gekommen?"
+    un "Und wie bist du hierher gekommen?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:513
 translate german epilogue_un_good_cf4b3576:
@@ -2534,14 +2534,14 @@ translate german epilogue_un_good_39b2719c:
 
     # un "410-ый маршрут! Это же тот, который на остановке!"
     #un "The 410 route! That's the one that stops just outside the camp!"
-    un "Die Linie 410! Das ist die, die gleich draußen vor dem Lager vorbei fährt!"
+    un "Die Linie 410! Das ist die, die gleich draußen vor dem Lager hält!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:515
 translate german epilogue_un_good_57ebfa1e:
 
     # me "Да, только мой 410-ый ходит несколько в другом месте… и времени."
     #me "Yes, but my 410 travels in another place... and time."
-    me "Ja, nur meine Linie 410 fährt zu einem anderen Ort… und in einer anderen Zeit."
+    me "Ja, nur fährt meine Linie 410 zu einem anderen Ort… und in einer anderen Zeit."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:516
 translate german epilogue_un_good_1c2133a9:
@@ -2555,7 +2555,7 @@ translate german epilogue_un_good_78a5a750:
 
     # "Сказала Лена, и в её голосе я заметил нотки недовольства."
     #"Lena said, and I noticed a note of unhappiness in her voice."
-    "Fragte Lena und ich bemerkte eine Spur von Traurigkeit in ihrer Stimme."
+    "Fragte Lena, und ich bemerkte eine Spur von Traurigkeit in ihrer Stimme."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:518
 translate german epilogue_un_good_ad816568:
@@ -2569,7 +2569,7 @@ translate german epilogue_un_good_cf0505aa:
 
     # un "А если бы знал?"
     #un "And if you knew?"
-    un "Und wenn du wüstest wie?"
+    un "Und wenn du das wüsstest?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:520
 translate german epilogue_un_good_f078db34:
@@ -2597,7 +2597,7 @@ translate german epilogue_un_good_5f555b1e:
 
     # un "Ладно, у тебя есть ещё время подумать."
     #un "It's okay, you still have time to think about it."
-    un "Ist schon okay, du hast genug Zeit, darüber nach zu denken."
+    un "Ist schon okay, du hast noch genug Zeit, darüber nachzudenken."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:524
 translate german epilogue_un_good_b1d14b10:
@@ -2611,21 +2611,21 @@ translate german epilogue_un_good_5540c8a2:
 
     # "Похоже, если даже Лена и верит моим словам, вся ситуация, в которую я попал, вряд ли кажется ей чем-то большим, чем досадная неприятность."
     #"It seems that even if Lena believed me, she considers this whole situation just a typical inconvenience and nothing more."
-    "Es schien, dass Lena, selbst wenn sie mir glauben würde, diese ganze Situation als nicht mehr wie eine lästige Nebensächlichkeit zu betrachten schien."
+    "Es schien, dass Lena, selbst, wenn sie mir glauben würde, diese ganze Situation als nicht mehr als eine lästige Nebensächlichkeit betrachtet."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:526
 translate german epilogue_un_good_59c33efd:
 
     # me "В любом случае от меня ничего не зависит.{w} Возможно, даже если я и захочу остаться…{w} Понимаешь, тот, кто забросил меня сюда, может точно так же вернуть меня обратно."
     #me "Anyway, it's not up to me.{w} Possibly even if I do want to stay...{w} You see, the one who brought me here can take me back as well."
-    me "Es liegt eh nicht bei mir.{w} Selbst wenn ich bleiben wollte…{w} Weist du, wer auch immer mich hier abgesetzt hat, kann mich jederzeit wieder zurückbringen."
+    me "Es liegt eh nicht bei mir.{w} Selbst, wenn ich bleiben wollte…{w} Weißt du, wer immer mich hier abgesetzt hat, kann mich auch jederzeit wieder zurückbringen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:527
 translate german epilogue_un_good_c17e95b3:
 
     # un "Я думаю, что у любого события в жизни есть причина.{w} Значит, ты не просто так сюда попал."
     #un "I believe that any event in a person's life has a reason.{w} Therefore, you are here for some reason."
-    un "Ich glaube, dass alles, was im Leben eines jeden passiert, aus einem Grund passiert.{w} Deshalb bist du aus irgendeinem Grund hier."
+    un "Ich glaube, dass alles, was im Leben passiert, einen Grund hat.{w} Deshalb bist du aus irgendeinem Grund hier."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:528
 translate german epilogue_un_good_1b2ffe6d:
@@ -2653,14 +2653,14 @@ translate german epilogue_un_good_9a80266d:
 
     # mt "Эй! Пора собираться."
     #mt "Hey! Time to pack your stuff!"
-    mt "He! Es wird Zeit, Euren Kram zu packen!"
+    mt "Hey! Es wird Zeit, eure Sachen zu packen!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:532
 translate german epilogue_un_good_9719a190:
 
     # "Издалека донёсся голос вожатой."
     #"The camp leader's voice sounded from afar."
-    "Die Stimme der Lagerleiterin war aus der ferne zu hören."
+    "Die Stimme der Lagerleiterin war aus der Ferne zu hören."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:533
 translate german epilogue_un_good_7ef75530:
@@ -2702,14 +2702,14 @@ translate german epilogue_un_good_22f7b476:
 
     # "Лена улыбнулась и убежала в сторону своего домика."
     #"Lena smiled and ran off towards her cabin."
-    "Lena lächelte und lief zu ihrer Hütte."
+    "Lena lächelte und lief in Richtung ihrer Hütte davon."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:546
 translate german epilogue_un_good_6c54000c:
 
     # "Я же остался сидеть на лавочке, пытаясь отойти от шока."
     #"I remained sitting on the bench, trying to cope with the shock."
-    "Ich blieb auf der Bank sitzen und versuchte mich von dem Schock zu erholen."
+    "Ich blieb auf der Bank sitzen und versuchte, mich von dem Schock zu erholen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:547
 translate german epilogue_un_good_c391d6da:
@@ -2723,21 +2723,21 @@ translate german epilogue_un_good_094c98fd:
 
     # "С одной стороны, само попадание в этот лагерь – куда более странное событие, чем то, что я не смог отсюда выбраться, но…"
     #"On one hand, me being unable to get out of this camp isn't all that odd compared me finding myself here in the first place, but..."
-    "Auf der einen Seite war es viel seltsamer, in diesem Lager zu sein, als nicht von hier wegzukommen, aber…"
+    "Auf der einen Seite war es viel seltsamer, überhaupt in diesem Lager zu sein, als nicht von dort wegzukommen, aber…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:549
 translate german epilogue_un_good_a33f4f66:
 
     # "Что теперь? Что мне делать?{w} Где гарантии того, что получится уехать во второй раз?"
     #"What now? What am I supposed do?{w} Is there any chance that I can leave camp if I try again?"
-    "Was nun? Was soll ich machen?{w} Gibt es eine Chance, das Lager zu verlassen, wenn ich es ein zweites Mal versuche?"
+    "Was nun? Was soll ich machen?{w} Gibt es eine Chance, das Lager zu verlassen, wenn ich es nur ein zweites Mal versuche?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:550
 translate german epilogue_un_good_675b9b96:
 
     # "Хотя чего волноваться?{w} Теперь-то уж я точно знаю, что от меня совершенно ничего не зависит."
     #"Anyway, what's the point in being nervous?{w} By now I know perfectly well that absolutely nothing is up to me."
-    "Andererseits, warum sollte ich mir Sorgen machen?{w} Jetzt weiß ich sicher, dass nichts von mir abhängt."
+    "Andererseits, warum sollte ich mir Sorgen machen?{w} Jetzt weiß ich sicher, dass nichts von meinem Handeln abhängt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:551
 translate german epilogue_un_good_70c222fc:
@@ -2751,35 +2751,35 @@ translate german epilogue_un_good_ef2764bc:
 
     # "Я невольно улыбнулся."
     #"I couldn't help smiling."
-    "Ich konnte mir ein Lächeln nicht unterdrücken."
+    "Ich konnte mir ein Lächeln nicht verkneifen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:553
 translate german epilogue_un_good_b2d4b2d6:
 
     # "Тем более теперь у меня появилась дополнительная причина не спешить с отбытием.{w} И эта причина – Лена."
     #"Especially now, when I have an additional reason not to be in any hurry to leave.{w} And that reason is Lena."
-    "Besonders jetzt, als ich einen besonderen Grund hatte, mich nicht mehr zu beeilen, hier wegzukommen.{w} Und dieser Grund war Lena."
+    "Besonders jetzt, wo ich einen ganz besonderen Grund habe, es ruhig angehen zu lassen.{w} Und dieser Grund ist Lena."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:554
 translate german epilogue_un_good_3ed77c37:
 
     # "Возможно, она права, и я здесь не просто так."
     #"Maybe she's right and I am here for some reason."
-    "Vielleicht hat sie recht und ich bin aus einem Grund hier."
+    "Vielleicht hat sie recht und ich bin nicht ohne Grund hier."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:555
 translate german epilogue_un_good_4a181a23:
 
     # "В конце концов, даже если и смогу сузить круг возможных объяснений моей ситуации до разумного минимума, их всё равно останется тысяча и одно."
     #"In the end, even if I can narrow down the possible explanations for my situation to a reasonable minimum, there would still be a thousand and one."
-    "Selbst, wenn ich letztlich die möglichen Erklärungen für meine Situation auf ein vernünftiges Minimum eingrenzen könnte, gäbe es immer noch tausendundeine."
+    "Selbst, wenn ich alle möglichen Erklärungen für meine Situation auf ein vernünftiges Minimum eingrenzen könnte, gäbe es immer noch Tausendundeine."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:556
 translate german epilogue_un_good_ce005bce:
 
     # "И изматывая себя их анализом, я вскоре сойду с ума."
     #"And if I keep exhausting myself analysing them, I'll just go mad."
-    "Und wenn ich mich weiter mit den Analysen beschäftige, werde ich noch verrückt."
+    "Und wenn ich mich weiter mit solchen Analysen beschäftige, werde ich noch verrückt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:557
 translate german epilogue_un_good_251ac201:
@@ -2800,14 +2800,14 @@ translate german epilogue_un_good_994914a4:
 
     # "Пока ещё туманный, но в то же время он есть, он существует!"
     #"It's still a vague something, but still I have it, it exists!"
-    "Es ist immer noch ein wenig vage, aber ich habe es. Es existiert!"
+    "Es ist alles immer noch ziemlich vage, aber ich habe es. Es existiert!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:560
 translate german epilogue_un_good_8ae8f091:
 
     # "И сейчас в моих силах не бездарно потерять его, а развить во что-то большее!"
     #"And now I have the power not to simply hold it, but to develop it into something bigger!"
-    "Und nun liegt es bei mir, es nicht nur zu halten, sondern auch zu etwas Größerem zu machen!"
+    "Und nun liegt es an mir, es nicht nur zu halten, sondern auch zu etwas Größerem zu machen!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:561
 translate german epilogue_un_good_88e5892d:
@@ -2820,7 +2820,7 @@ translate german epilogue_un_good_88e5892d:
 translate german epilogue_un_good_ce617998:
 
     # "…"
-    "..."
+    "…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:571
 translate german epilogue_un_good_752fc388:
@@ -2835,7 +2835,7 @@ translate german epilogue_un_good_2000e780:
 
     # "Кому-то это может показаться странным (а мне оно именно таким и показалось), но до райцентра мы всё-таки доехали. В автобусе меня опять разморило, и я заснул. Проснувшись, в ужасе начал бегать по салону, жадно хватая ртом воздух, но вскоре понял, что эта длинная неделя закончилась!"
     #"One may think it's strange (and that’s exactly how it seemed to me) but eventually we reached the district centre. I eventually got tired in the bus and fell asleep. When I woke up I ran up and down the aisle of the bus, gasping for air, but soon I realised that this long week is over!"
-    "Es mag einem seltsam vor kommen (und mir kam es auch seltsam vor), aber wir haben es tatsächlich bis zur Bezierkshauptstadt geschafft. Irgendwann während der Fahrt wurde ich schläfrig und nickte ein. Ich wachte erschrocken wieder auf und lief nach Luft schnappend im Bus auf und ab, aber letztendlich realisierte ich, dass die lange Woche vorbei war."
+    "Es mag einem seltsam vorkommen (mir kam es jedenfalls seltsam vor), aber wir schafften es tatsächlich bis zur Bezirkshauptstadt. Irgendwann während der Fahrt wurde ich schläfrig und nickte ein. Ich wachte erschrocken wieder auf und lief nach Luft schnappend im Bus auf und ab, aber letztendlich realisierte ich, dass die lange Woche vorbei war."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:574
 translate german epilogue_un_good_a8aed4e9:
@@ -2849,21 +2849,21 @@ translate german epilogue_un_good_33d7cf72:
 
     # "Затем события закрутились с пугающей быстротой."
     #"Soon after that events moved with frightening speed."
-    "Bald darauf ereigneten sich die Ereignisse in einem erschreckenden Tempo."
+    "Bald darauf nahmen die Dinge in einem erschreckenden Tempo ihren Lauf."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:576
 translate german epilogue_un_good_b7912630:
 
     # "У меня не оставалось времени, чтобы рефлексировать, «искать ответы», да что там – в иные минуты я вообще забывал про лагерь."
     #"No time left for self-analysis, or 'seeking answers'. Moreover, from time to time I completely forgot about the camp."
-    "Es blieb keine Zeit mehr für Selbstanalysen oder die 'Suche nach Antworten'. Viel mehr noch habe ich das Lager von Zeit zu Zeit völlig vergessen."
+    "Es blieb keine Zeit mehr für Selbstanalysen oder die 'Suche nach Antworten'. Vielmehr noch hatte ich das Lager von Zeit zu Zeit völlig vergessen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:577
 translate german epilogue_un_good_6383c486:
 
     # "Как и любой человек, попавший в совершенно незнакомое окружение, я находился в полнейшем смятении. У меня не было документов, даже банального свидетельства о рождении, не было каких-либо навыков, чтобы заработать себе на кусок хлеба – тогда профессии вроде эникейщика или специалиста колл-центра большим спросом не пользовались."
     #"Like anyone who found themselves in a completely strange environment, I was completely lost. I had no papers, not even a simple birth certificate, and no skills to earn a living – professions such as computer specialist or call centre operator were not in demand."
-    "Wie jeder, der sich in einem völlig neuen Umfeld wiederfand, war ich völlig verloren. Ich hatte keine Papiere, nicht einmal eine einfache Geburtsurkunde, keine Fähigkeiten, um Geld zu verdienen - Jobs wie Computerspezialist oder Callcenter Mitarbeiter waren zu der Zeit nicht so gefragt."
+    "Wie jeder, der sich in einem völlig neuen Umfeld wiederfand, war ich völlig verloren. Ich hatte keine Papiere, nicht einmal eine einfache Geburtsurkunde, keine Qualifikationen, um meinen Lebensunterhalt zu bestreiten - Jobs wie Computerspezialist oder Callcenter-Mitarbeiter waren zu jener Zeit nicht sonderlich gefragt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:578
 translate german epilogue_un_good_b54c638a:
@@ -2873,21 +2873,21 @@ translate german epilogue_un_good_b54c638a:
     #nvl clear
     #"Lena returned to her normal life. She had to graduate from school and get ready to enter university. The pioneer camp was in the south of the USSR, just as I'd assumed. Lena lived in a town with population of about 100,000. It was easy to get there by bus from the district centre."
     nvl clear
-    "Lena kehrte in ihr normales Leben zurück. Sie schloss die Schule ab und bereitete sich auf die Uni vor. Das Pionierlager lag im Süden der UdSSR, wie ich es vermutet hatte. Lena lebte in einem Ort mit rund 100000 Einwohnern. Man erreichte ihn mit dem Bus von der Bezierkshauptstadt."
+    "Lena kehrte in ihr normales Leben zurück. Sie schloss die Schule ab und bereitete sich auf ihr Studium vor. Das Pionierlager lag im Süden der UdSSR, so, wie ich es vermutet hatte. Lena lebte in einem Ort mit rund 100000 Einwohnern. Man erreichte ihn gut mit dem Bus von der Bezirkshauptstadt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:580
 translate german epilogue_un_good_c7376b62:
 
     # "В нём не было совершенно ничего примечательного – один завод, градообразующее предприятие, ряды ветхих пятиэтажек, сельские домики на окраине, продуктовый магазин, работающий до семи вечера, и универмаг, в котором был рай для шопоголика – калоши зимние, резиновые, тулуп женский, из овчины, шапка мужская, ондатровая."
     #"There was nothing special about the town. One big factory, rows of five-storey houses, wooden huts on the outskirts, a grocery store that closed at 7 p.m. and a supermarket, a true Eden for a shopaholic, with choices including rubber winter shoes, women’s sheepskin coats and men’s musquash hats."
-    "Dort gab es absolut nichts Besonderes: Eine große Fabrik, reihenweise verfallene fünfstöckige Häuser, ländliche Häuser am Stadtrand, ein Lebensmittelladen, der um 19 Uhr schloss und ein Kaufhaus, dass ein Paradies für Kaufsüchte war - Winterstiefel, Gummistiefel, ein Schafsfellmantel für die Frau und eine Bisamrattenmütze für den Mann."
+    "Dort gab es absolut nichts Besonderes: Eine große Fabrik, reihenweise marode, fünfstöckige Häuser, ländliche Holzhütten am Stadtrand, ein Lebensmittelladen, der um 19 Uhr schloss und ein Kaufhaus, das ein wahres Paradies für Kaufsüchtige war - Wintergaloschen, Gummistiefel, einen Lammfellmantel für die Dame und einen Nerzhut für den Herrn."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:581
 translate german epilogue_un_good_02306dd9:
 
     # "Раньше я бы уже спустя несколько минут с воплями бежал бы из подобного места подальше, но теперь это был мой дом. В XX веке в Европе случаи голодной смерти были редки, так что кое-как устроиться я всё же смог – меня взяли помощником токаря на завод и выделили комнату в общежитии."
     #"Before I would already be trying to run away from a place like this, but now it was my home. Cases of starvation were rare in 20th century Europe. I managed to find a job. I was employed as a turner's assistant in a factory and was also given a room in a hostel."
-    "Früher wäre ich nach kürzester Zeit von hier weggelaufen, aber jetzt war dies mein Zuhause. Hungersnot war im zwanzigsten Jahrhundert eher selten und so schaffte ich es, einen Job als Drechselgehilfe zu finden und bekam sogar ein Raum in einem Hostel."
+    "Früher wäre ich nach kürzester Zeit von hier weggelaufen, aber jetzt war dies mein Zuhause. Einfach verhungert ist man im zwanzigsten Jahrhundert eher selten, und so schaffte ich es, einen Job als Drechselgehilfe zu finden und bekam sogar ein Zimmer in einem Hostel."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:582
 translate german epilogue_un_good_e8a877a1:
@@ -2897,21 +2897,21 @@ translate german epilogue_un_good_e8a877a1:
     #nvl clear
     #"Over time, this initially difficult and strange job started to bring a certain satisfaction. Partially, of course, that came from having the ability to buy food. Time passed and I climbed up a career ladder, becoming the head of a whole shift."
     nvl clear
-    "Über die Zeit hinweg fing die Arbeit an spaß zu machen, die anfangs so schwer und unverständlich war. Zu einem großen Teil lag es natürlich auch daran, dass ich Geld damit verdiente, von dem ich Lebensmittel kaufen konnte. Im Laufe der Zeit stieg ich die Karriereleiter hinauf und wurde Schichtleiter."
+    "Über die Zeit hinweg begann ich, aus der anfangs schwierigen und merkwürdigen Arbeit eine gewisse Zufriedenheit zu ziehen. Zu einem gewissen Teil lag das natürlich auch daran, dass ich damit das Geld verdiente, von dem ich Lebensmittel kaufen konnte. Im Laufe der Zeit stieg ich die Karriereleiter hinauf und wurde Schichtleiter."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:584
 translate german epilogue_un_good_6bd80c6f:
 
     # "Коллеги удивлялись моим способностям и трудолюбию, удивлялся им и я сам. Лена закончила школу, я провёл несколько ночей в обнимку с калькулятором, высчитывая графики расходов и доходов, и решился-таки предложить ей пожениться."
     #"My colleagues were amazed at my talent and persistence and so was I. Lena graduated from school and I spent several nights with a calculator, designing diagrams of expenses and income, and at last made up my mind to propose to Lena."
-    "Meine Kollegen bewunderten mein Können und meinen Fleiß, so wie ich auch. Lena beendete die Schule und ich verbrachte einige Nächte mit einem Taschenrechner und und Tabellen mit Einnahmen und Ausgaben und beschloss schließlich, Lena einen Heiratsantrag zu machen."
+    "Meine Kollegen bewunderten mein Können und meinen Fleiß, und ich tat es auch. Lena beendete die Schule und ich verbrachte einige Nächte damit, Tabellen von Einnahmen und Ausgaben mit einem Taschenrechner aufzustellen, und beschloss schließlich, Lena einen Heiratsantrag zu machen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:585
 translate german epilogue_un_good_8de1f0df:
 
     # "Не помню уже, долго ли она думала, предлагала ли составить брачный контракт или отнекивалась ввиду отсутствия приданого, но вскоре мы уже жили в комнате в коммунальной квартире рядом с заводом, за которую приходилось отдавать две трети зарплаты."
     #"I don't remember now if it took a lot of time for her to think, if she suggested we sign a marriage contract, or if she protested because of the lack of a dowry, but in a short time both of us moved into a communal apartment room near the factory that cost two thirds of my salary."
-    "Ich weiß nicht mehr, ob sie lange darüber nach dachte oder vorschlug, einen Ehevertrag zu machen oder darüber protestierte, dass es keine Mitgift gab. Aber schon bald wohnten wir in einem Zimmer in einer Gemeinschaftswohnung in der Nähe der Fabrik, für das zwei Drittel unseres Lohnes drauf ging."
+    "Ich weiß nicht mehr, ob sie lange darüber nachdachte oder vorschlug, einen Ehevertrag aufzusetzen oder dagegen protestierte, dass es keine Mitgift gab. Aber schon bald wohnten wir gemeinsam in einer Wohnung nahe der Fabrik, für welche zwei Drittel meines Gehaltes draufgingen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:586
 translate german epilogue_un_good_ce390941:
@@ -2921,21 +2921,21 @@ translate german epilogue_un_good_ce390941:
     #nvl clear
     #"Thanks to free Soviet education for everyone, or maybe thanks to my wife's persistence, eventually I became a part-time student at the local polytechnic university."
     nvl clear
-    "Dank der kostenlosen sowjetischen Bildung für alle oder vielleicht auch dank der Beharrlichkeit meiner Frau wurde ich schließlich Teilzeitstudent an der örtlichen polytechnischen Universität."
+    "Dank der kostenlosen sowjetischen Bildung für alle - oder vielleicht auch Dank der Beharrlichkeit meiner Frau - wurde ich schließlich Teilzeitstudent an der örtlichen polytechnischen Hochschule."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:588
 translate german epilogue_un_good_467cd7ed:
 
     # "Сначала я рьяно протестовал, мотивируя это тем, что честному пролетарию ни к чему уподобляться вшивой интеллигенции, но потом здраво рассудил, что, имея диплом, в жизни продвинуться будет легче."
     #"At first I protested, saying that a fair proletarian had no need to act like the lousy intellectuals, but then I came to conclusion that a diploma would make my life easier."
-    "Zuerst protestierte ich und meinte, dass ein freier Proletarier sich nicht wie die miesen Intellektuellen zu verhalten braucht, doch dann kam ich zu dem Schluss, dass ein Diplom mein Leben erleichtern würde."
+    "Zunächst protestierte ich noch und meinte, dass ein ehrlicher Proletarier sich nicht wie die miesen Intellektuellen zu verhalten braucht, doch dann kam ich zu dem Schluss, dass ein Diplom mein Leben durchaus erleichtern würde."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:589
 translate german epilogue_un_good_d5213709:
 
     # "Учиться было не очень сложно – сказывался какой-то багаж знаний, оставшийся со времён моей первой попытки получить высшее образование. Время шло, страна вступала в эпоху перемен. Конечно, об этом я знал, но тем не менее всё свалилось как снег на голову."
     #"It wasn't difficult to study thanks to my knowledge from my last attempt at receiving a higher education. Time passed and the country started to change. Of course I knew it would happen but still, the changes came out of the blue."
-    "Es war nicht sonderlich schwierig, dank meines Wissens aus früheren Zeiten einen höheren Bildungsabschluss erreichen zu wollen. Die Zeit verging und das Land begann sich zu verändern. Sicher wusste ich, dass dies passieren würde, dennoch kam es überraschend."
+    "Das Studium war nicht sonderlich schwierig, wohl Dank meines Wissens aus früheren Versuchen, einen höheren Bildungsabschluss erreichen zu wollen. Die Zeit verging und das Land begann, sich zu verändern. Sicher wusste ich, dass dies passieren würde, dennoch kam es überraschend."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:590
 translate german epilogue_un_good_5f973fa2:
@@ -2945,21 +2945,21 @@ translate german epilogue_un_good_5f973fa2:
     #nvl clear
     #"You could compare it to being caught in an avalanche in the mountains. You can prepare all you like, but it will still bury you anyway. The factory was privatised and then closed down."
     nvl clear
-    "Es war in etwa wie mit einer Lawine in den Bergen, egal wie gut man sich darauf vorbereitet, letztlich wird man doch von ihr begraben. Die Fabrik wurde zunächst privatisiert und dann geschlossen."
+    "Es war in etwa wie mit einer Lawine in den Bergen. Egal, wie gut man sich darauf vorbereitet, letztlich wird man doch von ihr begraben. Die Fabrik wurde zunächst privatisiert und dann geschlossen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:594
 translate german epilogue_un_good_7676e0eb:
 
     # "Частный извоз на копейке, доставшейся от тестя, много денег не приносил, и я уже был готов пойти работать вожатым в «Совёнок», как неожиданно умерла какая-то троюродная тетя двоюродной бабушки Лены, оставив ей в наследство однокомнатную квартиру где-то в центральной России."
     #"Moonlighting as a private driver in the 'Kopeyka' rattletrap I inherited from my father-in-law was not really a profitable business. I was even ready to apply for a camp leader position in Sowjonok, when Lena's distant relative died and left us a one-room apartment somewhere in Central Russia."
-    "Aus Geldmangel war ich sogar bereit, eine Stelle als Leiter in Sowjonok an zu nehmen, als ein entfernter Verwandter von Lena starb und uns eine Einzimmerwohnung irgendwo in Zentralrussland hinterließ."
+    "Einen privaten Taxi-Service mit der Rostlaube zu betreiben, welche ich von meinem Schwiegervater geerbt hatte, stellte sich als wenig profitabel heraus. In meiner Geldnot war ich sogar bereit, eine Stelle als Leiter in Sowjonok anzunehmen, als ein entfernter Verwandter von Lena starb und uns eine Einzimmerwohnung irgendwo in Zentralrussland hinterließ."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:597
 translate german epilogue_un_good_c490afc8:
 
     # "На семейном совете было принято решение переезжать. Начало девяностых мы встречали на тесной кухне в хрущёвке за просмотром «Лебединого озера». Перебиваясь случайными подработками, я скопил кое-какую сумму и решил перебираться в город побольше. И выбор пал само собой на мою малую Родину…"
     #"After a family council we decided to move. We greeted the early 90s in a cramped kitchen in a khrushchovka, watching “Swan Lake”. Thanks to random side jobs I saved up some money and we decided to move to a bigger city. And of course, I chose my birthplace..."
-    "Bei einem Familienrat beschlossen wir, um zu ziehen. Die frühen 90'er begrüßten wir in einer engen Küche einer Chruschtschowka-Wohnung und sahen uns 'Schwanensee' an. Dank verschiedener Gelegenheitsjobs konnte ich etwas Geld zusammensparen und wir beschlossen, in eine größere Stadt zu ziehen. Und natürlich viel die Wahl auf meinen Geburtsort…"
+    "Nach Rücksprache mit der Familie beschlossen wir, umzuziehen. Die frühen 90'er begrüßten wir aus der engen Küche einer Chruschtschowka-Wohnung und sahen uns 'Schwanensee' an. Dank verschiedener Gelegenheitsjobs konnte ich etwas Geld zusammensparen und wir beschlossen, in eine größere Stadt zu ziehen. Und natürlich fiel die Wahl auf meinen Geburtsort…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:598
 translate german epilogue_un_good_b16966f7:
@@ -2969,21 +2969,21 @@ translate german epilogue_un_good_b16966f7:
     #nvl clear
     #"We decided to sell the flat and used the money to invest in business. For some time we lived in luxury, buying mink fur-coats and expensive foreign cars, dining in restaurants and taking trips to other countries. Like many others during that time I had the luck to somehow make it big, starting from the bottom."
     nvl clear
-    "Wir entschieden uns dazu, die Wohnung zu verkaufen und das Geld in ein Unternehmen zu investieren. Für einige Zeit lebten wir sehr luxuriös, kauften Nerzmäntel und teure ausländische Autos, aßen in Restaurants und bereisten andere Länder. Wie viele andere in der Zeit hatte ich das Glück, mich von ganz unten hochzuarbeiten."
+    "Wir entschieden uns dazu, die Wohnung zu verkaufen und das Geld in ein Unternehmen zu investieren. Für einige Zeit lebten wir im Luxus, kauften Nerzmäntel und teure ausländische Autos, aßen in Restaurants und bereisten andere Länder. Wie viele andere in dieser Zeit hatte ich das Glück, mich von ganz unten hochzuarbeiten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:600
 translate german epilogue_un_good_082d8313:
 
     # "Занимался я продажей строительных материалов. В то время это был выгодный бизнес – у многих появились лишние деньги, которые просто необходимо было вложить в постройку помпезных коттеджей."
     #"My business was construction material retail. It was a profitable market at the time because people made excessive money that they wanted to invest in luxurious homes."
-    "Mein Unternehmen war ein Baustoffhandel. Das war ein lukrativer Markt, weil viele Leute so viel Geld verdienten, dass sie es in Luxushäuser investierten."
+    "Mein Unternehmen war ein Baustoffhandel. Das war ein lukrativer Markt, weil viele Leute so viel Geld verdienten, dass sie es in Luxushäuser investieren wollten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:601
 translate german epilogue_un_good_200309d6:
 
     # "Может быть, всё так и прдолжалось бы, но девяностые не зря называют лихими, и я, столкнувшись с рэкетом и коррупцией, в одночасье оказался с пустым холодильником, не менее пустым кошельком и горьким привкусом крови во рту."
     #"Maybe such life could have gone on, but the 90s were called “rakish” for a reason. After encountering rackets and corruption I was left with an empty refrigerator, an empty wallet and the bitter taste of blood in my mouth."
-    "Vielleicht wäre es so weiter gegangen, aber die 90'er hießen nicht umsonst die wilden 90'er. Und so fand ich mich angesichts von Schlägern und Korruption übernacht mit einem leeren Kühlschrank, einem genau so leeren Geldbeutel und bitteren Blutgeschmack im Mund wieder."
+    "Vielleicht wäre alles immer so weitergegangen, aber die 90'er wurden nicht umsonst als 'wild' bezeichnet. Im Angesicht von Gaunereien und Korruption fand ich mich fast über Nacht mit einem leeren Kühlschrank, einem genauso leeren Geldbeutel und dem bitteren Geschmack von Blut im Mund wieder."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:602
 translate german epilogue_un_good_f5d9692f:
@@ -2993,21 +2993,21 @@ translate german epilogue_un_good_f5d9692f:
     #nvl clear
     #"That was the time I tried to recall my 'man-from-the-future' status. Betting places that were impossible in the Soviet era popped up all over and I rushed to gamble on everything I knew. However, I faced new disappointments, as matches were won by completely different teams. Even the 1994 World Cup champion wasn't Brazil."
     nvl clear
-    "Das war die Zeit, in der ich mich wieder an meinen Status als 'Mann aus der Zukunft' erinnerte. Wettbüros schossen wie Pilze aus dem Boden, was zu Sowjetzeiten undenkbar gewesen wäre, und ich fing an, auf alles zu wetten, dessen ich mir sicher war. Doch ich wurde enttäuscht. Denn die Spiele wurden nicht von den Mannschaften gewonnen, die eigentlich hätten siegen müssen. Sogar die Weltmeisterschaft 1994 wurde nicht von Brasilien gewonnen."
+    "Das war die Zeit, in der ich mich wieder an meinen Status als 'Mann aus der Zukunft' erinnerte. Wettbüros schossen wie Pilze aus dem Boden, was zu Sowjetzeiten undenkbar gewesen wäre, und ich fing an, auf alles zu wetten, dessen ich mir halbwegs sicher war. Doch ich wurde enttäuscht. Die großen Spiele der damaligen Zeit wurden nicht von den Mannschaften gewonnen, die eigentlich hätten siegen sollen. Sogar die Weltmeisterschaft 1994 wurde nicht von Brasilien gewonnen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:604
 translate german epilogue_un_good_353ba4d9:
 
     # "Когда я дома по телевизору смотрел футбол, всё было как положено, но стоило мне принести последние гроши в букмекерскую контору, как даже аведомо уступающий в классе соперник чудесным образом обыгрывал грандов."
     #"When I was just watching football on TV everything went as it should, but whenever I spent the last of my money to make a bet even underdogs began phenomenally beating favourites."
-    "Wann immer ich zu Hause im Fernsehen Fußball schaute, verliefen die Spiele, wie sie sollten. Doch sobald ich mein letztes Geld zum Buchmacher brachte, gewann sogar die unterlegenste Mannschaft gegen die Favoriten."
+    "Wann immer ich zu Hause im Fernsehen Fußball schaute, verliefen die Spiele, wie sie sollten. Doch sobald ich mein letztes Geld zum Buchmacher brachte, gewannen sogar die größten Außenseiter gegen Favoriten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:605
 translate german epilogue_un_good_ea090535:
 
     # "Пробовал я себя и на поприще политического советника. Однако и тут меня ждала неудача – в высшее общество с голым задом не берут. Не знаю, сколько бы ещё продолжались хождения по мукам, но в моей жизни случилось событие, перевернувшее всё, – у нас с Леной родился ребёнок."
     #"As well as that, I tried to pursue the career of a political advisor. However, you don’t get accepted into a high position like that without special connections or anything that would make people interested. I don’t know how long I would have gone through this torment if not for an event which changed everything – me and Lena had a child."
-    "Ich versuchte auch die Laufbahn eines politischen Beraters ein zu schlagen. Aber ohne Beziehungen oder irgendetwas, womit ich das Interesse der Leute auf sich ziehen kann, wird man solch eine Position nicht erreichen. Ich weiß nicht, wie lange ich noch hätte so weiter machen können, doch dann geschah etwas, das mein Leben auf den Kopf stellte: Lena und ich bekamen ein Kind."
+    "Ich versuchte mich auch an einer Karriere als politischer Berater. Allerdings wurde mir klar, dass ich ohne Beziehungen oder irgendetwas, womit ich das Interesse der Leute auf mich ziehen konnte, geringe Chancen hatte, eine solche Position zu erreichen. Ich weiß nicht, wie lange ich noch so hätte weitermachen können, doch dann geschah etwas, das mein Leben auf den Kopf stellte: Lena und ich bekamen ein Kind."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:606
 translate german epilogue_un_good_c402b437:
@@ -3017,21 +3017,21 @@ translate german epilogue_un_good_c402b437:
     #nvl clear
     #"In a hurry I started to search for any possible way to earn enough to provide for my family. I remembered some of my father's old friends and through them, by pretending to be a distant relative of myself, I gained a place as a junior data analyst in a bank. At the same time I made a new attempt to obtain my degree (or to be precise to {i}finish{/i} it)."
     nvl clear
-    "Mit Nachdruck begann ich nach einer Möglichkeit zu suchen, Geld für meine Familie zu verdienen. Ich erinnerte mich an einige alte Freunde meines Vaters. Durch sie bekam ich, indem ich vorgab, ein entfernter Verwandter von mir zu sein, wie durch ein Wunder, eine Stelle als Junior-Analyst in einer Bank. Zur gleichen Zeit unternahm ich einen weiteren Versuch, einen höheren Bildungsabschluss zu machen (oder besser, ihn auch zu erreichen)."
+    "Ich begann fieberhaft, nach einer Möglichkeit zu suchen, Geld für meine junge Familie zu verdienen. Ich erinnerte mich an einige alte Freunde meines Vaters. Durch sie bekam ich, indem ich vorgab, ein entfernter Verwandter von mir zu sein, wie durch ein Wunder eine Stelle als Junior-Analyst in einer Bank. Zur gleichen Zeit unternahm ich einen weiteren Versuch, einen höheren Bildungsabschluss zu machen (oder besser, ihn auch abzuschließen)."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:608
 translate german epilogue_un_good_0c3a6b1b:
 
     # "Время текло медленно, денег хватало с грехом пополам, я сутками торчал на работе, выкраивая время, чтобы сдавать экзамены, а Лена сидела с ребёнком. Тогда же я и начал писать… Помню этот день как сейчас: время было уже за полночь, я сидел на кухне за стареньким, списанным на работе, 386-ым и остервенело отстреливал монстров во втором «Думе»."
     #"Time passed slowly. The money was just enough to fill our stomachs. I almost lived at work for days, trying to find some time for my exams. Lena stayed at home with the baby. That was when I started writing... I remember it as if it was yesterday. It was just after midnight and I was sitting in the kitchen in front of my old, worn-out i386, wildly killing monsters in 'DOOM II'."
-    "Die Zeit verging langsam und das Geld reichte gerade mal so uns sattzubekommen. Ich arbeitete Tag und Nacht und versuchte Zeit für meine Prüfungen zu finden. Lena blieb zu Hause und passte auf das Kind auf. Da fing ich an zu schreiben… Ich erinnerte mich, als wäre es gestern gewesen. Es war kurz nach Mitternacht und ich saß in der Küche vor meinem alten, abgenutzten i386 und ballerte Monster in 'DOOM II' ab."
+    "Die Zeit verging langsam und das Geld reichte gerade so, um uns sattzubekommen. Ich arbeitete Tag und Nacht und versuchte, nebenbei Zeit für meine Prüfungen zu finden. Lena blieb zu Hause und passte auf das Kind auf. In dieser Zeit fing ich an zu schreiben… Ich erinnerte mich, als wäre es gestern gewesen. Es war kurz nach Mitternacht und ich saß in der Küche vor meinem alten, abgenutzten i386 und ballerte Monster in 'DOOM II' ab."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:609
 translate german epilogue_un_good_fa74f193:
 
     # "Спать хотелось ужасно, но компьютерные игры хоть немного отвлекали меня от бесконечности серых дней. Пройдя очередной уровень, я вдруг задумался обо всём, что мне пришлось пережить за последние годы. Слишком много для одного человека. Тогда-то мне и пришла в голову мысль записать всё, что со мной произошло."
     #"I wanted to sleep badly but computer games at least slightly distracted me from the infinity of dull days. When I completed another level I was suddenly immersed in thoughts about everything I'd gone through during the last few years. It was all too much for one person. That’s when I decided to write down everything that had happened to me."
-    "Ich wollte unbedingt schlafen, aber die Computerspiele lenkten mich zumindest etwas von den endlos grauen Tagen ab. Als ich ein weiteres Level beendet hatte, dachte ich darüber nach, was ich in den vergangenen Jahren durch gemacht hatte. Es war viel zu viel für eine Person. Da kam mir der Gedanke, alles niederzuschreiben, was mir bisher widerfahren ist."
+    "Ich wollte unbedingt schlafen, aber die Computerspiele lenkten mich zumindest ein wenig von den endlosen grauen Tagen ab. Als ich ein weiteres Level beendet hatte, dachte ich darüber nach, was ich in den vergangenen Jahren durchgemacht hatte. Es war viel zu viel für eine Person. Da kam mir der Gedanke, alles niederzuschreiben, was mir bisher widerfahren war."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:610
 translate german epilogue_un_good_65ff89ca:
@@ -3041,21 +3041,21 @@ translate german epilogue_un_good_65ff89ca:
     #nvl clear
     #"I launched the word processor and wrote down about two hundred words, with the clear intent of continuing it tomorrow. However, I didn't remember it tomorrow, nor even a week later."
     nvl clear
-    "Ich öffnete ein Textverarbeitungsprogramm und schrieb einige Hundert Worte mit der festen Absicht, morgen weiter zu schreiben. Allerdings erinnerte ich mich weder am nächsten Tag noch eine Woche später daran."
+    "Ich öffnete ein Textverarbeitungsprogramm und schrieb einige Hundert Wörter mit der festen Absicht, am nächsten Tag weiterzuschreiben. Allerdings erinnerte ich mich weder am nächsten Tag, noch eine Woche später daran."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:612
 translate german epilogue_un_good_a55760f5:
 
     # "Спустя, наверное, месяц о моей незаконченной книге напомнила Лена, что-то печатавшая на компьютере. Я перечитал написанное и в ужасе удалил. Тогда же и появились первые сомнения – осилю ли я? В конце концов, это же выходит целый роман-эпопея, а я и двух предложений связать не могу."
     #"About a month later Lena, who was typing something on the computer, reminded me of my unfinished book. I reread it and deleted it, terrified. At that moment I started to doubt if I could ever do it. After all, it was an entire epic novel and I wasn’t even able to string two sentences together."
-    "Einen Monat später wollte Lena etwas auf dem Computer schreiben und erinnerte mich an mein unfertiges Buch. Ich las noch einmal, was ich schrieb und löschte es entsetzt. Damit kamen die ersten Zweifel: Könnte ich es schaffen? Es sollte immerhin ein epischer Roman werden, doch ich konnte nicht einmal zwei Sätze aneinanderreihen."
+    "Einen Monat später wollte Lena etwas auf dem Computer schreiben und erinnerte mich an mein unfertiges Buch. Ich las noch einmal, was ich geschrieben hatte und löschte es entsetzt. Damit kamen die ersten Zweifel: Könnte ich es schaffen? Es sollte immerhin ein epischer Roman werden, doch ich konnte nicht einmal zwei Sätze aneinanderreihen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:613
 translate german epilogue_un_good_a0fb86f8:
 
     # "Да и про себя писать непросто… Творчество было отложено в долгий ящик. 2000 год я встречал дипломированным специалистом в должности начальника отдела. Переезжая на новую квартиру, в старом хламе, определённом на помойку, я нашёл свой старый 386-ой, и тут же вспомнил о том, что собирался написать книгу о своей жизни."
     #"In addition, it's not easy to write about yourself... Creative work put on the back-burner for now. I celebrated the arrival of the year 2000 as a certified specialist with department head duties. While moving to another apartment I found my old i386 among the trash that was to be thrown away and I remembered my intention of writing a book about my life."
-    "Außerdem ist es nicht einfach, über sich selber zu schreiben… Die kreative Arbeit wurde erst einmal wieder auf Eis gelegt. Das Jahr 2000 begrüßte ich als staatlich geprüfte Fachkraft und Abteilungsleiter. Bei einem Umzug in eine andere Wohnung fand ich meinen alten i386'er bei den alten Sachen, die weggeworfen werden sollten, wieder, und ich erinnerte mich daran, dass ich ein Buch über mein Leben schreiben wollte."
+    "Außerdem ist es nicht einfach, über sich selbst zu schreiben… Die kreative Arbeit wurde erst einmal wieder auf Eis gelegt. Das Jahr 2000 begrüßte ich als staatlich geprüfte Fachkraft und Abteilungsleiter. Beim Umzug in eine andere Wohnung fand ich meinen alten i386'er bei den Sachen wieder, die eigentlich weggeworfen werden sollten, und ich erinnerte mich daran, dass ich ein Buch über mein Leben schreiben wollte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:614
 translate german epilogue_un_good_b64fc8f9:
@@ -3064,21 +3064,21 @@ translate german epilogue_un_good_b64fc8f9:
     # "И усмехнулся. Как глупо. Однако спустя некоторое время я всё же открыл ноутбук и накидал некий план короткого рассказа о том, как молодой человек без особого рода занятий и стремлений оказывается на другой планете. Довольно глупый сюжет, под стать которому была и смысловая составляющая. Вкупе со стилистикой, орфографией и пунктуацией."
     #nvl clear
     #"I laughed. How stupid. However, after some time I opened my laptop and made a sort-of draft of a short story about a young man without a definite occupation or aspirations, who finds himself on a different planet. The style, orthography and punctuation, as well as the idea itself, were matched well to such a silly plot."
-    "Ich grinste. Wie albern das doch war. Doch nach einiger Zeit öffnete ich meinen Laptop und machte mir eine Vorlage für eine Kurzgeschichte über einen jungen Mann, der sich ohne Berufserfahrung oder irgendwelche Ambitionen auf einem anderen Planeten wiederfand. Der Stil, die Rechtschreibung und Interpunktion sogar die Handlung passten gut zu so einer albernen Idee."
+    "Ich grinste. Wie albern das doch war. Doch nach einiger Zeit öffnete ich meinen Laptop und machte mir eine Vorlage für eine Kurzgeschichte über einen jungen Mann, der sich ohne Berufserfahrung oder irgendwelche Ambitionen auf einem anderen Planeten wiederfand. Der Stil, die Rechtschreibung und Interpunktion, sogar die Handlung passte gut zu so einer albernen Idee."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:616
 translate german epilogue_un_good_06d5c1a8:
 
     # "Я показал рассказ жене. Она посмеялась, но сказала, что написано неплохо. И посоветовала продолжать."
     #"I showed the story to my wife. She laughed but said that it was well-written and advised me to continue."
-    "Ich zeigte es meiner Frau. Sie lachte, aber sie meinte auch, dass es gut geschrieben sei und sie riet mir, weiterzumachen."
+    "Ich zeigte sie meiner Frau. Sie lachte, aber sie meinte auch, dass es gut geschrieben sei und riet mir, weiterzumachen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:617
 translate german epilogue_un_good_62204972:
 
     # "Спустя примерно год ящик в столе, отведённый для моих литературных потуг переполнился. Тогда мне это показалось в высшей степени странным – я же целыми днями, иногда даже по выходным, торчал на работе, а каждую свободную минуту старался проводить с сеьёй. Однако что получилось, то получилось."
     #"About a year later, the drawer designated for holding my literary works was full. I found that very odd because I was spending entire days at work, sometimes even during holidays, and I tried to spend all my available free time with my family. However, that's what happened."
-    "Etwa ein Jahr später quoll meine Schreibtischschublade über von meinem literarischen Werken. Das fand ich sehr seltsam, denn ich verbrachte den ganzen Tag auf der Arbeit, manchmal sogar am Wochenende. Und ich versuchte meine gesamte Freizeit mit meiner Familie zu verbringen. Aber dennoch ist das passiert."
+    "Etwa ein Jahr später quoll meine Schreibtischschublade über von meinen literarischen Werken. Das fand ich sehr seltsam, denn ich verbrachte den ganzen Tag auf der Arbeit, manchmal sogar am Wochenende. Ich versuchte eigentlich, meine gesamte Freizeit mit meiner Familie zu verbringen, aber dennoch ist das passiert."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:618
 translate german epilogue_un_good_16103041:
@@ -3088,14 +3088,14 @@ translate german epilogue_un_good_16103041:
     #nvl clear
     #"Around that time I decided to publish my short stories. As with any other beginner's work, most of mine were rejected, but a couple of them were accepted (including my first work). I was over the moon. Of course I was paid nothing but my works will be read! Meaning that someone will find them interesting."
     nvl clear
-    "Damals beschloss ich, meine Geschichten zu veröffentlichen. Wie bei vielen neuen Schriftstellern wurden die meisten Geschichten abgelehnt, aber einige wurden gedruckt (darunter auch meine erste Geschichte). Ich freute mich riesig. Ich bekam für die Veröffentlichung kein Geld, aber sie wurden gelesen! Was bedeutete, dass sich jemand für meine Arbeit interessiert."
+    "So beschloss ich, meine Geschichten zu veröffentlichen. Wie bei vielen neuen Schriftstellern wurden die meisten Manuskripte abgelehnt, aber einige wurden gedruckt (darunter auch meine erste Geschichte). Ich freute mich riesig. Ich bekam für die Veröffentlichung natürlich keinen Cent, aber meine Werke würden gelesen! Was bedeutete, dass sich jemand für meine Arbeit interessieren könnte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:620
 translate german epilogue_un_good_d17d0576:
 
     # "Время шло… У нас с Леной родился второй ребёнок, а я в свободное время неспешно пописывал роман. Нет, не о своей жизни, не о пионерлагере – этих тем я решил никогда больше не касаться в своём творчестве. Всё произошедшее много лет назад казалось мне волей Божьей, милость которого искушать не стоит."
     #"Time passed. We had a second baby now. During my spare time I slowly wrote a novel. No, not about my life, or the pioneer camp. I decided not to touch upon those themes ever again. Everything that happened years ago seemed to be the will of God, whose charity should not be tempted."
-    "Die Zeit verging… Lena und ich bekamen unser zweites Kind. In meiner Freizeit schrieb ich langsam an einem Roman. Nein, nicht über mein Leben oder das Pionierlager. Ich beschloss für mich, diese Themen nie wieder an zu sprechen. All dass, was vor so vielen Jahren geschah, erschien mir wie der Wille Gottes, von dessen Gnade ich mich nicht weiter beirren lassen wollte."
+    "Die Zeit verging… Lena und ich bekamen unser zweites Kind. In meiner Freizeit schrieb ich langsam an einem Roman. Nein, nicht über mein Leben oder das Pionierlager. Ich beschloss für mich, diese Themen nie wieder anzusprechen. All das, was vor so vielen Jahren geschah, erschien mir wie der Wille Gottes, von dessen Gnade ich mich nicht weiter beirren lassen sollte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:621
 translate german epilogue_un_good_bc5da8f3:
@@ -3109,7 +3109,7 @@ translate german epilogue_un_good_d7be6fd0:
 
     # "Спустя примерно год роман был закончен. Обив пороги известных издательств, я таки получил огласие на публикацию в небольшой конторке. Редактор, пожилой человек в потрёпанном твидовом пиджаке и толстых очках, свисавших, казалось, почти до роскошных седых усов, сказал:"
     #"A year later the novel was completed. After I'd annoyed almost all known publishers, I managed to reach an agreement with a small company. The editor, an elderly man wearing a ragged tweed jacket and thick spectacles which almost rubbed against his magnificent grey moustache told me:"
-    "Nach etwa einem Jahr war mein Roman fertig. Nachdem ich mich bei einigen Verlagen umgehört hatte, wurde mein Buch von einem kleinen Herausgeber zur Veröffentlichung frei gegeben. Der Redakteur, ein älterer Mann in einer abgewetzten Tweedjacke und einer dicken Brille, die so tief hing, dass sie beinahe seinen Schnurrbart berührte, meinte:"
+    "Nach etwa einem Jahr war mein Roman fertig. Als ich mich vergeblich bei einigen großen Verlagen umgehört hatte, wurde mein Buch schließlich von einem kleinen Betrieb verlegt. Der Redakteur, ein älterer Mann in einer abgewetzten Tweedjacke und einer dicken Brille, die so tief hing, dass sie beinahe seinen edlen Schnurrbart berührte, meinte:"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:623
 translate german epilogue_un_good_d813e73f:
@@ -3119,21 +3119,21 @@ translate german epilogue_un_good_d813e73f:
     #nvl clear
     #"'Your level is average, young man... Average, yes. But the idea itself is interesting... interesting, yes. Well, you need more practice. And, er... More reading... Yes.'"
     nvl clear
-    "'Ihr Können ist durchschnittlich junger Mann… Aber die Idee selbst ist interessant… interessant, ja. Nun, vielleicht brauchen sie mehr praktische Erfahrung. Und das ist… Mehr lesen… Ja.'"
+    "'Ihr Können ist durchschnittlich, junger Mann… durchschnittlich, ja. Aber die Idee an sich ist interessant… interessant, ja. Nun, vielleicht brauchen sie mehr praktische Erfahrung. Und sie sollten, nun… Mehr lesen… Ja.'"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:625
 translate german epilogue_un_good_d13fddf7:
 
     # "Эти слова я запомнил на всю жизнь. Авторские экземпляры, причитающиеся в качестве гонорара, я раздал друзьям и коллегам. Лена же, которая впервые мой роман прочитала только после выхода, сказала, что ей очень понравилось. Думаю, скорее чтобы не расстраивать меня."
     #"I remembered these words for the rest of my life. I dispensed the copies that were sent to me as a part of my royalty agreement among my friends and colleagues. Lena, who read my novel only after it was published, told me that she really liked it. Mostly out of a desire to not upset me, I guess."
-    "An diese Worte werde ich mich für den Rest meines Lebens erinnern. Die Autorenexemplare, die mir nach meiner Lizenzvereinbarung zustanden, habe ich an Freunde und Kollegen verschenkt. Lena, die meinen Roman erst nach der Veröffentlichung las, meinte, er habe ihr sehr gut gefallen. Hauptsächlich sagte sie das wohl, um mich nicht zu verärgern."
+    "An diese Worte würde ich mich für den Rest meines Lebens erinnern. Die Autorenexemplare, die mir nach meiner Lizenzvereinbarung zustanden, habe ich an Freunde und Kollegen verschenkt. Lena, die meinen Roman erst nach der Veröffentlichung las, meinte, er habe ihr sehr gut gefallen. Hauptsächlich sagte sie das wohl, um mich nicht zu verärgern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:626
 translate german epilogue_un_good_78ec671a:
 
     # "Время шло… Дата на календаре неумолимо приближалась к тому дню, когда я был вырван из своего привычного мира и брошен в эту реальность, начавшуюся с таинственного пионерлагеря и заканчивающуюся здесь. Теперь я успешный писатель (хотя бы судя по тиражам моих книг), у меня прекрасная жена и двое детей. Жизнь совершила полный оборот."
     #"Time passed... The calendar days were unstoppably approaching that day when I was pulled out of my usual world and thrown into this life, starting from the mysterious pioneer camp and now ending up here. Now I am a successful writer (at least according to the number of copies my books have sold), I have a wonderful wife and two children. My life has turned 180 degrees."
-    "Die Zeit verging… Auf dem Kalender näherte sich der Tag, an dem ich aus meiner damaligen Welt gerissen und in diese Realität geworfen wurde. Beginnend mit diesem seltsamen Pionierlager und hier endend. Nun bin ich ein erfolgreicher Schriftsteller (zumindest nach der Auflage meiner Bücher zu urteilen). Ich habe eine wunderbare Frau und zwei Kinder. Mein Leben machte eine 180-Grad-Wende."
+    "Die Zeit verging… Auf dem Kalender näherte sich der Tag, an dem ich aus meiner damaligen Welt gerissen und in diese Realität geworfen wurde. Es begann mit diesem seltsamen Pionierlager und endete nun hier. Ich bin ein erfolgreicher Schriftsteller (zumindest nach der Auflage meiner Bücher zu urteilen). Ich habe eine wunderbare Frau und zwei Kinder. Mein Leben hat eine 180-Grad-Wende hingelegt."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:627
 translate german epilogue_un_good_e0db8497:
@@ -3143,7 +3143,7 @@ translate german epilogue_un_good_e0db8497:
     #nvl clear
     #"Midnight tonight is the start of something new. {i}Tomorrow{/i} is the day that I was awaiting for so many years."
     nvl clear
-    "Um Mitternacht beginnt etwas völlig Neues. {i}Morgen{/i} beginnt der Tag, auf den ich schon seit so viele Jahre warte."
+    "Um Mitternacht beginnt etwas völlig Neues. {i}Morgen{/i} ist der Tag, auf den ich schon seit so vielen Jahren warte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:634
 translate german epilogue_un_good_2cd0045b:
@@ -3220,7 +3220,7 @@ translate german epilogue_un_good_1814dbd5:
 
     # me "Понишь, я рассказывал, что не из этого мира?"
     #me "Do you remember how I told you that I am not from this world?"
-    me "Erinnerst du dich, dass ich dir erzählte, dass ich nicht von dieser Welt bin?"
+    me "Erinnerst du dich, wie ich dir erzählte, dass ich nicht von dieser Welt bin?"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:650
 translate german epilogue_un_good_d6dd39b3_1:
@@ -3234,14 +3234,14 @@ translate german epilogue_un_good_9ebd484f:
 
     # un "Ну, что-то такое… да…"
     #un "Well, something like that... yes..."
-    un "Also irgendetwas in der Art… Ja…"
+    un "Also, irgendetwas in der Art… ja…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:652
 translate german epilogue_un_good_3ed0a2cc:
 
     # me "Так вот, сегодня как раз тот день, когда я много лет назад сел в 410-ый автобус и проснулся в том пионерлагере."
     #me "So, today is the day when, many years ago, I got on the 410 bus and woke up at that pioneer camp."
-    me "Also heute ist der Tag, an dem ich vor vielen Jahren in den Bus 410 stieg und im Pionierlager wieder aufwachte."
+    me "Nun, heute ist der Tag, an dem ich vor vielen Jahren in den Bus 410 stieg und im Pionierlager wieder aufwachte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:653
 translate german epilogue_un_good_ffd733f0:
@@ -3304,7 +3304,7 @@ translate german epilogue_un_good_429c57e7:
 
     # me "Напишу, наверное, роман!{w} Прочитаешь – вспомнишь."
     #me "Maybe I'll write a novel.{w} You will read it and remember."
-    me "Vielleicht sollte ich einen Roman darüber schreiben.{w} Wenn du ihn ließt, wirst du dich daran erinnern."
+    me "Vielleicht sollte ich einen Roman darüber schreiben.{w} Wenn du ihn liest, wirst du dich daran erinnern."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:662
 translate german epilogue_un_good_b63153d6:
@@ -3318,7 +3318,7 @@ translate german epilogue_un_good_aed0e1bf:
 
     # "Лена сделала серьёзное лицо."
     #"Lena's expression became serious."
-    "Lenas Ausdruck wurde ernster."
+    "Lenas Ausdruck wurde ernst."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:664
 translate german epilogue_un_good_1b89c45a:
@@ -3332,14 +3332,14 @@ translate german epilogue_un_good_2141272e:
 
     # me "Может, и не стоит.{w} В конце концов, то, что было, оно только для нас."
     #me "Maybe it's not.{w} After all, everything that happened is just for us."
-    me "Vielleicht ist es das nicht.{w} Vor allem, weil alles, was dort geschah, für uns ist."
+    me "Vielleicht ist es das nicht.{w} Immerhin ist alles, was dort geschah, unsere persönliche Geschichte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:666
 translate german epilogue_un_good_e5f761b0:
 
     # un "Вот и я так думаю."
     #un "That’s exactly what I think."
-    un "Genau das meine ich auch."
+    un "Genau das denke ich auch."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:667
 translate german epilogue_un_good_82c3c74a:
@@ -3395,27 +3395,27 @@ translate german epilogue_un_good_18bde327:
 
     # "Глаза закрылись, и вся моя действительность свелась к тихому потрескиванию дров в камине."
     #"My eyes closed and my whole reality compressed itself down to the crackling of the firewood."
-    "Meine Augen vielen zu und meine Wahrnehmung wurde auf das knisternde Feuerholz reduziert."
+    "Meine Augen fielen zu und meine Wahrnehmung wurde auf das Knistern des Feuerholzes reduziert."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:675
 translate german epilogue_un_good_b130e182:
 
     # "Я начал медленно проваливаться куда-то далеко-далеко."
     #"I started falling slowly, somewhere far away."
-    "Ich begann ab zu driften, irgendwohin weit weg."
+    "Ich begann, abzudriften, irgendwohin weit weg."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:676
 translate german epilogue_un_good_da5a6c7c:
 
     # "Нет, это был не сон – скорее тёплый эфир, нежно обволакивающий всё моё естество…"
     #"No, it was not a dream. More like warm ether, gently enveloping my entire existence."
-    "Nein, es war kein Traum. Eher ein warmer Äther, der mich komplett umhüllte…"
+    "Nein, das war kein Traum. Eher ein warmer Äther, der mich komplett umgab…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:677
 translate german epilogue_un_good_ce617998_1:
 
     # "…"
-    "..."
+    "…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:700
 translate german epilogue_us_f08a51bb:
@@ -3436,7 +3436,7 @@ translate german epilogue_us_f8bebe71:
 
     # "Зевая, я чуть не сломал челюсть и от боли вскочил с кровати."
     #"I yawned so wide that I almost broke my jaw and jumped up because of the pain."
-    "Ich gähnte so sehr, dass ich mir fast den Kiefer ausrenkte und vor schmerzen aus dem Bett sprang."
+    "Ich gähnte so sehr, dass ich mir fast den Kiefer ausrenkte und von dem plötzlichen Schmerz aus dem Bett sprang."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:709
 translate german epilogue_us_ab939c0c:
@@ -3471,28 +3471,28 @@ translate german epilogue_us_b97b6ee6:
 
     # "Меня охватила паника, и я начал наматывать круги по комнате в надежде хоть как-то успокоиться."
     #"I began to panic and I started to run around my room in the hope of calming myself down."
-    "Ich wurde panisch und fing an, in meiner Wohnung umher zu rennen in der Hoffnung, mich damit zu beruhigen."
+    "Ich wurde panisch und fing an, in meiner Wohnung umherzurennen in der Hoffnung, mich dadurch zu beruhigen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:720
 translate german epilogue_us_32fd8672:
 
     # "Физическая усталость зачастую побеждает эмоциональную."
     #"Physical tiredness can often overcome an emotional one."
-    "Körperliche Müdigkeit kann oft stärker als Emotionen sein."
+    "Körperliche Müdigkeit kann oft stärker sein als jede Emotion."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:721
 translate german epilogue_us_2c5d0412:
 
     # "В голове было пусто, только страх и ужас охватывали всё моё существо, а в мозгу бегущей строкой неслась какая-то мантра – может быть, молитва, а может, просто бессвязный набор мыслей, призванный хоть как-то если не успокоить меня, то хотя бы отвлечь от паники."
     #"My head was empty, fear and terror took over my whole being, and some kind of a song was floating in my mind – maybe a prayer, or maybe just an incoherent jumble of thoughts designed, if not to calm me down, then at least to distract me from my panic."
-    "Mein Kopf war leer, Angst und Entsetzen war das Einzige, was ich verspürte und irgendein Mantra kreiste in meinem Kopf - vielleicht ein Gebet, vielleicht auch nur zusammenhangslose Gedanken, die mich von meiner Panik ablenken, wenn nicht sogar beruhigen sollten."
+    "Mein Kopf war leer, Angst und Entsetzen war das Einzige, was ich verspürte und irgendein Mantra kreiste dort - vielleicht ein Gebet, vielleicht auch nur zusammenhangslose Gedanken, die mich zwar nicht beruhigen, wohl aber von meiner Panik ablenken sollten."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:722
 translate german epilogue_us_1645c72d:
 
     # "Прошло, наверное, полчаса прежде, чем я обессиленно рухнул на пол и уставился в потолок."
     #"It was about half an hour before I collapsed on the floor, exhausted, and fixed my eyes on the ceiling."
-    "Es muss so etwa eine halbe Stunde gedauert haben, bis ich erschöpft auf dem Boden zusammen brach und an fing, die Decke anzustarren."
+    "Es muss so etwa eine halbe Stunde gedauert haben, bis ich erschöpft auf dem Boden zusammenbrach und anfing, die Decke anzustarren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:723
 translate german epilogue_us_80b0da80:
@@ -3527,14 +3527,14 @@ translate german epilogue_us_164fbde5:
 
     # "Нет, я точно там был – прекрасно помню всё от момента пробуждения в автобусе и до самого отъезда…{w} Сны, галлюцинации е бывают такими реальными!"
     #"I was definitely there. I remember everything perfectly, from my awakening aboard the bus right up to the departure...{w} Neither dreams nor hallucinations can be that real."
-    "Nein, ich war definitiv dort. Ich kann mich an alles genau erinnern, von dem Moment an, wie ich im Bus erwachte, bis zur Abfahrt…{w} Weder Träume noch Halluzinationen können so real sein."
+    "Nein, ich war definitiv dort. Ich kann mich an alles genau erinnern, von dem Moment, als ich im Bus erwachte, bis zur Abfahrt…{w} Weder Träume noch Halluzinationen können so real sein."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:728
 translate german epilogue_us_ca2a0b33:
 
     # "Я кое-как встал, дошёл до кухни, налил стакан воды и вернулся в комнату."
     #"Somehow I stood up, went to the kitchen, filled a glass with water and returned to the room."
-    "Irgendwann stand ich auf, ging in die Küche, holte mir ein Glas Wasser und lief wieder zurück in mein Zimmer."
+    "Irgendwann stand ich auf, ging in die Küche, holte mir ein Glas Wasser und kehrte zurück in mein Zimmer."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:729
 translate german epilogue_us_d0a7feb4:
@@ -3548,7 +3548,7 @@ translate german epilogue_us_c3ffb486:
 
     # "Я сосредоточился на последнем, что помнил, – отъезде из лагеря."
     #"I concentrated on the last thing I remembered. It was the departure from the camp."
-    "Ich konzentrierte mich auf das Letzte, an das ich mich erinnern konnte. Es war die Abreise vom Lager."
+    "Ich konzentrierte mich auf das Letzte, an das ich mich erinnern konnte. Es war die Abreise aus dem Lager."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:731
 translate german epilogue_us_7136c5b9:
