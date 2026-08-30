@@ -9995,7 +9995,7 @@ translate german day3_evening_sl_b0cbc573:
 
     # th "Теперь надо найти баню."
     #th "I have to find the bathhouse now."
-    th "Jetzt muss ich nur noch die Banja finden." # Note Hinzufügen, was eine Banja ist. Gemacht, siehe note10 in translation.rpy
+    th "Jetzt muss ich nur noch die Banja finden." # note17 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:2404
 translate german day3_evening_sl_3b2b772c:
@@ -11189,8 +11189,7 @@ translate german day3_evening_un_fa0dd942:
 
     # "И юг я вспомнил только потому, что из всех пионерлагерей Советского Союза мне в голову пришёл именно «Артек»."
     #"And I thought about south just because the only pioneer camp of the Soviet Union I remembered was 'Artek'."
-    "Ich dachte über den Süden nach, weil mir von allen Pionierlagern der Sowjetunion ausgerechnet 'Artek' in den Sinn gekommen war."   # Note: Das Allunions-Pionierlager Artek war das zentrale Pionierlager der Pionierorganisation Wladimir Iljitsch Lenin in der UdSSR. Die Einrichtung befindet sich bei der Stadt Hursuf auf der Halbinsel Krim.
-    # ist als note11 der translation.rpy hinzugefügt
+    "Ich dachte über den Süden nach, weil mir von allen Pionierlagern der Sowjetunion ausgerechnet 'Artek' in den Sinn gekommen war."   # note18 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:2694
 translate german day3_evening_un_c81cda2f:
@@ -15628,7 +15627,7 @@ translate german day3_evening_dv_46023748:
 
     # sl "Да, конечно. Сейчас идёшь прямо, потом чуть налево, по дорожке и направо, увидишь там баню."
     #sl "Certainly. Go straight, then a bit to the left by the path, then to the right and there will be a bath-house."
-    sl "Natürlich. Einfach geradeaus, dann beim Pfad halb links, dann rechts und dort ist eine Banja."          # hier wäre note10 erneut angebracht
+    sl "Natürlich. Einfach geradeaus, dann beim Pfad halb links, dann rechts und dort ist eine Banja."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3652
 translate german day3_evening_dv_3820771a:

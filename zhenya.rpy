@@ -5520,7 +5520,6 @@ translate german zhenya_route_fe2f533c:
     # mtp "Отвечай, чего молчишь! Думаешь, в этот раз удастся так просто отделаться? Да я в милицию позвоню, да я до секретаря всесоюзной комсомольской организации дойду!"
 # game/zhenya/zhenya.rpy:1475
     # mtp "So? Answer me now! You think you'll just get away with it this time? I'll call the police, I'll even take it to the secretary of the all-union Komsomol organisation!"
-    # note20
     mtp "Also? Antworte mir! Denkst du, du kommst diesmal damit durch? Ich rufe die Polizei, ich schalte sogar das Sekretariat der landesweiten Komsol ein!"
 
 # d:/renpy-6.99.12.4/scenario/zhenya.rpyc:1268

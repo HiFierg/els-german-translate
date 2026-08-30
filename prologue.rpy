@@ -552,7 +552,7 @@ translate german prologue_a3a04a99:
 
     # "Короче говоря, достаточно типичная жизнь достаточно типичного асоциального человека своего времени.{w} Этакий Обломов XXI века."
     #"So, in brief, a quite typical life of a quite typical antisocial person of his time.{w} Kind of Donnie Darko on a minor scale, without Doomsday-related visions."
-    "Kurz gesagt, das typische Leben eines recht typischen, asozialen Menschen seiner Zeit.{w} So eine Art Oblomow des 21. Jahrhunderts. [Anm.: Oblomow, Roman von Iwan Gontscharow;  der Held steht in der Tradition des 'überflüssigen Menschen' der russischen Literatur des 19. Jhd.]"
+    "Kurz gesagt, das typische Leben eines recht typischen, asozialen Menschen seiner Zeit.{w} So eine Art Oblomow des 21. Jahrhunderts." # note20 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:185
 translate german prologue_ac5e97c3:

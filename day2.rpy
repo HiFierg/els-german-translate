@@ -1349,7 +1349,7 @@ translate german day2_main1_abacb833:
 
     # me "А как же обед?"
     #me "What about lunch?"
-    mw "Was ist mit Mittagessen?"
+    me "Was ist mit Mittagessen?"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:364
 translate german day2_main1_794c528c:

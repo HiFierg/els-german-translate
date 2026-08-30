@@ -699,7 +699,7 @@ translate german day6_main_93624028:
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:147
 translate german day6_main_aefb5c47:
 
-    # pi "  
+    # pi "А домой ещё надо вернуться!"
     #pi "Home, but you still have to get back there!"
     pi "Daheim, aber da musst du erstmal wieder hinkommen!"
 
@@ -14006,7 +14006,7 @@ translate german day6_sl_91d81026:
 
     # mt "Я…{w} Я…{w} По месту учёбы на тебя характеристику пошлю! Да тебя в комсомол не примут! В партию не возьмут!"
     #mt "I...{w} I...{w} I'll send a report to your school! You won't be accepted to the Komsomol! You won't be able to join the Party!"
-    mt "Ich...{w} Ich...{w} Ich werde deiner Schule eine Beschwerde schicken! Du wirst keine Zulassung für das Komsomol bekommen! Die Party findet ohne dich statt!"
+    mt "Ich...{w} Ich...{w} Ich werde deiner Schule eine Beschwerde schicken! Du wirst keine Zulassung für das Komsomol bekommen! Die Party findet ohne dich statt!" # note23 in translytion.rpy
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3235
 translate german day6_sl_4a0430d0:
@@ -14657,7 +14657,7 @@ translate german day6_sl_40e09782:
 
     # me "Когда был маленький – лет 5-6, наверное, – у меня на даче был шалашик."
     #me "When I was a kid – like 5 or 6 years old I guess – there was a small hut near my family's country house."
-    me "Als ich noch ein Kind war - so 5, 6 Jahre alt - gab es da eine kleine Hütte in der Nähe der Datscha meiner Eltern."  # Info for developer: Add note21
+    me "Als ich noch ein Kind war - so 5, 6 Jahre alt - gab es da eine kleine Hütte in der Nähe der Datscha meiner Eltern."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3366
 translate german day6_sl_6642f6b7:

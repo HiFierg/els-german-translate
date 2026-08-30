@@ -673,7 +673,7 @@ translate german day4_fail_morning_4c70df13:
 
     # th "Даже агент Малдер не вёл свои секретные материалы на голодный желудок."
     #th "Even Agent Mulder didn't conduct investigations hungry."
-    th "Selbst Agent Mulder ging seine geheimen Ermittlungen nicht hungrig an." # Note, wer Agent Mulder ist? -> note12
+    th "Selbst Agent Mulder ging seine geheimen Ermittlungen nicht hungrig an." # note19 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:339
 translate german day4_fail_morning_eaabbc69:
@@ -3758,7 +3758,7 @@ translate german day4_forest_a12c2f29:
 
     # "Разве что в детстве и юношестве ездил на дачу каждое лето.{w} Которая к тому же была рядом с городом."
     #"I just stayed in a country house every summer during my childhood.{w} But that one was very close to the city."
-    "Nur als kleines Kind und als Jugendlicher hatte ich jeden Sommer in der Datscha verbracht.{w} Die auch noch recht nah an der Stadt gelegen war." # insert note21
+    "Nur als kleines Kind und als Jugendlicher hatte ich jeden Sommer in der Datscha verbracht.{w} Die auch noch recht nah an der Stadt gelegen war." # note21 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1108
 translate german day4_forest_a605f85e:
@@ -4177,8 +4177,9 @@ translate german day4_forest_aabf34aa:
 
     # el "Чисто-чисто моем трубочиста..."
     #el "Let's clean my chimney, chimney-sweep..."
-    el "Wer will fleißige Handwerker seh'n..."    # моем, hier: "wir waschen", nicht "mein". Also "Sauber-sauber wird der Schornsteinfeger". Noch besser wäre ein deutsches Kinderlied übers sich-waschen, idealerweise mit Wortspiel analog zum hier verwendeten "Мойдодыр" von Chukovsky
-                                                # Das Lied hat immerhin ein ungewolltes Wortspiel drin, besser wird es glaube ich nicht
+    el "Popo waschen, Popo waschen muss ein jedes Kind..." # ist tatsächlich das einzige Deutsche Kinderlid, das ich gefunden habe, was sich auf Waschen bezieht.
+    # el "Wer will fleißige Handwerker seh'n..."    # моем, hier: "wir waschen", nicht "mein". Also "Sauber-sauber wird der Schornsteinfeger". Noch besser wäre ein deutsches Kinderlied übers sich-waschen, idealerweise mit Wortspiel analog zum hier verwendeten "Мойдодыр" von Chukovsky. Das Lied hat immerhin ein ungewolltes Wortspiel drin, besser wird es glaube ich nicht.
+
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1194
 translate german day4_forest_76b7903e:
 
@@ -7618,8 +7619,7 @@ translate german day4_main2_422e86f8:
 
     # "Алиса попыталась силой пролезть к ящикам, но я, как Александр Матросов, закрыл грудью амбразуру."
     #"Alisa tried to get to the drawers, but I blocked the pillbox with my chest like Alexander Matrosov."
-    "Alisa versuchte an die Schublade zu kommen, aber ich blockierte das Regal mit meiner Brust wie einst Alexander Matrossow." # see note13, allerdings stimme ich unterem Kommentar dennoch zu
-    #"Alisa versuchte an die Schublade zu kommen, aber ich versperrte das Regal mit meiner Brust wie ein Eiserner Vorhang."  #coole Übersetzung :D, allerdings sehr andere Aussage als im Original. Matrossow war ein sich selbst aufopfernder Held (vgl. Wiki). Vielleicht doch besser mit Annotation? *Alexander Matrossow war ein Infanterist, der sich 1943 vor die Schießcharte eines Bunkers gestellt und mit seinem Körper die Kugeln blockiert haben soll, was seinem Bataillon den erfolgreichen Sturm der Stellung ermöglichte.
+    "Alisa versuchte an die Schublade zu kommen, aber ich blockierte das Regal mit meiner Brust wie einst Alexander Matrossow." # note10 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:2078
 translate german day4_main2_da695243:
