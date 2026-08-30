@@ -11138,8 +11138,7 @@ translate german epilogue_uv_ulya_18295dff:
     # uv "А что мне, прикажешь, ещё и без хвоста ходить! Уши, лапы и хвост – вот мои аргументы!"
     #uv "What, you don't like my tail? If you step on my tail then you're gonna get hurt!"
     uv "Und was meinst du, soll ich stattdessen tun - ohne Schwanz gehen? Ohren, Pfoten und Schwanz - das sind meine Dokumente!"
-    # Linke to note19 in translation.rpy
-
+    
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2432
 translate german epilogue_uv_ulya_aff91d3f:
 

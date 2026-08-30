@@ -4702,7 +4702,7 @@ translate german day7_un_3e7a1ceb:
 
     # "Она протянула мне неоткрытую пачку «Юбилейного»."
     #"She handed me a half-open pack of biscuits."
-    "Sie reichte mir eine ungeöffnete Packung 'Jubilenoje'-Kekse."   # <---- see note24       
+    "Sie reichte mir eine ungeöffnete Packung 'Jubilenoje'-Kekse."   # note24 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/day7.rpyc:1106
 translate german day7_un_d37f7637:
