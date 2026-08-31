@@ -2125,7 +2125,7 @@ translate german day2_library_d7ca3dbf:
     # "Жизнь человека с её бесконечными трудами, нуждой и страданием следует рассматривать как объяснение и парафраз акта зачатия, т.е. решительного утверждения воли к жизни; с этим связано и то, что человек обязан природе смертью и с тоской думает об этом обязательстве."
     #nvl clear
     #"The life of a man, with its endless upkeep, wants, and suffering, is to be regarded as the explanation and paraphrase of the procreative act i.e. the absolute claim of the will to live; and furthermore, it is also the reason the man owes nature his death, and thinks with anxiety of this debt."
-    nlv clear
+    nvl clear
     "Das Leben eines Menschen, mit seiner endlosen Mühe, Noth und Leiden, ist anzusehn als die Erklärung und Paraphrase des Zeugungsaktes, d.i. der entschiedenen Bejahung des Willens zum Leben: zu derselben gehört auch noch, daß er der Natur einen Tod schuldig ist, und er denkt mit Beklemmung an diese Schuld."
 
 
