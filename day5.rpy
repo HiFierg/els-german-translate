@@ -3813,7 +3813,7 @@ translate german day5_main2_790a16f6:
     "Ich wollte hier nicht alleine herumlaufen und hoffte, dass Slawja mir Gesellschaft leisten würde, aber ich brachte es nicht fertig, sie zu fragen."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1016
-translate german day5_main2_e6680b45:
+translate german day5_main2_9dc4277d:
 
     # me "Одна корзинка у меня, одна – у вас; всё очевидно."
     #me "Well, it's obvious: one basket for me, one for you two."
@@ -4344,7 +4344,7 @@ translate german day5_main2_258341cc:
     "Dachte ich, bevor ich aufstand und die Körbe hochhob..."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1135
-translate german day5_main2_f1fdfa2c:
+translate german day5_main2_a6acf6b5:
 
     # "После спортивной гребли они казались мешками с цементом, хотя вряд ли весили больше пары килограмм каждая."
     #"After the rowing they felt like cement bags, even while weighing barely more than a few kilograms each."
@@ -5576,7 +5576,7 @@ translate german day5_clubs_2_87117e72:
     "Nach vielleicht zwanzig Metern musste ich den Sack schon für eine Pause abstellen."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1480
-translate german day5_clubs_2_0fd93e15:
+translate german day5_clubs_2_18b44d77:
 
     # "Не знаю, сколько он весил, но казалось, что точно не менее двадцати килограмм."
     #"I had no idea how much it weighed, but it felt like more than twenty kilos."
@@ -5835,7 +5835,7 @@ translate german day5_library_2_6705d775:
     mz "Was willst du?"
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1558
-translate german day5_library_2_e39034b2:
+translate german day5_library_2_1d6f2bda:
 
     # me "Эээ…{w} Ты не подумай ничего, мне бы…"
     #me "Umm…{w} Don't think anything weird, but I need…"
@@ -6101,7 +6101,7 @@ translate german day5_library_2_991d9a14:
     "Alisa sagte nichts."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1609
-translate german day5_library_2_d8028619:
+translate german day5_library_2_63bb72fa:
 
     # me "Ну, дай посмотреть!{w} Интересно ведь, что читает мисс «Не-влезай-убьёт!»"
     #me "Oh, come on, let me see it!{w} I wonder what Miss 'High-voltage-keep-away!' reads?"
@@ -6403,7 +6403,7 @@ translate german day5_main3_f702be22:
     "Der Tag ging langsam zur Neige, also musste ich mich beeilen, denn es würde auch ein wenig dauern, bis der Kuchen gebacken war."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1683
-translate german day5_main3_1546fb97:
+translate german day5_main3_d8bdb852:
 
     # "Конечно, я бы куда с большим удоволствием сейчас просто лёг, закрыл глаза и заснул, но нельзя подводить Ольгу Дмитриевну."
     #"Of course, I'd rather enjoy lying down, closing my eyes and getting a decent sleep, but I just couldn't let Olga Dmitrijewna down."
@@ -7027,7 +7027,7 @@ translate german day5_main3_f601ce01:
     mt "Für den Kuchen!"
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1833
-translate german day5_main3_707cf821:
+translate german day5_main3_e786f00f:
 
     # me "Ах, да…"
     #me "Ah, sure..."
@@ -7398,7 +7398,7 @@ translate german day5_main3_7f98185e:
     "Ich fühlte mich, als wäre ich im falschen Film. Ich dachte, wenn ich jetzt meine Augen schloss und wieder öffnete, wäre ich bestimmt zurück zu Hause vor meinem Computer."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:1938
-translate german day5_main3_f569f26d:
+translate german day5_main3_f036abd8:
 
     # "Я моргнул, но ничего не изменилось; только шум, гам и крики стали отчётливее:"
     #"I blinked but nothing changed; only the noise and the confusion became sharper."
@@ -7811,7 +7811,7 @@ translate german day5_main3_8dfde425:
     mt "Wie ich sehe, hast du keinen Partner gefunden."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:2044
-translate german day5_main3_d3242212:
+translate german day5_main3_1e85e18c:
 
     # me "Видимо так…"
     #me "Seems like it..."
@@ -9517,7 +9517,7 @@ translate german day5_dv_f9f3ed76:
     dv "Wieso zur Hölle sollte ich das tun?"
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:2435
-translate german day5_dv_fd492212:
+translate german day5_dv_91238ad1:
 
     # "Алиса пыталась казаться надменной как всегда, но выходило не очень."
     #"Alisa tried to act as arrogant as always, but it wasn't going to work this time."
@@ -10245,7 +10245,7 @@ translate german day5_dv_0b024121:
     "Sie schaute Alisa an und beendete ihren Satz nicht."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:2609
-translate german day5_dv_86522e17:
+translate german day5_dv_8027f973:
 
     # "Та в свою очередь отпустила мою руку."
     #"That moment Alisa released my hand."
@@ -10994,7 +10994,7 @@ translate german day5_dv_3aa0974f:
     "Sie schaute mich mit einem verwegenen Grinsen an."
 
 # d:/renpy-6.99.12.4/scenario/day5.rpyc:2744
-translate german day5_dv_6c9ff79e:
+translate german day5_dv_9bc9a205:
 
     # me "Ну, хотя бы потому что сейчас ночь.{w} Может, она уже спит."
     #me "It's night after all.{w} She must be sleeping already."

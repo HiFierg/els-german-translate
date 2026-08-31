@@ -1056,7 +1056,7 @@ translate german day3_breakfast_mz_a758b252:
     th "Junta?{w} Was soll das für eine Beleidigung sein?{w} Wobei: 'Ein Pionier soll niemals Schimpfworte benutzen', wie konnte ich diese Regel vergessen?"
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:287
-translate german day3_breakfast_mz_0b0c4f9e:
+translate german day3_breakfast_mz_fe50ab2c:
 
     # me "Ах, да, конечно! Извини! Обязательно приду!"
     #me "Oh, yeah, sure! I apologise! Of course, I'll be there!"
@@ -1449,7 +1449,7 @@ translate german day3_main2_0dac54fc:
     un "Ich schaffe das auch alleine."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:374
-translate german day3_main2_c4e56f03:
+translate german day3_main2_d7de1126:
 
     # "Странно, на обеде она казалась куда смелее."
     #"Strange, she seemed more spirited during lunch."
@@ -4162,7 +4162,7 @@ translate german day3_stage_dv_83ff5116:
     dv "Den ganzen Song! Bisher habe ich doch nur geübt."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1021
-translate german day3_stage_dv_0d499a44:
+translate german day3_stage_dv_4c77f7ce:
 
     # me "Ааа... Ну, давай, играй..."
     #me "Ah... Come on, do it then..."
@@ -4487,7 +4487,7 @@ translate german day3_main4_4cd2fcde:
     "Sie zeigte auf einen Tisch neben der Säule.{w} Dort saßen bereits Slawja, Uljana und Lena."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1101
-translate german day3_main4_65e51c2d:
+translate german day3_main4_07355afa:
 
     # th "Неплохая компания.{w} По крайней мере не самая плохая..."
     #th "Not bad company.{w} At least, not the worst..."
@@ -6540,7 +6540,7 @@ translate german day3_cleaning_us_7e694dd0:
     us "Siehst du ja!"
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1617
-translate german day3_cleaning_us_afe5cb8e:
+translate german day3_cleaning_us_eb7418c4:
 
     # "Ульянка выглядела расстроеной, весь её детский задор куда-то исчез."
     #"Uljana looked upset, all her youthful spirit vanished without a trace."
@@ -6652,7 +6652,7 @@ translate german day3_cleaning_us_9fc103c6:
     "Sie klang sehr unzufrieden."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1640
-translate german day3_cleaning_us_19fa1fbf:
+translate german day3_cleaning_us_ac945f7b:
 
     # me "Слушай, ну ты же понимаешь, что нельзя себя так вести...{w} По крайней мере доводить до подобного..."
     #me "Listen, you've got to understand that you can't behave like that...{w} At least not to such an extent..."
@@ -7694,7 +7694,7 @@ translate german day3_main5_44ead865:
     sh "Wie du meinst."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:1887
-translate german day3_main5_b491ceac:
+translate german day3_main5_2aa751d7:
 
     # "Он развел руками."
     #"He made a helpless gesture"
@@ -14966,7 +14966,7 @@ translate german day3_evening_dv_4d022e04:
     dv "Natürlich das, was ich heute Morgen gespielt hab!"
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3512
-translate german day3_evening_dv_46559df1:
+translate german day3_evening_dv_af865fbf:
 
     # me "Ааа... Хороо, внимательно слушаю."
     #me "Oh... Okay. I'm listening."
@@ -15014,7 +15014,7 @@ translate german day3_evening_dv_52e5d545:
     dv "Ist schon in Ordnung. Übung macht den Meister."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3522
-translate german day3_evening_dv_8f9b4924:
+translate german day3_evening_dv_7d8a585d:
 
     # "Тут она несомненно права, только вот с практикой у меня всю жизнь были проблемы."
     #"She is undoubtly right on this point, but I've had problems with practice all my life."
@@ -15140,7 +15140,7 @@ translate german day3_evening_dv_11e95cca:
     "Für einen Moment war mir meine Unfähigkeit peinlich."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3548
-translate german day3_evening_dv_b5823702:
+translate german day3_evening_dv_0cf5d3af:
 
     # "Может быть, мастерство Алисы и не дотягивало до настоящих виртуозов, но тем не менее простые вещи, вроде этой, она играла уверенно."
     #"Alisa's skill may not be on the level of a professional guitarist, but nevertheless she played simple things like this with confidence."
@@ -15741,7 +15741,7 @@ translate german day3_evening_dv_7cf75d85:
     me "Kein Grund, sich jetzt Sorgen zu machen..."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3691
-translate german day3_evening_dv_c5ff1076:
+translate german day3_evening_dv_2fbfcd94:
 
     # "Я быстренько вымылся – благо в бане нашлось и мыло и чистые полотенца, – вышел на улицу и полной грудью вдохнул заметно посвежевший ночной воздух."
     #"There were soap and clean towels so I quickly washed myself, went outside and breathed in a chest full of fresh night air."
@@ -16105,7 +16105,7 @@ translate german day3_evening_dv_772db0f1:
     "Seufzte ich und schlurfte zum großen Platz."
 
 # d:/renpy-6.99.12.4/scenario/day3.rpyc:3759
-translate german day3_evening_dv_227a4155:
+translate german day3_evening_dv_67fb4a75:
 
     # dv "А ты бы тогда?"
     #dv "And what about you then?"

@@ -187,7 +187,7 @@ translate german prologue_5da0f47a:
     "Wie sie eigentlich heißt..."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:55
-translate german prologue_d7b38ee8:
+translate german prologue_23ba9194:
 
     # "Например про звёзды..."
     #"About the stars, for instance..."
@@ -298,7 +298,7 @@ translate german prologue_e85b8394:
     "Aber wenn man nicht sterben kann, was macht es dann für einen Sinn, zu leben?"
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:74
-translate german prologue_a0462877:
+translate german prologue_c1937c87:
 
     # "Надо будет спросить у девочки: она местная – должна знать!"
     #"I should ask the girl. She's a local, she should know."
@@ -402,7 +402,7 @@ translate german prologue_41cdd4ce:
     "Der Computerbildschirm starrte mich an, als wäre er lebendig."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:121
-translate german prologue_86cfd3d1:
+translate german prologue_275400b7:
 
     # "Иногда мне правда казалось, что он обладает сознанием, своими мыслями и желаниями, стремлениями; умеет чувствовать, любит и страдать."
     #"Sometimes it really did seem to me that it was conscious of itself, had its own thoughts and wishes, ambitions; that it had feelings, could love and suffer."
@@ -451,7 +451,7 @@ translate german prologue_2728421d:
     "Von außen betrachtet erscheinen solche Gedanken wohl verrückt, jeder beliebige Psychologe würde sicherlich einen Haufen schlauer Diagnosen stellen und mich vielleicht in die Klapsmühle einweisen."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:159
-translate german prologue_9d607629:
+translate german prologue_d39aad7e:
 
     # "Маленькая квартирка без следов какого бы то ни было ремонта или даже подобия порядка, и вечно одинаковый вд из окна на серый, день и ночь куда-то бегущий мегаполис, – вот условия моей жизни."
     #"A small apartment with no signs of repair or any semblance of order in it, and always the same view out the window on the gray megalopolis running somewhere day and night – such are the conditions of my life."
@@ -702,7 +702,7 @@ translate german prologue_1263d7e9:
     "Oder ich suche mir wieder einen Bürojob?{w} Nein, auf keinen Fall!"
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:248
-translate german prologue_ef2e5c25:
+translate german prologue_4458a3dc:
 
     # "Может, стоит попробовать фриланс?{w} Да что я умею, и кому я нужен..."
     #"Maybe I should try freelancing?{w} But what skills do I have and who would want me after all...?"
@@ -723,7 +723,7 @@ translate german prologue_153757bd:
     "Warum genau an diese Zeit?{w} Keine Ahnung."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:258
-translate german prologue_b3ca007f:
+translate german prologue_a225cfa1:
 
     # "Наверное, потому что тогда всё было проще."
     #"I guess it's because back then, everything was much more simple."
@@ -836,7 +836,7 @@ translate german prologue_5d936a59:
     "Ein Bus blieb stehen."
 
 # d:/renpy-6.99.12.4/scenario/prologue.rpyc:283
-translate german prologue_68c6dc22:
+translate german prologue_f8d49006:
 
     # "«Какой-то он не такой» – мелькнула мысль."
     #"There was something abnormal about it, I thought."

@@ -314,7 +314,7 @@ translate german epilogue_mi_399d102b:
     "Es war schwer, ihr in die Augen zu sehen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:77
-translate german epilogue_mi_548b6f7a:
+translate german epilogue_mi_e68ed420:
 
     # "Не потому что я действительно расстроился из-за того, что сорвал очередной дубль, а скорее потому что просто боялся вновь засмеяться."
     #"It wasn't like I was really worried about me messing up yet another take, but mainly because I was afraid to break into laughter again."
@@ -601,7 +601,7 @@ translate german epilogue_mi_c4de2e46:
     my "Es hat dich ja jemand dazu gezwungen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:153
-translate german epilogue_mi_143442a9:
+translate german epilogue_mi_35a3935f:
 
     # ma "Дааа?"
     #ma "Oh yeah?"
@@ -2250,7 +2250,7 @@ translate german epilogue_mi_f23678e8:
     my "Nicht weniger, als ein 'Druzhba', Pionier Kettensägenmassaker, oder?"  # note14 in translation.rpy
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:509
-translate german epilogue_mi_bced139f:
+translate german epilogue_mi_7b57f044:
 
     # "На самом деле я не понимал, почему Мша бесится."
     #"Curiously enough, I really couldn't comprehend why Mascha keeps freaking out."
@@ -2934,7 +2934,7 @@ translate german epilogue_mi_fbf62cb1:
     sh "Verstehe…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:652
-translate german epilogue_mi_9687a380:
+translate german epilogue_mi_3a683dcb:
 
     # "Шурик обрёченно вздохнул и направился к камере."
     #"Schurik heaved a doomed sigh and headed to his camera."
@@ -4879,7 +4879,7 @@ translate german epilogue_mi_c718bb72:
     "Kurz darauf erreichten wir das Clubhaus."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1097
-translate german epilogue_mi_03304259:
+translate german epilogue_mi_0750c3ee:
 
     # "Если верить сценарию, то он должен быть именно здесь."
     #"According to the script, it ought to be right here."
@@ -4949,7 +4949,7 @@ translate german epilogue_mi_81684e59:
     "Fragte ich sarkastisch."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1120
-translate german epilogue_mi_e3b581e3:
+translate german epilogue_mi_fe2a4a6a:
 
     # ro "Эээ…{w} Ну, тут кое-что доделать осталось."
     #ro "Ahem...{w} Well, I've got something to finish here."
@@ -6024,7 +6024,7 @@ translate german epilogue_mi_3cdc5a84:
     my "Ja bitte, setz dich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1356
-translate german epilogue_mi_e29e5371:
+translate german epilogue_mi_9040458f:
 
     # "Она аккуратным движением разгладила юбку, села, и уставилась на заходящее солнце."
     #"She fixed her skirt with a neat move, sat down, and started staring at the sunset."
@@ -6401,7 +6401,7 @@ translate german epilogue_mi_f240c5d7:
     "Die eigentliche Frage ist doch, was ist die Ursache und was die Wirkung.…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1427
-translate german epilogue_mi_a59fd30e:
+translate german epilogue_mi_b32906ce:
 
     # "Все придуриваются, потому что убили Славю (всё же мне не хотелось верить, что жертвой стала Саша, поэтому про себя я называл её именно Славей), или убили Славю, потому что все придуриваются…"
     #"Either everyone keeps pretending because Slawja was murdered (I still couldn't accept that Sascha was the victim, so I've kept telling myself that it was indeed Slawja), or Slawja was killed because everyone keeps pretending..."
@@ -8267,7 +8267,7 @@ translate german epilogue_mi_4576c932:
     my "Wie auch immer… Schlaf!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1823
-translate german epilogue_mi_03f7efc1:
+translate german epilogue_mi_2eeda562:
 
     # "Я был настолько изнеможён – и физически, и, в первую очередь, морально, – что был не способен на какие-либо действия, мысли, был не в состоянии общаться с кем-либо."
     #"I was so exhausted – both physically, and, more importantly, emotionally – that I was unable to do anything, think anything, communicate with anybody."
@@ -8455,7 +8455,7 @@ translate german epilogue_mi_cc495d0c:
     "Router schnarchte laut und die Mädchen leise und ich begann auch weg zu dösen."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:1864
-translate german epilogue_mi_5b9c71e5:
+translate german epilogue_mi_15c260ca:
 
     # "Я покрепче стиснул трубу – её холодный металл несколько привёл меня в чувства."
     #"I clenched the pipe harder – the feeling of cold metal against my bare skin somehow brought me back to my senses."
@@ -9201,7 +9201,7 @@ translate german epilogue_mi_b4d52943:
     my "Ich auch nicht…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2026
-translate german epilogue_mi_f6aad95c:
+translate german epilogue_mi_2d6743f6:
 
     # ma "Но! В любом случае тут и без этого чёрти что творится! Убийства! Люди пропадают десятками! Думаю, это приоритет номер один."
     #ma "But, anyway, all hell is breaking loose here even without taking pioneers into account! Murders! Dozens of people disappearing without a trace! That ought to be our top priority now."
@@ -10345,7 +10345,7 @@ translate german epilogue_mi_961bbfe5:
     "Ich ging zurück zur Straße, schützte meine Augen mit der Hand vor der Sonne und schaute in die Ferne."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2274
-translate german epilogue_mi_fdbd24c7:
+translate german epilogue_mi_c036fef9:
 
     # "Всё та же бесконечная асфальтная ниточка, и никаких признаков цивилизации.{w} Или вообще хотя бы присутствия людей."
     #"Nothing but the same asphalt thread leading beyond the horizon, with no signs of civilisation.{w} Or any signs of human presence at all."
@@ -11125,7 +11125,7 @@ translate german epilogue_mi_6ba66183:
     "Die Wahl viel auf Olga Dmitrijewnas Hütte."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2450
-translate german epilogue_mi_15104e27:
+translate german epilogue_mi_bff1e48b:
 
     # "Скорее всего, потому что прошлую ночь мы провели здесь относительно спокойно.{w} По крайней мере остались в живых…"
     #"Most likely because we managed to come through the last night here without major problems.{w} At least we are still alive..."
@@ -11433,7 +11433,7 @@ translate german epilogue_mi_42499ac9:
     "Aber alles war genau so wie beim letzten Mal.{w} Und das war nicht Lena!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2504
-translate german epilogue_mi_ef3c872b:
+translate german epilogue_mi_92a05ef1:
 
     # "По крайней мере не та Лена, которую я знаю! Словно в неё вселился дьявол!"
     #"At the very least it's not the Lena I knew! As if she's possessed by the devil!"
@@ -12369,7 +12369,7 @@ translate german epilogue_mi_104c4b70:
     "Ich hätte nicht behaupten können, dass ich wieder zu Sinnen gekommen wäre, aber ein wenig konnte ich meinen Verstand sortieren."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2723
-translate german epilogue_mi_bf92a608:
+translate german epilogue_mi_a206e878:
 
     # "Понятно одно – тут оставаться нельзя!{w} И не потому что здесь опаснее, чем где бы то ни было ещё…"
     #"I knew one thing for certain – we can't stay here!{w} And it wasn't because it was more dangerous here than anywhere else..."
@@ -12537,7 +12537,7 @@ translate german epilogue_mi_6b024c96:
     "Ich schaute die Mädchen an."
 
 # d:/renpy-6.99.12.4/scenario/epilogue_mi.rpyc:2753
-translate german epilogue_mi_dd76c6a4:
+translate german epilogue_mi_6185ec5d:
 
     # "Они сидели, опустив головы, и тихо всхлипывали."
     #"They were sitting with their heads hanging down, sobbing quietly."

@@ -34,7 +34,7 @@ translate german day1_aee379b4:
     "Aber da war keine Türe..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:19
-translate german day1_d42615e7:
+translate german day1_8a6c2d4e:
 
     # "Я оглядел автобус и понял, что это не привычный мне потрёпанный, видавший виды ЛИаЗ, а самый настоящий Икарус!"
     #"I looked around the bus and realised that it wasn't a good old worn-out LiAZ, instead the bus was an Icarus model, a new one!"
@@ -444,7 +444,7 @@ translate german day1_001631c6:
     th "Ich muss vorsichtig die Umgebung auskundschaften."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:119
-translate german day1_3e09185c:
+translate german day1_4d15e874:
 
     # "Кирпичная ограда с воротами, над которыми красовалась надпись «Совёнок», по бокам – статуи пионеров, а рядом на вывеске – номер маршрута – «410»."
     #"A brick wall and its gates crowned with a 'Sovyonok' sign, statues of pioneers standing on either side, and a road sign nearby showing the bus route number: '410'."
@@ -813,7 +813,7 @@ translate german day1_cea13f7e:
     th "Auf jeden Fall werde ich nichts herausfinden, wenn ich hier nur rumhänge."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:203
-translate german day1_f68fbb50:
+translate german day1_55660f36:
 
     # "Судя по всему, этот лагерь (если это, конечно, лагерь) – единственое место, где могли быть люди, поэтому я решил пойти туда и уже почти дошёл до ворот, как..."
     #"This camp (if, of course, it is really a camp) looked like the only place where people could be, so I decided to go there, and hardly had I reached the gates when..."
@@ -1086,7 +1086,7 @@ translate german day1_35ff2f5f:
     th "Gut? Was soll daran gut sein?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:256
-translate german day1_9d000438:
+translate german day1_50ae0b93:
 
     # "Внезапно захотелось плюнуть на всё, забыть о стоящем сзади автобусе, вчерашней зиме и будущем лете, скинуть чесоточный свитер и просто поверить, что всё это на самом деле, что так и надо, что так и должно быть, что всё это, в конце концов, к лучшему..."
     #"Suddenly a thought crossed my mind: to hell with it all. Forget about the bus behind me, the fact that it was winter yesterday and summer today. I wanted to rip off my itchy sweater and just accept that all this is actually happening. Everything is as it should be, all this is for the best..."
@@ -1128,7 +1128,7 @@ translate german day1_54f0a60f:
     slp "Ansonsten frag einfach irgendwen nach Olga Dmitrijewnas Hütte."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:265
-translate german day1_17993887:
+translate german day1_f12081ed:
 
     # me "Я... эээ..."
     #me "I... erm..."
@@ -2855,7 +2855,7 @@ translate german day1_7eff5e99:
     "Ich lächelte schuldig, als ich das sagte."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:703
-translate german day1_8fa3ff1e:
+translate german day1_d6062f1c:
 
     # th "Хотя в чём я перед ней виноват ?.."
     #th "But what am I guilty of...?"
@@ -2882,7 +2882,7 @@ translate german day1_eb85f5b2:
     th "Sieht sehr danach aus, als wenn ich die Zeit bis zum Abendessen selbst totschlagen muss."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:712
-translate german day1_c1af6492:
+translate german day1_b5ca2492:
 
     # "Я решил пойти на восток.{w} По крайней мере туда, где находится восток в моём мире."
     #"I decided to go east.{w} At least in the direction where east would be in my world."
@@ -3104,7 +3104,7 @@ translate german day1_11ca5f98:
     th "Wenn ja, wie konnte zum Beispiel Spartakus in der Antike den Sklavenaufstand starten...?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:765
-translate german day1_6d0083af:
+translate german day1_660ad355:
 
     # th "Остаётся только один вывод – я не великий человек, и мне в принципе всё равно в какой машине быть шестерёнкой – в социуме, матрице или непонятном пионерлагере."
     #th "I can only conclude that I am not a great person, and it does not really matter which mechanism I serve as a gear in: society, the Matrix, or a weird pioneer camp."
@@ -3740,7 +3740,7 @@ translate german day1_ba1dfa38:
     "Diese Welt schien normal. Aber jedes Ereignis hier hatte mindestens zwei Erklärungen: Eine normale, alltägliche und eine surreale."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:953
-translate german day1_b678b61b:
+translate german day1_0b0d9edb:
 
     # "Да, конечно, водитель мог просто отойти перкусить, а я слишком быстро ушёл и вот..."
     #"Certainly, the driver could have just been off for a snack, and I left too soon, and that's why..."
@@ -3788,7 +3788,7 @@ translate german day1_13255b43:
     "Eine merkwürdige, seltsame und fremde Welt.{w} Gleichzeitig war sie aber in keinster Weise beängstigend."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:963
-translate german day1_c83e85c5:
+translate german day1_a0c5acff:
 
     # "То ли взял самоотвод инстинкт самосохранения, то ли вся эта беготня по лагерю, местные пиоеры настолько убаюкали меня своей беззаботной нормальностью, что я иногда просто забывал о том, что со мной произошло буквально пару часов назад."
     #"Either my self-preservation instinct decided to resign from its job, or all this running around the camp and the local pioneers had lulled me so much with their carefree normality that I was simply forgetting what had happened to me just a couple of hours ago."
@@ -4087,7 +4087,7 @@ translate german day1_c67591a7:
     dv "Weil ich noch ein paar Brötchen und Kefir will! Das Abendessen war für den hohlen Zahn!"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1038
-translate german day1_8d3f7a19:
+translate german day1_f22323e9:
 
     # me "Эээ...{w} А может, не стоит?"
     #me "Uhmmm...{w} Is that really a good idea?"
@@ -4317,7 +4317,7 @@ translate german day1_6a05d51d:
     me "Also, ich weiß es wirklich nicht..."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1093
-translate german day1_b12cf159:
+translate german day1_fb0b3f9a:
 
     # "Глупо спрашивать у человека, попавшего в одночасье в другую реальность, понравились ли ему меню в столовой, вожатая и отведённое койкоместо."
     #"It's silly to ask someone who suddenly found himself in a different reality whether he liked the food in the canteen, the camp leader, or his assigned hut."
@@ -4492,7 +4492,7 @@ translate german day1_031c751c:
     sl "Mir gefällt's hier, es ist großartig."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1120
-translate german day1_5c30029f:
+translate german day1_2ae1dec7:
 
     # me "Тогда и не стоит обращать внимание на других."
     #me "Then you don't need to worry about what other people think."
@@ -5069,7 +5069,7 @@ translate german day1_e92b6e6e:
     th "Ja, warum eigentlich...?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1248
-translate german day1_a0c74c5a:
+translate german day1_c6e49fa3:
 
     # "Наверное, просто потому что очень устал и в компании с кем-то лучше, чем одному."
     #"Maybe just because I was very tired and having company is better than being alone."
@@ -5502,7 +5502,7 @@ translate german day1_8fb93608:
     "Sie schaute mich ernst an."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1338
-translate german day1_4b041b53:
+translate german day1_10506c32:
 
     # "От такого взгляда, расплавился бы и мифрил, выкованный в самых глубоких подземельях лучшими мастерами гномов."
     #"Under such a gaze even mithril forged by the best dwarf masters from the deepest dungeons would melt."

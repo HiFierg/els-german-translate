@@ -5412,7 +5412,7 @@ translate german epilogue_dv_d091ab38:
     "Ich bemerkte eine fünf-Rubel-Münze auf dem Tisch. Ich nahm sie und warf sie ohne jeden Grund in die Höhe und zählte dabei Kopf und Zahl."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1103
-translate german epilogue_dv_ba6c1813:
+translate german epilogue_dv_97ffd138:
 
     # "Когда-то давно, может быть, ещё в школе, я слышал, что при бесконечно большом числе повторений эксперимента вероятности не равны 50 на 50 процентам."
     #"A long time ago, maybe even in school I heard that in an infinite number of coin tosses the probabilities are not equal to 50 percent each."
@@ -5531,7 +5531,7 @@ translate german epilogue_dv_3ceed523:
     "Warum habe ich diese beiden Worte benutzt?{w} Ich hätte auch 'vergangen' oder 'früheres' oder irgend so was wählen können!"
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1120
-translate german epilogue_dv_4e6dae94:
+translate german epilogue_dv_0b941e37:
 
     # "Наверное, потому что я к ней привык – был самый очевидный ответ."
     #"I guess because it was what I was used to - that's the most obvious answer."
@@ -5785,7 +5785,7 @@ translate german epilogue_dv_30a27c7e:
     "Wie bei allem zahlt sich das Üben auch bei der Musik aus."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1167
-translate german epilogue_dv_56ead4c3:
+translate german epilogue_dv_3e81ec24:
 
     # "Примерно через полгода я понял – что-то начало получаться. По крайней мере я мог без запинки сыграть партии из любимых песен."
     #"About half a year later I realised that I'd achieved some results. At least I could now smoothly play parts of my favorite songs."
@@ -6280,7 +6280,7 @@ translate german epilogue_dv_76c871e1:
     "Als ich die Stücke zu Hause oder bei den Proben spielte, habe ich nie darüber nach gedacht, mir schien alles wie selbstverständlich."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1269
-translate german epilogue_dv_b60a105d:
+translate german epilogue_dv_e30e3163:
 
     # "Но теперь перед толпой зрителей я чувствовал себя совсем по-другому."
     #"But now, when I stood in front of an audience it felt different."
@@ -6377,7 +6377,7 @@ translate german epilogue_dv_701ac863:
     "Und obendrein sehe ich, dass dies etwas ist, womit ich auch andere Leute glücklich machen kann."
 
 # d:/renpy-6.99.12.4/scenario/epilogue.rpyc:1290
-translate german epilogue_dv_32dffc6c:
+translate german epilogue_dv_2e76ca17:
 
     # "Наверное, сейчас я был самым счастливым человеком на Земле!{w} По крайней мере это точно лучший момент в моей жизни!"
     #"I was probably now the happiest man on the Earth!{w} At least it was surely the best moment of my life."

@@ -1230,7 +1230,7 @@ translate german day7_main_f178bf3d:
     th "Die wüsste ich selber gerne."
 
 # d:/renpy-6.99.12.4/scenario/day7.rpyc:300
-translate german day7_main_9e6bb37c:
+translate german day7_main_0b3bd099:
 
     # me "Понимаешь… Давай лучше ты мне свой. Я тебе обязательно напишу по приезду."
     #me "You know... Let's do it the other way around – you give me your address. I'll definitely write to you upon arrival."
@@ -12814,7 +12814,7 @@ translate german day7_dv_8d91232a:
     "Ich schätzte das Gewicht der Tasche."
 
 # d:/renpy-6.99.12.4/scenario/day7.rpyc:2986
-translate german day7_dv_278bae91:
+translate german day7_dv_5e5dfa9b:
 
     # th "Килограмм десять, наверное.{w} Если пару-тройку километров я его ещё пронесу, то вот дальше…"
     #th "About ten kilos, I guess.{w} I can carry that for a few kilometres, but not much further than that..."
@@ -13051,7 +13051,7 @@ translate german day7_dv_f9d9d427:
     "Sie gab recht offensichtliche Hinweise darauf, dass das, was wir letzte Nacht getan hatten, ein großer Fehler war."
 
 # d:/renpy-6.99.12.4/scenario/day7.rpyc:3041
-translate german day7_dv_c81f3a7e:
+translate german day7_dv_90e084ab:
 
     # "По крайней мере так казалось мне…"
     #"At least, it seemed so to me..."
@@ -13456,7 +13456,7 @@ translate german day7_dv_ff2cf0a2:
     "Und jetzt steht sie vor mir und ich spüre überhaupt nichts."
 
 # d:/renpy-6.99.12.4/scenario/day7.rpyc:3113
-translate german day7_dv_79e93d21:
+translate german day7_dv_e345d994:
 
     # "И не могу сказать Алисе ни да, ни нет, потому что просто не знаю, что будет потом."
     #"And I can't tell Alisa either 'yes' or 'no' just because I don't know what will happen next."
@@ -14324,7 +14324,7 @@ translate german day7_dv_bad_b5b9d022:
     "Kurz darauf saßen wir friedlich auf der Rückbank des Busses."
 
 # d:/renpy-6.99.12.4/scenario/day7.rpyc:3274
-translate german day7_dv_bad_994c7297:
+translate german day7_dv_bad_c51be907:
 
     # "Во мне боролись разные чувства: с одной стороны, я был безмерно ра такой удаче – возможности наконец-то попасть в цивилизованный мир, – но с другой – меня терзали угрызения совести из-за неоконченного разговора с Алисой."
     #"Various feelings fought inside of me. On one hand, I was glad beyond measure to get to the civilised world; on the other, I was guilt-striken by the unfinished conversation with Alisa."
@@ -14917,7 +14917,7 @@ translate german day7_dv_good_826048a2:
     dv "Davon rede ich nicht..."
 
 # d:/renpy-6.99.12.4/scenario/day7.rpyc:3401
-translate german day7_dv_good_4f930f50:
+translate german day7_dv_good_783d60b4:
 
     # me "Ну, потому что ты мне нравишься…"
     #me "Well, because I like you..."
@@ -18009,7 +18009,7 @@ translate german day7_sl_bad_e23b4758:
     "Wenn man alles haben kann, verschwendet man seine Zeit nicht mit Kleinigkeiten."
 
 # d:/renpy-6.99.12.4/scenario/day7.rpyc:4102
-translate german day7_sl_bad_d8cf6937:
+translate german day7_sl_bad_d862df73:
 
     # "Поэтому, почувствовав усталось, я заснул, ничего не опасаясь."
     #"Therefore, I fell asleep as soon as I felt tired, with no fear of anything."

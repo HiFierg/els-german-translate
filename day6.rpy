@@ -13526,7 +13526,7 @@ translate german day6_sl_8f838576:
     "Ich schaute sie genau an."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3134
-translate german day6_sl_e89f228b:
+translate german day6_sl_cbee2b72:
 
     # "Хоть звучало и романтично, но мне показалась, что сейчас Славя сказала глупость."
     #"While all this sounded quite romantic, I thought that what Slawja had just said was absolute nonsense."
@@ -15164,7 +15164,7 @@ translate german day6_sl_190c6df5:
     "Sie stand in einem Hemd vor mir, dass wegen der Nässe recht durchsichtig war."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3459
-translate german day6_sl_79ca2420:
+translate german day6_sl_97976d37:
 
     # "Ладно там, в озере, другое дело – так близко"
     #"It wasn’t a problem in the lake, but it's quite different when she is so close."
@@ -16079,7 +16079,7 @@ translate german day6_sl_8fbd4ba7:
     "Ich hoffe, dass ich Slawja auch warm hielt..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3672
-translate german day6_dv_c15cbee2:
+translate german day6_dv_c046d1c6:
 
     # "Проснулся я рано, Ольга Дмитриевна ещё спала, потянулся и сел на кровати"
     #"I woke up early, when Olga Dmitrijewna was still asleep. I stretched and sat up in the bed."
@@ -16338,7 +16338,7 @@ translate german day6_dv_114bfae2:
     dv "In diesem Fall hab ich heute Abend etwas vor mit dir!"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3752
-translate german day6_dv_0b273a12:
+translate german day6_dv_f8eff8d0:
 
     # me "Эээ?{w} Можно поинтересоваться, какие?"
     #me "Eh?{w} May I ask what they are?"
@@ -16422,7 +16422,7 @@ translate german day6_dv_544d6ac4:
     "Ich hatte kein Verlangen danach, an einem Terroranschlag teilzunehmen, bei dem Denkmäler oder Ähnliches in die Luft gesprengt werden..."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3768
-translate german day6_dv_9ede4c1b:
+translate german day6_dv_0a8d3364:
 
     # "К тому же меня до сих пор мучали мысли о вчерашнем разговоре с Леной на острове."
     #"Besides, I was still haunted by yesterday's talk with Lena on the island."
@@ -16779,7 +16779,7 @@ translate german day6_dv_35698e3a:
     un "Wollen wir?"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:3845
-translate german day6_dv_1c08f469:
+translate german day6_dv_a0a9d4dc:
 
     # me "Да-да…"
     #me "Yeah, sure..."
@@ -17521,7 +17521,7 @@ translate german day6_dv_a2debb84:
     "Ich war so aufgeregt, dass ich anfing, Unsinn zu erzählen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4063
-translate german day6_dv_a9d81cd2:
+translate german day6_dv_cf6f696d:
 
     # cs "Ааа…"
     #cs "Ahh..."
@@ -18340,7 +18340,7 @@ translate german day6_dv_69364372:
     "Ein gefährliches Funkeln durchzuckte ihre Augen, aber sie sprach ruhig weiter:"
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4264
-translate german day6_dv_f0c03665:
+translate german day6_dv_56206c34:
 
     # dv "Может и так…{w} Но в данной ситуации…{w} У нас с Леной всегда так – она ни при чём, даже если сама кашу заварит, а все шишки сыплются на меня!"
     #dv "Maybe...{w} But in this case...{w} Me and Lena, we're always like that – even if she starts something, she's all innocent and I take all the blame!"
@@ -19242,7 +19242,7 @@ translate german day6_dv_dffe083c:
     th "Einerseits, der Wodka... Ich habe ihn...{w} gestohlen."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4458
-translate german day6_dv_935f06ca:
+translate german day6_dv_0606364c:
 
     # th "Но с другой – если она говорит «пропало», это значит, исчезло, испарилось – само по себе, без участия внешних сил."
     #th "Then again, she's saying it's 'gone', as in disappeared, all by itself, with no external influence."
@@ -20620,7 +20620,7 @@ translate german day6_dv_1899453f:
     "Mein Kopf fing plötzlich an, wehzutun - der Alkohol ließ wohl langsam nach."
 
 # d:/renpy-6.99.12.4/scenario/day6.rpyc:4723
-translate german day6_dv_8fbfda03:
+translate german day6_dv_644adb3d:
 
     # "Лучший выход в такой ситуации – последовать её примеру и тоже поспать.{w}Не успев додумать мысль, я отключился."
     #"Best thing to do in this case is to follow her lead and get some sleep as well.{w} Before I finished the thought I was already fast asleep."

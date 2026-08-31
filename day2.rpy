@@ -1050,7 +1050,7 @@ translate german day2_main1_3b76cadb:
     mt "Wieso kommen von dir immer wieder so dumme Fragen?"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:299
-translate german day2_main1_adbfd80d:
+translate german day2_main1_4e26c461:
 
     # th "Похоже, ответов от неё мне не добиться ."
     #th "It seems I won't get any information from her ."
@@ -1205,7 +1205,7 @@ translate german day2_main1_89f74fc0:
     "Ich konnte mich an keinen Revolutionär diesen Namens erinnern."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:334
-translate german day2_main1_49c36f8b:
+translate german day2_main1_05845b3e:
 
     # "Да и поза у него какая-то странная – как будто смотрит на происходящее с недоверием, может быть, пренебрежением или даже надменностью."
     #"He had a weird posture too– as if he was looking around with distrust, maybe contempt, or even disdain."
@@ -1457,7 +1457,7 @@ translate german day2_musclub_559ab9c6:
     me "Entschuldigung..."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:422
-translate german day2_musclub_0fe0c850:
+translate german day2_musclub_cae16514:
 
     # mip "Ааа! Кто здесь?"
     #mip "Aaaah! Who's there?"
@@ -2343,7 +2343,7 @@ translate german day2_aidpost_cbdb3f5c:
     "Eine Frau mittleren Alters saß am Tisch.{w} Zweifelsohne die Krankenschwester."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:676
-translate german day2_aidpost_7b8718b9:
+translate german day2_aidpost_702ed044:
 
     # "Она пристальо, оценивающе посмотрела на меня, и продолжила что-то писать."
     #"She gazed intently at me, assessing me while continuing to write something."
@@ -2658,7 +2658,7 @@ translate german day2_dinner_d8dece45:
     us "Fang mich doch!"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:764
-translate german day2_dinner_b4cfaed8:
+translate german day2_dinner_645a53f6:
 
     # "Она показала язык!"
     #"She stuck her tongue out!"
@@ -3532,7 +3532,7 @@ translate german day2_main2_f8ca8757:
     me "Karten?"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:1004
-translate german day2_main2_6d492a61:
+translate german day2_main2_b1fda271:
 
     # el "Да! Я игру новую придумал. Интерееесную!"
     #el "Yep! I invented a new game. A good one!"
@@ -5439,7 +5439,7 @@ translate german day2_cards_5ac38cf1:
     me "Warum nicht?"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:1479
-translate german day2_cards_0a62b9a3:
+translate german day2_cards_ff52f66e:
 
     # mz "Не хочу и всё!"
     #mz "I don't want to!"
@@ -5768,7 +5768,7 @@ translate german day2_cards_2b37c513:
     us "Ich höre nicht auf, bis der Preis mir gehört!"
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:1548
-translate german day2_cards_038f6c96:
+translate german day2_cards_13dc6f53:
 
     # "Кажется, одной этой девочки было достаточно для варп-прыжка к Альфе Центавра."
     #"Seemed like this girl alone had enough energy for a warp-jump to Alpha Centauri."
@@ -6655,7 +6655,7 @@ translate german us_play_win_498ef814:
     "Sagte ich ruhig."
 
 # d:/renpy-6.99.12.4/scenario/day2.rpyc:1911
-translate german us_play_win_a7075cc6:
+translate german us_play_win_72d118c3:
 
     # us "Ах, так?"
     #us "Fine, you want it that way?"

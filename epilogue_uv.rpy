@@ -9161,7 +9161,7 @@ translate german epilogue_uv_ulya_7479b07e_1:
     me "Ich weiß es nicht…"
 
 # d:/renpy-6.99.12.4/scenario/epilogue_uv.rpyc:2054
-translate german epilogue_uv_ulya_b946ebd6:
+translate german epilogue_uv_ulya_6b934cc2:
 
     # pi "А если я тебе скажу, что был?"
     #pi "And what if I say that you've been here before?"

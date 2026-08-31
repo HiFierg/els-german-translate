@@ -4984,7 +4984,7 @@ translate german day4_boathouse_64f4e64e:
     dv "Ich werde dir helfen!"
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1429
-translate german day4_boathouse_16a32560:
+translate german day4_boathouse_68842129:
 
     # me "Эээ... Чем это?"
     #me "Mmm... with what?"
@@ -5124,7 +5124,7 @@ translate german day4_boathouse_0d66d2a4:
     th "Wobei, warum eigentlich 'früher'..."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1469
-translate german day4_boathouse_225e52c0:
+translate german day4_boathouse_dc0afdd3:
 
     # "Вообще, я совсем по-другому себе представлял девчачьи комнаты: белоснежные простыни на кроватях; стены, пол и потолок сверкают; нигде н пылинки."
     #"In general, I would imagine a girl's room differently: snow-white sheets; walls, floor and ceiling shining. Spotless."
@@ -5774,7 +5774,7 @@ translate german day4_main2_523ebbc0:
     "Diesmal stand ich mehrere Minuten in der Warteschlange."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1628
-translate german day4_main2_c6c2e073:
+translate german day4_main2_4f811db5:
 
     # "Сегодняшнее меню мало чем отличалось от меню предыдущих дней.{w} По крайней мере по внешнему виду блюд."
     #"Today's menu didn’t really differ from the other days’ menus.{w} The dishes looked the same at least."
@@ -7159,7 +7159,7 @@ translate german day4_main2_87efefbd:
     sl "Nein, das nicht..."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:1949
-translate german day4_main2_06e847e7:
+translate german day4_main2_a8748ebf:
 
     # th "Странно.{w} Всегда такая открытая Славя о чем-то умалчивает?"
     #th "Strange.{w} I wouldn’t even think that such an open person as Slawja would keep something quiet."
@@ -14794,7 +14794,7 @@ translate german day4_dv_a9effafd:
     "Wir gingen langsam, Alisa vorne weg und ich hinterher, bemüht, nicht zu weit zurückzufallen."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:3913
-translate german day4_dv_52d4466a:
+translate german day4_dv_d2b29521:
 
     # "Она вела себя даже чересчур самоуверенно.{w} Совсем не в пример мне – каждый шорох кустов рядом и крик совы над головой заставлял меня ёжиться и боязливо оглядываться по сторонам."
     #"She acted self-assured to a fault.{w} Absolutely not like me - every rustle of bushes nearby or hoot of an owl overhead made me cringe and look around timidly."
@@ -15981,7 +15981,7 @@ translate german day4_dv_f505265f_1:
     "Fauchte Alisa und drehte mir den Rücken zu."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:4175
-translate german day4_dv_1c08f469:
+translate german day4_dv_a0a9d4dc:
 
     # me "Да-да..."
     #me "Sure, sure..."
@@ -16237,7 +16237,7 @@ translate german day4_dv_89403983:
     "Auf jeden Fall wollte ich jetzt erst recht hier hinaus, und das so bald wie möglich."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:4240
-translate german day4_dv_710c355f:
+translate german day4_dv_a745b2e1:
 
     # "Алиса не сказала ни слова после того, как мы спустились в шахту – лишь шла рядом, крепко сжимая мою руку, – и я начал волноваться."
     #"Alisa didn't utter a word after we descended into the mine. She just walked next to me, clenching my hand so hard I started to worry."
@@ -16924,7 +16924,7 @@ translate german dv_mine_exit_1e55b63f:
     th "Aber warum habe ich keine Angst?{w} Nein, nicht ganz - warum kann ich noch immer einen klaren Kopf behalten und normal sprechen?"
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:4407
-translate german dv_mine_exit_4a5234b5:
+translate german dv_mine_exit_d026c5e6:
 
     # "Может быть, потому что мне приходится беспокоиться не только о себе?.."
     #"Might it be because I have to worry about more than just myself?"
@@ -17161,7 +17161,7 @@ translate german dv_mine_exit_89d773f5:
     "Sie legte ihren Kopf auf meine Schulter."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:4476
-translate german dv_mine_exit_c69e1f3a:
+translate german dv_mine_exit_f5dc044b:
 
     # "Голос Алисы звучал ровно, можно даже сказать, спокойно, но чувствовалось, как её тело дрожит – то ли от холода, то ли от страха, то ли от всего вместе."
     #"Alisa's voice sounded flat, one might even say calm, but I could feel that her body was trembling – either with cold, or with fear, or with both combined."
@@ -17949,7 +17949,7 @@ translate german dv_mine_exit_6b72237f:
     "Sie schienen heute Nacht so viel klarer als sonst."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:4668
-translate german dv_mine_exit_4b4166ca:
+translate german dv_mine_exit_8dbbca05:
 
     # "Может быть, потому что ещё недавно моим единственным источником света был фонарь, а потом – факел."
     #"Perhaps they seemed so because not too long ago my only source of light was a dim flashlight, and then that torch."
@@ -18201,7 +18201,7 @@ translate german dv_mine_exit_d5cb476b:
     "Mir war schwindlig vor Müdigkeit."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:4718
-translate german dv_mine_exit_05cac35e:
+translate german dv_mine_exit_96384f8f:
 
     # th "Хорошо хоть Ольга Дмитриевна уже спит, значит, не придётся перед ней объясняться..."
     #th "Well, at least Olga Dmitrijewna is sleeping already and I won't have to explain anything..."
@@ -18319,7 +18319,7 @@ translate german dv_mine_exit_fff7cafa:
     "Ich wusste einfach nicht, was ich von ihr halten sollte."
 
 # d:/renpy-6.99.12.4/scenario/day4.rpyc:4747
-translate german dv_mine_exit_f6f64c2c:
+translate german dv_mine_exit_57cbbd28:
 
     # "И не потому что она вела себя как-то странно.{w} Нет, как раз наоборот – всё в её поведении было весьма логично и объяснимо."
     #"It wasn't because she'd been acting strange recently.{w} No, on the contrary, all of her behaviour was quite consistent and understandable."
