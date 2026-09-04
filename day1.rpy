@@ -448,7 +448,7 @@ translate german day1_4d15e874:
 
     # "Кирпичная ограда с воротами, над которыми красовалась надпись «Совёнок», по бокам – статуи пионеров, а рядом на вывеске – номер маршрута – «410»."
     #"A brick wall and its gates crowned with a 'Sovyonok' sign, statues of pioneers standing on either side, and a road sign nearby showing the bus route number: '410'."
-    "Eine Ziegelsteinmauer und über dem Tor ein Schild mit der Aufschrift 'Sovyonok', auf beiden Seiten Pionierstatuen und daneben ein Straßenschild mit der Nummer der Buslinie: '410'."
+    "Eine Ziegelsteinmauer und über dem Tor ein Schild mit der Aufschrift 'Sovjonok', auf beiden Seiten Pionierstatuen und daneben ein Straßenschild mit der Nummer der Buslinie: '410'."
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:120
 translate german day1_59b146e5:
@@ -4077,7 +4077,7 @@ translate german day1_7332342b:
 
     # me "Зачем?"
     #me "Why?"
-    mw "Warum?"
+    me "Warum?"
 
 # d:/renpy-6.99.12.4/scenario/day1.rpyc:1037
 translate german day1_c67591a7:

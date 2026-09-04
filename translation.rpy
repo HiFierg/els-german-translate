@@ -66,6 +66,9 @@ init -1002 python:
         "sl" : "Slawja",
         "dv" : "Alisa",
         "pi" : "Pionier",
+        "pi2" : "Pionier",
+        "pi3" : "Pionier",
+        "pi4" : "Pionier",
         "pika" : "Pionierin",
         "cs" : "Viola",
         "mz" : "Schenja",
@@ -232,7 +235,7 @@ init -1002 python:
         "note22" : "Zitat aus einer sowjetischen Kinderfilmreihe: 'Drei aus Prostokwashina'",
         "note23" : "Komsomol war die Nachwuchsorganisation der KPdSU, ihr Ziel war die Erziehung der Jugend nach den Idealen des Kommunismus.",
         "note24" : "Jubilenoje (Jubiläumskekse) bezeichnen eine besondere Art von Keksen, welche aufgrund ihrer vergleichsweise geringen Süße als vielseitige Snacks geschätzt werden.",
-        "credits" : "Das Soviet Games Team (IIchan Eroge Team) dankt Dir vielmals dafür, dieses Spiel gespielt zu haben!\n\nIdee: XK\nProduzent, Regisseur: Dreamtale\nProgrammierer: Dreamtale, LolBot, Desufag\nHauptautor: Dreamtale\nWeitere Autoren: Slo, Abcb\nHintergrundgrafik: ArseniXC, VVCephei, Veel\nCharaktergestaltung: XK, Maxim Smolev\nCG-Grafik: Maxim Smolev\nDesign: i-rab-u, Veel, Coyc\nAnimation: Sergey Ivanov, Orika Nekoi\nMusik: Sergey Eybog, Between August And December\nSound: Sergey Eybog\n\nBesonderen Dank an:\n\nPyTom für die Ren'Py engine.\nfreesounds.org für die lizenzfreien Sounds.\niichan.hk und 2ch.hk.\nDie offizielle Community auf vk.com/everlasting.summer.official\nAlle Leute, die dabei geholfen haben, dieses Spiel fertigzustellen.\nAlle Leute, die uns all die Jahre unterstützten, auf uns warteten und an uns glaubten.\nDeutsche Übersetzung von:\nKrabat\nJonES\nDime\n\nVielen Dank und auf Wiedersehen (für's Erste).\n\n\n\n\n\n{size=80}FIN.{/size}\n",
+        "credits" : "Das Soviet Games Team (IIchan Eroge Team) dankt Dir vielmals dafür, dieses Spiel gespielt zu haben!\n\nIdee: XK\nProduzent, Regisseur: Dreamtale\nProgrammierer: Dreamtale, LolBot, Desufag\nHauptautor: Dreamtale\nWeitere Autoren: Slo, Abcb\nHintergrundgrafik: ArseniXC, VVCephei, Veel\nCharaktergestaltung: XK, Maxim Smolev\nCG-Grafik: Maxim Smolev\nDesign: i-rab-u, Veel, Coyc\nAnimation: Sergey Ivanov, Orika Nekoi\nMusik: Sergey Eybog, Between August And December\nSound: Sergey Eybog\n\nBesonderen Dank an:\n\nPyTom für die Ren'Py engine.\nfreesounds.org für die lizenzfreien Sounds.\niichan.hk und 2ch.hk.\nDie offizielle Community auf vk.com/everlasting.summer.official\nAlle Leute, die dabei geholfen haben, dieses Spiel fertigzustellen.\nAlle Leute, die uns all die Jahre unterstützten, auf uns warteten und an uns glaubten.\nDeutsche Übersetzung von: Krabat, JonES, Dime\n\nVielen Dank und auf Wiedersehen (für's Erste).\n\n\n\n\n\n\n\n\n\n\n\n\n{size=80}ENDE{/size}\n",
         "license" : {
         "text" : "{color=#aaa}Akzeptierst du die Lizenzbedingungen von \n{a=http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en}{size=+10}CC-BY-NC-SA-4.0{/size}{/a}\n bezüglich dieses Spieles?\n\n{size=-10}Der Nutzer darf das vorliegende Werk:\n\n{b}Teilen{/b} - Das hier vorliegende Material darf kopiert und auf beliebigen Medien weitergegeben werden.\n{b}Verändern{/b} – Das Material darf neu abgemischt, verändert oder weiterverarbeitet werden.\n\nUnter Einhaltung der folgenden Regeln:\n\n{b}Urhebernennung{/b} – Es muss ein Link zur Lizenz vorhanden sein, die Urheber des Quellmaterials sowie evt. Änderungen müssen genannt sein.\n{b}Nicht kommerziell{/b} – Das Material darf ausschließlich für nicht-kommerzielle Zwecke verwendet werden.\n{b}ShareAlike{/b} – Remixes, Veränderungen oder Weiterverarbeitungen des Materials dürfen nur unter denselben Bedingungen wie der Lizensierung des ursprünglichen Urhebers weitergegeben werden.{/size}{/color}\n",
         "yes" : "{u}Ja, ich akzeptiere die Lizenzbedingungen.\n{/u}",
